@@ -669,8 +669,12 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     ]
 
     chinese_font_paths = [
-        "C:/Windows/Fonts/arialbd.ttf",
-        "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
+        "C:/Windows/Fonts/msgothic.ttc",
+        "C:/Windows/Fonts/YuGothB.ttc",
+        "C:/Windows/Fonts/Meiryo.ttc",
+        "/usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc",
+        "/usr/share/fonts/noto-cjk/NotoSansCJK-Bold.ttc",
+        "/usr/share/fonts/truetype/wqy/wqy-zenhei.ttc",
     ]
 
     def load_font(font_paths, size):
@@ -829,7 +833,10 @@ def generate_thumbnail(category_english: str, category_chinese: str, output_path
 
     # Load fonts
     english_font_paths = ["C:/Windows/Fonts/segoeuib.ttf", "C:/Windows/Fonts/arialbd.ttf"]
-    chinese_font_paths = ["C:/Windows/Fonts/arialbd.ttf"]
+    chinese_font_paths = ["C:/Windows/Fonts/msgothic.ttc", "C:/Windows/Fonts/YuGothB.ttc", "C:/Windows/Fonts/Meiryo.ttc",
+        "/usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc",
+        "/usr/share/fonts/noto-cjk/NotoSansCJK-Bold.ttc",
+        "/usr/share/fonts/truetype/wqy/wqy-zenhei.ttc"]
 
     def load_font(font_paths, size):
         for font_path in font_paths:
