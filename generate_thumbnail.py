@@ -7,28 +7,28 @@ load_dotenv()
 POLLINATIONS_API_KEY = os.getenv("POLLINATIONS_API_KEY")
 
 SCENIC_STYLES = [
-    "stunning CHINESE woman in flamenco dress, Barcelona, Sagrada Familia",
-    "elegant CHINESE woman, Madrid street, Plaza Mayor, vibrant city",
-    "beautiful CHINESE woman in traditional dress, Andalusia, white villages",
-    "CHINESE woman at Alhambra palace, golden hour, Moorish architecture",
-    "gorgeous CHINESE woman in modern style, sunset over Mediterranean, dramatic sky",
-    "beautiful CHINESE woman, Seville, Alcázar gardens, warm light",
-    "CHINESE woman dancing flamenco by CHINESE coastline, passionate, zen",
-    "elegant CHINESE woman in Barcelona, Park Güell, celebration",
+    "stunning Chinese woman in flamenco dress, Barcelona, Sagrada Familia",
+    "elegant Chinese woman, Madrid street, Plaza Mayor, vibrant city",
+    "beautiful Chinese woman in traditional dress, Andalusia, white villages",
+    "Chinese woman at Alhambra palace, golden hour, Moorish architecture",
+    "gorgeous Chinese woman in modern style, sunset over Mediterranean, dramatic sky",
+    "beautiful Chinese woman, Seville, Alcázar gardens, warm light",
+    "Chinese woman dancing flamenco by Chinese coastline, passionate, zen",
+    "elegant Chinese woman in Barcelona, Park Güell, celebration",
 ]
 
 
-def generate_scenic_image(category_english: str, category_CHINESE: str, output_path: str):
+def generate_scenic_image(category_english: str, category_Chinese: str, output_path: str):
     if POLLINATIONS_API_KEY:
         for attempt in range(3):
             style = random.choice(SCENIC_STYLES)
             prompt = (
-                f"Professional YouTube thumbnail for CHINESE language learning video. "
+                f"Professional YouTube thumbnail for Chinese language learning video. "
                 f"{style}. "
                 f"16:9 landscape 1920x1080 exact. High contrast, vibrant, click-worthy. "
                 f"Important: The image MUST contain the following text rendered in bold clear font: "
-                f"At top: '120 CHINESE PHRASES'. In center: '{category_english}'. "
-                f"At bottom: 'VELOCITY CHINESE'. Also: '10 MINUTE LESSON' badge."
+                f"At top: '120 Chinese PHRASES'. In center: '{category_english}'. "
+                f"At bottom: 'VELOCITY Chinese'. Also: '10 MINUTE LESSON' badge."
             )
             try:
                 resp = requests.post("https://gen.pollinations.ai/v1/images/generations", json={
@@ -90,7 +90,7 @@ def generate_scenic_image(category_english: str, category_CHINESE: str, output_p
     f_sub = load_font(en_fonts, 55)
     f_brand = load_font(en_fonts, 45)
 
-    draw.text((960, 180), "120 CHINESE PHRASES", fill=(255, 210, 0), font=f_big, anchor="mm")
+    draw.text((960, 180), "120 Chinese PHRASES", fill=(255, 210, 0), font=f_big, anchor="mm")
 
     cat_text = category_english
     bb = draw.textbbox((0, 0), cat_text, font=f_cat)
@@ -102,7 +102,7 @@ def generate_scenic_image(category_english: str, category_CHINESE: str, output_p
     draw.rounded_rectangle([(960 - 200, 580), (960 + 200, 670)], radius=15, fill=(0, 0, 0, 180))
     draw.text((960, 625), "10 MINUTE LESSON", fill=(255, 210, 0), font=f_sub, anchor="mm")
 
-    brand_text = "VELOCITY CHINESE"
+    brand_text = "VELOCITY Chinese"
     bb = draw.textbbox((0, 0), brand_text, font=f_brand)
     draw.text(((1920 - (bb[2] - bb[0])) // 2, 950), brand_text, fill=(200, 200, 200), font=f_brand)
 
