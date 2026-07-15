@@ -42,7 +42,7 @@ TARGET_PHRASES = 120
 # English category names (for American/European learners)
 CATEGORIES_ENGLISH = [
     "Motivation", "Love", "Success", "Wisdom", "Happiness",
-    "Self Improvement", "Gratitude", "Friendship", "Hope", "Creativity",
+    "Self Improvement", "感恩e", "Friendship", "Hope", "Creativity",
     "Inner Peace", "Confidence", "Perseverance", "Inspiration", "Positive Life",
     "Courage", "Kindness", "Patience", "Forgiveness", "Strength",
     "Joy", "Balance", "Growth", "Purpose", "Mindfulness",
@@ -56,7 +56,7 @@ CATEGORIES_Chinese = {
     "Wisdom": "智慧",
     "Happiness": "幸福",
     "Self Improvement": "自我提升",
-    "Gratitude": "感恩",
+    "感恩e": "感恩",
     "Friendship": "友谊",
     "Hope": "希望",
     "Creativity": "创造力",
@@ -370,7 +370,7 @@ def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
             {"english": "Grow through what you go through.", "Chinese": "Crece a través de lo que pasas.", "pronunciation": "cre-se a tra-ves de lo ke pa-sas."},
             {"english": "Invest in yourself daily.", "Chinese": "Invierte en ti mismo a diario.", "pronunciation": "in-vyer-te en ti mis-mo a dya-ryo."},
         ],
-        "Gratitude": [
+        "感恩e": [
             {"english": "Thank you for everything.", "Chinese": "Gracias por todo.", "pronunciation": "gra-syas por to-do."},
             {"english": "I appreciate your help.", "Chinese": "Agradezco tu ayuda.", "pronunciation": "a-gra-dez-co tu a-yu-da."},
             {"english": "Grateful for this moment.", "Chinese": "Agradecido por este momento.", "pronunciation": "a-gra-de-si-do por es-te mo-men-to."},
