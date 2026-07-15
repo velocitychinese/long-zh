@@ -719,7 +719,727 @@
       "chinese": "今晚梦见, 你。",
       "category": "Love",
       "generated_at": "2026-07-15T20:03:14.034986"
+    },
+    {
+      "english": "Even a small seed, grows into a big tree.",
+      "chinese": "小种子, 也能长成大树。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844388"
+    },
+    {
+      "english": "Patience, is the mother of invention.",
+      "chinese": "耐心, 是创新的母亲。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844400"
+    },
+    {
+      "english": "One drop, makes a ripple.",
+      "chinese": "一滴水, 也能引起涟漪。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844402"
+    },
+    {
+      "english": "Don't underestimate, your own power.",
+      "chinese": "别小看, 你自己的力量。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844403"
+    },
+    {
+      "english": "Persistence, pays off eventually.",
+      "chinese": "坚持, 最终会有回报。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844404"
+    },
+    {
+      "english": "A united front, is unbreakable.",
+      "chinese": "团结的力量, 是不可摧毁的。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844405"
+    },
+    {
+      "english": "Every step counts, forward motion.",
+      "chinese": "每一步都算数, 向前迈进。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844407"
+    },
+    {
+      "english": "Inner strength, shines brightest.",
+      "chinese": "内心的力量, 最为闪耀。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844409"
+    },
+    {
+      "english": "Dedication, builds masterpieces.",
+      "chinese": "专注, 能够成就杰作。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844411"
+    },
+    {
+      "english": "Resilience, bends but doesn't break.",
+      "chinese": "韧性, 弯而不折。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844413"
+    },
+    {
+      "english": "Wisdom, is a silent power.",
+      "chinese": "智慧, 是一种无声的力量。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844418"
+    },
+    {
+      "english": "Courage, whispers your name.",
+      "chinese": "勇气, 轻声呼唤你。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844420"
+    },
+    {
+      "english": "Focus, is your superpower.",
+      "chinese": "专注, 是你的超能力。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844421"
+    },
+    {
+      "english": "Believe, in your potential.",
+      "chinese": "相信, 你的潜力。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844422"
+    },
+    {
+      "english": "Never give up, keep trying.",
+      "chinese": "永不放弃, 继续尝试。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844423"
+    },
+    {
+      "english": "Self-discipline, is true freedom.",
+      "chinese": "自律, 才是真正的自由。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844424"
+    },
+    {
+      "english": "Gratitude, amplifies happiness.",
+      "chinese": "感恩, 放大快乐。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844425"
+    },
+    {
+      "english": "Action, speaks louder.",
+      "chinese": "行动, 胜于雄辩。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844426"
+    },
+    {
+      "english": "Growth, happens outside comfort.",
+      "chinese": "成长, 发生在舒适区之外。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844427"
+    },
+    {
+      "english": "Empathy, connects us all.",
+      "chinese": "同理心, 连接你我。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844428"
+    },
+    {
+      "english": "Adaptability, is key.",
+      "chinese": "适应力, 是关键。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844429"
+    },
+    {
+      "english": "Integrity, builds trust.",
+      "chinese": "诚信, 建立信任。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844430"
+    },
+    {
+      "english": "Humor, lightens the load.",
+      "chinese": "幽默, 减轻负担。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844431"
+    },
+    {
+      "english": "Kindness, is a powerful force.",
+      "chinese": "善良, 是一种强大的力量。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844432"
+    },
+    {
+      "english": "Learning, never stops.",
+      "chinese": "学习, 永不止步。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844433"
+    },
+    {
+      "english": "Forgiveness, sets you free.",
+      "chinese": "宽恕, 让你自由。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844434"
+    },
+    {
+      "english": "Imagination, sparks innovation.",
+      "chinese": "想象力, 激发创新。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844434"
+    },
+    {
+      "english": "Discipline, unlocks potential.",
+      "chinese": "纪律, 解锁潜力。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844438"
+    },
+    {
+      "english": "Determination, conquers all.",
+      "chinese": "决心, 征服一切。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844439"
+    },
+    {
+      "english": "Positive thoughts, attract positivity.",
+      "chinese": "积极的想法, 吸引积极。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844440"
+    },
+    {
+      "english": "Self-belief, is the first step.",
+      "chinese": "自信, 是第一步。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844441"
+    },
+    {
+      "english": "Contribution, matters greatly.",
+      "chinese": "贡献, 非常重要。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844442"
+    },
+    {
+      "english": "Creativity, knows no bounds.",
+      "chinese": "创造力, 没有界限。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844443"
+    },
+    {
+      "english": "Endurance, wins the race.",
+      "chinese": "耐力, 赢得比赛。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844444"
+    },
+    {
+      "english": "Passion, fuels your drive.",
+      "chinese": "热情, 驱动你的动力。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844444"
+    },
+    {
+      "english": "Generosity, enriches life.",
+      "chinese": "慷慨, 丰富人生。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844445"
+    },
+    {
+      "english": "Effort, brings reward.",
+      "chinese": "努力, 带来回报。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844447"
+    },
+    {
+      "english": "Vision, guides the way.",
+      "chinese": "远见, 指引方向。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844448"
+    },
+    {
+      "english": "Harmony, creates peace.",
+      "chinese": "和谐, 创造和平。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844449"
+    },
+    {
+      "english": "Discretion, is wise.",
+      "chinese": "谨慎, 是明智的。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844449"
+    },
+    {
+      "english": "Even a small seed, grows into a big tree.",
+      "chinese": "小种子, 也能长成大树。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844451"
+    },
+    {
+      "english": "Patience, is the mother of invention.",
+      "chinese": "耐心, 是创新的母亲。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844452"
+    },
+    {
+      "english": "One drop, makes a ripple.",
+      "chinese": "一滴水, 也能引起涟漪。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844456"
+    },
+    {
+      "english": "Don't underestimate, your own power.",
+      "chinese": "别小看, 你自己的力量。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844457"
+    },
+    {
+      "english": "Persistence, pays off eventually.",
+      "chinese": "坚持, 最终会有回报。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844458"
+    },
+    {
+      "english": "A united front, is unbreakable.",
+      "chinese": "团结的力量, 是不可摧毁的。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844459"
+    },
+    {
+      "english": "Every step counts, forward motion.",
+      "chinese": "每一步都算数, 向前迈进。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844460"
+    },
+    {
+      "english": "Inner strength, shines brightest.",
+      "chinese": "内心的力量, 最为闪耀。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844461"
+    },
+    {
+      "english": "Dedication, builds masterpieces.",
+      "chinese": "专注, 能够成就杰作。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844462"
+    },
+    {
+      "english": "Resilience, bends but doesn't break.",
+      "chinese": "韧性, 弯而不折。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844463"
+    },
+    {
+      "english": "Wisdom, is a silent power.",
+      "chinese": "智慧, 是一种无声的力量。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844464"
+    },
+    {
+      "english": "Courage, whispers your name.",
+      "chinese": "勇气, 轻声呼唤你。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844465"
+    },
+    {
+      "english": "Focus, is your superpower.",
+      "chinese": "专注, 是你的超能力。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844466"
+    },
+    {
+      "english": "Believe, in your potential.",
+      "chinese": "相信, 你的潜力。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844467"
+    },
+    {
+      "english": "Never give up, keep trying.",
+      "chinese": "永不放弃, 继续尝试。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844468"
+    },
+    {
+      "english": "Self-discipline, is true freedom.",
+      "chinese": "自律, 才是真正的自由。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844469"
+    },
+    {
+      "english": "Gratitude, amplifies happiness.",
+      "chinese": "感恩, 放大快乐。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844470"
+    },
+    {
+      "english": "Action, speaks louder.",
+      "chinese": "行动, 胜于雄辩。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844471"
+    },
+    {
+      "english": "Growth, happens outside comfort.",
+      "chinese": "成长, 发生在舒适区之外。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844472"
+    },
+    {
+      "english": "Empathy, connects us all.",
+      "chinese": "同理心, 连接你我。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844473"
+    },
+    {
+      "english": "Adaptability, is key.",
+      "chinese": "适应力, 是关键。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844477"
+    },
+    {
+      "english": "Integrity, builds trust.",
+      "chinese": "诚信, 建立信任。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844478"
+    },
+    {
+      "english": "Humor, lightens the load.",
+      "chinese": "幽默, 减轻负担。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844479"
+    },
+    {
+      "english": "Kindness, is a powerful force.",
+      "chinese": "善良, 是一种强大的力量。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844480"
+    },
+    {
+      "english": "Learning, never stops.",
+      "chinese": "学习, 永不止步。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844481"
+    },
+    {
+      "english": "Forgiveness, sets you free.",
+      "chinese": "宽恕, 让你自由。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844482"
+    },
+    {
+      "english": "Imagination, sparks innovation.",
+      "chinese": "想象力, 激发创新。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844483"
+    },
+    {
+      "english": "Discipline, unlocks potential.",
+      "chinese": "纪律, 解锁潜力。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844483"
+    },
+    {
+      "english": "Determination, conquers all.",
+      "chinese": "决心, 征服一切。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844484"
+    },
+    {
+      "english": "Positive thoughts, attract positivity.",
+      "chinese": "积极的想法, 吸引积极。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844485"
+    },
+    {
+      "english": "Self-belief, is the first step.",
+      "chinese": "自信, 是第一步。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844486"
+    },
+    {
+      "english": "Contribution, matters greatly.",
+      "chinese": "贡献, 非常重要。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844487"
+    },
+    {
+      "english": "Creativity, knows no bounds.",
+      "chinese": "创造力, 没有界限。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844488"
+    },
+    {
+      "english": "Endurance, wins the race.",
+      "chinese": "耐力, 赢得比赛。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844496"
+    },
+    {
+      "english": "Passion, fuels your drive.",
+      "chinese": "热情, 驱动你的动力。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844496"
+    },
+    {
+      "english": "Generosity, enriches life.",
+      "chinese": "慷慨, 丰富人生。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844497"
+    },
+    {
+      "english": "Effort, brings reward.",
+      "chinese": "努力, 带来回报。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844498"
+    },
+    {
+      "english": "Vision, guides the way.",
+      "chinese": "远见, 指引方向。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844499"
+    },
+    {
+      "english": "Harmony, creates peace.",
+      "chinese": "和谐, 创造和平。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844500"
+    },
+    {
+      "english": "Discretion, is wise.",
+      "chinese": "谨慎, 是明智的。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844504"
+    },
+    {
+      "english": "Even a small seed, grows into a big tree.",
+      "chinese": "小种子, 也能长成大树。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844505"
+    },
+    {
+      "english": "Patience, is the mother of invention.",
+      "chinese": "耐心, 是创新的母亲。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844506"
+    },
+    {
+      "english": "One drop, makes a ripple.",
+      "chinese": "一滴水, 也能引起涟漪。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844507"
+    },
+    {
+      "english": "Don't underestimate, your own power.",
+      "chinese": "别小看, 你自己的力量。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844508"
+    },
+    {
+      "english": "Persistence, pays off eventually.",
+      "chinese": "坚持, 最终会有回报。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844509"
+    },
+    {
+      "english": "A united front, is unbreakable.",
+      "chinese": "团结的力量, 是不可摧毁的。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844510"
+    },
+    {
+      "english": "Every step counts, forward motion.",
+      "chinese": "每一步都算数, 向前迈进。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844511"
+    },
+    {
+      "english": "Inner strength, shines brightest.",
+      "chinese": "内心的力量, 最为闪耀。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844511"
+    },
+    {
+      "english": "Dedication, builds masterpieces.",
+      "chinese": "专注, 能够成就杰作。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844512"
+    },
+    {
+      "english": "Resilience, bends but doesn't break.",
+      "chinese": "韧性, 弯而不折。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844513"
+    },
+    {
+      "english": "Wisdom, is a silent power.",
+      "chinese": "智慧, 是一种无声的力量。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844514"
+    },
+    {
+      "english": "Courage, whispers your name.",
+      "chinese": "勇气, 轻声呼唤你。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844515"
+    },
+    {
+      "english": "Focus, is your superpower.",
+      "chinese": "专注, 是你的超能力。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844516"
+    },
+    {
+      "english": "Believe, in your potential.",
+      "chinese": "相信, 你的潜力。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844517"
+    },
+    {
+      "english": "Never give up, keep trying.",
+      "chinese": "永不放弃, 继续尝试。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844518"
+    },
+    {
+      "english": "Self-discipline, is true freedom.",
+      "chinese": "自律, 才是真正的自由。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844519"
+    },
+    {
+      "english": "Gratitude, amplifies happiness.",
+      "chinese": "感恩, 放大快乐。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844519"
+    },
+    {
+      "english": "Action, speaks louder.",
+      "chinese": "行动, 胜于雄辩。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844520"
+    },
+    {
+      "english": "Growth, happens outside comfort.",
+      "chinese": "成长, 发生在舒适区之外。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844521"
+    },
+    {
+      "english": "Empathy, connects us all.",
+      "chinese": "同理心, 连接你我。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844522"
+    },
+    {
+      "english": "Adaptability, is key.",
+      "chinese": "适应力, 是关键。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844523"
+    },
+    {
+      "english": "Integrity, builds trust.",
+      "chinese": "诚信, 建立信任。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844524"
+    },
+    {
+      "english": "Humor, lightens the load.",
+      "chinese": "幽默, 减轻负担。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844525"
+    },
+    {
+      "english": "Kindness, is a powerful force.",
+      "chinese": "善良, 是一种强大的力量。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844525"
+    },
+    {
+      "english": "Learning, never stops.",
+      "chinese": "学习, 永不止步。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844526"
+    },
+    {
+      "english": "Forgiveness, sets you free.",
+      "chinese": "宽恕, 让你自由。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844530"
+    },
+    {
+      "english": "Imagination, sparks innovation.",
+      "chinese": "想象力, 激发创新。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844531"
+    },
+    {
+      "english": "Discipline, unlocks potential.",
+      "chinese": "纪律, 解锁潜力。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844532"
+    },
+    {
+      "english": "Determination, conquers all.",
+      "chinese": "决心, 征服一切。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844533"
+    },
+    {
+      "english": "Positive thoughts, attract positivity.",
+      "chinese": "积极的想法, 吸引积极。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844533"
+    },
+    {
+      "english": "Self-belief, is the first step.",
+      "chinese": "自信, 是第一步。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844534"
+    },
+    {
+      "english": "Contribution, matters greatly.",
+      "chinese": "贡献, 非常重要。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844535"
+    },
+    {
+      "english": "Creativity, knows no bounds.",
+      "chinese": "创造力, 没有界限。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844536"
+    },
+    {
+      "english": "Endurance, wins the race.",
+      "chinese": "耐力, 赢得比赛。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844537"
+    },
+    {
+      "english": "Passion, fuels your drive.",
+      "chinese": "热情, 驱动你的动力。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844538"
+    },
+    {
+      "english": "Generosity, enriches life.",
+      "chinese": "慷慨, 丰富人生。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844539"
+    },
+    {
+      "english": "Effort, brings reward.",
+      "chinese": "努力, 带来回报。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844540"
+    },
+    {
+      "english": "Vision, guides the way.",
+      "chinese": "远见, 指引方向。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844541"
+    },
+    {
+      "english": "Harmony, creates peace.",
+      "chinese": "和谐, 创造和平。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844542"
+    },
+    {
+      "english": "Discretion, is wise.",
+      "chinese": "谨慎, 是明智的。",
+      "category": "Strength",
+      "generated_at": "2026-07-15T20:20:47.844542"
     }
   ],
-  "last_updated": "2026-07-15T20:03:14.034989"
+  "last_updated": "2026-07-15T20:20:47.844544"
 }
