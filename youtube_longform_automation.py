@@ -527,18 +527,18 @@ def generate_all_audio(phrases: list, output_dir: str):
             subprocess.run(cmd, capture_output=True)
 
         # Generate Chinese audio
-        es_success = asyncio.run(generate_single_audio(phrase["chinese"], CHINESE_VOICE, str(chinese_file)))
-        if not es_success:
+        cn_success = asyncio.run(generate_single_audio(phrase["chinese"], CHINESE_VOICE, str(chinese_file)))
+        if not cn_success:
             cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(chinese_file)]
             subprocess.run(cmd, capture_output=True)
 
         # Get ACTUAL durations
         en_duration = get_audio_duration(str(english_file))
-        es_duration = get_audio_duration(str(chinese_file))
+        cn_duration = get_audio_duration(str(chinese_file))
 
         # Add pause between English and Chinese
         pause_between = 0.5
-        total_duration = en_duration + pause_between + es_duration
+        total_duration = en_duration + pause_between + cn_duration
 
         # Combine audio files
         cmd = [
@@ -578,7 +578,7 @@ def generate_all_audio(phrases: list, output_dir: str):
             "combined": str(combined_file),
             "duration": actual_duration,
             "en_duration": en_duration,
-            "es_duration": es_duration
+            "cn_duration": cn_duration
         })
 
     print(f"\n[audio] ✓ Generated {len(audio_files)} phrase audios")
@@ -747,9 +747,9 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     en_total_h = len(en_lines) * en_line_h
     
     # 2. Chinese Box
-    es_lines = wrap_text(chinese, font_chinese, VIDEO_WIDTH - 300)
-    es_line_h = 100
-    es_total_h = len(es_lines) * es_line_h
+    cn_lines = wrap_text(chinese, font_chinese, VIDEO_WIDTH - 300)
+    cn_line_h = 100
+    cn_total_h = len(cn_lines) * cn_line_h
     
     # 3. Pronunciation Box
     pron_text = f"[{pronunciation}]"
@@ -757,7 +757,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     pron_line_h = 60
     pron_total_h = len(pron_lines) * pron_line_h
 
-    total_content_h = en_total_h + es_total_h + pron_total_h + (GAP * 2)
+    total_content_h = en_total_h + cn_total_h + pron_total_h + (GAP * 2)
     y_start = CONTENT_Y_CENTER - (total_content_h // 2)
 
     # Draw English Section
@@ -777,16 +777,16 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     y_cursor = y_start + en_box_h + GAP
 
     # Chinese Section (Lingexa Lighter Purple)
-    es_box_h = es_total_h + 60
+    cn_box_h = cn_total_h + 60
     draw.rounded_rectangle(
-        [(box_x, y_cursor), (box_x + box_w, y_cursor + es_box_h)],
+        [(box_x, y_cursor), (box_x + box_w, y_cursor + cn_box_h)],
         radius=25, fill=(95, 80, 125, 255)
     )
-    for i, line in enumerate(es_lines):
-        draw.text((VIDEO_WIDTH // 2, y_cursor + 30 + (i * es_line_h) + es_line_h // 2), 
+    for i, line in enumerate(cn_lines):
+        draw.text((VIDEO_WIDTH // 2, y_cursor + 30 + (i * cn_line_h) + cn_line_h // 2), 
                   line, fill=(255, 255, 255), font=font_chinese, anchor="mm")
 
-    y_cursor += es_box_h + (GAP // 2)
+    y_cursor += cn_box_h + (GAP // 2)
 
     # Pronunciation Section (Lingexa Peach)
     pron_box_h = pron_total_h + 40
@@ -1072,7 +1072,7 @@ def create_video_from_images_audio(image_files: list, audio_files: list, combine
 
     for i, (img_path, audio_info) in enumerate(zip(image_files, audio_files)):
         duration = audio_info['duration']
-        print(f"  Image {i+1}/{len(image_files)}: {duration:.2f}s (EN: {audio_info.get('en_duration', 0):.1f}s + ES: {audio_info.get('es_duration', 0):.1f}s)")
+        print(f"  Image {i+1}/{len(image_files)}: {duration:.2f}s (EN: {audio_info.get('en_duration', 0):.1f}s + ES: {audio_info.get('cn_duration', 0):.1f}s)")
 
         temp_clip = Path(output_file).parent / f"temp_clip_{i:02d}.mp4"
         temp_clips.append(temp_clip)
