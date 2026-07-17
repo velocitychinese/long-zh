@@ -2159,7 +2159,727 @@
       "Chinese": "平静开始, 以一声叹息。",
       "category": "Forgiveness",
       "generated_at": "2026-07-16T03:59:03.358362"
+    },
+    {
+      "english": "Happy brain, happy life!",
+      "Chinese": "开心大脑，开心生活！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140531"
+    },
+    {
+      "english": "Eat snacks, feel fantastic!",
+      "Chinese": "吃零食，超开心！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140537"
+    },
+    {
+      "english": "Funny meme, big smile!",
+      "Chinese": "搞笑梗，大笑！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140539"
+    },
+    {
+      "english": "Good day, feels great!",
+      "Chinese": "好日子，感觉棒！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140540"
+    },
+    {
+      "english": "Sunshine makes me happy!",
+      "Chinese": "阳光，让我开心！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140541"
+    },
+    {
+      "english": "Dance it out, feel free!",
+      "Chinese": "跳起来，更自在！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140542"
+    },
+    {
+      "english": "Good food, good mood!",
+      "Chinese": "美食，好心情！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140543"
+    },
+    {
+      "english": "Pets make us happy!",
+      "Chinese": "宠物，让人开心！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140546"
+    },
+    {
+      "english": "Sleep well, wake happy!",
+      "Chinese": "睡好觉，醒来笑！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140548"
+    },
+    {
+      "english": "Laugh loudly, feel good!",
+      "Chinese": "大声笑，心情好！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140549"
+    },
+    {
+      "english": "Sing a song, feel joy!",
+      "Chinese": "唱首歌，乐陶陶！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140550"
+    },
+    {
+      "english": "Hugs are the best!",
+      "Chinese": "拥抱，最开心！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140551"
+    },
+    {
+      "english": "Friends forever, happy times!",
+      "Chinese": "朋友，永远开心！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140552"
+    },
+    {
+      "english": "Small wins, big smiles!",
+      "Chinese": "小成功，大笑容！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140553"
+    },
+    {
+      "english": "New hobby, new joy!",
+      "Chinese": "新爱好，新乐趣！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140554"
+    },
+    {
+      "english": "Weekend vibes, feel good!",
+      "Chinese": "周末到，心情好！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140555"
+    },
+    {
+      "english": "Coffee break, happy moment!",
+      "Chinese": "咖啡时间，好心情！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140556"
+    },
+    {
+      "english": "Movie night, pure joy!",
+      "Chinese": "看电影，真开心！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140557"
+    },
+    {
+      "english": "Nature walk, happy soul!",
+      "Chinese": "散步，心情舒畅！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140558"
+    },
+    {
+      "english": "Sharing is caring, happy heart!",
+      "Chinese": "分享，开心共享！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140560"
+    },
+    {
+      "english": "Dream big, feel happy!",
+      "Chinese": "大梦想，很开心！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140561"
+    },
+    {
+      "english": "Learning Chinese, so fun!",
+      "Chinese": "学中文，真好玩！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140562"
+    },
+    {
+      "english": "Success feels amazing!",
+      "Chinese": "成功，感觉棒！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140563"
+    },
+    {
+      "english": "Kind words, happy ears!",
+      "Chinese": "好话，耳朵开心！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140564"
+    },
+    {
+      "english": "Hot bath, pure bliss!",
+      "Chinese": "热水澡，超舒服！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140565"
+    },
+    {
+      "english": "Good news, feel cheer!",
+      "Chinese": "好消息，真高兴！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140566"
+    },
+    {
+      "english": "Music on, happy vibes!",
+      "Chinese": "放音乐，心情好！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140602"
+    },
+    {
+      "english": "Gratitude makes us glow!",
+      "Chinese": "感恩，让人发光！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140607"
+    },
+    {
+      "english": "Helping others, feels good!",
+      "Chinese": "帮助人，很开心！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140609"
+    },
+    {
+      "english": "New outfit, happy me!",
+      "Chinese": "新衣服，我开心！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140612"
+    },
+    {
+      "english": "A good book, pure joy!",
+      "Chinese": "好书，真开心！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140614"
+    },
+    {
+      "english": "Sunny day, happy thoughts!",
+      "Chinese": "晴天，好心情！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140616"
+    },
+    {
+      "english": "Laughing with friends, priceless!",
+      "Chinese": "和朋友笑，无价！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140618"
+    },
+    {
+      "english": "Sweet dreams, happy morning!",
+      "Chinese": "甜梦，开心早晨！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140621"
+    },
+    {
+      "english": "Kindness is contagious, happy spread!",
+      "Chinese": "善良，开心传播！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140624"
+    },
+    {
+      "english": "Achieving goals, feels great!",
+      "Chinese": "达成目标，感觉棒！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140626"
+    },
+    {
+      "english": "Making art, happy hands!",
+      "Chinese": "做艺术，手开心！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140628"
+    },
+    {
+      "english": "Warm weather, happy mood!",
+      "Chinese": "暖天气，好心情！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140629"
+    },
+    {
+      "english": "Funny stories, big smiles!",
+      "Chinese": "搞笑故事，大笑！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140630"
+    },
+    {
+      "english": "Simple life, happy heart!",
+      "Chinese": "简单生活，开心心！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140631"
+    },
+    {
+      "english": "Happy brain, happy life!",
+      "Chinese": "开心大脑，开心生活！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140632"
+    },
+    {
+      "english": "Eat snacks, feel fantastic!",
+      "Chinese": "吃零食，超开心！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140634"
+    },
+    {
+      "english": "Funny meme, big smile!",
+      "Chinese": "搞笑梗，大笑！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140635"
+    },
+    {
+      "english": "Good day, feels great!",
+      "Chinese": "好日子，感觉棒！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140636"
+    },
+    {
+      "english": "Sunshine makes me happy!",
+      "Chinese": "阳光，让我开心！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140637"
+    },
+    {
+      "english": "Dance it out, feel free!",
+      "Chinese": "跳起来，更自在！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140638"
+    },
+    {
+      "english": "Good food, good mood!",
+      "Chinese": "美食，好心情！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140640"
+    },
+    {
+      "english": "Pets make us happy!",
+      "Chinese": "宠物，让人开心！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140641"
+    },
+    {
+      "english": "Sleep well, wake happy!",
+      "Chinese": "睡好觉，醒来笑！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140642"
+    },
+    {
+      "english": "Laugh loudly, feel good!",
+      "Chinese": "大声笑，心情好！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140643"
+    },
+    {
+      "english": "Sing a song, feel joy!",
+      "Chinese": "唱首歌，乐陶陶！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140644"
+    },
+    {
+      "english": "Hugs are the best!",
+      "Chinese": "拥抱，最开心！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140645"
+    },
+    {
+      "english": "Friends forever, happy times!",
+      "Chinese": "朋友，永远开心！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140646"
+    },
+    {
+      "english": "Small wins, big smiles!",
+      "Chinese": "小成功，大笑容！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140647"
+    },
+    {
+      "english": "New hobby, new joy!",
+      "Chinese": "新爱好，新乐趣！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140648"
+    },
+    {
+      "english": "Weekend vibes, feel good!",
+      "Chinese": "周末到，心情好！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140649"
+    },
+    {
+      "english": "Coffee break, happy moment!",
+      "Chinese": "咖啡时间，好心情！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140650"
+    },
+    {
+      "english": "Movie night, pure joy!",
+      "Chinese": "看电影，真开心！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140653"
+    },
+    {
+      "english": "Nature walk, happy soul!",
+      "Chinese": "散步，心情舒畅！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140654"
+    },
+    {
+      "english": "Sharing is caring, happy heart!",
+      "Chinese": "分享，开心共享！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140655"
+    },
+    {
+      "english": "Dream big, feel happy!",
+      "Chinese": "大梦想，很开心！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140656"
+    },
+    {
+      "english": "Learning Chinese, so fun!",
+      "Chinese": "学中文，真好玩！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140657"
+    },
+    {
+      "english": "Success feels amazing!",
+      "Chinese": "成功，感觉棒！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140658"
+    },
+    {
+      "english": "Kind words, happy ears!",
+      "Chinese": "好话，耳朵开心！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140659"
+    },
+    {
+      "english": "Hot bath, pure bliss!",
+      "Chinese": "热水澡，超舒服！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140660"
+    },
+    {
+      "english": "Good news, feel cheer!",
+      "Chinese": "好消息，真高兴！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140661"
+    },
+    {
+      "english": "Music on, happy vibes!",
+      "Chinese": "放音乐，心情好！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140662"
+    },
+    {
+      "english": "Gratitude makes us glow!",
+      "Chinese": "感恩，让人发光！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140663"
+    },
+    {
+      "english": "Helping others, feels good!",
+      "Chinese": "帮助人，很开心！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140664"
+    },
+    {
+      "english": "New outfit, happy me!",
+      "Chinese": "新衣服，我开心！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140665"
+    },
+    {
+      "english": "A good book, pure joy!",
+      "Chinese": "好书，真开心！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140666"
+    },
+    {
+      "english": "Sunny day, happy thoughts!",
+      "Chinese": "晴天，好心情！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140667"
+    },
+    {
+      "english": "Laughing with friends, priceless!",
+      "Chinese": "和朋友笑，无价！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140668"
+    },
+    {
+      "english": "Sweet dreams, happy morning!",
+      "Chinese": "甜梦，开心早晨！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140669"
+    },
+    {
+      "english": "Kindness is contagious, happy spread!",
+      "Chinese": "善良，开心传播！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140672"
+    },
+    {
+      "english": "Achieving goals, feels great!",
+      "Chinese": "达成目标，感觉棒！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140673"
+    },
+    {
+      "english": "Making art, happy hands!",
+      "Chinese": "做艺术，手开心！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140674"
+    },
+    {
+      "english": "Warm weather, happy mood!",
+      "Chinese": "暖天气，好心情！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140675"
+    },
+    {
+      "english": "Funny stories, big smiles!",
+      "Chinese": "搞笑故事，大笑！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140676"
+    },
+    {
+      "english": "Simple life, happy heart!",
+      "Chinese": "简单生活，开心心！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140677"
+    },
+    {
+      "english": "Happy brain, happy life!",
+      "Chinese": "开心大脑，开心生活！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140679"
+    },
+    {
+      "english": "Eat snacks, feel fantastic!",
+      "Chinese": "吃零食，超开心！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140680"
+    },
+    {
+      "english": "Funny meme, big smile!",
+      "Chinese": "搞笑梗，大笑！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140684"
+    },
+    {
+      "english": "Good day, feels great!",
+      "Chinese": "好日子，感觉棒！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140685"
+    },
+    {
+      "english": "Sunshine makes me happy!",
+      "Chinese": "阳光，让我开心！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140686"
+    },
+    {
+      "english": "Dance it out, feel free!",
+      "Chinese": "跳起来，更自在！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140687"
+    },
+    {
+      "english": "Good food, good mood!",
+      "Chinese": "美食，好心情！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140688"
+    },
+    {
+      "english": "Pets make us happy!",
+      "Chinese": "宠物，让人开心！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140689"
+    },
+    {
+      "english": "Sleep well, wake happy!",
+      "Chinese": "睡好觉，醒来笑！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140690"
+    },
+    {
+      "english": "Laugh loudly, feel good!",
+      "Chinese": "大声笑，心情好！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140692"
+    },
+    {
+      "english": "Sing a song, feel joy!",
+      "Chinese": "唱首歌，乐陶陶！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140693"
+    },
+    {
+      "english": "Hugs are the best!",
+      "Chinese": "拥抱，最开心！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140695"
+    },
+    {
+      "english": "Friends forever, happy times!",
+      "Chinese": "朋友，永远开心！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140696"
+    },
+    {
+      "english": "Small wins, big smiles!",
+      "Chinese": "小成功，大笑容！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140697"
+    },
+    {
+      "english": "New hobby, new joy!",
+      "Chinese": "新爱好，新乐趣！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140698"
+    },
+    {
+      "english": "Weekend vibes, feel good!",
+      "Chinese": "周末到，心情好！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140699"
+    },
+    {
+      "english": "Coffee break, happy moment!",
+      "Chinese": "咖啡时间，好心情！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140700"
+    },
+    {
+      "english": "Movie night, pure joy!",
+      "Chinese": "看电影，真开心！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140702"
+    },
+    {
+      "english": "Nature walk, happy soul!",
+      "Chinese": "散步，心情舒畅！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140703"
+    },
+    {
+      "english": "Sharing is caring, happy heart!",
+      "Chinese": "分享，开心共享！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140704"
+    },
+    {
+      "english": "Dream big, feel happy!",
+      "Chinese": "大梦想，很开心！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140705"
+    },
+    {
+      "english": "Learning Chinese, so fun!",
+      "Chinese": "学中文，真好玩！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140706"
+    },
+    {
+      "english": "Success feels amazing!",
+      "Chinese": "成功，感觉棒！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140707"
+    },
+    {
+      "english": "Kind words, happy ears!",
+      "Chinese": "好话，耳朵开心！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140708"
+    },
+    {
+      "english": "Hot bath, pure bliss!",
+      "Chinese": "热水澡，超舒服！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140709"
+    },
+    {
+      "english": "Good news, feel cheer!",
+      "Chinese": "好消息，真高兴！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140710"
+    },
+    {
+      "english": "Music on, happy vibes!",
+      "Chinese": "放音乐，心情好！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140711"
+    },
+    {
+      "english": "Gratitude makes us glow!",
+      "Chinese": "感恩，让人发光！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140712"
+    },
+    {
+      "english": "Helping others, feels good!",
+      "Chinese": "帮助人，很开心！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140713"
+    },
+    {
+      "english": "New outfit, happy me!",
+      "Chinese": "新衣服，我开心！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140714"
+    },
+    {
+      "english": "A good book, pure joy!",
+      "Chinese": "好书，真开心！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140715"
+    },
+    {
+      "english": "Sunny day, happy thoughts!",
+      "Chinese": "晴天，好心情！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140716"
+    },
+    {
+      "english": "Laughing with friends, priceless!",
+      "Chinese": "和朋友笑，无价！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140717"
+    },
+    {
+      "english": "Sweet dreams, happy morning!",
+      "Chinese": "甜梦，开心早晨！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140718"
+    },
+    {
+      "english": "Kindness is contagious, happy spread!",
+      "Chinese": "善良，开心传播！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140719"
+    },
+    {
+      "english": "Achieving goals, feels great!",
+      "Chinese": "达成目标，感觉棒！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140720"
+    },
+    {
+      "english": "Making art, happy hands!",
+      "Chinese": "做艺术，手开心！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140721"
+    },
+    {
+      "english": "Warm weather, happy mood!",
+      "Chinese": "暖天气，好心情！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140722"
+    },
+    {
+      "english": "Funny stories, big smiles!",
+      "Chinese": "搞笑故事，大笑！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140723"
+    },
+    {
+      "english": "Simple life, happy heart!",
+      "Chinese": "简单生活，开心心！",
+      "category": "Joy",
+      "generated_at": "2026-07-17T03:58:00.140724"
     }
   ],
-  "last_updated": "2026-07-16T03:59:03.358364"
+  "last_updated": "2026-07-17T03:58:00.140726"
 }
