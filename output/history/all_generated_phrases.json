@@ -3599,7 +3599,727 @@
       "Chinese": "充实地生活，保持快乐。",
       "category": "Happiness",
       "generated_at": "2026-07-18T03:52:48.573744"
+    },
+    {
+      "english": "Be brave, try new things.",
+      "Chinese": "大胆尝试，新事物。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119193"
+    },
+    {
+      "english": "Believe in yourself, always.",
+      "Chinese": "相信自己，永远。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119204"
+    },
+    {
+      "english": "Keep pushing, don't stop.",
+      "Chinese": "继续努力，别停。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119205"
+    },
+    {
+      "english": "You are stronger than you think.",
+      "Chinese": "你比想的更强。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119206"
+    },
+    {
+      "english": "Focus on your goals.",
+      "Chinese": "专注你的目标。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119207"
+    },
+    {
+      "english": "One step, then another.",
+      "Chinese": "一步，再一步。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119208"
+    },
+    {
+      "english": "Never give up, ever.",
+      "Chinese": "永不放弃，绝不。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119209"
+    },
+    {
+      "english": "Each day, a new chance.",
+      "Chinese": "每天，新机会。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119211"
+    },
+    {
+      "english": "Push your limits, explore.",
+      "Chinese": "挑战极限，探索。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119213"
+    },
+    {
+      "english": "You can overcome anything.",
+      "Chinese": "你能克服一切。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119213"
+    },
+    {
+      "english": "Be persistent, be successful.",
+      "Chinese": "坚持不懈，成功。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119214"
+    },
+    {
+      "english": "Stand tall, be proud.",
+      "Chinese": "站直，骄傲。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119217"
+    },
+    {
+      "english": "Inner strength, guiding light.",
+      "Chinese": "内在力量，指引。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119218"
+    },
+    {
+      "english": "Keep your head up.",
+      "Chinese": "抬起头。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119219"
+    },
+    {
+      "english": "Tough times, make you tougher.",
+      "Chinese": "难关，让你更强。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119220"
+    },
+    {
+      "english": "Find your inner power.",
+      "Chinese": "找你内在力量。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119221"
+    },
+    {
+      "english": "Rise above, the challenges.",
+      "Chinese": "超越，那些挑战。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119222"
+    },
+    {
+      "english": "Be resilient, always.",
+      "Chinese": "有韧性，永远。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119223"
+    },
+    {
+      "english": "You've got this, believe.",
+      "Chinese": "你能行，相信。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119223"
+    },
+    {
+      "english": "Build your own path.",
+      "Chinese": "建自己的路。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119224"
+    },
+    {
+      "english": "Strong heart, full of hope.",
+      "Chinese": "心坚强，充满希望。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119225"
+    },
+    {
+      "english": "Face the storm, bravely.",
+      "Chinese": "面对风雨，勇敢。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119225"
+    },
+    {
+      "english": "Keep your spirit high.",
+      "Chinese": "保持精神高昂。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119226"
+    },
+    {
+      "english": "Embrace your power.",
+      "Chinese": "拥抱你的力量。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119227"
+    },
+    {
+      "english": "Every effort counts.",
+      "Chinese": "每份努力都算。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119227"
+    },
+    {
+      "english": "You are capable, very.",
+      "Chinese": "你很有能力。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119228"
+    },
+    {
+      "english": "Stay focused, get things done.",
+      "Chinese": "保持专注，完成。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119229"
+    },
+    {
+      "english": "Forge ahead, with courage.",
+      "Chinese": "勇往直前，带着勇气。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119229"
+    },
+    {
+      "english": "Your resilience shines.",
+      "Chinese": "你的韧性闪耀。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119230"
+    },
+    {
+      "english": "Don't doubt your abilities.",
+      "Chinese": "别怀疑你能力。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119231"
+    },
+    {
+      "english": "Stand your ground, firmly.",
+      "Chinese": "站稳立场，坚定。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119232"
+    },
+    {
+      "english": "Inner fire, burns bright.",
+      "Chinese": "内心火焰，熊熊。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119233"
+    },
+    {
+      "english": "Keep striving, for more.",
+      "Chinese": "继续追求，更多。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119233"
+    },
+    {
+      "english": "You have the power.",
+      "Chinese": "你拥有力量。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119234"
+    },
+    {
+      "english": "Be determined, be strong.",
+      "Chinese": "要坚定，要强。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119235"
+    },
+    {
+      "english": "Overcome, your own limits.",
+      "Chinese": "超越，你自己的极限。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119236"
+    },
+    {
+      "english": "Each small win, matters.",
+      "Chinese": "每个小赢，都重要。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119237"
+    },
+    {
+      "english": "Your effort, will pay off.",
+      "Chinese": "你的努力，会回报。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119237"
+    },
+    {
+      "english": "Keep the faith, strong.",
+      "Chinese": "保持信念，坚定。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119238"
+    },
+    {
+      "english": "You are a champion.",
+      "Chinese": "你是冠军。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119239"
+    },
+    {
+      "english": "Push your limits, discover more.",
+      "Chinese": "挑战极限，发现更多。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119240"
+    },
+    {
+      "english": "Believe in your power, shine bright.",
+      "Chinese": "相信你的力量，闪耀。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119240"
+    },
+    {
+      "english": "Face challenges, stand tall.",
+      "Chinese": "面对挑战，站直。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119243"
+    },
+    {
+      "english": "Build resilience, bounce back.",
+      "Chinese": "增强韧性，反弹。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119244"
+    },
+    {
+      "english": "Focus your mind, achieve goals.",
+      "Chinese": "集中精力，达成目标。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119244"
+    },
+    {
+      "english": "Stay determined, never give up.",
+      "Chinese": "保持决心，永不放弃。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119245"
+    },
+    {
+      "english": "Inner strength, guides your way.",
+      "Chinese": "内在力量，指引方向。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119246"
+    },
+    {
+      "english": "Adapt quickly, stay ahead.",
+      "Chinese": "快速适应，保持领先。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119247"
+    },
+    {
+      "english": "Cultivate courage, take action.",
+      "Chinese": "培养勇气，采取行动。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119248"
+    },
+    {
+      "english": "Embrace growth, evolve daily.",
+      "Chinese": "拥抱成长，每日进化。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119249"
+    },
+    {
+      "english": "Stay strong, through thick and thin.",
+      "Chinese": "坚强，渡过难关。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119283"
+    },
+    {
+      "english": "Find your voice, speak out.",
+      "Chinese": "找到声音，说出来。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119284"
+    },
+    {
+      "english": "Overcome obstacles, with passion.",
+      "Chinese": "克服障碍，带着热情。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119285"
+    },
+    {
+      "english": "Be bold, embrace the future.",
+      "Chinese": "勇敢，拥抱未来。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119286"
+    },
+    {
+      "english": "Unlock potential, reach higher.",
+      "Chinese": "释放潜能，达到更高。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119287"
+    },
+    {
+      "english": "Persist with purpose, win big.",
+      "Chinese": "坚持目标，赢得胜利。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119288"
+    },
+    {
+      "english": "Show your grit, impress yourself.",
+      "Chinese": "展现毅力，让自己骄傲。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119288"
+    },
+    {
+      "english": "Build momentum, keep moving.",
+      "Chinese": "积蓄动力，继续前进。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119289"
+    },
+    {
+      "english": "Trust your instincts, be wise.",
+      "Chinese": "相信直觉，保持智慧。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119290"
+    },
+    {
+      "english": "Rise above, challenges await.",
+      "Chinese": "超越自我，挑战在前方。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119290"
+    },
+    {
+      "english": "Stand firm, in your beliefs.",
+      "Chinese": "坚定立场，信仰不变。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119291"
+    },
+    {
+      "english": "Master your skills, excel.",
+      "Chinese": "精通技能，表现出色。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119292"
+    },
+    {
+      "english": "Embrace resilience, thrive always.",
+      "Chinese": "拥抱韧性，永远茁壮。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119293"
+    },
+    {
+      "english": "Be proactive, shape your destiny.",
+      "Chinese": "主动出击，塑造命运。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119293"
+    },
+    {
+      "english": "Unleash your potential, soar.",
+      "Chinese": "释放潜能，高飞。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119294"
+    },
+    {
+      "english": "Face adversity, with a smile.",
+      "Chinese": "微笑面对逆境。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119295"
+    },
+    {
+      "english": "Channel your energy, create impact.",
+      "Chinese": "引导能量，创造影响。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119296"
+    },
+    {
+      "english": "Stay focused, on your mission.",
+      "Chinese": "专注于任务。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119297"
+    },
+    {
+      "english": "Endure hardship, emerge stronger.",
+      "Chinese": "忍受艰辛，变得更强。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119298"
+    },
+    {
+      "english": "Ignite your passion, pursue dreams.",
+      "Chinese": "点燃热情，追逐梦想。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119298"
+    },
+    {
+      "english": "Lead with conviction, inspire others.",
+      "Chinese": "坚定领导，激励他人。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119299"
+    },
+    {
+      "english": "Navigate complexity, find clarity.",
+      "Chinese": "化繁为简，找到清晰。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119300"
+    },
+    {
+      "english": "Uphold your values, stay true.",
+      "Chinese": "坚守价值观，保持真实。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119300"
+    },
+    {
+      "english": "Embrace the struggle, for growth.",
+      "Chinese": "拥抱奋斗，为了成长。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119302"
+    },
+    {
+      "english": "Be adaptable, find solutions.",
+      "Chinese": "灵活应变，找到方案。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119305"
+    },
+    {
+      "english": "Fortify your spirit, with hope.",
+      "Chinese": "用希望巩固精神。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119307"
+    },
+    {
+      "english": "Overcome inertia, get moving.",
+      "Chinese": "克服惯性，开始行动。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119308"
+    },
+    {
+      "english": "Stand firm, in your convictions.",
+      "Chinese": "坚定信念，毫不动摇。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119309"
+    },
+    {
+      "english": "Sustain effort, achieve mastery.",
+      "Chinese": "持续努力，达到精通。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119309"
+    },
+    {
+      "english": "Harness your will, conquer fear.",
+      "Chinese": "运用意志，征服恐惧。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119310"
+    },
+    {
+      "english": "Push your limits, discover more.",
+      "Chinese": "挑战极限，发现更多。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119311"
+    },
+    {
+      "english": "Believe in your power, shine bright.",
+      "Chinese": "相信你的力量，闪耀。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119311"
+    },
+    {
+      "english": "Face challenges, stand tall.",
+      "Chinese": "面对挑战，站直。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119312"
+    },
+    {
+      "english": "Build resilience, bounce back.",
+      "Chinese": "增强韧性，反弹。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119313"
+    },
+    {
+      "english": "Focus your mind, achieve goals.",
+      "Chinese": "集中精力，达成目标。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119313"
+    },
+    {
+      "english": "Stay determined, never give up.",
+      "Chinese": "保持决心，永不放弃。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119314"
+    },
+    {
+      "english": "Inner strength, guides your way.",
+      "Chinese": "内在力量，指引方向。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119315"
+    },
+    {
+      "english": "Adapt quickly, stay ahead.",
+      "Chinese": "快速适应，保持领先。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119316"
+    },
+    {
+      "english": "Cultivate courage, take action.",
+      "Chinese": "培养勇气，采取行动。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119316"
+    },
+    {
+      "english": "Embrace growth, evolve daily.",
+      "Chinese": "拥抱成长，每日进化。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119317"
+    },
+    {
+      "english": "Stay strong, through thick and thin.",
+      "Chinese": "坚强，渡过难关。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119318"
+    },
+    {
+      "english": "Find your voice, speak out.",
+      "Chinese": "找到声音，说出来。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119318"
+    },
+    {
+      "english": "Overcome obstacles, with passion.",
+      "Chinese": "克服障碍，带着热情。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119319"
+    },
+    {
+      "english": "Be bold, embrace the future.",
+      "Chinese": "勇敢，拥抱未来。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119320"
+    },
+    {
+      "english": "Unlock potential, reach higher.",
+      "Chinese": "释放潜能，达到更高。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119321"
+    },
+    {
+      "english": "Persist with purpose, win big.",
+      "Chinese": "坚持目标，赢得胜利。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119321"
+    },
+    {
+      "english": "Show your grit, impress yourself.",
+      "Chinese": "展现毅力，让自己骄傲。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119322"
+    },
+    {
+      "english": "Build momentum, keep moving.",
+      "Chinese": "积蓄动力，继续前进。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119323"
+    },
+    {
+      "english": "Trust your instincts, be wise.",
+      "Chinese": "相信直觉，保持智慧。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119323"
+    },
+    {
+      "english": "Rise above, challenges await.",
+      "Chinese": "超越自我，挑战在前方。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119324"
+    },
+    {
+      "english": "Stand firm, in your beliefs.",
+      "Chinese": "坚定立场，信仰不变。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119325"
+    },
+    {
+      "english": "Master your skills, excel.",
+      "Chinese": "精通技能，表现出色。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119325"
+    },
+    {
+      "english": "Embrace resilience, thrive always.",
+      "Chinese": "拥抱韧性，永远茁壮。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119326"
+    },
+    {
+      "english": "Be proactive, shape your destiny.",
+      "Chinese": "主动出击，塑造命运。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119327"
+    },
+    {
+      "english": "Unleash your potential, soar.",
+      "Chinese": "释放潜能，高飞。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119327"
+    },
+    {
+      "english": "Face adversity, with a smile.",
+      "Chinese": "微笑面对逆境。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119328"
+    },
+    {
+      "english": "Channel your energy, create impact.",
+      "Chinese": "引导能量，创造影响。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119330"
+    },
+    {
+      "english": "Stay focused, on your mission.",
+      "Chinese": "专注于任务。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119331"
+    },
+    {
+      "english": "Endure hardship, emerge stronger.",
+      "Chinese": "忍受艰辛，变得更强。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119332"
+    },
+    {
+      "english": "Ignite your passion, pursue dreams.",
+      "Chinese": "点燃热情，追逐梦想。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119332"
+    },
+    {
+      "english": "Lead with conviction, inspire others.",
+      "Chinese": "坚定领导，激励他人。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119333"
+    },
+    {
+      "english": "Navigate complexity, find clarity.",
+      "Chinese": "化繁为简，找到清晰。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119334"
+    },
+    {
+      "english": "Uphold your values, stay true.",
+      "Chinese": "坚守价值观，保持真实。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119334"
+    },
+    {
+      "english": "Embrace the struggle, for growth.",
+      "Chinese": "拥抱奋斗，为了成长。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119335"
+    },
+    {
+      "english": "Be adaptable, find solutions.",
+      "Chinese": "灵活应变，找到方案。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119336"
+    },
+    {
+      "english": "Fortify your spirit, with hope.",
+      "Chinese": "用希望巩固精神。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119336"
+    },
+    {
+      "english": "Overcome inertia, get moving.",
+      "Chinese": "克服惯性，开始行动。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119337"
+    },
+    {
+      "english": "Stand firm, in your convictions.",
+      "Chinese": "坚定信念，毫不动摇。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119338"
+    },
+    {
+      "english": "Sustain effort, achieve mastery.",
+      "Chinese": "持续努力，达到精通。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119338"
+    },
+    {
+      "english": "Harness your will, conquer fear.",
+      "Chinese": "运用意志，征服恐惧。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T04:21:58.119339"
     }
   ],
-  "last_updated": "2026-07-18T03:52:48.573745"
+  "last_updated": "2026-07-19T04:21:58.119341"
 }
