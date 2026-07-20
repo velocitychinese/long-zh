@@ -4319,7 +4319,727 @@
       "Chinese": "运用意志，征服恐惧。",
       "category": "Strength",
       "generated_at": "2026-07-19T04:21:58.119339"
+    },
+    {
+      "english": "Quiet mind, happy heart.",
+      "Chinese": "心静, 乐多。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754555"
+    },
+    {
+      "english": "Breathe deep, let go.",
+      "Chinese": "深呼吸, 放轻松。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754566"
+    },
+    {
+      "english": "Be present, right now.",
+      "Chinese": "活在当下, 就是现在。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754568"
+    },
+    {
+      "english": "Inner peace, found within.",
+      "Chinese": "内心平静, 来自里面。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754570"
+    },
+    {
+      "english": "Stillness, brings clarity.",
+      "Chinese": "宁静, 带来清晰。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754571"
+    },
+    {
+      "english": "Acceptance, calms the soul.",
+      "Chinese": "接纳, 让灵魂平静。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754572"
+    },
+    {
+      "english": "Kindness, costs nothing.",
+      "Chinese": "善良, 不花钱。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754573"
+    },
+    {
+      "english": "Gratitude, opens doors.",
+      "Chinese": "感恩, 会开门。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754577"
+    },
+    {
+      "english": "Simple life, joyful living.",
+      "Chinese": "简单生活, 快乐人生。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754579"
+    },
+    {
+      "english": "Let worries fade, away.",
+      "Chinese": "让烦恼, 渐渐消失。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754580"
+    },
+    {
+      "english": "Find joy, in small things.",
+      "Chinese": "快乐, 在小事里。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754582"
+    },
+    {
+      "english": "Forgive quickly, love always.",
+      "Chinese": "快点原谅, 永远爱。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754583"
+    },
+    {
+      "english": "Self-love, a great start.",
+      "Chinese": "爱自己, 是好的开始。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754584"
+    },
+    {
+      "english": "Calm down, think slowly.",
+      "Chinese": "冷静点, 慢慢想。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754585"
+    },
+    {
+      "english": "Peaceful mind, clear future.",
+      "Chinese": "心安, 未来清晰。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754587"
+    },
+    {
+      "english": "Nature's calm, heals us.",
+      "Chinese": "大自然, 治愈我们。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754588"
+    },
+    {
+      "english": "Gentle soul, happy world.",
+      "Chinese": "温柔心, 世界快乐。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754589"
+    },
+    {
+      "english": "Release the past, move on.",
+      "Chinese": "放下过去, 继续前进。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754590"
+    },
+    {
+      "english": "Inner strength, guides you.",
+      "Chinese": "内在力量, 指引你。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754591"
+    },
+    {
+      "english": "Be still, listen closely.",
+      "Chinese": "安静点, 仔细听。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754592"
+    },
+    {
+      "english": "True peace, from within.",
+      "Chinese": "真正平静, 来自内心。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754593"
+    },
+    {
+      "english": "Let it be, easy does it.",
+      "Chinese": "顺其自然, 慢慢来。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754595"
+    },
+    {
+      "english": "Inner calm, a treasure.",
+      "Chinese": "内心平静, 是财富。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754596"
+    },
+    {
+      "english": "Joyful spirit, shines bright.",
+      "Chinese": "快乐精神, 放光芒。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754597"
+    },
+    {
+      "english": "Kindness ripples, outward.",
+      "Chinese": "善良会扩散, 向外。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754598"
+    },
+    {
+      "english": "Contentment, is true wealth.",
+      "Chinese": "满足, 是真财富。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754599"
+    },
+    {
+      "english": "Peaceful thoughts, beautiful life.",
+      "Chinese": "平和想法, 美好生活。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754600"
+    },
+    {
+      "english": "Embrace simplicity, find peace.",
+      "Chinese": "拥抱简单, 找到平静。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754601"
+    },
+    {
+      "english": "Inner quiet, answers all.",
+      "Chinese": "内心安静, 回答一切。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754602"
+    },
+    {
+      "english": "Be gentle, with yourself.",
+      "Chinese": "对自己, 温柔点。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754603"
+    },
+    {
+      "english": "Flow with life, don't fight.",
+      "Chinese": "顺着生活, 别抵抗。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754604"
+    },
+    {
+      "english": "Serenity, a guiding light.",
+      "Chinese": "宁静, 是指路灯。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754605"
+    },
+    {
+      "english": "Find your center, stay grounded.",
+      "Chinese": "找到中心, 保持稳定。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754609"
+    },
+    {
+      "english": "Quiet the noise, hear truth.",
+      "Chinese": "静下心, 听真理。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754610"
+    },
+    {
+      "english": "Peace begins, with you.",
+      "Chinese": "平静开始, 在你这里。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754611"
+    },
+    {
+      "english": "Accept what is, find peace.",
+      "Chinese": "接受事实, 找到平静。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754612"
+    },
+    {
+      "english": "Inner calm, conquers all.",
+      "Chinese": "内心平静, 战胜一切。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754613"
+    },
+    {
+      "english": "Be happy, with less.",
+      "Chinese": "快乐, 知足常乐。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754614"
+    },
+    {
+      "english": "Kind heart, full life.",
+      "Chinese": "善良的心, 完整生活。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754615"
+    },
+    {
+      "english": "Quiet mind, happy heart.",
+      "Chinese": "心静, 乐多。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754617"
+    },
+    {
+      "english": "Breathe deep, let go.",
+      "Chinese": "深呼吸, 放轻松。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754618"
+    },
+    {
+      "english": "Be present, right now.",
+      "Chinese": "活在当下, 就是现在。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754621"
+    },
+    {
+      "english": "Inner peace, found within.",
+      "Chinese": "内心平静, 来自里面。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754622"
+    },
+    {
+      "english": "Stillness, brings clarity.",
+      "Chinese": "宁静, 带来清晰。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754624"
+    },
+    {
+      "english": "Acceptance, calms the soul.",
+      "Chinese": "接纳, 让灵魂平静。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754625"
+    },
+    {
+      "english": "Kindness, costs nothing.",
+      "Chinese": "善良, 不花钱。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754626"
+    },
+    {
+      "english": "Gratitude, opens doors.",
+      "Chinese": "感恩, 会开门。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754627"
+    },
+    {
+      "english": "Simple life, joyful living.",
+      "Chinese": "简单生活, 快乐人生。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754628"
+    },
+    {
+      "english": "Let worries fade, away.",
+      "Chinese": "让烦恼, 渐渐消失。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754630"
+    },
+    {
+      "english": "Find joy, in small things.",
+      "Chinese": "快乐, 在小事里。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754631"
+    },
+    {
+      "english": "Forgive quickly, love always.",
+      "Chinese": "快点原谅, 永远爱。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754632"
+    },
+    {
+      "english": "Self-love, a great start.",
+      "Chinese": "爱自己, 是好的开始。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754633"
+    },
+    {
+      "english": "Calm down, think slowly.",
+      "Chinese": "冷静点, 慢慢想。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754634"
+    },
+    {
+      "english": "Peaceful mind, clear future.",
+      "Chinese": "心安, 未来清晰。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754635"
+    },
+    {
+      "english": "Nature's calm, heals us.",
+      "Chinese": "大自然, 治愈我们。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754637"
+    },
+    {
+      "english": "Gentle soul, happy world.",
+      "Chinese": "温柔心, 世界快乐。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754638"
+    },
+    {
+      "english": "Release the past, move on.",
+      "Chinese": "放下过去, 继续前进。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754639"
+    },
+    {
+      "english": "Inner strength, guides you.",
+      "Chinese": "内在力量, 指引你。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754640"
+    },
+    {
+      "english": "Be still, listen closely.",
+      "Chinese": "安静点, 仔细听。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754648"
+    },
+    {
+      "english": "True peace, from within.",
+      "Chinese": "真正平静, 来自内心。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754649"
+    },
+    {
+      "english": "Let it be, easy does it.",
+      "Chinese": "顺其自然, 慢慢来。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754650"
+    },
+    {
+      "english": "Inner calm, a treasure.",
+      "Chinese": "内心平静, 是财富。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754651"
+    },
+    {
+      "english": "Joyful spirit, shines bright.",
+      "Chinese": "快乐精神, 放光芒。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754652"
+    },
+    {
+      "english": "Kindness ripples, outward.",
+      "Chinese": "善良会扩散, 向外。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754653"
+    },
+    {
+      "english": "Contentment, is true wealth.",
+      "Chinese": "满足, 是真财富。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754654"
+    },
+    {
+      "english": "Peaceful thoughts, beautiful life.",
+      "Chinese": "平和想法, 美好生活。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754655"
+    },
+    {
+      "english": "Embrace simplicity, find peace.",
+      "Chinese": "拥抱简单, 找到平静。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754656"
+    },
+    {
+      "english": "Inner quiet, answers all.",
+      "Chinese": "内心安静, 回答一切。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754657"
+    },
+    {
+      "english": "Be gentle, with yourself.",
+      "Chinese": "对自己, 温柔点。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754658"
+    },
+    {
+      "english": "Flow with life, don't fight.",
+      "Chinese": "顺着生活, 别抵抗。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754659"
+    },
+    {
+      "english": "Serenity, a guiding light.",
+      "Chinese": "宁静, 是指路灯。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754660"
+    },
+    {
+      "english": "Find your center, stay grounded.",
+      "Chinese": "找到中心, 保持稳定。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754661"
+    },
+    {
+      "english": "Quiet the noise, hear truth.",
+      "Chinese": "静下心, 听真理。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754662"
+    },
+    {
+      "english": "Peace begins, with you.",
+      "Chinese": "平静开始, 在你这里。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754663"
+    },
+    {
+      "english": "Accept what is, find peace.",
+      "Chinese": "接受事实, 找到平静。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754664"
+    },
+    {
+      "english": "Inner calm, conquers all.",
+      "Chinese": "内心平静, 战胜一切。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754665"
+    },
+    {
+      "english": "Be happy, with less.",
+      "Chinese": "快乐, 知足常乐。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754666"
+    },
+    {
+      "english": "Kind heart, full life.",
+      "Chinese": "善良的心, 完整生活。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754667"
+    },
+    {
+      "english": "Quiet mind, happy heart.",
+      "Chinese": "心静, 乐多。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754669"
+    },
+    {
+      "english": "Breathe deep, let go.",
+      "Chinese": "深呼吸, 放轻松。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754670"
+    },
+    {
+      "english": "Be present, right now.",
+      "Chinese": "活在当下, 就是现在。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754671"
+    },
+    {
+      "english": "Inner peace, found within.",
+      "Chinese": "内心平静, 来自里面。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754673"
+    },
+    {
+      "english": "Stillness, brings clarity.",
+      "Chinese": "宁静, 带来清晰。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754676"
+    },
+    {
+      "english": "Acceptance, calms the soul.",
+      "Chinese": "接纳, 让灵魂平静。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754677"
+    },
+    {
+      "english": "Kindness, costs nothing.",
+      "Chinese": "善良, 不花钱。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754678"
+    },
+    {
+      "english": "Gratitude, opens doors.",
+      "Chinese": "感恩, 会开门。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754679"
+    },
+    {
+      "english": "Simple life, joyful living.",
+      "Chinese": "简单生活, 快乐人生。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754680"
+    },
+    {
+      "english": "Let worries fade, away.",
+      "Chinese": "让烦恼, 渐渐消失。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754682"
+    },
+    {
+      "english": "Find joy, in small things.",
+      "Chinese": "快乐, 在小事里。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754684"
+    },
+    {
+      "english": "Forgive quickly, love always.",
+      "Chinese": "快点原谅, 永远爱。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754686"
+    },
+    {
+      "english": "Self-love, a great start.",
+      "Chinese": "爱自己, 是好的开始。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754687"
+    },
+    {
+      "english": "Calm down, think slowly.",
+      "Chinese": "冷静点, 慢慢想。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754688"
+    },
+    {
+      "english": "Peaceful mind, clear future.",
+      "Chinese": "心安, 未来清晰。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754689"
+    },
+    {
+      "english": "Nature's calm, heals us.",
+      "Chinese": "大自然, 治愈我们。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754690"
+    },
+    {
+      "english": "Gentle soul, happy world.",
+      "Chinese": "温柔心, 世界快乐。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754692"
+    },
+    {
+      "english": "Release the past, move on.",
+      "Chinese": "放下过去, 继续前进。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754693"
+    },
+    {
+      "english": "Inner strength, guides you.",
+      "Chinese": "内在力量, 指引你。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754694"
+    },
+    {
+      "english": "Be still, listen closely.",
+      "Chinese": "安静点, 仔细听。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754695"
+    },
+    {
+      "english": "True peace, from within.",
+      "Chinese": "真正平静, 来自内心。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754696"
+    },
+    {
+      "english": "Let it be, easy does it.",
+      "Chinese": "顺其自然, 慢慢来。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754697"
+    },
+    {
+      "english": "Inner calm, a treasure.",
+      "Chinese": "内心平静, 是财富。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754700"
+    },
+    {
+      "english": "Joyful spirit, shines bright.",
+      "Chinese": "快乐精神, 放光芒。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754701"
+    },
+    {
+      "english": "Kindness ripples, outward.",
+      "Chinese": "善良会扩散, 向外。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754702"
+    },
+    {
+      "english": "Contentment, is true wealth.",
+      "Chinese": "满足, 是真财富。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754703"
+    },
+    {
+      "english": "Peaceful thoughts, beautiful life.",
+      "Chinese": "平和想法, 美好生活。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754704"
+    },
+    {
+      "english": "Embrace simplicity, find peace.",
+      "Chinese": "拥抱简单, 找到平静。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754705"
+    },
+    {
+      "english": "Inner quiet, answers all.",
+      "Chinese": "内心安静, 回答一切。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754706"
+    },
+    {
+      "english": "Be gentle, with yourself.",
+      "Chinese": "对自己, 温柔点。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754708"
+    },
+    {
+      "english": "Flow with life, don't fight.",
+      "Chinese": "顺着生活, 别抵抗。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754709"
+    },
+    {
+      "english": "Serenity, a guiding light.",
+      "Chinese": "宁静, 是指路灯。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754710"
+    },
+    {
+      "english": "Find your center, stay grounded.",
+      "Chinese": "找到中心, 保持稳定。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754711"
+    },
+    {
+      "english": "Quiet the noise, hear truth.",
+      "Chinese": "静下心, 听真理。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754712"
+    },
+    {
+      "english": "Peace begins, with you.",
+      "Chinese": "平静开始, 在你这里。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754713"
+    },
+    {
+      "english": "Accept what is, find peace.",
+      "Chinese": "接受事实, 找到平静。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754714"
+    },
+    {
+      "english": "Inner calm, conquers all.",
+      "Chinese": "内心平静, 战胜一切。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754715"
+    },
+    {
+      "english": "Be happy, with less.",
+      "Chinese": "快乐, 知足常乐。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754716"
+    },
+    {
+      "english": "Kind heart, full life.",
+      "Chinese": "善良的心, 完整生活。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754717"
+    },
+    {
+      "english": "Quiet mind, happy heart.",
+      "Chinese": "心静, 乐多。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754718"
+    },
+    {
+      "english": "Breathe deep, let go.",
+      "Chinese": "深呼吸, 放轻松。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754719"
+    },
+    {
+      "english": "Be present, right now.",
+      "Chinese": "活在当下, 就是现在。",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-20T04:34:16.754722"
     }
   ],
-  "last_updated": "2026-07-19T04:21:58.119341"
+  "last_updated": "2026-07-20T04:34:16.754724"
 }
