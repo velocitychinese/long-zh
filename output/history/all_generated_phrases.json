@@ -5759,7 +5759,727 @@
       "Chinese": "问为什么，得答案。",
       "category": "Growth",
       "generated_at": "2026-07-21T04:14:07.404342"
+    },
+    {
+      "english": "Unlock doors, with practice.",
+      "Chinese": "练习，能打开门。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365525"
+    },
+    {
+      "english": "Speak truth, with kindness.",
+      "Chinese": "诚实说，带善意。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365535"
+    },
+    {
+      "english": "Ideas grow, like plants.",
+      "Chinese": "想法，会长大。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365537"
+    },
+    {
+      "english": "Your voice, matters too.",
+      "Chinese": "你的声音，也重要。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365538"
+    },
+    {
+      "english": "Create your own luck.",
+      "Chinese": "创造，你自己的运气。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365540"
+    },
+    {
+      "english": "Patience, a secret weapon.",
+      "Chinese": "耐心，是秘密武器。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365541"
+    },
+    {
+      "english": "Believe it, achieve it.",
+      "Chinese": "相信它，就做到。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365542"
+    },
+    {
+      "english": "Every challenge, a chance.",
+      "Chinese": "每个挑战，是机会。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365545"
+    },
+    {
+      "english": "Learn to let go.",
+      "Chinese": "学会，放手。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365546"
+    },
+    {
+      "english": "Be the change, you want.",
+      "Chinese": "做你想，改变。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365547"
+    },
+    {
+      "english": "Connect dots, see bigger.",
+      "Chinese": "连点成线，看大局。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365549"
+    },
+    {
+      "english": "Wisdom comes, from living.",
+      "Chinese": "智慧，来自生活。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365550"
+    },
+    {
+      "english": "Your efforts, add up.",
+      "Chinese": "你的努力，会累积。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365551"
+    },
+    {
+      "english": "Listen to your heart.",
+      "Chinese": "听从，你内心。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365553"
+    },
+    {
+      "english": "Dare to be different.",
+      "Chinese": "敢于，与众不同。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365554"
+    },
+    {
+      "english": "Open mind, open world.",
+      "Chinese": "心敞开，世界开。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365555"
+    },
+    {
+      "english": "Share your gifts, freely.",
+      "Chinese": "分享，你的天赋。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365556"
+    },
+    {
+      "english": "Question everything, learn.",
+      "Chinese": "质疑，一切，学习。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365558"
+    },
+    {
+      "english": "Be grateful, for today.",
+      "Chinese": "感恩，今天。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365559"
+    },
+    {
+      "english": "Strength is, within you.",
+      "Chinese": "力量，在你里面。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365560"
+    },
+    {
+      "english": "Listen to silence, too.",
+      "Chinese": "也听，安静。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365561"
+    },
+    {
+      "english": "Dream with your eyes, open.",
+      "Chinese": "睁眼，做梦。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365562"
+    },
+    {
+      "english": "Integrity, is your compass.",
+      "Chinese": "诚信，是你的罗盘。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365563"
+    },
+    {
+      "english": "Be kind, to yourself.",
+      "Chinese": "对自己，好点。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365564"
+    },
+    {
+      "english": "Your journey, is unique.",
+      "Chinese": "你的旅程，是独特的。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365565"
+    },
+    {
+      "english": "Seek peace, within.",
+      "Chinese": "寻求，内心的平静。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365566"
+    },
+    {
+      "english": "Courage, fuels action.",
+      "Chinese": "勇气，驱动行动。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365567"
+    },
+    {
+      "english": "Knowledge, is a light.",
+      "Chinese": "知识，是光。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365568"
+    },
+    {
+      "english": "Find balance, in chaos.",
+      "Chinese": "乱中，找平衡。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365569"
+    },
+    {
+      "english": "Inspire, others daily.",
+      "Chinese": "每天，激励别人。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365570"
+    },
+    {
+      "english": "Embrace, your true self.",
+      "Chinese": "拥抱，真实的你。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365571"
+    },
+    {
+      "english": "Be the artist, of life.",
+      "Chinese": "做生命的，艺术家。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365572"
+    },
+    {
+      "english": "Stay curious, find wonder.",
+      "Chinese": "保持好奇，找奇妙。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365573"
+    },
+    {
+      "english": "Your potential, is vast.",
+      "Chinese": "你的潜能，无限。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365574"
+    },
+    {
+      "english": "Unlock doors, with practice.",
+      "Chinese": "练习，能打开门。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365575"
+    },
+    {
+      "english": "Speak truth, with kindness.",
+      "Chinese": "诚实说，带善意。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365577"
+    },
+    {
+      "english": "Ideas grow, like plants.",
+      "Chinese": "想法，会长大。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365578"
+    },
+    {
+      "english": "Your voice, matters too.",
+      "Chinese": "你的声音，也重要。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365579"
+    },
+    {
+      "english": "Create your own luck.",
+      "Chinese": "创造，你自己的运气。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365580"
+    },
+    {
+      "english": "Patience, a secret weapon.",
+      "Chinese": "耐心，是秘密武器。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365581"
+    },
+    {
+      "english": "Believe it, achieve it.",
+      "Chinese": "相信它，就做到。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365582"
+    },
+    {
+      "english": "Every challenge, a chance.",
+      "Chinese": "每个挑战，是机会。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365583"
+    },
+    {
+      "english": "Learn to let go.",
+      "Chinese": "学会，放手。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365585"
+    },
+    {
+      "english": "Be the change, you want.",
+      "Chinese": "做你想，改变。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365586"
+    },
+    {
+      "english": "Connect dots, see bigger.",
+      "Chinese": "连点成线，看大局。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365587"
+    },
+    {
+      "english": "Wisdom comes, from living.",
+      "Chinese": "智慧，来自生活。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365588"
+    },
+    {
+      "english": "Your efforts, add up.",
+      "Chinese": "你的努力，会累积。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365589"
+    },
+    {
+      "english": "Listen to your heart.",
+      "Chinese": "听从，你内心。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365613"
+    },
+    {
+      "english": "Dare to be different.",
+      "Chinese": "敢于，与众不同。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365614"
+    },
+    {
+      "english": "Open mind, open world.",
+      "Chinese": "心敞开，世界开。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365615"
+    },
+    {
+      "english": "Share your gifts, freely.",
+      "Chinese": "分享，你的天赋。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365616"
+    },
+    {
+      "english": "Question everything, learn.",
+      "Chinese": "质疑，一切，学习。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365618"
+    },
+    {
+      "english": "Be grateful, for today.",
+      "Chinese": "感恩，今天。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365619"
+    },
+    {
+      "english": "Strength is, within you.",
+      "Chinese": "力量，在你里面。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365620"
+    },
+    {
+      "english": "Listen to silence, too.",
+      "Chinese": "也听，安静。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365621"
+    },
+    {
+      "english": "Dream with your eyes, open.",
+      "Chinese": "睁眼，做梦。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365622"
+    },
+    {
+      "english": "Integrity, is your compass.",
+      "Chinese": "诚信，是你的罗盘。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365623"
+    },
+    {
+      "english": "Be kind, to yourself.",
+      "Chinese": "对自己，好点。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365624"
+    },
+    {
+      "english": "Your journey, is unique.",
+      "Chinese": "你的旅程，是独特的。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365625"
+    },
+    {
+      "english": "Seek peace, within.",
+      "Chinese": "寻求，内心的平静。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365626"
+    },
+    {
+      "english": "Courage, fuels action.",
+      "Chinese": "勇气，驱动行动。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365628"
+    },
+    {
+      "english": "Knowledge, is a light.",
+      "Chinese": "知识，是光。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365629"
+    },
+    {
+      "english": "Find balance, in chaos.",
+      "Chinese": "乱中，找平衡。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365630"
+    },
+    {
+      "english": "Inspire, others daily.",
+      "Chinese": "每天，激励别人。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365631"
+    },
+    {
+      "english": "Embrace, your true self.",
+      "Chinese": "拥抱，真实的你。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365632"
+    },
+    {
+      "english": "Be the artist, of life.",
+      "Chinese": "做生命的，艺术家。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365633"
+    },
+    {
+      "english": "Stay curious, find wonder.",
+      "Chinese": "保持好奇，找奇妙。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365634"
+    },
+    {
+      "english": "Your potential, is vast.",
+      "Chinese": "你的潜能，无限。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365635"
+    },
+    {
+      "english": "Unlock doors, with practice.",
+      "Chinese": "练习，能打开门。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365636"
+    },
+    {
+      "english": "Speak truth, with kindness.",
+      "Chinese": "诚实说，带善意。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365637"
+    },
+    {
+      "english": "Ideas grow, like plants.",
+      "Chinese": "想法，会长大。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365638"
+    },
+    {
+      "english": "Your voice, matters too.",
+      "Chinese": "你的声音，也重要。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365639"
+    },
+    {
+      "english": "Create your own luck.",
+      "Chinese": "创造，你自己的运气。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365641"
+    },
+    {
+      "english": "Patience, a secret weapon.",
+      "Chinese": "耐心，是秘密武器。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365642"
+    },
+    {
+      "english": "Believe it, achieve it.",
+      "Chinese": "相信它，就做到。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365643"
+    },
+    {
+      "english": "Every challenge, a chance.",
+      "Chinese": "每个挑战，是机会。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365644"
+    },
+    {
+      "english": "Learn to let go.",
+      "Chinese": "学会，放手。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365645"
+    },
+    {
+      "english": "Be the change, you want.",
+      "Chinese": "做你想，改变。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365646"
+    },
+    {
+      "english": "Connect dots, see bigger.",
+      "Chinese": "连点成线，看大局。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365647"
+    },
+    {
+      "english": "Wisdom comes, from living.",
+      "Chinese": "智慧，来自生活。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365648"
+    },
+    {
+      "english": "Your efforts, add up.",
+      "Chinese": "你的努力，会累积。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365649"
+    },
+    {
+      "english": "Listen to your heart.",
+      "Chinese": "听从，你内心。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365650"
+    },
+    {
+      "english": "Dare to be different.",
+      "Chinese": "敢于，与众不同。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365651"
+    },
+    {
+      "english": "Open mind, open world.",
+      "Chinese": "心敞开，世界开。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365652"
+    },
+    {
+      "english": "Share your gifts, freely.",
+      "Chinese": "分享，你的天赋。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365653"
+    },
+    {
+      "english": "Question everything, learn.",
+      "Chinese": "质疑，一切，学习。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365654"
+    },
+    {
+      "english": "Be grateful, for today.",
+      "Chinese": "感恩，今天。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365655"
+    },
+    {
+      "english": "Strength is, within you.",
+      "Chinese": "力量，在你里面。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365656"
+    },
+    {
+      "english": "Listen to silence, too.",
+      "Chinese": "也听，安静。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365657"
+    },
+    {
+      "english": "Dream with your eyes, open.",
+      "Chinese": "睁眼，做梦。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365658"
+    },
+    {
+      "english": "Integrity, is your compass.",
+      "Chinese": "诚信，是你的罗盘。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365659"
+    },
+    {
+      "english": "Be kind, to yourself.",
+      "Chinese": "对自己，好点。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365660"
+    },
+    {
+      "english": "Your journey, is unique.",
+      "Chinese": "你的旅程，是独特的。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365662"
+    },
+    {
+      "english": "Seek peace, within.",
+      "Chinese": "寻求，内心的平静。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365663"
+    },
+    {
+      "english": "Courage, fuels action.",
+      "Chinese": "勇气，驱动行动。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365664"
+    },
+    {
+      "english": "Knowledge, is a light.",
+      "Chinese": "知识，是光。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365665"
+    },
+    {
+      "english": "Find balance, in chaos.",
+      "Chinese": "乱中，找平衡。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365666"
+    },
+    {
+      "english": "Inspire, others daily.",
+      "Chinese": "每天，激励别人。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365667"
+    },
+    {
+      "english": "Embrace, your true self.",
+      "Chinese": "拥抱，真实的你。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365668"
+    },
+    {
+      "english": "Be the artist, of life.",
+      "Chinese": "做生命的，艺术家。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365669"
+    },
+    {
+      "english": "Stay curious, find wonder.",
+      "Chinese": "保持好奇，找奇妙。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365680"
+    },
+    {
+      "english": "Your potential, is vast.",
+      "Chinese": "你的潜能，无限。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365681"
+    },
+    {
+      "english": "Unlock doors, with practice.",
+      "Chinese": "练习，能打开门。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365682"
+    },
+    {
+      "english": "Speak truth, with kindness.",
+      "Chinese": "诚实说，带善意。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365683"
+    },
+    {
+      "english": "Ideas grow, like plants.",
+      "Chinese": "想法，会长大。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365684"
+    },
+    {
+      "english": "Your voice, matters too.",
+      "Chinese": "你的声音，也重要。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365685"
+    },
+    {
+      "english": "Create your own luck.",
+      "Chinese": "创造，你自己的运气。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365686"
+    },
+    {
+      "english": "Patience, a secret weapon.",
+      "Chinese": "耐心，是秘密武器。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365687"
+    },
+    {
+      "english": "Believe it, achieve it.",
+      "Chinese": "相信它，就做到。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365688"
+    },
+    {
+      "english": "Every challenge, a chance.",
+      "Chinese": "每个挑战，是机会。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365689"
+    },
+    {
+      "english": "Learn to let go.",
+      "Chinese": "学会，放手。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365690"
+    },
+    {
+      "english": "Be the change, you want.",
+      "Chinese": "做你想，改变。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365691"
+    },
+    {
+      "english": "Connect dots, see bigger.",
+      "Chinese": "连点成线，看大局。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365692"
+    },
+    {
+      "english": "Wisdom comes, from living.",
+      "Chinese": "智慧，来自生活。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365693"
+    },
+    {
+      "english": "Your efforts, add up.",
+      "Chinese": "你的努力，会累积。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365694"
+    },
+    {
+      "english": "Listen to your heart.",
+      "Chinese": "听从，你内心。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365695"
+    },
+    {
+      "english": "Dare to be different.",
+      "Chinese": "敢于，与众不同。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365696"
+    },
+    {
+      "english": "Open mind, open world.",
+      "Chinese": "心敞开，世界开。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365697"
+    },
+    {
+      "english": "Share your gifts, freely.",
+      "Chinese": "分享，你的天赋。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365698"
+    },
+    {
+      "english": "Question everything, learn.",
+      "Chinese": "质疑，一切，学习。",
+      "category": "Success",
+      "generated_at": "2026-07-22T04:15:20.365699"
     }
   ],
-  "last_updated": "2026-07-21T04:14:07.404345"
+  "last_updated": "2026-07-22T04:15:20.365701"
 }
