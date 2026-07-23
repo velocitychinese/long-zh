@@ -669,6 +669,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     ]
 
     Chinese_font_paths = [
+        str(BASE_DIR / "fonts" / "NotoSansSC-Bold.ttf"),
         "C:/Windows/Fonts/msgothic.ttc",
         "C:/Windows/Fonts/YuGothB.ttc",
         "C:/Windows/Fonts/Meiryo.ttc",
@@ -833,7 +834,7 @@ def generate_thumbnail(category_english: str, category_Chinese: str, output_path
 
     # Load fonts
     english_font_paths = ["C:/Windows/Fonts/segoeuib.ttf", "C:/Windows/Fonts/arialbd.ttf"]
-    Chinese_font_paths = ["C:/Windows/Fonts/msgothic.ttc", "C:/Windows/Fonts/YuGothB.ttc", "C:/Windows/Fonts/Meiryo.ttc",
+    Chinese_font_paths = [str(BASE_DIR / "fonts" / "NotoSansSC-Bold.ttf"), "C:/Windows/Fonts/msgothic.ttc", "C:/Windows/Fonts/YuGothB.ttc", "C:/Windows/Fonts/Meiryo.ttc",
         "/usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc",
         "/usr/share/fonts/noto-cjk/NotoSansCJK-Bold.ttc",
         "/usr/share/fonts/truetype/wqy/wqy-zenhei.ttc"]
