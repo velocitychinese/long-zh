@@ -7919,7 +7919,727 @@
       "Chinese": "平静在于，静止。",
       "category": "Inner Peace",
       "generated_at": "2026-07-24T04:12:10.231094"
+    },
+    {
+      "english": "Balance scales, your life.",
+      "Chinese": "平衡人生，你的。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.162973"
+    },
+    {
+      "english": "Steady hand, steady path.",
+      "Chinese": "稳手，稳路。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.162984"
+    },
+    {
+      "english": "Inner peace, outer calm.",
+      "Chinese": "内心静，外表稳。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.162986"
+    },
+    {
+      "english": "Graceful flow, like water.",
+      "Chinese": "优雅流，如水。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.162987"
+    },
+    {
+      "english": "Center yourself, find strength.",
+      "Chinese": "中心，寻力。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.162988"
+    },
+    {
+      "english": "Life's rhythm, dance to it.",
+      "Chinese": "生命韵律，跳。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.162989"
+    },
+    {
+      "english": "Harmony within, harmony out.",
+      "Chinese": "内和，外也和。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.162991"
+    },
+    {
+      "english": "Work and play, together.",
+      "Chinese": "工作玩乐，一起。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.162993"
+    },
+    {
+      "english": "Mind and body, one.",
+      "Chinese": "思想身，一体。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.162995"
+    },
+    {
+      "english": "Quiet whispers, guide you.",
+      "Chinese": "静声，引你。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.162996"
+    },
+    {
+      "english": "Gentle breeze, calms all.",
+      "Chinese": "轻风，安一切。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.162997"
+    },
+    {
+      "english": "Stable roots, reach sky.",
+      "Chinese": "稳根，触天。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.162999"
+    },
+    {
+      "english": "Slow down, see more.",
+      "Chinese": "慢点，看多。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163002"
+    },
+    {
+      "english": "Equilibrium, nature's way.",
+      "Chinese": "均衡，自然。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163004"
+    },
+    {
+      "english": "Your center, your strength.",
+      "Chinese": "核心，你力量。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163005"
+    },
+    {
+      "english": "Still waters, reflect truth.",
+      "Chinese": "静水，映真。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163006"
+    },
+    {
+      "english": "Find your rhythm, your balance.",
+      "Chinese": "寻节奏，寻衡。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163007"
+    },
+    {
+      "english": "Even keel, through storms.",
+      "Chinese": "平稳，度风雨。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163008"
+    },
+    {
+      "english": "Inner stillness, outer action.",
+      "Chinese": "内静，外动。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163011"
+    },
+    {
+      "english": "Balance gives, freedom.",
+      "Chinese": "平衡给，自由。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163012"
+    },
+    {
+      "english": "Soft strength, always wins.",
+      "Chinese": "柔韧，常胜。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163013"
+    },
+    {
+      "english": "Breathe deep, live full.",
+      "Chinese": "深呼吸，活满。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163015"
+    },
+    {
+      "english": "Steady heart, clear mind.",
+      "Chinese": "稳心，清脑。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163016"
+    },
+    {
+      "english": "Find your pause, recharge.",
+      "Chinese": "寻停顿，充能。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163017"
+    },
+    {
+      "english": "Harmony is, the goal.",
+      "Chinese": "和谐是，目标。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163018"
+    },
+    {
+      "english": "Gentle push, gentle pull.",
+      "Chinese": "轻推，轻拉。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163019"
+    },
+    {
+      "english": "Center stage, your life.",
+      "Chinese": "中心，你生命。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163020"
+    },
+    {
+      "english": "Walk steady, go far.",
+      "Chinese": "稳走，远行。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163021"
+    },
+    {
+      "english": "Inner calm, steady ship.",
+      "Chinese": "内静，稳船。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163022"
+    },
+    {
+      "english": "Balance your energies, thrive.",
+      "Chinese": "调能，兴旺。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163023"
+    },
+    {
+      "english": "Quiet strength, in stillness.",
+      "Chinese": "静力，在静。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163023"
+    },
+    {
+      "english": "Flow with life, not against.",
+      "Chinese": "随生命流，不反。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163024"
+    },
+    {
+      "english": "Your weight, in balance.",
+      "Chinese": "你重，在衡。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163026"
+    },
+    {
+      "english": "Find stillness, in motion.",
+      "Chinese": "寻静，在动。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163027"
+    },
+    {
+      "english": "Life's pivot, your control.",
+      "Chinese": "生命枢轴，你控。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163028"
+    },
+    {
+      "english": "Equal parts, happiness.",
+      "Chinese": "等份，快乐。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163029"
+    },
+    {
+      "english": "Steady breath, steady life.",
+      "Chinese": "稳息，稳生。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163030"
+    },
+    {
+      "english": "Embrace the middle way.",
+      "Chinese": "拥抱中道。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163031"
+    },
+    {
+      "english": "Harmony creates, beauty.",
+      "Chinese": "和谐创，美。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163032"
+    },
+    {
+      "english": "Balance scales, your life.",
+      "Chinese": "平衡人生，你的。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163033"
+    },
+    {
+      "english": "Steady hand, steady path.",
+      "Chinese": "稳手，稳路。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163034"
+    },
+    {
+      "english": "Inner peace, outer calm.",
+      "Chinese": "内心静，外表稳。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163035"
+    },
+    {
+      "english": "Graceful flow, like water.",
+      "Chinese": "优雅流，如水。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163036"
+    },
+    {
+      "english": "Center yourself, find strength.",
+      "Chinese": "中心，寻力。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163037"
+    },
+    {
+      "english": "Life's rhythm, dance to it.",
+      "Chinese": "生命韵律，跳。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163038"
+    },
+    {
+      "english": "Harmony within, harmony out.",
+      "Chinese": "内和，外也和。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163039"
+    },
+    {
+      "english": "Work and play, together.",
+      "Chinese": "工作玩乐，一起。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163040"
+    },
+    {
+      "english": "Mind and body, one.",
+      "Chinese": "思想身，一体。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163041"
+    },
+    {
+      "english": "Quiet whispers, guide you.",
+      "Chinese": "静声，引你。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163042"
+    },
+    {
+      "english": "Gentle breeze, calms all.",
+      "Chinese": "轻风，安一切。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163043"
+    },
+    {
+      "english": "Stable roots, reach sky.",
+      "Chinese": "稳根，触天。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163044"
+    },
+    {
+      "english": "Slow down, see more.",
+      "Chinese": "慢点，看多。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163045"
+    },
+    {
+      "english": "Equilibrium, nature's way.",
+      "Chinese": "均衡，自然。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163046"
+    },
+    {
+      "english": "Your center, your strength.",
+      "Chinese": "核心，你力量。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163047"
+    },
+    {
+      "english": "Still waters, reflect truth.",
+      "Chinese": "静水，映真。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163048"
+    },
+    {
+      "english": "Find your rhythm, your balance.",
+      "Chinese": "寻节奏，寻衡。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163049"
+    },
+    {
+      "english": "Even keel, through storms.",
+      "Chinese": "平稳，度风雨。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163050"
+    },
+    {
+      "english": "Inner stillness, outer action.",
+      "Chinese": "内静，外动。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163053"
+    },
+    {
+      "english": "Balance gives, freedom.",
+      "Chinese": "平衡给，自由。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163054"
+    },
+    {
+      "english": "Soft strength, always wins.",
+      "Chinese": "柔韧，常胜。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163055"
+    },
+    {
+      "english": "Breathe deep, live full.",
+      "Chinese": "深呼吸，活满。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163056"
+    },
+    {
+      "english": "Steady heart, clear mind.",
+      "Chinese": "稳心，清脑。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163057"
+    },
+    {
+      "english": "Find your pause, recharge.",
+      "Chinese": "寻停顿，充能。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163058"
+    },
+    {
+      "english": "Harmony is, the goal.",
+      "Chinese": "和谐是，目标。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163061"
+    },
+    {
+      "english": "Gentle push, gentle pull.",
+      "Chinese": "轻推，轻拉。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163062"
+    },
+    {
+      "english": "Center stage, your life.",
+      "Chinese": "中心，你生命。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163063"
+    },
+    {
+      "english": "Walk steady, go far.",
+      "Chinese": "稳走，远行。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163064"
+    },
+    {
+      "english": "Inner calm, steady ship.",
+      "Chinese": "内静，稳船。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163065"
+    },
+    {
+      "english": "Balance your energies, thrive.",
+      "Chinese": "调能，兴旺。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163066"
+    },
+    {
+      "english": "Quiet strength, in stillness.",
+      "Chinese": "静力，在静。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163067"
+    },
+    {
+      "english": "Flow with life, not against.",
+      "Chinese": "随生命流，不反。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163068"
+    },
+    {
+      "english": "Your weight, in balance.",
+      "Chinese": "你重，在衡。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163069"
+    },
+    {
+      "english": "Find stillness, in motion.",
+      "Chinese": "寻静，在动。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163070"
+    },
+    {
+      "english": "Life's pivot, your control.",
+      "Chinese": "生命枢轴，你控。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163071"
+    },
+    {
+      "english": "Equal parts, happiness.",
+      "Chinese": "等份，快乐。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163072"
+    },
+    {
+      "english": "Steady breath, steady life.",
+      "Chinese": "稳息，稳生。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163073"
+    },
+    {
+      "english": "Embrace the middle way.",
+      "Chinese": "拥抱中道。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163074"
+    },
+    {
+      "english": "Harmony creates, beauty.",
+      "Chinese": "和谐创，美。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163075"
+    },
+    {
+      "english": "Balance scales, your life.",
+      "Chinese": "平衡人生，你的。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163076"
+    },
+    {
+      "english": "Steady hand, steady path.",
+      "Chinese": "稳手，稳路。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163077"
+    },
+    {
+      "english": "Inner peace, outer calm.",
+      "Chinese": "内心静，外表稳。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163078"
+    },
+    {
+      "english": "Graceful flow, like water.",
+      "Chinese": "优雅流，如水。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163081"
+    },
+    {
+      "english": "Center yourself, find strength.",
+      "Chinese": "中心，寻力。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163082"
+    },
+    {
+      "english": "Life's rhythm, dance to it.",
+      "Chinese": "生命韵律，跳。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163083"
+    },
+    {
+      "english": "Harmony within, harmony out.",
+      "Chinese": "内和，外也和。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163084"
+    },
+    {
+      "english": "Work and play, together.",
+      "Chinese": "工作玩乐，一起。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163086"
+    },
+    {
+      "english": "Mind and body, one.",
+      "Chinese": "思想身，一体。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163087"
+    },
+    {
+      "english": "Quiet whispers, guide you.",
+      "Chinese": "静声，引你。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163088"
+    },
+    {
+      "english": "Gentle breeze, calms all.",
+      "Chinese": "轻风，安一切。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163091"
+    },
+    {
+      "english": "Stable roots, reach sky.",
+      "Chinese": "稳根，触天。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163092"
+    },
+    {
+      "english": "Slow down, see more.",
+      "Chinese": "慢点，看多。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163093"
+    },
+    {
+      "english": "Equilibrium, nature's way.",
+      "Chinese": "均衡，自然。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163094"
+    },
+    {
+      "english": "Your center, your strength.",
+      "Chinese": "核心，你力量。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163095"
+    },
+    {
+      "english": "Still waters, reflect truth.",
+      "Chinese": "静水，映真。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163096"
+    },
+    {
+      "english": "Find your rhythm, your balance.",
+      "Chinese": "寻节奏，寻衡。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163097"
+    },
+    {
+      "english": "Even keel, through storms.",
+      "Chinese": "平稳，度风雨。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163098"
+    },
+    {
+      "english": "Inner stillness, outer action.",
+      "Chinese": "内静，外动。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163099"
+    },
+    {
+      "english": "Balance gives, freedom.",
+      "Chinese": "平衡给，自由。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163100"
+    },
+    {
+      "english": "Soft strength, always wins.",
+      "Chinese": "柔韧，常胜。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163101"
+    },
+    {
+      "english": "Breathe deep, live full.",
+      "Chinese": "深呼吸，活满。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163102"
+    },
+    {
+      "english": "Steady heart, clear mind.",
+      "Chinese": "稳心，清脑。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163103"
+    },
+    {
+      "english": "Find your pause, recharge.",
+      "Chinese": "寻停顿，充能。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163104"
+    },
+    {
+      "english": "Harmony is, the goal.",
+      "Chinese": "和谐是，目标。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163105"
+    },
+    {
+      "english": "Gentle push, gentle pull.",
+      "Chinese": "轻推，轻拉。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163106"
+    },
+    {
+      "english": "Center stage, your life.",
+      "Chinese": "中心，你生命。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163107"
+    },
+    {
+      "english": "Walk steady, go far.",
+      "Chinese": "稳走，远行。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163108"
+    },
+    {
+      "english": "Inner calm, steady ship.",
+      "Chinese": "内静，稳船。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163109"
+    },
+    {
+      "english": "Balance your energies, thrive.",
+      "Chinese": "调能，兴旺。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163110"
+    },
+    {
+      "english": "Quiet strength, in stillness.",
+      "Chinese": "静力，在静。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163111"
+    },
+    {
+      "english": "Flow with life, not against.",
+      "Chinese": "随生命流，不反。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163112"
+    },
+    {
+      "english": "Your weight, in balance.",
+      "Chinese": "你重，在衡。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163113"
+    },
+    {
+      "english": "Find stillness, in motion.",
+      "Chinese": "寻静，在动。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163114"
+    },
+    {
+      "english": "Life's pivot, your control.",
+      "Chinese": "生命枢轴，你控。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163115"
+    },
+    {
+      "english": "Equal parts, happiness.",
+      "Chinese": "等份，快乐。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163116"
+    },
+    {
+      "english": "Steady breath, steady life.",
+      "Chinese": "稳息，稳生。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163118"
+    },
+    {
+      "english": "Embrace the middle way.",
+      "Chinese": "拥抱中道。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163119"
+    },
+    {
+      "english": "Harmony creates, beauty.",
+      "Chinese": "和谐创，美。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163120"
+    },
+    {
+      "english": "Balance scales, your life.",
+      "Chinese": "平衡人生，你的。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163121"
+    },
+    {
+      "english": "Steady hand, steady path.",
+      "Chinese": "稳手，稳路。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163122"
+    },
+    {
+      "english": "Inner peace, outer calm.",
+      "Chinese": "内心静，外表稳。",
+      "category": "Balance",
+      "generated_at": "2026-07-26T04:24:14.163123"
     }
   ],
-  "last_updated": "2026-07-24T04:12:10.231096"
+  "last_updated": "2026-07-26T04:24:14.163126"
 }
