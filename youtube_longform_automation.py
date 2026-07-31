@@ -37,26 +37,26 @@ VIDEO_WIDTH = 1920
 VIDEO_HEIGHT = 1080
 FPS = 30
 TARGET_DURATION_MINUTES = 5  # Target 5-minute videos (60 phrases)
-TARGET_PHRASES = 120
+TARGET_PHRASES = 60  # Number of phrases to generate
 
 # English category names (for American/European learners)
 CATEGORIES_ENGLISH = [
     "Motivation", "Love", "Success", "Wisdom", "Happiness",
-    "Self Improvement", "感恩e", "Friendship", "Hope", "Creativity",
+    "Self Improvement", "Gratitude", "Friendship", "Hope", "Creativity",
     "Inner Peace", "Confidence", "Perseverance", "Inspiration", "Positive Life",
     "Courage", "Kindness", "Patience", "Forgiveness", "Strength",
     "Joy", "Balance", "Growth", "Purpose", "Mindfulness",
 ]
 
 # Chinese translations for display
-CATEGORIES_Chinese = {
+CATEGORIES_CHINESE = {
     "Motivation": "动力",
     "Love": "爱",
     "Success": "成功",
     "Wisdom": "智慧",
     "Happiness": "幸福",
     "Self Improvement": "自我提升",
-    "感恩e": "感恩",
+    "Gratitude": "感恩",
     "Friendship": "友谊",
     "Hope": "希望",
     "Creativity": "创造力",
@@ -75,16 +75,11 @@ CATEGORIES_Chinese = {
     "Growth": "成长",
     "Purpose": "目标",
     "Mindfulness": "正念",
-    "Greetings": "问候",
-    "Basic Phrases": "基本短语",
-    "Travel": "旅行",
-    "Food": "食物",
-    "Daily Life": "日常生活",
 }
 
 # Edge TTS voices
 ENGLISH_VOICE = "en-US-GuyNeural"
-Chinese_VOICE = "zh-CN-XiaoxiaoNeural"
+CHINESE_VOICE = "zh-CN-XiaoxiaoNeural"
 
 # Phrase history file (NEVER delete this!)
 PHRASE_HISTORY_FILE = HISTORY_DIR / "all_generated_phrases.json"
@@ -187,7 +182,7 @@ def add_phrases_to_history(phrases, category):
     for phrase in phrases:
         history["phrases"].append({
             "english": phrase["english"],
-            "Chinese": phrase["Chinese"],
+            "chinese": phrase["chinese"],
             "category": category,
             "generated_at": datetime.now().isoformat()
         })
@@ -211,7 +206,7 @@ def calculate_phrases_needed(target_minutes: int) -> int:
 def generate_phrases_for_longform(category_english: str, num_phrases: int) -> list:
     """Generate unique bilingual phrases for long-form video"""
 
-    category_Chinese = CATEGORIES_Chinese[category_english]
+    category_chinese = CATEGORIES_CHINESE[category_english]
 
     history = load_phrase_history()
     used_phrases = [p.get("english", "") for p in history.get("phrases", [])]
@@ -260,11 +255,11 @@ IMPORTANT RULES FOR NATURAL SPEECH:
 
 For each phrase:
 1. English phrase (with commas for natural pauses)
-2. Chinese translation
-3. Pronunciation guide (phonetic spelling for English speakers)
+2. Chinese translation (Simplified Chinese)
+3. Romaji pronunciation guide (e.g., "Konnichiwa")
 
 Return as JSON array:
-[{{"english": "...", "Chinese": "...", "pronunciation": "..."}}]
+[{{"english": "...", "chinese": "...", "romaji": "..."}}]
 
 IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before.{exclusion_note}"""
 
@@ -332,140 +327,140 @@ def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
 
     all_fallbacks = {
         "Motivation": [
-            {"english": "Believe in yourself.", "Chinese": "Cree en ti mismo.", "pronunciation": "cre-e en ti mis-mo."},
-            {"english": "You are capable of amazing things.", "Chinese": "Eres capaz de cosas asombrosas.", "pronunciation": "e-res ca-paz de co-sas a-som-bro-sas."},
-            {"english": "Dream big, start small.", "Chinese": "Sueña en grande, empieza pequeño.", "pronunciation": "swe-nya en gran-de, em-pje-za pe-ke-nyo."},
-            {"english": "Your future is created by your actions.", "Chinese": "Tu futuro es creado por tus acciones.", "pronunciation": "tu fu-tu-ro es cre-a-do por tus ak-syo-nes."},
-            {"english": "Never give up on your dreams.", "Chinese": "Nunca te rindas en tus sueños.", "pronunciation": "nun-ka te rin-das en tus swe-nyos."},
-            {"english": "Small steps lead to big changes.", "Chinese": "Pequeños pasos llevan a grandes cambios.", "pronunciation": "pe-ke-nyos pa-sos ye-van a gran-des cam-byos."},
-            {"english": "You are stronger than you think.", "Chinese": "Eres más fuerte de lo que crees.", "pronunciation": "e-res mas fwer-te de lo ke cre-es."},
+            {"english": "Believe in yourself.", "chinese": "相信自己。", "romaji": "Xiāngxìn zìjǐ."},
+            {"english": "You are capable of amazing things.", "chinese": "あなたは素晴らしいことができます。", "romaji": "Anata wa subarashii koto ga dekimasu."},
+            {"english": "Dream big, start small.", "chinese": "大きな夢を持ち、小さな一歩から始めて。", "romaji": "Ōkina yume o mochi, chiisana ippo kara hajimete."},
+            {"english": "Your future is created by your actions.", "chinese": "あなたの未来はあなたの行動で作られます。", "romaji": "Anata no mirai wa anata no kōdō de tsukuraremasu."},
+            {"english": "Never give up on your dreams.", "chinese": "夢をあきらめないで。", "romaji": "Yume o akiramenaide."},
+            {"english": "Small steps lead to big changes.", "chinese": "小さな一歩が大きな変化につながります。", "romaji": "Chiisana ippo ga ōkina henka ni tsunagarimasu."},
+            {"english": "You are stronger than you think.", "chinese": "あなたは自分が思うより強いです。", "romaji": "Anata wa jibun ga omou yori tsuyoi desu."},
         ],
         "Love": [
-            {"english": "Love yourself first.", "Chinese": "Ámate a ti mismo primero.", "pronunciation": "a-ma-te a ti mis-mo pri-me-ro."},
-            {"english": "Love makes everything possible.", "Chinese": "El amor hace que todo sea posible.", "pronunciation": "el a-mor a-se ke to-do se-a po-si-ble."},
-            {"english": "My heart beats for you.", "Chinese": "Mi corazón late por ti.", "pronunciation": "mi co-ra-zon la-te por ti."},
-            {"english": "You are my everything.", "Chinese": "Eres mi todo.", "pronunciation": "e-res mi to-do."},
-            {"english": "Together forever, hand in hand.", "Chinese": "Juntos por siempre, mano a mano.", "pronunciation": "jun-tos por syem-pre, ma-no a ma-no."},
+            {"english": "Love yourself first.", "chinese": "まず自分を愛して。", "romaji": "Mazu jibun o aishite."},
+            {"english": "Love makes everything possible.", "chinese": "愛はすべてを可能にします。", "romaji": "Ai wa subete o kanō ni shimasu."},
+            {"english": "My heart beats for you.", "chinese": "私の鼓動はあなたのためにあります。", "romaji": "Watashi no kodō wa anata no tame ni arimasu."},
+            {"english": "You are my everything.", "chinese": "あなたは私のすべてです。", "romaji": "Anata wa watashi no subete desu."},
+            {"english": "Together forever, hand in hand.", "chinese": "ずっと一緒に、手をつないで。", "romaji": "Zutto issho ni, te o tsunaide."},
         ],
         "Success": [
-            {"english": "Success comes from hard work.", "Chinese": "El éxito viene del trabajo duro.", "pronunciation": "el ek-si-to vye-ne del tra-ba-jo du-ro."},
-            {"english": "Keep going, you're getting there.", "Chinese": "Sigue adelante, ya casi llegas.", "pronunciation": "si-ge a-de-lan-te, ya ca-si ye-gas."},
-            {"english": "Winners never quit.", "Chinese": "Los ganadores nunca se rinden.", "pronunciation": "los ga-na-do-res nun-ka se rin-den."},
-            {"english": "Your effort will pay off.", "Chinese": "Tu esfuerzo valdrá la pena.", "pronunciation": "tu es-fwer-zo val-dra la pe-na."},
+            {"english": "Success comes from hard work.", "chinese": "成功は努力から生まれます。", "romaji": "Seikō wa doryoku kara umaremasu."},
+            {"english": "Keep going, you're getting there.", "chinese": "続けて、もうすぐですよ。", "romaji": "Tsuzukete, mōsugu desu yo."},
+            {"english": "Winners never quit.", "chinese": "勝者は決してあきらめません。", "romaji": "Shōsha wa kesshite akiramemasen."},
+            {"english": "Your effort will pay off.", "chinese": "あなたの努力は報われます。", "romaji": "Anata no doryoku wa mukuwaremasu."},
         ],
         "Wisdom": [
-            {"english": "Knowledge is power.", "Chinese": "El conocimiento es poder.", "pronunciation": "el co-no-si-myen-to es po-der."},
-            {"english": "Learn from yesterday, live for today.", "Chinese": "Aprende del ayer, vive por el hoy.", "pronunciation": "a-pren-de del a-yer, vi-ve por el oy."},
-            {"english": "Think before you act.", "Chinese": "Piensa antes de actuar.", "pronunciation": "pyen-sa an-tes de ak-twar."},
-            {"english": "Experience is the best teacher.", "Chinese": "La experiencia es la mejor maestra.", "pronunciation": "la ex-pe-ryen-sya es la me-jor ma-es-tra."},
+            {"english": "Knowledge is power.", "chinese": "知識は力なり。", "romaji": "Chishiki wa chikara nari."},
+            {"english": "Learn from yesterday, live for today.", "chinese": "昨日から学び、今日のために生きる。", "romaji": "Kinō kara manabi, kyō no tame ni ikiru."},
+            {"english": "Think before you act.", "chinese": "行動する前に考えて。", "romaji": "Kōdō suru mae ni kangaete."},
+            {"english": "Experience is the best teacher.", "chinese": "経験は最高の教師です。", "romaji": "Keiken wa saikō no kyōshi desu."},
         ],
         "Happiness": [
-            {"english": "Happiness is a choice.", "Chinese": "La felicidad es una elección.", "pronunciation": "la fe-li-si-dad es u-na e-lek-syon."},
-            {"english": "Find joy in the little things.", "Chinese": "Encuentra alegría en las pequeñas cosas.", "pronunciation": "en-kwen-tra a-le-gri-a en las pe-ke-nyas co-sas."},
-            {"english": "Smile, it makes others happy.", "Chinese": "Sonríe, hace felices a los demás.", "pronunciation": "son-ri-e, a-se fe-li-ses a los de-mas."},
-            {"english": "Today is a gift.", "Chinese": "Hoy es un regalo.", "pronunciation": "oy es un re-ga-lo."},
+            {"english": "Happiness is a choice.", "chinese": "幸せは選択です。", "romaji": "Shiawase wa sentaku desu."},
+            {"english": "Find joy in the little things.", "chinese": "小さなことに喜びを見つけて。", "romaji": "Chiisana koto ni yorokobi o mitsukete."},
+            {"english": "Smile, it makes others happy.", "chinese": "笑顔は他人を幸せにします。", "romaji": "Egao wa tanin o shiawase ni shimasu."},
+            {"english": "Today is a gift.", "chinese": "今日は贈り物です。", "romaji": "Kyō wa okurimono desu."},
         ],
         "Self Improvement": [
-            {"english": "Be better than yesterday.", "Chinese": "Sé mejor que ayer.", "pronunciation": "se me-jor ke a-yer."},
-            {"english": "Grow through what you go through.", "Chinese": "Crece a través de lo que pasas.", "pronunciation": "cre-se a tra-ves de lo ke pa-sas."},
-            {"english": "Invest in yourself daily.", "Chinese": "Invierte en ti mismo a diario.", "pronunciation": "in-vyer-te en ti mis-mo a dya-ryo."},
+            {"english": "Be better than yesterday.", "chinese": "昨日より良くなって。", "romaji": "Kinō yori yokunatte."},
+            {"english": "Grow through what you go through.", "chinese": "経験を通して成長して。", "romaji": "Keiken o tōshite seichō shite."},
+            {"english": "Invest in yourself daily.", "chinese": "毎日自分に投資して。", "romaji": "Mainichi jibun ni tōshi shite."},
         ],
-        "感恩e": [
-            {"english": "Thank you for everything.", "Chinese": "Gracias por todo.", "pronunciation": "gra-syas por to-do."},
-            {"english": "I appreciate your help.", "Chinese": "Agradezco tu ayuda.", "pronunciation": "a-gra-dez-co tu a-yu-da."},
-            {"english": "Grateful for this moment.", "Chinese": "Agradecido por este momento.", "pronunciation": "a-gra-de-si-do por es-te mo-men-to."},
+        "Gratitude": [
+            {"english": "Thank you for everything.", "chinese": "すべてに感謝します。", "romaji": "Subete ni kansha shimasu."},
+            {"english": "I appreciate your help.", "chinese": "助けてくれて感謝しています。", "romaji": "Tasukete kurete kansha shite imasu."},
+            {"english": "Grateful for this moment.", "chinese": "この瞬間に感謝します。", "romaji": "Kono shunkan ni kansha shimasu."},
         ],
         "Friendship": [
-            {"english": "Friends forever, no matter what.", "Chinese": "Amigos por siempre, pase lo que pase.", "pronunciation": "a-mi-gos por syem-pre, pa-se lo ke pa-se."},
-            {"english": "You are my best friend.", "Chinese": "Eres mi mejor amigo.", "pronunciation": "e-res mi me-jor a-mi-go."},
-            {"english": "True friends stick together.", "Chinese": "Los verdaderos amigos se mantienen unidos.", "pronunciation": "los ver-da-de-ros a-mi-gos se man-tye-nen u-ni-dos."},
+            {"english": "Friends forever, no matter what.", "chinese": "何があっても、永遠の友達です。", "romaji": "Nani ga atte mo, eien no tomodachi desu."},
+            {"english": "You are my best friend.", "chinese": "あなたは私の親友です。", "romaji": "Anata wa watashi no shinyū desu."},
+            {"english": "True friends stick together.", "chinese": "本当の友達は助け合います。", "romaji": "Hontō no tomodachi wa tasukeaimasu."},
         ],
         "Hope": [
-            {"english": "There is always hope.", "Chinese": "Siempre hay esperanza.", "pronunciation": "syem-pre ay es-pe-ran-za."},
-            {"english": "Better days are coming.", "Chinese": "Vienen días mejores.", "pronunciation": "vye-nen di-as me-jo-res."},
-            {"english": "Keep faith, keep going.", "Chinese": "Mantén la fe, sigue adelante.", "pronunciation": "man-ten la fe, si-ge a-de-lan-te."},
+            {"english": "There is always hope.", "chinese": "常に希望はあります。", "romaji": "Tsune ni kibō wa arimasu."},
+            {"english": "Better days are coming.", "chinese": "より良い日が来ます。", "romaji": "Yori yoi hi ga kimasu."},
+            {"english": "Keep faith, keep going.", "chinese": "信念を持って、続けて。", "romaji": "Shinnen o motte, tsuzukete."},
         ],
         "Creativity": [
-            {"english": "Create something beautiful today.", "Chinese": "Crea algo hermoso hoy.", "pronunciation": "cre-a al-go er-mo-so oy."},
-            {"english": "Your imagination is unlimited.", "Chinese": "Tu imaginación es ilimitada.", "pronunciation": "tu i-ma-ji-na-syon es i-li-mi-ta-da."},
-            {"english": "Art comes from the heart.", "Chinese": "El arte viene del corazón.", "pronunciation": "el ar-te vye-ne del co-ra-zon."},
-            {"english": "Express yourself freely.", "Chinese": "Exprésate libremente.", "pronunciation": "ex-pre-sa-te li-bre-men-te."},
-            {"english": "Innovation starts with curiosity.", "Chinese": "La innovación comienza con la curiosidad.", "pronunciation": "la i-no-va-syon co-myen-za con la cu-ryo-si-dad."},
+            {"english": "Create something beautiful today.", "chinese": "今日、何か美しいものを作って。", "romaji": "Kyō, nani ka utsukushii mono o tsukutte."},
+            {"english": "Your imagination is unlimited.", "chinese": "あなたの想像力は無限です。", "romaji": "Anata no sōzōryoku wa mugen desu."},
+            {"english": "Art comes from the heart.", "chinese": "芸術は心から生まれます。", "romaji": "Geijutsu wa kokoro kara umaremasu."},
+            {"english": "Express yourself freely.", "chinese": "自由に自分を表現して。", "romaji": "Jiyū ni jibun o hyōgen shite."},
+            {"english": "Innovation starts with curiosity.", "chinese": "好奇心が革新の始まりです。", "romaji": "Kōkishin ga kakushin no hajimari desu."},
         ],
         "Inner Peace": [
-            {"english": "Find peace within yourself.", "Chinese": "Encuentra la paz dentro de ti.", "pronunciation": "en-kwen-tra la paz den-tro de ti."},
-            {"english": "Breathe, relax, let go.", "Chinese": "Respira, relájate, suelta.", "pronunciation": "res-pi-ra, re-la-ja-te, swel-ta."},
-            {"english": "Calm mind, happy heart.", "Chinese": "Mente tranquila, corazón feliz.", "pronunciation": "men-te tran-ki-la, co-ra-zon fe-liz."},
+            {"english": "Find peace within yourself.", "chinese": "自分の中に平和を見つけて。", "romaji": "Jibun no naka ni heiwa o mitsukete."},
+            {"english": "Breathe, relax, let go.", "chinese": "呼吸して、リラックスして、手放して。", "romaji": "Kokyū shite, rirakkusu shite, tebanashite."},
+            {"english": "Calm mind, happy heart.", "chinese": "穏やかな心、幸せな心。", "romaji": "Odayakana kokoro, shiawasena kokoro."},
         ],
         "Confidence": [
-            {"english": "You are enough, just as you are.", "Chinese": "Eres suficiente, tal como eres.", "pronunciation": "e-res su-fi-syen-te, tal co-mo e-res."},
-            {"english": "Stand tall, speak up.", "Chinese": "Mantente erguido, habla.", "pronunciation": "man-ten-te er-gi-do, a-bla."},
-            {"english": "Believe in your abilities.", "Chinese": "Cree en tus habilidades.", "pronunciation": "cre-e en tus a-bi-li-da-des."},
+            {"english": "You are enough, just as you are.", "chinese": "あなたはそのままで十分です。", "romaji": "Anata wa sono mama de jūbun desu."},
+            {"english": "Stand tall, speak up.", "chinese": "堂々として、はっきりと話して。", "romaji": "Dōdō to shite, hakkiri to hanashite."},
+            {"english": "Believe in your abilities.", "chinese": "自分の能力を信じて。", "romaji": "Jibun no nōryoku o shinjite."},
         ],
         "Perseverance": [
-            {"english": "Never give up, keep pushing.", "Chinese": "Nunca te rindas, sigue presionando.", "pronunciation": "nun-ka te rin-das, si-ge pre-syo-nan-do."},
-            {"english": "Storms make trees take deeper roots.", "Chinese": "Las tormentas hacen que los árboles echen raíces más profundas.", "pronunciation": "las tor-men-tas a-sen ke los ar-bo-les e-chen ra-i-ses mas pro-fun-das."},
-            {"english": "Patience and persistence win.", "Chinese": "La paciencia y la persistencia ganan.", "pronunciation": "la pa-syen-sya i la per-sis-ten-sya ga-nan."},
+            {"english": "Never give up, keep pushing.", "chinese": "あきらめないで、続けて。", "romaji": "Akiramenaide, tsuzukete."},
+            {"english": "Storms make trees take deeper roots.", "chinese": "嵐が木を強くします。", "romaji": "Arashi ga ki o tsuyoku shimasu."},
+            {"english": "Patience and persistence win.", "chinese": "忍耐と粘り強さが勝ちます。", "romaji": "Nintai to nebarizuyosa ga kachimasu."},
         ],
         "Inspiration": [
-            {"english": "Let your light shine bright.", "Chinese": "Deja que tu luz brille con fuerza.", "pronunciation": "de-ja ke tu luz bri-ye con fwer-za."},
-            {"english": "Inspire others by your actions.", "Chinese": "Inspira a otros con tus acciones.", "pronunciation": "ins-pi-ra a o-tros con tus ak-syo-nes."},
-            {"english": "Be the change you want to see.", "Chinese": "Sé el cambio que quieres ver.", "pronunciation": "se el cam-byo ke kye-res ver."},
+            {"english": "Let your light shine bright.", "chinese": "あなたの光を輝かせて。", "romaji": "Anata no hikari o kagayakasete."},
+            {"english": "Inspire others by your actions.", "chinese": "行動で他人を鼓舞して。", "romaji": "Kōdō de tanin o kobu shite."},
+            {"english": "Be the change you want to see.", "chinese": "あなたが望む変化になって。", "romaji": "Anata ga nozomu henka ni natte."},
         ],
         "Positive Life": [
-            {"english": "Choose positivity every day.", "Chinese": "Elige la positividad cada día.", "pronunciation": "e-li-je la po-si-ti-vi-dad ca-da di-a."},
-            {"english": "Good vibes only.", "Chinese": "Solo buenas vibras.", "pronunciation": "so-lo bwe-nas vi-bras."},
-            {"english": "Life is what you make it.", "Chinese": "La vida es lo que tú haces de ella.", "pronunciation": "la vi-da es lo ke tu a-ses de e-ya."},
+            {"english": "Choose positivity every day.", "chinese": "毎日ポジティブを選んで。", "romaji": "Mainichi pojitibu o erande."},
+            {"english": "Good vibes only.", "chinese": "良い雰囲気だけ。", "romaji": "Yoi fun'iki dake."},
+            {"english": "Life is what you make it.", "chinese": "人生は自分で作るものです。", "romaji": "Jinsei wa jibun de tsukuru mono desu."},
         ],
         "Courage": [
-            {"english": "Be brave, take the first step.", "Chinese": "Sé valiente, da el primer paso.", "pronunciation": "se va-lyen-te, da el pri-mer pa-so."},
-            {"english": "Courage is not the absence of fear.", "Chinese": "El coraje no es la ausencia de miedo.", "pronunciation": "el co-ra-je no es la au-sen-sya de mye-do."},
-            {"english": "Face your fears head on.", "Chinese": "Enfrenta tus miedos de frente.", "pronunciation": "en-fren-ta tus mye-dos de fren-te."},
+            {"english": "Be brave, take the first step.", "chinese": "勇敢に、第一歩を踏み出して。", "romaji": "Yūkan ni, daiippo o fumidashite."},
+            {"english": "Courage is not the absence of fear.", "chinese": "勇気とは恐怖がないことではありません。", "romaji": "Yūki to wa kyōfu ga nai koto de wa arimasen."},
+            {"english": "Face your fears head on.", "chinese": "恐怖に正面から立ち向かって。", "romaji": "Kyōfu ni shōmen kara tachimukatte."},
         ],
         "Kindness": [
-            {"english": "Be kind to everyone you meet.", "Chinese": "Sé amable con todos los que conozcas.", "pronunciation": "se a-ma-ble con to-dos los ke co-noz-cas."},
-            {"english": "Kindness costs nothing, means everything.", "Chinese": "La amabilidad no cuesta nada, lo significa todo.", "pronunciation": "la a-ma-bi-li-dad no kwes-ta na-da, lo sig-ni-fi-ca to-do."},
-            {"english": "Spread kindness wherever you go.", "Chinese": "Difunde amabilidad dondequiera que vayas.", "pronunciation": "di-fun-de a-ma-bi-li-dad don-de-kye-ra va-yas."},
+            {"english": "Be kind to everyone you meet.", "chinese": "会う人すべてに親切にして。", "romaji": "Au hito subete ni shinsetsu ni shite."},
+            {"english": "Kindness costs nothing, means everything.", "chinese": "親切に費用はかかりませんが、すべてを意味します。", "romaji": "Shinsetsu ni hiyō wa kakarimasen ga, subete o imi shimasu."},
+            {"english": "Spread kindness wherever you go.", "chinese": "どこへ行っても親切を広めて。", "romaji": "Doko e itte mo shinsetsu o hiromete."},
         ],
         "Patience": [
-            {"english": "Good things take time.", "Chinese": "Las cosas buenas toman tiempo.", "pronunciation": "las co-sas bwe-nas to-man tyem-po."},
-            {"english": "Wait patiently, trust the process.", "Chinese": "Espera pacientemente, confía en el proceso.", "pronunciation": "es-pe-ra pa-syen-te-men-te, con-fi-a en el pro-se-so."},
-            {"english": "Rome wasn't built in a day.", "Chinese": "Roma no se construyó en un día.", "pronunciation": "ro-ma no se cons-tru-yo en un di-a."},
+            {"english": "Good things take time.", "chinese": "良いことには時間がかかります。", "romaji": "Yoi koto ni wa jikan ga kakarimasu."},
+            {"english": "Wait patiently, trust the process.", "chinese": "忍耐強く待ち、過程を信じて。", "romaji": "Nintaizuyoku machi, katei o shinjite."},
+            {"english": "Rome wasn't built in a day.", "chinese": "ローマは一日にして成らず。", "romaji": "Rōma wa ichinichi ni shite narazu."},
         ],
         "Forgiveness": [
-            {"english": "Forgive and set yourself free.", "Chinese": "Perdona y libérate.", "pronunciation": "per-do-na i li-be-ra-te."},
-            {"english": "Let go of grudges, find peace.", "Chinese": "Suelta los rencores, encuentra la paz.", "pronunciation": "swel-ta los ren-co-res, en-kwen-tra la paz."},
-            {"english": "Forgiveness is a gift to yourself.", "Chinese": "El perdón es un regalo para ti mismo.", "pronunciation": "el per-don es un re-ga-lo pa-ra ti mis-mo."},
+            {"english": "Forgive and set yourself free.", "chinese": "許して自分を自由にして。", "romaji": "Yurushite jibun o jiyū ni shite."},
+            {"english": "Let go of grudges, find peace.", "chinese": "恨みを捨てて、平和を見つけて。", "romaji": "Urami o sutete, heiwa o mitsukete."},
+            {"english": "Forgiveness is a gift to yourself.", "chinese": "許しは自分への贈り物です。", "romaji": "Yurushi wa jibun e no okurimono desu."},
         ],
         "Strength": [
-            {"english": "You are stronger than you know.", "Chinese": "Eres más fuerte de lo que sabes.", "pronunciation": "e-res mas fwer-te de lo ke sa-bes."},
-            {"english": "Inner strength comes from within.", "Chinese": "La fuerza interior viene de dentro.", "pronunciation": "la fwer-za in-te-ryor vye-ne de den-tro."},
-            {"english": "Challenges make you stronger.", "Chinese": "Los desafíos te hacen más fuerte.", "pronunciation": "los de-sa-fi-os te a-sen mas fwer-te."},
+            {"english": "You are stronger than you know.", "chinese": "あなたは自分が知っているより強いです。", "romaji": "Anata wa jibun ga shitte iru yori tsuyoi desu."},
+            {"english": "Inner strength comes from within.", "chinese": "内面の強さは内側から来ます。", "romaji": "Naimen no tsuyosa wa uchigawa kara kimasu."},
+            {"english": "Challenges make you stronger.", "chinese": "困難があなたを強くします。", "romaji": "Konnan ga anata o tsuyoku shimasu."},
         ],
         "Joy": [
-            {"english": "Find joy in every moment.", "Chinese": "Encuentra alegría en cada momento.", "pronunciation": "en-kwen-tra a-le-gri-a en ca-da mo-men-to."},
-            {"english": "Joy is contagious, spread it.", "Chinese": "La alegría es contagiosa, difúndela.", "pronunciation": "la a-le-gri-a es con-ta-jo-sa, di-fun-de-la."},
-            {"english": "Dance like nobody's watching.", "Chinese": "Baila como si nadie estuviera mirando.", "pronunciation": "ba-i-la co-mo si na-dye es-tu-vye-ra mi-ran-do."},
+            {"english": "Find joy in every moment.", "chinese": "あらゆる瞬間に喜びを見つけて。", "romaji": "Arayuru shunkan ni yorokobi o mitsukete."},
+            {"english": "Joy is contagious, spread it.", "chinese": "喜びは伝染します、広めて。", "romaji": "Yorokobi wa densen shimasu, hiromete."},
+            {"english": "Dance like nobody's watching.", "chinese": "誰も見ていないかのように踊って。", "romaji": "Dare mo mite inai ka no yō ni odotte."},
         ],
         "Balance": [
-            {"english": "Find balance in your life.", "Chinese": "Encuentra el equilibrio en tu vida.", "pronunciation": "en-kwen-tra el e-ki-li-bryo en tu vi-da."},
-            {"english": "Work hard, rest well.", "Chinese": "Trabaja duro, descansa bien.", "pronunciation": "tra-ba-ja du-ro, des-can-sa byen."},
-            {"english": "Too much of anything is not good.", "Chinese": "Demasiado de cualquier cosa no es bueno.", "pronunciation": "de-ma-sya-do de cwal-kyer co-sa no es bwe-no."},
+            {"english": "Find balance in your life.", "chinese": "人生のバランスを見つけて。", "romaji": "Jinsei no baransu o mitsukete."},
+            {"english": "Work hard, rest well.", "chinese": "一生懸命働き、よく休んで。", "romaji": "Isshōkenmei hataraki, yoku yasunde."},
+            {"english": "Too much of anything is not good.", "chinese": "何事もやりすぎは良くありません。", "romaji": "Nanigoto mo yarisugi wa yoku arimasen."},
         ],
         "Growth": [
-            {"english": "Growth happens outside your comfort zone.", "Chinese": "El crecimiento ocurre fuera de tu zona de confort.", "pronunciation": "el cre-si-myen-to o-cu-re fwer-a de tu zo-na de con-fort."},
-            {"english": "Embrace change, grow stronger.", "Chinese": "Acepta el cambio, hazte más fuerte.", "pronunciation": "a-sep-ta el cam-byo, a-se-te mas fwer-te."},
-            {"english": "Every challenge is a chance to grow.", "Chinese": "Cada desafío es una oportunidad para crecer.", "pronunciation": "ca-da de-sa-fi-o es u-na o-por-tu-ni-dad pa-ra cre-ser."},
+            {"english": "Growth happens outside your comfort zone.", "chinese": "成長はコンフォートゾーンの外で起こります。", "romaji": "Seichō wa konfōto zōn no soto de okorimasu."},
+            {"english": "Embrace change, grow stronger.", "chinese": "変化を受け入れ、強く成長して。", "romaji": "Henka o ukeire, tsuyoku seichō shite."},
+            {"english": "Every challenge is a chance to grow.", "chinese": "すべての困難は成長のチャンスです。", "romaji": "Subete no konnan wa seichō no chansu desu."},
         ],
         "Purpose": [
-            {"english": "Find your purpose, follow it.", "Chinese": "Encuentra tu propósito, síguelo.", "pronunciation": "en-kwen-tra tu pro-po-si-to, si-ge-lo."},
-            {"english": "Your life has meaning.", "Chinese": "Tu vida tiene sentido.", "pronunciation": "tu vi-da tye-ne sen-ti-do."},
-            {"english": "Live with intention, not accident.", "Chinese": "Vive con intención, no por accidente.", "pronunciation": "vi-ve con in-ten-syon, no por ak-si-den-te."},
+            {"english": "Find your purpose, follow it.", "chinese": "自分の目的を見つけ、それに従って。", "romaji": "Jibun no mokuteki o mitsuke, sore ni shitagatte."},
+            {"english": "Your life has meaning.", "chinese": "あなたの人生には意味があります。", "romaji": "Anata no jinsei ni wa imi ga arimasu."},
+            {"english": "Live with intention, not accident.", "chinese": "偶然ではなく、意図を持って生きて。", "romaji": "Gūzen de wa naku, ito o motte ikite."},
         ],
         "Mindfulness": [
-            {"english": "Be present in this moment.", "Chinese": "Mantente presente en este momento.", "pronunciation": "man-ten-te pre-sen-te en es-te mo-men-to."},
-            {"english": "Breathe deeply, stay grounded.", "Chinese": "Respira profundo, mantente centrado.", "pronunciation": "res-pi-ra pro-fun-do, man-ten-te sen-tra-do."},
-            {"english": "Notice the little things around you.", "Chinese": "Fíjate en las pequeñas cosas a tu alrededor.", "pronunciation": "fi-ja-te en las pe-ke-nyas co-sas a tu al-re-de-dor."},
+            {"english": "Be present in this moment.", "chinese": "この瞬間に集中して。", "romaji": "Kono shunkan ni shūchū shite."},
+            {"english": "Breathe deeply, stay grounded.", "chinese": "深呼吸して、落ち着いて。", "romaji": "Shinkokyū shite, ochitsuite."},
+            {"english": "Notice the little things around you.", "chinese": "周りの小さなことに気づいて。", "romaji": "Mawari no chiisana koto ni kizuite."},
         ],
     }
 
@@ -514,7 +509,7 @@ def generate_all_audio(phrases: list, output_dir: str):
 
     for i, phrase in enumerate(phrases):
         english_file = output_dir / f"english_{i}.mp3"
-        Chinese_file = output_dir / f"Chinese_{i}.mp3"
+        chinese_file = output_dir / f"chinese_{i}.mp3"
         combined_file = output_dir / f"combined_{i}.mp3"
 
         if (i + 1) % 20 == 0:
@@ -527,14 +522,14 @@ def generate_all_audio(phrases: list, output_dir: str):
             subprocess.run(cmd, capture_output=True)
 
         # Generate Chinese audio
-        cn_success = asyncio.run(generate_single_audio(phrase["Chinese"], Chinese_VOICE, str(Chinese_file)))
+        cn_success = asyncio.run(generate_single_audio(phrase["chinese"], CHINESE_VOICE, str(chinese_file)))
         if not cn_success:
-            cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(Chinese_file)]
+            cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(chinese_file)]
             subprocess.run(cmd, capture_output=True)
 
         # Get ACTUAL durations
         en_duration = get_audio_duration(str(english_file))
-        cn_duration = get_audio_duration(str(Chinese_file))
+        cn_duration = get_audio_duration(str(chinese_file))
 
         # Add pause between English and Chinese
         pause_between = 0.5
@@ -544,7 +539,7 @@ def generate_all_audio(phrases: list, output_dir: str):
         cmd = [
             "ffmpeg", "-y",
             "-i", str(english_file),
-            "-i", str(Chinese_file),
+            "-i", str(chinese_file),
             "-filter_complex", f"[0:a][1:a]concat=n=2:v=0:a=1[out]",
             "-map", "[out]",
             str(combined_file)
@@ -556,7 +551,7 @@ def generate_all_audio(phrases: list, output_dir: str):
             concat_file = output_dir / f"concat_{i}.txt"
             with open(concat_file, "w", encoding="utf-8") as f:
                 f.write(f"file '{english_file.as_posix()}'\n")
-                f.write(f"file '{Chinese_file.as_posix()}'\n")
+                f.write(f"file '{chinese_file.as_posix()}'\n")
 
             cmd = [
                 "ffmpeg", "-y",
@@ -574,7 +569,7 @@ def generate_all_audio(phrases: list, output_dir: str):
         audio_files.append({
             "index": i,
             "english": str(english_file),
-            "Chinese": str(Chinese_file),
+            "chinese": str(chinese_file),
             "combined": str(combined_file),
             "duration": actual_duration,
             "en_duration": en_duration,
@@ -668,8 +663,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
         "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
     ]
 
-    Chinese_font_paths = [
-        str(BASE_DIR / "fonts" / "NotoSansSC-Bold.ttf"),
+    chinese_font_paths = [
         "C:/Windows/Fonts/msgothic.ttc",
         "C:/Windows/Fonts/YuGothB.ttc",
         "C:/Windows/Fonts/Meiryo.ttc",
@@ -689,13 +683,13 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     # Refined font sizes
     font_category = load_font(english_font_paths, 42)
     font_english = load_font(english_font_paths, 68)
-    font_Chinese = load_font(Chinese_font_paths, 82)
-    font_pronunciation = load_font(Chinese_font_paths, 48)
+    font_chinese = load_font(chinese_font_paths, 82)
+    font_romaji = load_font(english_font_paths, 48)
     font_branding = load_font(english_font_paths, 38)
 
     english = phrase_data.get("english", "")
-    Chinese = phrase_data.get("Chinese", "")
-    pronunciation = phrase_data.get("pronunciation", "")
+    chinese = phrase_data.get("chinese", "")
+    romaji = phrase_data.get("romaji", "")
 
     def wrap_text(text, font, max_width):
         words = text.split()
@@ -748,17 +742,17 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     en_total_h = len(en_lines) * en_line_h
     
     # 2. Chinese Box
-    cn_lines = wrap_text(Chinese, font_Chinese, VIDEO_WIDTH - 300)
+    cn_lines = wrap_text(chinese, font_chinese, VIDEO_WIDTH - 300)
     cn_line_h = 100
     cn_total_h = len(cn_lines) * cn_line_h
     
-    # 3. Pronunciation Box
-    pron_text = f"[{pronunciation}]"
-    pron_lines = wrap_text(pron_text, font_pronunciation, VIDEO_WIDTH - 400)
-    pron_line_h = 60
-    pron_total_h = len(pron_lines) * pron_line_h
+    # 3. Pinyin/Romaji Box
+    ro_text = f"[{romaji}]"
+    ro_lines = wrap_text(ro_text, font_romaji, VIDEO_WIDTH - 400)
+    ro_line_h = 60
+    ro_total_h = len(ro_lines) * ro_line_h
 
-    total_content_h = en_total_h + cn_total_h + pron_total_h + (GAP * 2)
+    total_content_h = en_total_h + cn_total_h + ro_total_h + (GAP * 2)
     y_start = CONTENT_Y_CENTER - (total_content_h // 2)
 
     # Draw English Section
@@ -785,25 +779,25 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     )
     for i, line in enumerate(cn_lines):
         draw.text((VIDEO_WIDTH // 2, y_cursor + 30 + (i * cn_line_h) + cn_line_h // 2), 
-                  line, fill=(255, 255, 255), font=font_Chinese, anchor="mm")
+                  line, fill=(255, 255, 255), font=font_chinese, anchor="mm")
 
     y_cursor += cn_box_h + (GAP // 2)
 
-    # Pronunciation Section (Lingexa Peach)
-    pron_box_h = pron_total_h + 40
-    pron_box_w = box_w - 200
-    pron_box_x = (VIDEO_WIDTH - pron_box_w) // 2
+    # Romaji Section (Lingexa Peach)
+    ro_box_h = ro_total_h + 40
+    ro_box_w = box_w - 200
+    ro_box_x = (VIDEO_WIDTH - ro_box_w) // 2
     draw.rounded_rectangle(
-        [(pron_box_x, y_cursor), (pron_box_x + pron_box_w, y_cursor + pron_box_h)],
+        [(ro_box_x, y_cursor), (ro_box_x + ro_box_w, y_cursor + ro_box_h)],
         radius=20, fill=(255, 210, 160, 255)
     )
 
-    for i, line in enumerate(pron_lines):
-        draw.text((VIDEO_WIDTH // 2, y_cursor + 20 + (i * pron_line_h) + pron_line_h // 2), 
-                  line, fill=(70, 45, 25), font=font_pronunciation, anchor="mm")
+    for i, line in enumerate(ro_lines):
+        draw.text((VIDEO_WIDTH // 2, y_cursor + 20 + (i * ro_line_h) + ro_line_h // 2), 
+                  line, fill=(70, 45, 25), font=font_romaji, anchor="mm")
 
     # Branding (Bottom Right)
-    brand_text = "VELOCITY Chinese"
+    brand_text = "VELOCITY CHINESE"
     brand_bbox = draw.textbbox((0, 0), brand_text, font=font_branding)
     brand_w = brand_bbox[2] - brand_bbox[0]
     draw.text((VIDEO_WIDTH - brand_w - 60, VIDEO_HEIGHT - 80), brand_text, 
@@ -819,7 +813,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
 
 # ============== THUMBNAIL GENERATION ==============
 
-def generate_thumbnail(category_english: str, category_Chinese: str, output_path: str):
+def generate_thumbnail(category_english: str, category_chinese: str, output_path: str):
     """Generate a modern, high-impact thumbnail - Lingexa Inspired"""
     try:
         from PIL import Image, ImageDraw, ImageFont
@@ -834,10 +828,7 @@ def generate_thumbnail(category_english: str, category_Chinese: str, output_path
 
     # Load fonts
     english_font_paths = ["C:/Windows/Fonts/segoeuib.ttf", "C:/Windows/Fonts/arialbd.ttf"]
-    Chinese_font_paths = [str(BASE_DIR / "fonts" / "NotoSansSC-Bold.ttf"), "C:/Windows/Fonts/msgothic.ttc", "C:/Windows/Fonts/YuGothB.ttc", "C:/Windows/Fonts/Meiryo.ttc",
-        "/usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc",
-        "/usr/share/fonts/noto-cjk/NotoSansCJK-Bold.ttc",
-        "/usr/share/fonts/truetype/wqy/wqy-zenhei.ttc"]
+    chinese_font_paths = ["C:/Windows/Fonts/msgothic.ttc", "C:/Windows/Fonts/YuGothB.ttc", "C:/Windows/Fonts/Meiryo.ttc"]
 
     def load_font(font_paths, size):
         for font_path in font_paths:
@@ -846,12 +837,12 @@ def generate_thumbnail(category_english: str, category_Chinese: str, output_path
         return ImageFont.load_default()
 
     font_huge = load_font(english_font_paths, 130)
-    font_main = load_font(Chinese_font_paths, 110)
+    font_main = load_font(chinese_font_paths, 110)
     font_sub = load_font(english_font_paths, 60)
     font_badge = load_font(english_font_paths, 45)
 
     # Big Impact Title (Dark Purple)
-    draw.text((VIDEO_WIDTH // 2, 220), "MASTER Chinese", fill=(45, 35, 65), font=font_huge, anchor="mm")
+    draw.text((VIDEO_WIDTH // 2, 220), "MASTER CHINESE", fill=(45, 35, 65), font=font_huge, anchor="mm")
     
     # Category Badge (Lingexa Dark Purple)
     cat_text = category_english.upper()
@@ -864,7 +855,7 @@ def generate_thumbnail(category_english: str, category_Chinese: str, output_path
     draw.text((VIDEO_WIDTH // 2, 365), cat_text, fill=(255, 255, 255), font=font_sub, anchor="mm")
 
     # Chinese Translation (Dark Purple)
-    draw.text((VIDEO_WIDTH // 2, 530), category_Chinese, fill=(45, 35, 65), font=font_main, anchor="mm")
+    draw.text((VIDEO_WIDTH // 2, 530), category_chinese, fill=(45, 35, 65), font=font_main, anchor="mm")
 
     # Features / Call to Action (Lingexa Peach)
     cta_text = "60 ESSENTIAL PHRASES"
@@ -876,7 +867,7 @@ def generate_thumbnail(category_english: str, category_Chinese: str, output_path
 
     # Bottom Branding (Dark Purple Bar)
     draw.rectangle([(0, VIDEO_HEIGHT - 100), (VIDEO_WIDTH, VIDEO_HEIGHT)], fill=(45, 35, 65, 255))
-    draw.text((VIDEO_WIDTH // 2, VIDEO_HEIGHT - 50), "VELOCITY Chinese", fill=(255, 255, 255), font=font_badge, anchor="mm")
+    draw.text((VIDEO_WIDTH // 2, VIDEO_HEIGHT - 50), "VELOCITY CHINESE", fill=(255, 255, 255), font=font_badge, anchor="mm")
 
     img = img.convert('RGB')
     Path(output_path).parent.mkdir(parents=True, exist_ok=True)
@@ -911,27 +902,27 @@ def extract_video_thumbnail(video_path: str, output_path: str, timestamp_seconds
 
 # ============== TITLE & DESCRIPTION GENERATION ==============
 
-def generate_title_description(category_english: str, category_Chinese: str, phrases: list, duration_minutes: float, output_dir: str):
+def generate_title_description(category_english: str, category_chinese: str, phrases: list, duration_minutes: float, output_dir: str):
     """Generate viral YouTube title and description with all phrases - COMBINED in one file"""
     
     # Generate viral title variations
     titles = [
-        f"Learn Chinese in 10 Minutes | {category_english} Phrases Every Beginner NEEDS to Know! ({category_Chinese})",
-        f"60 Chinese Phrases for {category_english} | Speak Chinese Like a Native! ({category_Chinese})",
-        f"Master Chinese {category_english} | 60 Essential Chinese Phrases with Pronunciation | Velocity Chinese",
+        f"Learn Chinese in 10 Minutes | {category_english} Phrases Every Beginner NEEDS to Know! ({category_chinese})",
+        f"60 Chinese Phrases for {category_english} | Speak Chinese Like a Native! ({category_chinese})",
+        f"Master Chinese {category_english} | 60 Essential Chinese Phrases with Pinyin | Velocity Chinese",
         f"Chinese Learning Made Easy | {category_english} Vocabulary | 10 Minute Lesson",
-        f"Speak Chinese Fluently | {category_english} Phrases | English + Chinese + Pronunciation",
+        f"Speak Chinese Fluently | {category_english} Phrases | English + Chinese + Pinyin",
     ]
 
     # Generate comprehensive description
     description = f"""🇨🇳 Learn Chinese with Velocity Chinese! 🇨🇳
 
-In this video, you'll learn 60 essential Chinese phrases about {category_english} ({category_Chinese}).
+In this video, you'll learn 60 essential Chinese phrases about {category_english} ({category_chinese}).
 Perfect for beginners and intermediate learners!
 
 📚 WHAT YOU'LL LEARN:
 • 60 practical {category_english} phrases in Chinese
-• Correct pronunciation guide
+• Correct pronunciation with Pinyin
 • Natural pauses for speaking practice
 • Common expressions used by native speakers
 
@@ -955,8 +946,8 @@ Perfect for beginners and intermediate learners!
     for i, phrase in enumerate(phrases, 1):
         description += f"""
 {i}. {phrase['english']}
-   Chinese: {phrase['Chinese']}
-   Pronunciation: {phrase['pronunciation']}
+   Chinese: {phrase['chinese']}
+   Pinyin: {phrase['romaji']}
 """
 
     description += f"""
@@ -965,7 +956,7 @@ Perfect for beginners and intermediate learners!
 • Intermediate learners practicing pronunciation
 • Anyone interested in Chinese
 • Language enthusiasts and polyglots
-• Students preparing for exams
+• Students preparing for HSK exams
 
 💡 TIPS FOR LEARNING:
 1. Repeat each phrase out loud
@@ -978,7 +969,7 @@ Perfect for beginners and intermediate learners!
 👍 LIKE this video if you found it helpful!
 💬 COMMENT which phrases you want to learn next!
 
-📱 FOLLOW VELOCITY Chinese:
+📱 FOLLOW VELOCITY CHINESE:
 [Add your social media links here]
 
 🎵 MUSIC:
@@ -987,9 +978,10 @@ Perfect for beginners and intermediate learners!
 📖 RELATED VIDEOS:
 • Chinese Motivation Phrases
 • Chinese Love Expressions
+• HSK 1 Vocabulary
 • Basic Chinese Greetings
 
-#LearnChinese #ChinesePhrases #ChineseLanguage #{category_english.replace(' ', '')} #VelocityChinese #ChineseForBeginners #SpeakChinese #ChineseVocabulary #Pronunciation #LanguageLearning #Chinese101 #ChineseLesson
+#LearnChinese #ChinesePhrases #Chinese #{category_english.replace(' ', '')} #VelocityChinese #ChineseForBeginners #SpeakChinese #ChineseVocabulary #Pinyin #LanguageLearning #Chinese101 #ChineseLesson
 
 ---
 © Velocity Chinese - Making Chinese learning accessible to everyone!
@@ -1026,13 +1018,13 @@ Perfect for beginners and intermediate learners!
         tags = [
             "Learn Chinese",
             "Chinese Phrases",
-            "Chinese Language",
+            "Chinese",
             category_english,
             "Velocity Chinese",
             "Chinese for Beginners",
             "Speak Chinese",
             "Chinese Vocabulary",
-            "Pronunciation",
+            "Pinyin",
             "Language Learning",
             "Chinese 101",
             "Chinese Lesson"
@@ -1045,7 +1037,7 @@ Perfect for beginners and intermediate learners!
         "selected_title": titles[0],
         "description": description,
         "category_english": category_english,
-        "category_Chinese": category_Chinese,
+        "category_chinese": category_chinese,
         "phrases_count": len(phrases),
         "duration_minutes": round(duration_minutes, 2),
         "tags": tags
@@ -1073,7 +1065,7 @@ def create_video_from_images_audio(image_files: list, audio_files: list, combine
 
     for i, (img_path, audio_info) in enumerate(zip(image_files, audio_files)):
         duration = audio_info['duration']
-        print(f"  Image {i+1}/{len(image_files)}: {duration:.2f}s (EN: {audio_info.get('en_duration', 0):.1f}s + ES: {audio_info.get('cn_duration', 0):.1f}s)")
+        print(f"  Image {i+1}/{len(image_files)}: {duration:.2f}s (EN: {audio_info.get('en_duration', 0):.1f}s + CN: {audio_info.get('cn_duration', 0):.1f}s)")
 
         temp_clip = Path(output_file).parent / f"temp_clip_{i:02d}.mp4"
         temp_clips.append(temp_clip)
@@ -1112,10 +1104,6 @@ def create_video_from_images_audio(image_files: list, audio_files: list, combine
     video_duration = get_audio_duration(str(output_file))
     print(f"[video] ✓ Video created: {Path(output_file).name} ({video_duration:.2f}s)")
 
-    for clip in temp_clips:
-        if clip.exists():
-            clip.unlink()
-
 
 # ============== MAIN WORKFLOW ==============
 
@@ -1129,7 +1117,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     phrases_count = target_phrases if target_phrases else TARGET_PHRASES
 
     print(f"\n{'='*80}")
-    print(f"🎬 LONG-FORM VIDEO - Category: {category_english} ({CATEGORIES_Chinese[category_english]})")
+    print(f"🎬 LONG-FORM VIDEO - Category: {category_english} ({CATEGORIES_CHINESE[category_english]})")
     print(f"🎯 Target Phrases: {phrases_count}")
     print(f"{'='*80}\n")
 
@@ -1142,7 +1130,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     phrases = generate_phrases_for_longform(category_english, phrases_count)
 
     for i, phrase in enumerate(phrases, 1):
-        print(f"  {i}. {phrase['english']} → {phrase['Chinese']}")
+        print(f"  {i}. {phrase['english']} → {phrase['chinese']}")
 
     print(f"\n[info] Total phrases: {len(phrases)}")
 
@@ -1154,7 +1142,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
         if (i + 1) % 10 == 0:
             print(f"  Progress: {i+1}/{len(phrases)} images...")
 
-    # Step 3: Generate thumbnail using gpt-image-2 via Pollinations
+    # Step 3: Generate thumbnail
     print(f"\n[3/6] Using first phrase image as thumbnail...")
     thumbnail_path = video_dir / "thumbnail.jpg"
     first_phrase = sorted(video_dir.glob("phrase_*.jpg"))
@@ -1170,10 +1158,10 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
                 print(f"  gpt-image-2 thumbnail saved")
             else:
                 print(f"  gpt-image-2 failed, using built-in")
-                generate_thumbnail(category_english, CATEGORIES_ENGLISH[category_english], str(thumbnail_path))
+                generate_thumbnail(category_english, CATEGORIES_CHINESE[category_english], str(thumbnail_path))
         except Exception as e:
             print(f"  Thumbnail error: {e}, using built-in")
-            generate_thumbnail(category_english, CATEGORIES_ENGLISH[category_english], str(thumbnail_path))
+            generate_thumbnail(category_english, CATEGORIES_CHINESE[category_english], str(thumbnail_path))
     video_thumbnail_path = video_dir / "video_thumbnail_frame.jpg"
     print(f"\n[4/6] Generating audio for {len(phrases)} phrases...")
     audio_files = generate_all_audio(phrases, str(video_dir))
@@ -1204,37 +1192,33 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
 
     # Step 6: Generate title and description
     print(f"\n[6/6] Generating YouTube title, description, and metadata...")
-    title_meta = generate_title_description(
+    generate_title_description(
         category_english,
-        CATEGORIES_Chinese[category_english],
+        CATEGORIES_CHINESE[category_english],
         phrases,
         total_duration / 60,
         str(video_dir)
     )
 
-    # Save latest video info for upload script (BEFORE metadata overwrite)
-    import json as _json
-    from pathlib import Path as _Path
-    meta_out = {
-        "title": title_meta.get("selected_title", f"Learn Chinese: {category_english}"),
-        "description": title_meta.get("description", ""),
-        "tags": ["Learn Chinese", "Chinese Phrases", "Chinese", category_english, "Velocity Chinese"],
+    # Save metadata
+    metadata = {
         "category_english": category_english,
-        "category_Chinese": CATEGORIES_Chinese[category_english],
+        "category_chinese": CATEGORIES_CHINESE[category_english],
+        "timestamp": timestamp,
+        "target_phrases": phrases_count,
+        "actual_duration_seconds": total_duration,
+        "actual_duration_minutes": total_duration / 60,
         "phrases_count": len(phrases),
-        "duration_seconds": total_duration,
-        "duration_minutes": total_duration / 60,
-        "video_path": str(output_video),
-        "thumbnail_path": str(thumbnail_path),
         "phrases": phrases,
-        "generated_at": datetime.now().isoformat(),
+        "video": str(output_video),
+        "audio": str(final_audio),
+        "thumbnail": str(thumbnail_path),
+        "resolution": f"{VIDEO_WIDTH}x{VIDEO_HEIGHT}",
+        "fps": FPS
     }
-    _Path("output").mkdir(exist_ok=True)
-    with open(_Path("output") / "latest_video.json", "w", encoding="utf-8") as f:
-        _json.dump(meta_out, f, indent=2, ensure_ascii=False)
-    with open(_Path("output") / "latest_upload_info.json", "w", encoding="utf-8") as f:
-        _json.dump({"title": meta_out["title"], "description": meta_out["description"],
-                     "category": category_english, "phrases_count": len(phrases)}, f, indent=2)
+
+    with open(video_dir / "video_metadata.json", "w", encoding="utf-8") as f:
+        json.dump(metadata, f, indent=2, ensure_ascii=False)
 
     print(f"\n{'='*80}")
     print(f"✅ LONG-FORM VIDEO COMPLETE!")
@@ -1249,7 +1233,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     print(f"  📺 Format: 16:9 (1920x1080)")
     print(f"{'='*80}\n")
 
-    return meta_out
+    return metadata
 
 
 def generate_multiple_longform(count: int = 1, target_phrases: int = None):
@@ -1276,7 +1260,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     print("\n" + "="*80)
-    print("🇨🇳 VELOCITY Chinese - YOUTUBE LONG-FORM AUTOMATION 🇨🇳")
+    print("🇨🇳 VELOCITY CHINESE - YOUTUBE LONG-FORM AUTOMATION 🇨🇳")
     print("="*80)
     print("\n✨ FEATURES:")
     print("  ✓ 16:9 format (1920x1080) for YouTube long-form")
@@ -1288,7 +1272,7 @@ if __name__ == "__main__":
     print("  ✓ NEVER repeats phrases (permanent history tracking)")
     print(f"\n📊 AVAILABLE CATEGORIES ({len(CATEGORIES_ENGLISH)} total):")
     for i, cat in enumerate(CATEGORIES_ENGLISH, 1):
-        print(f"   {i:2d}. {cat} ({CATEGORIES_Chinese[cat]})")
+        print(f"   {i:2d}. {cat} ({CATEGORIES_CHINESE[cat]})")
     print(f"\n📈 VIDEO SPECIFICATIONS:")
     print(f"  • Resolution: {VIDEO_WIDTH}x{VIDEO_HEIGHT} (16:9)")
     print(f"  • Frame Rate: {FPS} FPS")
