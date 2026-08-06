@@ -256,6 +256,7 @@ IMPORTANT RULES FOR NATURAL SPEECH:
 For each phrase:
 1. English phrase (with commas for natural pauses)
 2. Chinese translation (Simplified Chinese)
+CRITICAL: Every translation MUST be in Chinese. NEVER use German, Spanish, or any other language. Only Chinese.
 3. Romaji pronunciation guide (e.g., "Konnichiwa")
 
 Return as JSON array:
