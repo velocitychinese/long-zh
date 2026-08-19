@@ -16559,7 +16559,367 @@
       "chinese": "一起的冒险，最棒。",
       "category": "Friendship",
       "generated_at": "2026-08-18T02:15:23.443674"
+    },
+    {
+      "english": "Speak clearly, slowly.",
+      "chinese": "说清楚，慢慢说。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030452"
+    },
+    {
+      "english": "Listen carefully, understand.",
+      "chinese": "仔细听，要明白。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030465"
+    },
+    {
+      "english": "Practice makes perfect.",
+      "chinese": "熟能生巧。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030467"
+    },
+    {
+      "english": "You're doing great, keep going.",
+      "chinese": "你做得很好，继续。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030469"
+    },
+    {
+      "english": "Ask questions, if unsure.",
+      "chinese": "不确定，就问。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030470"
+    },
+    {
+      "english": "Little by little, you'll learn.",
+      "chinese": "一点一点，你就懂。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030471"
+    },
+    {
+      "english": "Don't be shy, speak up.",
+      "chinese": "别害羞，说出来。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030473"
+    },
+    {
+      "english": "You can do this, believe it.",
+      "chinese": "你能行，相信。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030477"
+    },
+    {
+      "english": "Focus, and you will win.",
+      "chinese": "专注，就能赢。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030479"
+    },
+    {
+      "english": "Good job, keep improving.",
+      "chinese": "做得好，继续进步。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030480"
+    },
+    {
+      "english": "Don't give up, persevere.",
+      "chinese": "别放弃，坚持。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030481"
+    },
+    {
+      "english": "You are learning fast.",
+      "chinese": "你学得很快。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030482"
+    },
+    {
+      "english": "Read more, speak more.",
+      "chinese": "多读，多说。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030483"
+    },
+    {
+      "english": "Understand the context, then speak.",
+      "chinese": "理解语境，再说。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030484"
+    },
+    {
+      "english": "This is a big step.",
+      "chinese": "这是重要一步。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030485"
+    },
+    {
+      "english": "You're almost there, almost.",
+      "chinese": "你快到了，马上。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030486"
+    },
+    {
+      "english": "Think before you speak.",
+      "chinese": "三思而后言。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030487"
+    },
+    {
+      "english": "Your pronunciation, is improving.",
+      "chinese": "你的发音，在进步。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030488"
+    },
+    {
+      "english": "It's okay, to make errors.",
+      "chinese": "犯错没关系。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030489"
+    },
+    {
+      "english": "You are very capable.",
+      "chinese": "你很有能力。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030490"
+    },
+    {
+      "english": "Keep this momentum going.",
+      "chinese": "保持这个势头。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030491"
+    },
+    {
+      "english": "You understand, now, right?",
+      "chinese": "你懂了，是吗？",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030492"
+    },
+    {
+      "english": "Don't be afraid, of failing.",
+      "chinese": "别怕失败。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030492"
+    },
+    {
+      "english": "This is progress, celebrate it.",
+      "chinese": "这是进步，庆祝。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030493"
+    },
+    {
+      "english": "You are getting better, day by day.",
+      "chinese": "你一天天变好。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030495"
+    },
+    {
+      "english": "Be confident, when you talk.",
+      "chinese": "说话要自信。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030496"
+    },
+    {
+      "english": "Use new words, immediately.",
+      "chinese": "新词，马上用。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030497"
+    },
+    {
+      "english": "You're on the right track.",
+      "chinese": "你走在对路上。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030497"
+    },
+    {
+      "english": "This phrase, is now yours.",
+      "chinese": "这句话，你掌握了。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030498"
+    },
+    {
+      "english": "Keep practicing, every day.",
+      "chinese": "每天坚持练。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030499"
+    },
+    {
+      "english": "Your efforts, are worth it.",
+      "chinese": "你的努力，值得。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030500"
+    },
+    {
+      "english": "You are truly learning.",
+      "chinese": "你真的在学。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030501"
+    },
+    {
+      "english": "This is a breakthrough.",
+      "chinese": "这是个突破。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030502"
+    },
+    {
+      "english": "You've got this!",
+      "chinese": "你搞定了！",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030503"
+    },
+    {
+      "english": "Speak clearly, slowly.",
+      "chinese": "说清楚，慢慢说。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030504"
+    },
+    {
+      "english": "Listen carefully, understand.",
+      "chinese": "仔细听，要明白。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030506"
+    },
+    {
+      "english": "Practice makes perfect.",
+      "chinese": "熟能生巧。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030507"
+    },
+    {
+      "english": "You're doing great, keep going.",
+      "chinese": "你做得很好，继续。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030508"
+    },
+    {
+      "english": "Ask questions, if unsure.",
+      "chinese": "不确定，就问。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030509"
+    },
+    {
+      "english": "Little by little, you'll learn.",
+      "chinese": "一点一点，你就懂。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030510"
+    },
+    {
+      "english": "Don't be shy, speak up.",
+      "chinese": "别害羞，说出来。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030512"
+    },
+    {
+      "english": "You can do this, believe it.",
+      "chinese": "你能行，相信。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030513"
+    },
+    {
+      "english": "Focus, and you will win.",
+      "chinese": "专注，就能赢。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030514"
+    },
+    {
+      "english": "Good job, keep improving.",
+      "chinese": "做得好，继续进步。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030515"
+    },
+    {
+      "english": "Don't give up, persevere.",
+      "chinese": "别放弃，坚持。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030516"
+    },
+    {
+      "english": "You are learning fast.",
+      "chinese": "你学得很快。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030518"
+    },
+    {
+      "english": "Read more, speak more.",
+      "chinese": "多读，多说。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030519"
+    },
+    {
+      "english": "Understand the context, then speak.",
+      "chinese": "理解语境，再说。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030520"
+    },
+    {
+      "english": "This is a big step.",
+      "chinese": "这是重要一步。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030521"
+    },
+    {
+      "english": "You're almost there, almost.",
+      "chinese": "你快到了，马上。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030522"
+    },
+    {
+      "english": "Think before you speak.",
+      "chinese": "三思而后言。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030523"
+    },
+    {
+      "english": "Your pronunciation, is improving.",
+      "chinese": "你的发音，在进步。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030524"
+    },
+    {
+      "english": "It's okay, to make errors.",
+      "chinese": "犯错没关系。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030525"
+    },
+    {
+      "english": "You are very capable.",
+      "chinese": "你很有能力。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030526"
+    },
+    {
+      "english": "Keep this momentum going.",
+      "chinese": "保持这个势头。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030527"
+    },
+    {
+      "english": "You understand, now, right?",
+      "chinese": "你懂了，是吗？",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030528"
+    },
+    {
+      "english": "Don't be afraid, of failing.",
+      "chinese": "别怕失败。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030528"
+    },
+    {
+      "english": "This is progress, celebrate it.",
+      "chinese": "这是进步，庆祝。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030529"
+    },
+    {
+      "english": "You are getting better, day by day.",
+      "chinese": "你一天天变好。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030530"
+    },
+    {
+      "english": "Be confident, when you talk.",
+      "chinese": "说话要自信。",
+      "category": "Success",
+      "generated_at": "2026-08-19T02:20:25.030531"
     }
   ],
-  "last_updated": "2026-08-18T02:15:23.443676"
+  "last_updated": "2026-08-19T02:20:25.030533"
 }
