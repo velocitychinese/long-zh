@@ -16919,7 +16919,367 @@
       "chinese": "说话要自信。",
       "category": "Success",
       "generated_at": "2026-08-19T02:20:25.030531"
+    },
+    {
+      "english": "Push a little, achieve more.",
+      "chinese": "再推一把，能更多。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362697"
+    },
+    {
+      "english": "Don't quit, find your way.",
+      "chinese": "不放弃，找你路。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362703"
+    },
+    {
+      "english": "Persistence wins, eventually.",
+      "chinese": "坚持赢，到最后。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362705"
+    },
+    {
+      "english": "Mistakes are stepping stones.",
+      "chinese": "错是垫脚石。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362706"
+    },
+    {
+      "english": "Future you, thanks you.",
+      "chinese": "未来的你，谢谢你。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362707"
+    },
+    {
+      "english": "One more try, might work.",
+      "chinese": "再试一次，可能行。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362708"
+    },
+    {
+      "english": "Dig deeper, find gold.",
+      "chinese": "挖深点，寻金。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362709"
+    },
+    {
+      "english": "This is the process, embrace.",
+      "chinese": "这是过程，拥抱。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362712"
+    },
+    {
+      "english": "Tireless effort, bears fruit.",
+      "chinese": "不懈努力，结硕果。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362713"
+    },
+    {
+      "english": "Keep your focus, stay strong.",
+      "chinese": "保持专注，坚强。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362715"
+    },
+    {
+      "english": "You're building something great.",
+      "chinese": "你在建伟大。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362716"
+    },
+    {
+      "english": "Don't stop believing, yet.",
+      "chinese": "别停信，还没。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362717"
+    },
+    {
+      "english": "Every effort, counts now.",
+      "chinese": "每份力，算。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362718"
+    },
+    {
+      "english": "Stay the course, see it through.",
+      "chinese": "守住路，走完。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362719"
+    },
+    {
+      "english": "Forward march, never back.",
+      "chinese": "前进，不退。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362720"
+    },
+    {
+      "english": "You can refine, your skills.",
+      "chinese": "能精进，你技能。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362721"
+    },
+    {
+      "english": "The grind, is real.",
+      "chinese": "磨练，真实。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362722"
+    },
+    {
+      "english": "Don't get discouraged, try again.",
+      "chinese": "别气馁，再来。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362723"
+    },
+    {
+      "english": "Build momentum, piece by piece.",
+      "chinese": "累积势头，点滴。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362724"
+    },
+    {
+      "english": "Stay consistent, achieve.",
+      "chinese": "保持恒，达成。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362724"
+    },
+    {
+      "english": "Push through, the tough times.",
+      "chinese": "穿过，难时。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362725"
+    },
+    {
+      "english": "This effort, matters much.",
+      "chinese": "这番努力，很重要。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362726"
+    },
+    {
+      "english": "Overcome challenges, rise up.",
+      "chinese": "克服难，站起。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362727"
+    },
+    {
+      "english": "The journey, is the reward.",
+      "chinese": "旅途，是奖赏。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362728"
+    },
+    {
+      "english": "Keep your head up, strong.",
+      "chinese": "挺起头，坚强。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362729"
+    },
+    {
+      "english": "You are stronger, than you know.",
+      "chinese": "你比想，更强。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362730"
+    },
+    {
+      "english": "Little wins, build big.",
+      "chinese": "小胜利，建大。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362731"
+    },
+    {
+      "english": "Endure now, rejoice later.",
+      "chinese": "忍此时，乐彼。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362732"
+    },
+    {
+      "english": "Keep forging ahead, onward.",
+      "chinese": "继续锻，向前。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362733"
+    },
+    {
+      "english": "This path, is yours.",
+      "chinese": "这路，是你的。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362734"
+    },
+    {
+      "english": "Push a little, achieve more.",
+      "chinese": "再推一把，能更多。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362735"
+    },
+    {
+      "english": "Don't quit, find your way.",
+      "chinese": "不放弃，找你路。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362736"
+    },
+    {
+      "english": "Persistence wins, eventually.",
+      "chinese": "坚持赢，到最后。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362737"
+    },
+    {
+      "english": "Mistakes are stepping stones.",
+      "chinese": "错是垫脚石。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362738"
+    },
+    {
+      "english": "Future you, thanks you.",
+      "chinese": "未来的你，谢谢你。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362739"
+    },
+    {
+      "english": "One more try, might work.",
+      "chinese": "再试一次，可能行。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362740"
+    },
+    {
+      "english": "Dig deeper, find gold.",
+      "chinese": "挖深点，寻金。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362741"
+    },
+    {
+      "english": "This is the process, embrace.",
+      "chinese": "这是过程，拥抱。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362742"
+    },
+    {
+      "english": "Tireless effort, bears fruit.",
+      "chinese": "不懈努力，结硕果。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362743"
+    },
+    {
+      "english": "Keep your focus, stay strong.",
+      "chinese": "保持专注，坚强。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362744"
+    },
+    {
+      "english": "You're building something great.",
+      "chinese": "你在建伟大。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362745"
+    },
+    {
+      "english": "Don't stop believing, yet.",
+      "chinese": "别停信，还没。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362746"
+    },
+    {
+      "english": "Every effort, counts now.",
+      "chinese": "每份力，算。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362747"
+    },
+    {
+      "english": "Stay the course, see it through.",
+      "chinese": "守住路，走完。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362748"
+    },
+    {
+      "english": "Forward march, never back.",
+      "chinese": "前进，不退。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362749"
+    },
+    {
+      "english": "You can refine, your skills.",
+      "chinese": "能精进，你技能。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362750"
+    },
+    {
+      "english": "The grind, is real.",
+      "chinese": "磨练，真实。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362751"
+    },
+    {
+      "english": "Don't get discouraged, try again.",
+      "chinese": "别气馁，再来。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362752"
+    },
+    {
+      "english": "Build momentum, piece by piece.",
+      "chinese": "累积势头，点滴。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362753"
+    },
+    {
+      "english": "Stay consistent, achieve.",
+      "chinese": "保持恒，达成。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362754"
+    },
+    {
+      "english": "Push through, the tough times.",
+      "chinese": "穿过，难时。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362755"
+    },
+    {
+      "english": "This effort, matters much.",
+      "chinese": "这番努力，很重要。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362756"
+    },
+    {
+      "english": "Overcome challenges, rise up.",
+      "chinese": "克服难，站起。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362757"
+    },
+    {
+      "english": "The journey, is the reward.",
+      "chinese": "旅途，是奖赏。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362758"
+    },
+    {
+      "english": "Keep your head up, strong.",
+      "chinese": "挺起头，坚强。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362759"
+    },
+    {
+      "english": "You are stronger, than you know.",
+      "chinese": "你比想，更强。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362760"
+    },
+    {
+      "english": "Little wins, build big.",
+      "chinese": "小胜利，建大。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362761"
+    },
+    {
+      "english": "Endure now, rejoice later.",
+      "chinese": "忍此时，乐彼。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362761"
+    },
+    {
+      "english": "Keep forging ahead, onward.",
+      "chinese": "继续锻，向前。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362762"
+    },
+    {
+      "english": "This path, is yours.",
+      "chinese": "这路，是你的。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-20T02:15:25.362763"
     }
   ],
-  "last_updated": "2026-08-19T02:20:25.030533"
+  "last_updated": "2026-08-20T02:15:25.362765"
 }
