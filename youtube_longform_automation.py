@@ -36,8 +36,8 @@ for d in [OUTPUT_DIR, IMAGES_DIR, AUDIO_DIR, VIDEO_DIR, HISTORY_DIR, LONGFORM_DI
 VIDEO_WIDTH = 1920
 VIDEO_HEIGHT = 1080
 FPS = 30
-TARGET_DURATION_MINUTES = 5  # Target 5-minute videos (60 phrases)
-TARGET_PHRASES = 60  # Number of phrases to generate
+TARGET_DURATION_MINUTES = 10  # Target 10-minute videos (130 phrases)
+TARGET_PHRASES = 130  # Number of phrases to generate (~4.9s each -> ~10.6 min)
 
 # English category names (for American/European learners)
 CATEGORIES_ENGLISH = [
@@ -1279,7 +1279,7 @@ def generate_multiple_longform(count: int = 1, target_phrases: int = None):
 if __name__ == "__main__":
     import argparse
     parser = argparse.ArgumentParser(description="Velocity Chinese YouTube Long-form Video Generator")
-    parser.add_argument("--phrases", type=int, default=TARGET_PHRASES, help="Number of phrases to generate (determines video length, ~5.5s per phrase. 60 phrases = ~5.5 mins)")
+    parser.add_argument("--phrases", type=int, default=TARGET_PHRASES, help="Number of phrases to generate (determines video length, ~4.9s per phrase. 130 phrases = ~10.6 mins)")
     parser.add_argument("--category", type=str, default=None, help="Specific category to generate (e.g. 'Motivation', 'Friendship'). Random if not provided.")
     args = parser.parse_args()
 
