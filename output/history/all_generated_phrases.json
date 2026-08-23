@@ -18359,7 +18359,787 @@
       "chinese": "散发正能量，感觉良好。",
       "category": "Happiness",
       "generated_at": "2026-08-23T02:22:14.705000"
+    },
+    {
+      "english": "Mistake made, lesson learned.",
+      "chinese": "犯错了，学到教训。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942536"
+    },
+    {
+      "english": "Sorry, my bad.",
+      "chinese": "抱歉，我的错。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942552"
+    },
+    {
+      "english": "I apologize, sincerely.",
+      "chinese": "我道歉，真心诚意。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942553"
+    },
+    {
+      "english": "Let's move on, together.",
+      "chinese": "向前看，一起走。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942554"
+    },
+    {
+      "english": "It's okay, forget it.",
+      "chinese": "没事，忘了它。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942556"
+    },
+    {
+      "english": "No hard feelings, okay?",
+      "chinese": "别介意，好吗？",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942557"
+    },
+    {
+      "english": "Water under the bridge.",
+      "chinese": "往事已矣。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942558"
+    },
+    {
+      "english": "We can start anew.",
+      "chinese": "我们可以重新开始。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942562"
+    },
+    {
+      "english": "Don't worry about it.",
+      "chinese": "别担心那件事。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942563"
+    },
+    {
+      "english": "Let bygones, be bygones.",
+      "chinese": "过去的就过去。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942565"
+    },
+    {
+      "english": "I accept your apology.",
+      "chinese": "我接受你的道歉。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942566"
+    },
+    {
+      "english": "All is well, now.",
+      "chinese": "现在一切都好。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942567"
+    },
+    {
+      "english": "Let it go, breathe deep.",
+      "chinese": "放下吧，深呼吸。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942568"
+    },
+    {
+      "english": "It's all good, friend.",
+      "chinese": "一切都很好，朋友。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942569"
+    },
+    {
+      "english": "Peace begins with me.",
+      "chinese": "和平始于我。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942570"
+    },
+    {
+      "english": "I release the anger.",
+      "chinese": "我放下愤怒。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942571"
+    },
+    {
+      "english": "Forget the past, focus.",
+      "chinese": "忘掉过去，专注。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942572"
+    },
+    {
+      "english": "Your mistake, my understanding.",
+      "chinese": "你的错误，我的理解。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942573"
+    },
+    {
+      "english": "Can we make amends?",
+      "chinese": "我们能弥补吗？",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942575"
+    },
+    {
+      "english": "It was unintentional, I know.",
+      "chinese": "我知道，不是故意的。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942575"
+    },
+    {
+      "english": "Give us a fresh start.",
+      "chinese": "给我们一个新开始。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942577"
+    },
+    {
+      "english": "I choose to forgive.",
+      "chinese": "我选择原谅。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942578"
+    },
+    {
+      "english": "Let's clear the air.",
+      "chinese": "我们把事情说开。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942579"
+    },
+    {
+      "english": "I'm not holding grudges.",
+      "chinese": "我不记仇。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942580"
+    },
+    {
+      "english": "Mistakes happen, it's fine.",
+      "chinese": "犯错很正常。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942581"
+    },
+    {
+      "english": "I release the pain.",
+      "chinese": "我释放痛苦。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942582"
+    },
+    {
+      "english": "Let's be friends again.",
+      "chinese": "我们还是朋友。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942583"
+    },
+    {
+      "english": "Unburdened, and free.",
+      "chinese": "卸下重担，自由。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942584"
+    },
+    {
+      "english": "We learn, we grow.",
+      "chinese": "我们学习，我们成长。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942585"
+    },
+    {
+      "english": "I let go of blame.",
+      "chinese": "我不怪罪。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942586"
+    },
+    {
+      "english": "Time to heal, move on.",
+      "chinese": "是时候疗愈，向前。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942587"
+    },
+    {
+      "english": "Your apology, accepted.",
+      "chinese": "你的道歉，收到了。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942588"
+    },
+    {
+      "english": "No more bad feelings.",
+      "chinese": "不再有坏感觉。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942589"
+    },
+    {
+      "english": "We can mend this.",
+      "chinese": "我们可以修复。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942590"
+    },
+    {
+      "english": "My apologies, for sure.",
+      "chinese": "我的歉意，肯定。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942591"
+    },
+    {
+      "english": "Let's reset the slate.",
+      "chinese": "我们翻开新的一页。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942592"
+    },
+    {
+      "english": "Consider it forgiven.",
+      "chinese": "就当被原谅了。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942593"
+    },
+    {
+      "english": "This is a fresh start.",
+      "chinese": "这是个新开始。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942594"
+    },
+    {
+      "english": "All is forgotten now.",
+      "chinese": "现在都忘了。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942595"
+    },
+    {
+      "english": "Mistake made, lesson learned.",
+      "chinese": "犯错了，学到教训。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942596"
+    },
+    {
+      "english": "Sorry, my bad.",
+      "chinese": "抱歉，我的错。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942597"
+    },
+    {
+      "english": "I apologize, sincerely.",
+      "chinese": "我道歉，真心诚意。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942598"
+    },
+    {
+      "english": "Let's move on, together.",
+      "chinese": "向前看，一起走。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942599"
+    },
+    {
+      "english": "It's okay, forget it.",
+      "chinese": "没事，忘了它。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942600"
+    },
+    {
+      "english": "No hard feelings, okay?",
+      "chinese": "别介意，好吗？",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942601"
+    },
+    {
+      "english": "Water under the bridge.",
+      "chinese": "往事已矣。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942602"
+    },
+    {
+      "english": "We can start anew.",
+      "chinese": "我们可以重新开始。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942603"
+    },
+    {
+      "english": "Don't worry about it.",
+      "chinese": "别担心那件事。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942604"
+    },
+    {
+      "english": "Let bygones, be bygones.",
+      "chinese": "过去的就过去。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942605"
+    },
+    {
+      "english": "I accept your apology.",
+      "chinese": "我接受你的道歉。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942606"
+    },
+    {
+      "english": "All is well, now.",
+      "chinese": "现在一切都好。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942607"
+    },
+    {
+      "english": "Let it go, breathe deep.",
+      "chinese": "放下吧，深呼吸。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942609"
+    },
+    {
+      "english": "It's all good, friend.",
+      "chinese": "一切都很好，朋友。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942610"
+    },
+    {
+      "english": "Peace begins with me.",
+      "chinese": "和平始于我。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942611"
+    },
+    {
+      "english": "I release the anger.",
+      "chinese": "我放下愤怒。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942612"
+    },
+    {
+      "english": "Forget the past, focus.",
+      "chinese": "忘掉过去，专注。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942613"
+    },
+    {
+      "english": "Your mistake, my understanding.",
+      "chinese": "你的错误，我的理解。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942614"
+    },
+    {
+      "english": "Can we make amends?",
+      "chinese": "我们能弥补吗？",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942615"
+    },
+    {
+      "english": "It was unintentional, I know.",
+      "chinese": "我知道，不是故意的。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942616"
+    },
+    {
+      "english": "Give us a fresh start.",
+      "chinese": "给我们一个新开始。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942617"
+    },
+    {
+      "english": "I choose to forgive.",
+      "chinese": "我选择原谅。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942618"
+    },
+    {
+      "english": "Let's clear the air.",
+      "chinese": "我们把事情说开。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942619"
+    },
+    {
+      "english": "I'm not holding grudges.",
+      "chinese": "我不记仇。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942620"
+    },
+    {
+      "english": "Mistakes happen, it's fine.",
+      "chinese": "犯错很正常。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942621"
+    },
+    {
+      "english": "I release the pain.",
+      "chinese": "我释放痛苦。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942622"
+    },
+    {
+      "english": "Let's be friends again.",
+      "chinese": "我们还是朋友。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942623"
+    },
+    {
+      "english": "Unburdened, and free.",
+      "chinese": "卸下重担，自由。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942624"
+    },
+    {
+      "english": "We learn, we grow.",
+      "chinese": "我们学习，我们成长。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942625"
+    },
+    {
+      "english": "I let go of blame.",
+      "chinese": "我不怪罪。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942626"
+    },
+    {
+      "english": "Time to heal, move on.",
+      "chinese": "是时候疗愈，向前。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942627"
+    },
+    {
+      "english": "Your apology, accepted.",
+      "chinese": "你的道歉，收到了。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942628"
+    },
+    {
+      "english": "No more bad feelings.",
+      "chinese": "不再有坏感觉。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942628"
+    },
+    {
+      "english": "We can mend this.",
+      "chinese": "我们可以修复。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942629"
+    },
+    {
+      "english": "My apologies, for sure.",
+      "chinese": "我的歉意，肯定。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942630"
+    },
+    {
+      "english": "Let's reset the slate.",
+      "chinese": "我们翻开新的一页。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942631"
+    },
+    {
+      "english": "Consider it forgiven.",
+      "chinese": "就当被原谅了。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942632"
+    },
+    {
+      "english": "This is a fresh start.",
+      "chinese": "这是个新开始。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942633"
+    },
+    {
+      "english": "All is forgotten now.",
+      "chinese": "现在都忘了。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942634"
+    },
+    {
+      "english": "Mistake made, lesson learned.",
+      "chinese": "犯错了，学到教训。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942635"
+    },
+    {
+      "english": "Sorry, my bad.",
+      "chinese": "抱歉，我的错。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942636"
+    },
+    {
+      "english": "I apologize, sincerely.",
+      "chinese": "我道歉，真心诚意。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942637"
+    },
+    {
+      "english": "Let's move on, together.",
+      "chinese": "向前看，一起走。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942638"
+    },
+    {
+      "english": "It's okay, forget it.",
+      "chinese": "没事，忘了它。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942639"
+    },
+    {
+      "english": "No hard feelings, okay?",
+      "chinese": "别介意，好吗？",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942640"
+    },
+    {
+      "english": "Water under the bridge.",
+      "chinese": "往事已矣。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942641"
+    },
+    {
+      "english": "We can start anew.",
+      "chinese": "我们可以重新开始。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942642"
+    },
+    {
+      "english": "Don't worry about it.",
+      "chinese": "别担心那件事。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942643"
+    },
+    {
+      "english": "Let bygones, be bygones.",
+      "chinese": "过去的就过去。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942644"
+    },
+    {
+      "english": "I accept your apology.",
+      "chinese": "我接受你的道歉。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942645"
+    },
+    {
+      "english": "All is well, now.",
+      "chinese": "现在一切都好。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942646"
+    },
+    {
+      "english": "Let it go, breathe deep.",
+      "chinese": "放下吧，深呼吸。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942647"
+    },
+    {
+      "english": "It's all good, friend.",
+      "chinese": "一切都很好，朋友。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942648"
+    },
+    {
+      "english": "Peace begins with me.",
+      "chinese": "和平始于我。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942648"
+    },
+    {
+      "english": "I release the anger.",
+      "chinese": "我放下愤怒。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942649"
+    },
+    {
+      "english": "Forget the past, focus.",
+      "chinese": "忘掉过去，专注。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942650"
+    },
+    {
+      "english": "Your mistake, my understanding.",
+      "chinese": "你的错误，我的理解。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942651"
+    },
+    {
+      "english": "Can we make amends?",
+      "chinese": "我们能弥补吗？",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942652"
+    },
+    {
+      "english": "It was unintentional, I know.",
+      "chinese": "我知道，不是故意的。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942653"
+    },
+    {
+      "english": "Give us a fresh start.",
+      "chinese": "给我们一个新开始。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942654"
+    },
+    {
+      "english": "I choose to forgive.",
+      "chinese": "我选择原谅。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942657"
+    },
+    {
+      "english": "Let's clear the air.",
+      "chinese": "我们把事情说开。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942658"
+    },
+    {
+      "english": "I'm not holding grudges.",
+      "chinese": "我不记仇。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942659"
+    },
+    {
+      "english": "Mistakes happen, it's fine.",
+      "chinese": "犯错很正常。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942660"
+    },
+    {
+      "english": "I release the pain.",
+      "chinese": "我释放痛苦。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942661"
+    },
+    {
+      "english": "Let's be friends again.",
+      "chinese": "我们还是朋友。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942662"
+    },
+    {
+      "english": "Unburdened, and free.",
+      "chinese": "卸下重担，自由。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942663"
+    },
+    {
+      "english": "We learn, we grow.",
+      "chinese": "我们学习，我们成长。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942664"
+    },
+    {
+      "english": "I let go of blame.",
+      "chinese": "我不怪罪。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942665"
+    },
+    {
+      "english": "Time to heal, move on.",
+      "chinese": "是时候疗愈，向前。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942667"
+    },
+    {
+      "english": "Your apology, accepted.",
+      "chinese": "你的道歉，收到了。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942668"
+    },
+    {
+      "english": "No more bad feelings.",
+      "chinese": "不再有坏感觉。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942669"
+    },
+    {
+      "english": "We can mend this.",
+      "chinese": "我们可以修复。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942670"
+    },
+    {
+      "english": "My apologies, for sure.",
+      "chinese": "我的歉意，肯定。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942670"
+    },
+    {
+      "english": "Let's reset the slate.",
+      "chinese": "我们翻开新的一页。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942671"
+    },
+    {
+      "english": "Consider it forgiven.",
+      "chinese": "就当被原谅了。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942672"
+    },
+    {
+      "english": "This is a fresh start.",
+      "chinese": "这是个新开始。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942673"
+    },
+    {
+      "english": "All is forgotten now.",
+      "chinese": "现在都忘了。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942674"
+    },
+    {
+      "english": "Mistake made, lesson learned.",
+      "chinese": "犯错了，学到教训。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942675"
+    },
+    {
+      "english": "Sorry, my bad.",
+      "chinese": "抱歉，我的错。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942676"
+    },
+    {
+      "english": "I apologize, sincerely.",
+      "chinese": "我道歉，真心诚意。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942677"
+    },
+    {
+      "english": "Let's move on, together.",
+      "chinese": "向前看，一起走。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942678"
+    },
+    {
+      "english": "It's okay, forget it.",
+      "chinese": "没事，忘了它。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942679"
+    },
+    {
+      "english": "No hard feelings, okay?",
+      "chinese": "别介意，好吗？",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942679"
+    },
+    {
+      "english": "Water under the bridge.",
+      "chinese": "往事已矣。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942680"
+    },
+    {
+      "english": "We can start anew.",
+      "chinese": "我们可以重新开始。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942681"
+    },
+    {
+      "english": "Don't worry about it.",
+      "chinese": "别担心那件事。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942682"
+    },
+    {
+      "english": "Let bygones, be bygones.",
+      "chinese": "过去的就过去。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942683"
+    },
+    {
+      "english": "I accept your apology.",
+      "chinese": "我接受你的道歉。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942684"
+    },
+    {
+      "english": "All is well, now.",
+      "chinese": "现在一切都好。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942685"
+    },
+    {
+      "english": "Let it go, breathe deep.",
+      "chinese": "放下吧，深呼吸。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-23T20:56:30.942686"
     }
   ],
-  "last_updated": "2026-08-23T02:22:14.705002"
+  "last_updated": "2026-08-23T20:56:30.942689"
 }
