@@ -19139,7 +19139,787 @@
       "chinese": "放下吧，深呼吸。",
       "category": "Forgiveness",
       "generated_at": "2026-08-23T20:56:30.942686"
+    },
+    {
+      "english": "Kindness, creates happiness.",
+      "chinese": "善良，创造幸福。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891612"
+    },
+    {
+      "english": "Singing, makes you happy.",
+      "chinese": "唱歌，让你快乐。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891627"
+    },
+    {
+      "english": "Dancing, releases stress.",
+      "chinese": "跳舞，释放压力。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891629"
+    },
+    {
+      "english": "Sunlight, brightens your day.",
+      "chinese": "阳光，照亮一天。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891630"
+    },
+    {
+      "english": "Good sleep, fuels happiness.",
+      "chinese": "好睡眠，滋养快乐。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891632"
+    },
+    {
+      "english": "Friendship, multiplies smiles.",
+      "chinese": "友谊，倍增笑容。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891633"
+    },
+    {
+      "english": "Learning, opens new doors.",
+      "chinese": "学习，开启新门。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891646"
+    },
+    {
+      "english": "Creating, feels rewarding.",
+      "chinese": "创造，感觉有回报。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891651"
+    },
+    {
+      "english": "Music, lifts your spirits.",
+      "chinese": "音乐，振奋精神。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891652"
+    },
+    {
+      "english": "Breathing deep, brings calm.",
+      "chinese": "深呼吸，带来平静。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891654"
+    },
+    {
+      "english": "Sharing food, builds bonds.",
+      "chinese": "分享食物，建立关系。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891655"
+    },
+    {
+      "english": "Goals, give purpose.",
+      "chinese": "目标，给予意义。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891657"
+    },
+    {
+      "english": "Compliments, spread positivity.",
+      "chinese": "赞美，传播积极。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891658"
+    },
+    {
+      "english": "Curiosity, fuels wonder.",
+      "chinese": "好奇心，激发惊奇。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891659"
+    },
+    {
+      "english": "Playfulness, keeps you young.",
+      "chinese": "玩乐，让你年轻。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891660"
+    },
+    {
+      "english": "Forgiveness, frees your heart.",
+      "chinese": "宽恕，解放心灵。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891661"
+    },
+    {
+      "english": "Hope, conquers sadness.",
+      "chinese": "希望，战胜悲伤。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891662"
+    },
+    {
+      "english": "Adventure, excites the soul.",
+      "chinese": "冒险，激动灵魂。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891663"
+    },
+    {
+      "english": "Art, enriches life.",
+      "chinese": "艺术，丰富生活。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891664"
+    },
+    {
+      "english": "Wisdom, brings contentment.",
+      "chinese": "智慧，带来满足。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891665"
+    },
+    {
+      "english": "Generosity, multiplies joy.",
+      "chinese": "慷慨，倍增喜悦。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891666"
+    },
+    {
+      "english": "Silence, can be peaceful.",
+      "chinese": "沉默，可以很宁静。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891667"
+    },
+    {
+      "english": "Curiosity, leads to discovery.",
+      "chinese": "好奇，引导发现。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891668"
+    },
+    {
+      "english": "Play, recharges your energy.",
+      "chinese": "玩耍，充沛能量。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891669"
+    },
+    {
+      "english": "Dreams, inspire action.",
+      "chinese": "梦想，激励行动。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891670"
+    },
+    {
+      "english": "Courage, opens new paths.",
+      "chinese": "勇气，开辟新路。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891671"
+    },
+    {
+      "english": "Love, makes life bloom.",
+      "chinese": "爱，让生命绽放。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891672"
+    },
+    {
+      "english": "Faith, conquers fear.",
+      "chinese": "信念，克服恐惧。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891672"
+    },
+    {
+      "english": "Humor, lightens burdens.",
+      "chinese": "幽默，减轻负担。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891673"
+    },
+    {
+      "english": "Reading, expands horizons.",
+      "chinese": "阅读，拓展眼界。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891674"
+    },
+    {
+      "english": "Mindfulness, brings peace.",
+      "chinese": "正念，带来宁静。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891675"
+    },
+    {
+      "english": "Simple pleasures, are key.",
+      "chinese": "简单快乐，是关键。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891676"
+    },
+    {
+      "english": "Kind words, heal hearts.",
+      "chinese": "善语，治愈心。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891677"
+    },
+    {
+      "english": "Joy, is a choice.",
+      "chinese": "快乐，是一种选择。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891678"
+    },
+    {
+      "english": "Kindness, creates happiness.",
+      "chinese": "善良，创造幸福。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891679"
+    },
+    {
+      "english": "Singing, makes you happy.",
+      "chinese": "唱歌，让你快乐。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891680"
+    },
+    {
+      "english": "Dancing, releases stress.",
+      "chinese": "跳舞，释放压力。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891681"
+    },
+    {
+      "english": "Sunlight, brightens your day.",
+      "chinese": "阳光，照亮一天。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891682"
+    },
+    {
+      "english": "Good sleep, fuels happiness.",
+      "chinese": "好睡眠，滋养快乐。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891683"
+    },
+    {
+      "english": "Friendship, multiplies smiles.",
+      "chinese": "友谊，倍增笑容。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891684"
+    },
+    {
+      "english": "Learning, opens new doors.",
+      "chinese": "学习，开启新门。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891685"
+    },
+    {
+      "english": "Creating, feels rewarding.",
+      "chinese": "创造，感觉有回报。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891687"
+    },
+    {
+      "english": "Music, lifts your spirits.",
+      "chinese": "音乐，振奋精神。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891688"
+    },
+    {
+      "english": "Breathing deep, brings calm.",
+      "chinese": "深呼吸，带来平静。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891689"
+    },
+    {
+      "english": "Sharing food, builds bonds.",
+      "chinese": "分享食物，建立关系。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891690"
+    },
+    {
+      "english": "Goals, give purpose.",
+      "chinese": "目标，给予意义。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891691"
+    },
+    {
+      "english": "Compliments, spread positivity.",
+      "chinese": "赞美，传播积极。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891692"
+    },
+    {
+      "english": "Curiosity, fuels wonder.",
+      "chinese": "好奇心，激发惊奇。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891693"
+    },
+    {
+      "english": "Playfulness, keeps you young.",
+      "chinese": "玩乐，让你年轻。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891694"
+    },
+    {
+      "english": "Forgiveness, frees your heart.",
+      "chinese": "宽恕，解放心灵。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891695"
+    },
+    {
+      "english": "Hope, conquers sadness.",
+      "chinese": "希望，战胜悲伤。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891696"
+    },
+    {
+      "english": "Adventure, excites the soul.",
+      "chinese": "冒险，激动灵魂。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891697"
+    },
+    {
+      "english": "Art, enriches life.",
+      "chinese": "艺术，丰富生活。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891698"
+    },
+    {
+      "english": "Wisdom, brings contentment.",
+      "chinese": "智慧，带来满足。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891699"
+    },
+    {
+      "english": "Generosity, multiplies joy.",
+      "chinese": "慷慨，倍增喜悦。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891700"
+    },
+    {
+      "english": "Silence, can be peaceful.",
+      "chinese": "沉默，可以很宁静。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891701"
+    },
+    {
+      "english": "Curiosity, leads to discovery.",
+      "chinese": "好奇，引导发现。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891712"
+    },
+    {
+      "english": "Play, recharges your energy.",
+      "chinese": "玩耍，充沛能量。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891713"
+    },
+    {
+      "english": "Dreams, inspire action.",
+      "chinese": "梦想，激励行动。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891714"
+    },
+    {
+      "english": "Courage, opens new paths.",
+      "chinese": "勇气，开辟新路。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891716"
+    },
+    {
+      "english": "Love, makes life bloom.",
+      "chinese": "爱，让生命绽放。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891717"
+    },
+    {
+      "english": "Faith, conquers fear.",
+      "chinese": "信念，克服恐惧。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891718"
+    },
+    {
+      "english": "Humor, lightens burdens.",
+      "chinese": "幽默，减轻负担。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891719"
+    },
+    {
+      "english": "Reading, expands horizons.",
+      "chinese": "阅读，拓展眼界。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891720"
+    },
+    {
+      "english": "Mindfulness, brings peace.",
+      "chinese": "正念，带来宁静。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891722"
+    },
+    {
+      "english": "Simple pleasures, are key.",
+      "chinese": "简单快乐，是关键。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891723"
+    },
+    {
+      "english": "Kind words, heal hearts.",
+      "chinese": "善语，治愈心。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891724"
+    },
+    {
+      "english": "Joy, is a choice.",
+      "chinese": "快乐，是一种选择。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891725"
+    },
+    {
+      "english": "Kindness, creates happiness.",
+      "chinese": "善良，创造幸福。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891726"
+    },
+    {
+      "english": "Singing, makes you happy.",
+      "chinese": "唱歌，让你快乐。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891727"
+    },
+    {
+      "english": "Dancing, releases stress.",
+      "chinese": "跳舞，释放压力。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891728"
+    },
+    {
+      "english": "Sunlight, brightens your day.",
+      "chinese": "阳光，照亮一天。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891730"
+    },
+    {
+      "english": "Good sleep, fuels happiness.",
+      "chinese": "好睡眠，滋养快乐。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891731"
+    },
+    {
+      "english": "Friendship, multiplies smiles.",
+      "chinese": "友谊，倍增笑容。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891732"
+    },
+    {
+      "english": "Learning, opens new doors.",
+      "chinese": "学习，开启新门。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891733"
+    },
+    {
+      "english": "Creating, feels rewarding.",
+      "chinese": "创造，感觉有回报。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891734"
+    },
+    {
+      "english": "Music, lifts your spirits.",
+      "chinese": "音乐，振奋精神。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891736"
+    },
+    {
+      "english": "Breathing deep, brings calm.",
+      "chinese": "深呼吸，带来平静。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891737"
+    },
+    {
+      "english": "Sharing food, builds bonds.",
+      "chinese": "分享食物，建立关系。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891738"
+    },
+    {
+      "english": "Goals, give purpose.",
+      "chinese": "目标，给予意义。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891739"
+    },
+    {
+      "english": "Compliments, spread positivity.",
+      "chinese": "赞美，传播积极。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891740"
+    },
+    {
+      "english": "Curiosity, fuels wonder.",
+      "chinese": "好奇心，激发惊奇。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891741"
+    },
+    {
+      "english": "Playfulness, keeps you young.",
+      "chinese": "玩乐，让你年轻。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891742"
+    },
+    {
+      "english": "Forgiveness, frees your heart.",
+      "chinese": "宽恕，解放心灵。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891743"
+    },
+    {
+      "english": "Hope, conquers sadness.",
+      "chinese": "希望，战胜悲伤。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891744"
+    },
+    {
+      "english": "Adventure, excites the soul.",
+      "chinese": "冒险，激动灵魂。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891744"
+    },
+    {
+      "english": "Art, enriches life.",
+      "chinese": "艺术，丰富生活。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891745"
+    },
+    {
+      "english": "Wisdom, brings contentment.",
+      "chinese": "智慧，带来满足。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891746"
+    },
+    {
+      "english": "Generosity, multiplies joy.",
+      "chinese": "慷慨，倍增喜悦。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891747"
+    },
+    {
+      "english": "Silence, can be peaceful.",
+      "chinese": "沉默，可以很宁静。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891748"
+    },
+    {
+      "english": "Curiosity, leads to discovery.",
+      "chinese": "好奇，引导发现。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891749"
+    },
+    {
+      "english": "Play, recharges your energy.",
+      "chinese": "玩耍，充沛能量。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891750"
+    },
+    {
+      "english": "Dreams, inspire action.",
+      "chinese": "梦想，激励行动。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891751"
+    },
+    {
+      "english": "Courage, opens new paths.",
+      "chinese": "勇气，开辟新路。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891752"
+    },
+    {
+      "english": "Love, makes life bloom.",
+      "chinese": "爱，让生命绽放。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891753"
+    },
+    {
+      "english": "Faith, conquers fear.",
+      "chinese": "信念，克服恐惧。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891754"
+    },
+    {
+      "english": "Humor, lightens burdens.",
+      "chinese": "幽默，减轻负担。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891755"
+    },
+    {
+      "english": "Reading, expands horizons.",
+      "chinese": "阅读，拓展眼界。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891756"
+    },
+    {
+      "english": "Mindfulness, brings peace.",
+      "chinese": "正念，带来宁静。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891757"
+    },
+    {
+      "english": "Simple pleasures, are key.",
+      "chinese": "简单快乐，是关键。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891758"
+    },
+    {
+      "english": "Kind words, heal hearts.",
+      "chinese": "善语，治愈心。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891759"
+    },
+    {
+      "english": "Joy, is a choice.",
+      "chinese": "快乐，是一种选择。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891760"
+    },
+    {
+      "english": "Kindness, creates happiness.",
+      "chinese": "善良，创造幸福。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891761"
+    },
+    {
+      "english": "Singing, makes you happy.",
+      "chinese": "唱歌，让你快乐。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891762"
+    },
+    {
+      "english": "Dancing, releases stress.",
+      "chinese": "跳舞，释放压力。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891764"
+    },
+    {
+      "english": "Sunlight, brightens your day.",
+      "chinese": "阳光，照亮一天。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891765"
+    },
+    {
+      "english": "Good sleep, fuels happiness.",
+      "chinese": "好睡眠，滋养快乐。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891768"
+    },
+    {
+      "english": "Friendship, multiplies smiles.",
+      "chinese": "友谊，倍增笑容。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891771"
+    },
+    {
+      "english": "Learning, opens new doors.",
+      "chinese": "学习，开启新门。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891773"
+    },
+    {
+      "english": "Creating, feels rewarding.",
+      "chinese": "创造，感觉有回报。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891774"
+    },
+    {
+      "english": "Music, lifts your spirits.",
+      "chinese": "音乐，振奋精神。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891775"
+    },
+    {
+      "english": "Breathing deep, brings calm.",
+      "chinese": "深呼吸，带来平静。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891776"
+    },
+    {
+      "english": "Sharing food, builds bonds.",
+      "chinese": "分享食物，建立关系。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891777"
+    },
+    {
+      "english": "Goals, give purpose.",
+      "chinese": "目标，给予意义。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891778"
+    },
+    {
+      "english": "Compliments, spread positivity.",
+      "chinese": "赞美，传播积极。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891779"
+    },
+    {
+      "english": "Curiosity, fuels wonder.",
+      "chinese": "好奇心，激发惊奇。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891780"
+    },
+    {
+      "english": "Playfulness, keeps you young.",
+      "chinese": "玩乐，让你年轻。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891781"
+    },
+    {
+      "english": "Forgiveness, frees your heart.",
+      "chinese": "宽恕，解放心灵。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891782"
+    },
+    {
+      "english": "Hope, conquers sadness.",
+      "chinese": "希望，战胜悲伤。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891783"
+    },
+    {
+      "english": "Adventure, excites the soul.",
+      "chinese": "冒险，激动灵魂。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891784"
+    },
+    {
+      "english": "Art, enriches life.",
+      "chinese": "艺术，丰富生活。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891785"
+    },
+    {
+      "english": "Wisdom, brings contentment.",
+      "chinese": "智慧，带来满足。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891786"
+    },
+    {
+      "english": "Generosity, multiplies joy.",
+      "chinese": "慷慨，倍增喜悦。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891787"
+    },
+    {
+      "english": "Silence, can be peaceful.",
+      "chinese": "沉默，可以很宁静。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891788"
+    },
+    {
+      "english": "Curiosity, leads to discovery.",
+      "chinese": "好奇，引导发现。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891789"
+    },
+    {
+      "english": "Play, recharges your energy.",
+      "chinese": "玩耍，充沛能量。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891790"
+    },
+    {
+      "english": "Dreams, inspire action.",
+      "chinese": "梦想，激励行动。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891791"
+    },
+    {
+      "english": "Courage, opens new paths.",
+      "chinese": "勇气，开辟新路。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891792"
+    },
+    {
+      "english": "Love, makes life bloom.",
+      "chinese": "爱，让生命绽放。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891793"
+    },
+    {
+      "english": "Faith, conquers fear.",
+      "chinese": "信念，克服恐惧。",
+      "category": "Happiness",
+      "generated_at": "2026-08-24T02:21:38.891794"
     }
   ],
-  "last_updated": "2026-08-23T20:56:30.942689"
+  "last_updated": "2026-08-24T02:21:38.891796"
 }
