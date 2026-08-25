@@ -19919,7 +19919,787 @@
       "chinese": "信念，克服恐惧。",
       "category": "Happiness",
       "generated_at": "2026-08-24T02:21:38.891794"
+    },
+    {
+      "english": "Try it, you might like it.",
+      "chinese": "试试看，你可能会喜欢。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247866"
+    },
+    {
+      "english": "Fake it, till you make it.",
+      "chinese": "假装，直到你成功。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247879"
+    },
+    {
+      "english": "Do your best, forget the rest.",
+      "chinese": "尽力而为，别想别的。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247881"
+    },
+    {
+      "english": "You got this, easy peasy.",
+      "chinese": "你行的，小意思。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247883"
+    },
+    {
+      "english": "Just try, that's the key.",
+      "chinese": "试试就好，这就是关键。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247884"
+    },
+    {
+      "english": "Learn a little, every day.",
+      "chinese": "每天学一点。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247886"
+    },
+    {
+      "english": "Believe you can, fly high.",
+      "chinese": "相信你能，飞得高。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247887"
+    },
+    {
+      "english": "Mistakes? Just lessons.",
+      "chinese": "犯错？只是教训。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247891"
+    },
+    {
+      "english": "One more try, win this time.",
+      "chinese": "再试一次，这次赢。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247893"
+    },
+    {
+      "english": "Be brave, take a leap.",
+      "chinese": "勇敢点，跳一下。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247894"
+    },
+    {
+      "english": "New things, are exciting.",
+      "chinese": "新事物，很刺激。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247895"
+    },
+    {
+      "english": "Focus hard, achieve more.",
+      "chinese": "专注，成就更多。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247897"
+    },
+    {
+      "english": "Start now, don't wait.",
+      "chinese": "现在开始，别等。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247898"
+    },
+    {
+      "english": "Keep learning, stay sharp.",
+      "chinese": "持续学习，保持敏锐。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247899"
+    },
+    {
+      "english": "Keep practicing, be great.",
+      "chinese": "勤练习，变厉害。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247900"
+    },
+    {
+      "english": "Don't be afraid, just do.",
+      "chinese": "别害怕，直接做。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247901"
+    },
+    {
+      "english": "Embrace the process, love it.",
+      "chinese": "拥抱过程，热爱它。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247902"
+    },
+    {
+      "english": "Success is coming, fast.",
+      "chinese": "成功来了，快。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247903"
+    },
+    {
+      "english": "Try harder, you'll see.",
+      "chinese": "更努力，你会看到。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247905"
+    },
+    {
+      "english": "Never stop, learning new.",
+      "chinese": "别停下，学新的。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247906"
+    },
+    {
+      "english": "You can, you will, you do.",
+      "chinese": "你能，你会，你做。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247907"
+    },
+    {
+      "english": "Don't quit, it's worth it.",
+      "chinese": "别放弃，值得。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247908"
+    },
+    {
+      "english": "Try it, you might like it.",
+      "chinese": "试试看，你可能会喜欢。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247909"
+    },
+    {
+      "english": "Fake it, till you make it.",
+      "chinese": "假装，直到你成功。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247911"
+    },
+    {
+      "english": "Do your best, forget the rest.",
+      "chinese": "尽力而为，别想别的。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247912"
+    },
+    {
+      "english": "You got this, easy peasy.",
+      "chinese": "你行的，小意思。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247913"
+    },
+    {
+      "english": "Just try, that's the key.",
+      "chinese": "试试就好，这就是关键。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247914"
+    },
+    {
+      "english": "Learn a little, every day.",
+      "chinese": "每天学一点。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247915"
+    },
+    {
+      "english": "Believe you can, fly high.",
+      "chinese": "相信你能，飞得高。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247916"
+    },
+    {
+      "english": "Mistakes? Just lessons.",
+      "chinese": "犯错？只是教训。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247917"
+    },
+    {
+      "english": "One more try, win this time.",
+      "chinese": "再试一次，这次赢。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247918"
+    },
+    {
+      "english": "Be brave, take a leap.",
+      "chinese": "勇敢点，跳一下。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247919"
+    },
+    {
+      "english": "New things, are exciting.",
+      "chinese": "新事物，很刺激。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247921"
+    },
+    {
+      "english": "Focus hard, achieve more.",
+      "chinese": "专注，成就更多。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247922"
+    },
+    {
+      "english": "Start now, don't wait.",
+      "chinese": "现在开始，别等。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247923"
+    },
+    {
+      "english": "Keep learning, stay sharp.",
+      "chinese": "持续学习，保持敏锐。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247924"
+    },
+    {
+      "english": "Keep practicing, be great.",
+      "chinese": "勤练习，变厉害。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247925"
+    },
+    {
+      "english": "Don't be afraid, just do.",
+      "chinese": "别害怕，直接做。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247926"
+    },
+    {
+      "english": "Embrace the process, love it.",
+      "chinese": "拥抱过程，热爱它。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247927"
+    },
+    {
+      "english": "Success is coming, fast.",
+      "chinese": "成功来了，快。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247928"
+    },
+    {
+      "english": "Try harder, you'll see.",
+      "chinese": "更努力，你会看到。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247930"
+    },
+    {
+      "english": "Never stop, learning new.",
+      "chinese": "别停下，学新的。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247931"
+    },
+    {
+      "english": "You can, you will, you do.",
+      "chinese": "你能，你会，你做。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247932"
+    },
+    {
+      "english": "Don't quit, it's worth it.",
+      "chinese": "别放弃，值得。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247933"
+    },
+    {
+      "english": "Try it, you might like it.",
+      "chinese": "试试看，你可能会喜欢。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247934"
+    },
+    {
+      "english": "Fake it, till you make it.",
+      "chinese": "假装，直到你成功。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247936"
+    },
+    {
+      "english": "Do your best, forget the rest.",
+      "chinese": "尽力而为，别想别的。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247937"
+    },
+    {
+      "english": "You got this, easy peasy.",
+      "chinese": "你行的，小意思。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247938"
+    },
+    {
+      "english": "Just try, that's the key.",
+      "chinese": "试试就好，这就是关键。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247939"
+    },
+    {
+      "english": "Learn a little, every day.",
+      "chinese": "每天学一点。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247940"
+    },
+    {
+      "english": "Believe you can, fly high.",
+      "chinese": "相信你能，飞得高。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247941"
+    },
+    {
+      "english": "Mistakes? Just lessons.",
+      "chinese": "犯错？只是教训。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247943"
+    },
+    {
+      "english": "One more try, win this time.",
+      "chinese": "再试一次，这次赢。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247944"
+    },
+    {
+      "english": "Be brave, take a leap.",
+      "chinese": "勇敢点，跳一下。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247945"
+    },
+    {
+      "english": "New things, are exciting.",
+      "chinese": "新事物，很刺激。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247946"
+    },
+    {
+      "english": "Focus hard, achieve more.",
+      "chinese": "专注，成就更多。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247947"
+    },
+    {
+      "english": "Start now, don't wait.",
+      "chinese": "现在开始，别等。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247948"
+    },
+    {
+      "english": "Keep learning, stay sharp.",
+      "chinese": "持续学习，保持敏锐。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247949"
+    },
+    {
+      "english": "Keep practicing, be great.",
+      "chinese": "勤练习，变厉害。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247950"
+    },
+    {
+      "english": "Don't be afraid, just do.",
+      "chinese": "别害怕，直接做。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247951"
+    },
+    {
+      "english": "Embrace the process, love it.",
+      "chinese": "拥抱过程，热爱它。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247953"
+    },
+    {
+      "english": "Success is coming, fast.",
+      "chinese": "成功来了，快。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247954"
+    },
+    {
+      "english": "Try harder, you'll see.",
+      "chinese": "更努力，你会看到。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247955"
+    },
+    {
+      "english": "Never stop, learning new.",
+      "chinese": "别停下，学新的。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247956"
+    },
+    {
+      "english": "You can, you will, you do.",
+      "chinese": "你能，你会，你做。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247957"
+    },
+    {
+      "english": "Don't quit, it's worth it.",
+      "chinese": "别放弃，值得。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247958"
+    },
+    {
+      "english": "Try it, you might like it.",
+      "chinese": "试试看，你可能会喜欢。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247959"
+    },
+    {
+      "english": "Fake it, till you make it.",
+      "chinese": "假装，直到你成功。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247961"
+    },
+    {
+      "english": "Do your best, forget the rest.",
+      "chinese": "尽力而为，别想别的。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247962"
+    },
+    {
+      "english": "You got this, easy peasy.",
+      "chinese": "你行的，小意思。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247963"
+    },
+    {
+      "english": "Just try, that's the key.",
+      "chinese": "试试就好，这就是关键。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247964"
+    },
+    {
+      "english": "Learn a little, every day.",
+      "chinese": "每天学一点。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247965"
+    },
+    {
+      "english": "Believe you can, fly high.",
+      "chinese": "相信你能，飞得高。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247966"
+    },
+    {
+      "english": "Mistakes? Just lessons.",
+      "chinese": "犯错？只是教训。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247967"
+    },
+    {
+      "english": "One more try, win this time.",
+      "chinese": "再试一次，这次赢。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247968"
+    },
+    {
+      "english": "Be brave, take a leap.",
+      "chinese": "勇敢点，跳一下。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247969"
+    },
+    {
+      "english": "New things, are exciting.",
+      "chinese": "新事物，很刺激。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247971"
+    },
+    {
+      "english": "Focus hard, achieve more.",
+      "chinese": "专注，成就更多。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247972"
+    },
+    {
+      "english": "Start now, don't wait.",
+      "chinese": "现在开始，别等。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247973"
+    },
+    {
+      "english": "Keep learning, stay sharp.",
+      "chinese": "持续学习，保持敏锐。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247974"
+    },
+    {
+      "english": "Keep practicing, be great.",
+      "chinese": "勤练习，变厉害。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247975"
+    },
+    {
+      "english": "Don't be afraid, just do.",
+      "chinese": "别害怕，直接做。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247976"
+    },
+    {
+      "english": "Embrace the process, love it.",
+      "chinese": "拥抱过程，热爱它。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247977"
+    },
+    {
+      "english": "Success is coming, fast.",
+      "chinese": "成功来了，快。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247979"
+    },
+    {
+      "english": "Try harder, you'll see.",
+      "chinese": "更努力，你会看到。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247980"
+    },
+    {
+      "english": "Never stop, learning new.",
+      "chinese": "别停下，学新的。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247981"
+    },
+    {
+      "english": "You can, you will, you do.",
+      "chinese": "你能，你会，你做。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247982"
+    },
+    {
+      "english": "Don't quit, it's worth it.",
+      "chinese": "别放弃，值得。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247983"
+    },
+    {
+      "english": "Try it, you might like it.",
+      "chinese": "试试看，你可能会喜欢。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247984"
+    },
+    {
+      "english": "Fake it, till you make it.",
+      "chinese": "假装，直到你成功。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247985"
+    },
+    {
+      "english": "Do your best, forget the rest.",
+      "chinese": "尽力而为，别想别的。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247987"
+    },
+    {
+      "english": "You got this, easy peasy.",
+      "chinese": "你行的，小意思。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247988"
+    },
+    {
+      "english": "Just try, that's the key.",
+      "chinese": "试试就好，这就是关键。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247989"
+    },
+    {
+      "english": "Learn a little, every day.",
+      "chinese": "每天学一点。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247990"
+    },
+    {
+      "english": "Believe you can, fly high.",
+      "chinese": "相信你能，飞得高。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247991"
+    },
+    {
+      "english": "Mistakes? Just lessons.",
+      "chinese": "犯错？只是教训。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247993"
+    },
+    {
+      "english": "One more try, win this time.",
+      "chinese": "再试一次，这次赢。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247994"
+    },
+    {
+      "english": "Be brave, take a leap.",
+      "chinese": "勇敢点，跳一下。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247995"
+    },
+    {
+      "english": "New things, are exciting.",
+      "chinese": "新事物，很刺激。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247996"
+    },
+    {
+      "english": "Focus hard, achieve more.",
+      "chinese": "专注，成就更多。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247997"
+    },
+    {
+      "english": "Start now, don't wait.",
+      "chinese": "现在开始，别等。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.247999"
+    },
+    {
+      "english": "Keep learning, stay sharp.",
+      "chinese": "持续学习，保持敏锐。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.248000"
+    },
+    {
+      "english": "Keep practicing, be great.",
+      "chinese": "勤练习，变厉害。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.248001"
+    },
+    {
+      "english": "Don't be afraid, just do.",
+      "chinese": "别害怕，直接做。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.248002"
+    },
+    {
+      "english": "Embrace the process, love it.",
+      "chinese": "拥抱过程，热爱它。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.248003"
+    },
+    {
+      "english": "Success is coming, fast.",
+      "chinese": "成功来了，快。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.248004"
+    },
+    {
+      "english": "Try harder, you'll see.",
+      "chinese": "更努力，你会看到。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.248005"
+    },
+    {
+      "english": "Never stop, learning new.",
+      "chinese": "别停下，学新的。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.248006"
+    },
+    {
+      "english": "You can, you will, you do.",
+      "chinese": "你能，你会，你做。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.248007"
+    },
+    {
+      "english": "Don't quit, it's worth it.",
+      "chinese": "别放弃，值得。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.248008"
+    },
+    {
+      "english": "Try it, you might like it.",
+      "chinese": "试试看，你可能会喜欢。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.248009"
+    },
+    {
+      "english": "Fake it, till you make it.",
+      "chinese": "假装，直到你成功。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.248010"
+    },
+    {
+      "english": "Do your best, forget the rest.",
+      "chinese": "尽力而为，别想别的。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.248011"
+    },
+    {
+      "english": "You got this, easy peasy.",
+      "chinese": "你行的，小意思。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.248013"
+    },
+    {
+      "english": "Just try, that's the key.",
+      "chinese": "试试就好，这就是关键。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.248014"
+    },
+    {
+      "english": "Learn a little, every day.",
+      "chinese": "每天学一点。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.248015"
+    },
+    {
+      "english": "Believe you can, fly high.",
+      "chinese": "相信你能，飞得高。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.248016"
+    },
+    {
+      "english": "Mistakes? Just lessons.",
+      "chinese": "犯错？只是教训。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.248017"
+    },
+    {
+      "english": "One more try, win this time.",
+      "chinese": "再试一次，这次赢。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.248018"
+    },
+    {
+      "english": "Be brave, take a leap.",
+      "chinese": "勇敢点，跳一下。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.248019"
+    },
+    {
+      "english": "New things, are exciting.",
+      "chinese": "新事物，很刺激。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.248020"
+    },
+    {
+      "english": "Focus hard, achieve more.",
+      "chinese": "专注，成就更多。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.248022"
+    },
+    {
+      "english": "Start now, don't wait.",
+      "chinese": "现在开始，别等。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.248023"
+    },
+    {
+      "english": "Keep learning, stay sharp.",
+      "chinese": "持续学习，保持敏锐。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.248024"
+    },
+    {
+      "english": "Keep practicing, be great.",
+      "chinese": "勤练习，变厉害。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.248025"
+    },
+    {
+      "english": "Don't be afraid, just do.",
+      "chinese": "别害怕，直接做。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.248026"
+    },
+    {
+      "english": "Embrace the process, love it.",
+      "chinese": "拥抱过程，热爱它。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.248028"
+    },
+    {
+      "english": "Success is coming, fast.",
+      "chinese": "成功来了，快。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.248029"
+    },
+    {
+      "english": "Try harder, you'll see.",
+      "chinese": "更努力，你会看到。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.248030"
+    },
+    {
+      "english": "Never stop, learning new.",
+      "chinese": "别停下，学新的。",
+      "category": "Success",
+      "generated_at": "2026-08-25T02:17:14.248031"
     }
   ],
-  "last_updated": "2026-08-24T02:21:38.891796"
+  "last_updated": "2026-08-25T02:17:14.248034"
 }
