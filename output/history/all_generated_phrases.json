@@ -22259,7 +22259,787 @@
       "chinese": "用你的行动, 激励他人。",
       "category": "Positive Life",
       "generated_at": "2026-08-27T10:52:53.709443"
+    },
+    {
+      "english": "Try something new, today.",
+      "chinese": "今天尝试新事物。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531380"
+    },
+    {
+      "english": "Mistakes are just steps.",
+      "chinese": "错误只是步骤。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531395"
+    },
+    {
+      "english": "Find joy, in the simple.",
+      "chinese": "在简单中找快乐。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531397"
+    },
+    {
+      "english": "Ask good questions, learn.",
+      "chinese": "问好问题，学习。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531398"
+    },
+    {
+      "english": "New ideas, welcome them.",
+      "chinese": "新想法，欢迎它们。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531399"
+    },
+    {
+      "english": "Practice makes it easier.",
+      "chinese": "熟能生巧。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531401"
+    },
+    {
+      "english": "Be open, to surprises.",
+      "chinese": "对惊喜持开放态度。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531402"
+    },
+    {
+      "english": "Build good habits, slowly.",
+      "chinese": "慢慢养成好习惯。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531407"
+    },
+    {
+      "english": "Seek feedback, improve.",
+      "chinese": "寻求反馈，改进。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531408"
+    },
+    {
+      "english": "Your voice, can be heard.",
+      "chinese": "你的声音，能被听到。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531410"
+    },
+    {
+      "english": "Celebrate progress, always.",
+      "chinese": "永远庆祝进步。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531411"
+    },
+    {
+      "english": "Rest is important, too.",
+      "chinese": "休息也很重要。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531412"
+    },
+    {
+      "english": "Connect with people, learn.",
+      "chinese": "与人交流，学习。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531413"
+    },
+    {
+      "english": "Embrace the learning curve.",
+      "chinese": "拥抱学习曲线。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531414"
+    },
+    {
+      "english": "Be a student, forever.",
+      "chinese": "永远做个学生。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531415"
+    },
+    {
+      "english": "Share what you know.",
+      "chinese": "分享你所知道的。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531416"
+    },
+    {
+      "english": "Reflect, and then act.",
+      "chinese": "反思，然后行动。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531417"
+    },
+    {
+      "english": "Seek understanding, always.",
+      "chinese": "永远寻求理解。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531418"
+    },
+    {
+      "english": "Be adaptable, be strong.",
+      "chinese": "灵活应变，强大。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531419"
+    },
+    {
+      "english": "Learn from every experience.",
+      "chinese": "从每次经历中学习。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531420"
+    },
+    {
+      "english": "Stay humble, stay growing.",
+      "chinese": "保持谦虚，持续成长。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531421"
+    },
+    {
+      "english": "What you focus, expands.",
+      "chinese": "你关注的，会扩展。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531422"
+    },
+    {
+      "english": "Keep refining your skills.",
+      "chinese": "不断打磨你的技能。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531423"
+    },
+    {
+      "english": "Embrace the journey, not just the end.",
+      "chinese": "享受过程，而非终点。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531424"
+    },
+    {
+      "english": "Try something new, today.",
+      "chinese": "今天尝试新事物。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531426"
+    },
+    {
+      "english": "Mistakes are just steps.",
+      "chinese": "错误只是步骤。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531427"
+    },
+    {
+      "english": "Find joy, in the simple.",
+      "chinese": "在简单中找快乐。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531428"
+    },
+    {
+      "english": "Ask good questions, learn.",
+      "chinese": "问好问题，学习。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531430"
+    },
+    {
+      "english": "New ideas, welcome them.",
+      "chinese": "新想法，欢迎它们。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531431"
+    },
+    {
+      "english": "Practice makes it easier.",
+      "chinese": "熟能生巧。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531432"
+    },
+    {
+      "english": "Be open, to surprises.",
+      "chinese": "对惊喜持开放态度。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531433"
+    },
+    {
+      "english": "Build good habits, slowly.",
+      "chinese": "慢慢养成好习惯。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531434"
+    },
+    {
+      "english": "Seek feedback, improve.",
+      "chinese": "寻求反馈，改进。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531435"
+    },
+    {
+      "english": "Your voice, can be heard.",
+      "chinese": "你的声音，能被听到。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531436"
+    },
+    {
+      "english": "Celebrate progress, always.",
+      "chinese": "永远庆祝进步。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531437"
+    },
+    {
+      "english": "Rest is important, too.",
+      "chinese": "休息也很重要。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531438"
+    },
+    {
+      "english": "Connect with people, learn.",
+      "chinese": "与人交流，学习。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531439"
+    },
+    {
+      "english": "Embrace the learning curve.",
+      "chinese": "拥抱学习曲线。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531440"
+    },
+    {
+      "english": "Be a student, forever.",
+      "chinese": "永远做个学生。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531441"
+    },
+    {
+      "english": "Share what you know.",
+      "chinese": "分享你所知道的。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531442"
+    },
+    {
+      "english": "Reflect, and then act.",
+      "chinese": "反思，然后行动。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531443"
+    },
+    {
+      "english": "Seek understanding, always.",
+      "chinese": "永远寻求理解。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531444"
+    },
+    {
+      "english": "Be adaptable, be strong.",
+      "chinese": "灵活应变，强大。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531445"
+    },
+    {
+      "english": "Learn from every experience.",
+      "chinese": "从每次经历中学习。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531446"
+    },
+    {
+      "english": "Stay humble, stay growing.",
+      "chinese": "保持谦虚，持续成长。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531447"
+    },
+    {
+      "english": "What you focus, expands.",
+      "chinese": "你关注的，会扩展。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531448"
+    },
+    {
+      "english": "Keep refining your skills.",
+      "chinese": "不断打磨你的技能。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531449"
+    },
+    {
+      "english": "Embrace the journey, not just the end.",
+      "chinese": "享受过程，而非终点。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531450"
+    },
+    {
+      "english": "Try something new, today.",
+      "chinese": "今天尝试新事物。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531451"
+    },
+    {
+      "english": "Mistakes are just steps.",
+      "chinese": "错误只是步骤。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531452"
+    },
+    {
+      "english": "Find joy, in the simple.",
+      "chinese": "在简单中找快乐。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531453"
+    },
+    {
+      "english": "Ask good questions, learn.",
+      "chinese": "问好问题，学习。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531454"
+    },
+    {
+      "english": "New ideas, welcome them.",
+      "chinese": "新想法，欢迎它们。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531455"
+    },
+    {
+      "english": "Practice makes it easier.",
+      "chinese": "熟能生巧。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531456"
+    },
+    {
+      "english": "Be open, to surprises.",
+      "chinese": "对惊喜持开放态度。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531457"
+    },
+    {
+      "english": "Build good habits, slowly.",
+      "chinese": "慢慢养成好习惯。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531458"
+    },
+    {
+      "english": "Seek feedback, improve.",
+      "chinese": "寻求反馈，改进。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531459"
+    },
+    {
+      "english": "Your voice, can be heard.",
+      "chinese": "你的声音，能被听到。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531460"
+    },
+    {
+      "english": "Celebrate progress, always.",
+      "chinese": "永远庆祝进步。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531461"
+    },
+    {
+      "english": "Rest is important, too.",
+      "chinese": "休息也很重要。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531462"
+    },
+    {
+      "english": "Connect with people, learn.",
+      "chinese": "与人交流，学习。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531463"
+    },
+    {
+      "english": "Embrace the learning curve.",
+      "chinese": "拥抱学习曲线。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531465"
+    },
+    {
+      "english": "Be a student, forever.",
+      "chinese": "永远做个学生。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531465"
+    },
+    {
+      "english": "Share what you know.",
+      "chinese": "分享你所知道的。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531466"
+    },
+    {
+      "english": "Reflect, and then act.",
+      "chinese": "反思，然后行动。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531467"
+    },
+    {
+      "english": "Seek understanding, always.",
+      "chinese": "永远寻求理解。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531468"
+    },
+    {
+      "english": "Be adaptable, be strong.",
+      "chinese": "灵活应变，强大。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531469"
+    },
+    {
+      "english": "Learn from every experience.",
+      "chinese": "从每次经历中学习。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531470"
+    },
+    {
+      "english": "Stay humble, stay growing.",
+      "chinese": "保持谦虚，持续成长。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531471"
+    },
+    {
+      "english": "What you focus, expands.",
+      "chinese": "你关注的，会扩展。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531473"
+    },
+    {
+      "english": "Keep refining your skills.",
+      "chinese": "不断打磨你的技能。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531474"
+    },
+    {
+      "english": "Embrace the journey, not just the end.",
+      "chinese": "享受过程，而非终点。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531475"
+    },
+    {
+      "english": "Try something new, today.",
+      "chinese": "今天尝试新事物。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531476"
+    },
+    {
+      "english": "Mistakes are just steps.",
+      "chinese": "错误只是步骤。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531477"
+    },
+    {
+      "english": "Find joy, in the simple.",
+      "chinese": "在简单中找快乐。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531478"
+    },
+    {
+      "english": "Ask good questions, learn.",
+      "chinese": "问好问题，学习。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531479"
+    },
+    {
+      "english": "New ideas, welcome them.",
+      "chinese": "新想法，欢迎它们。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531480"
+    },
+    {
+      "english": "Practice makes it easier.",
+      "chinese": "熟能生巧。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531481"
+    },
+    {
+      "english": "Be open, to surprises.",
+      "chinese": "对惊喜持开放态度。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531482"
+    },
+    {
+      "english": "Build good habits, slowly.",
+      "chinese": "慢慢养成好习惯。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531483"
+    },
+    {
+      "english": "Seek feedback, improve.",
+      "chinese": "寻求反馈，改进。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531484"
+    },
+    {
+      "english": "Your voice, can be heard.",
+      "chinese": "你的声音，能被听到。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531485"
+    },
+    {
+      "english": "Celebrate progress, always.",
+      "chinese": "永远庆祝进步。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531486"
+    },
+    {
+      "english": "Rest is important, too.",
+      "chinese": "休息也很重要。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531487"
+    },
+    {
+      "english": "Connect with people, learn.",
+      "chinese": "与人交流，学习。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531488"
+    },
+    {
+      "english": "Embrace the learning curve.",
+      "chinese": "拥抱学习曲线。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531489"
+    },
+    {
+      "english": "Be a student, forever.",
+      "chinese": "永远做个学生。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531490"
+    },
+    {
+      "english": "Share what you know.",
+      "chinese": "分享你所知道的。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531491"
+    },
+    {
+      "english": "Reflect, and then act.",
+      "chinese": "反思，然后行动。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531492"
+    },
+    {
+      "english": "Seek understanding, always.",
+      "chinese": "永远寻求理解。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531493"
+    },
+    {
+      "english": "Be adaptable, be strong.",
+      "chinese": "灵活应变，强大。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531494"
+    },
+    {
+      "english": "Learn from every experience.",
+      "chinese": "从每次经历中学习。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531495"
+    },
+    {
+      "english": "Stay humble, stay growing.",
+      "chinese": "保持谦虚，持续成长。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531497"
+    },
+    {
+      "english": "What you focus, expands.",
+      "chinese": "你关注的，会扩展。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531498"
+    },
+    {
+      "english": "Keep refining your skills.",
+      "chinese": "不断打磨你的技能。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531499"
+    },
+    {
+      "english": "Embrace the journey, not just the end.",
+      "chinese": "享受过程，而非终点。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531500"
+    },
+    {
+      "english": "Try something new, today.",
+      "chinese": "今天尝试新事物。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531501"
+    },
+    {
+      "english": "Mistakes are just steps.",
+      "chinese": "错误只是步骤。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531502"
+    },
+    {
+      "english": "Find joy, in the simple.",
+      "chinese": "在简单中找快乐。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531503"
+    },
+    {
+      "english": "Ask good questions, learn.",
+      "chinese": "问好问题，学习。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531504"
+    },
+    {
+      "english": "New ideas, welcome them.",
+      "chinese": "新想法，欢迎它们。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531505"
+    },
+    {
+      "english": "Practice makes it easier.",
+      "chinese": "熟能生巧。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531506"
+    },
+    {
+      "english": "Be open, to surprises.",
+      "chinese": "对惊喜持开放态度。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531507"
+    },
+    {
+      "english": "Build good habits, slowly.",
+      "chinese": "慢慢养成好习惯。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531508"
+    },
+    {
+      "english": "Seek feedback, improve.",
+      "chinese": "寻求反馈，改进。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531509"
+    },
+    {
+      "english": "Your voice, can be heard.",
+      "chinese": "你的声音，能被听到。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531510"
+    },
+    {
+      "english": "Celebrate progress, always.",
+      "chinese": "永远庆祝进步。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531511"
+    },
+    {
+      "english": "Rest is important, too.",
+      "chinese": "休息也很重要。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531512"
+    },
+    {
+      "english": "Connect with people, learn.",
+      "chinese": "与人交流，学习。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531513"
+    },
+    {
+      "english": "Embrace the learning curve.",
+      "chinese": "拥抱学习曲线。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531514"
+    },
+    {
+      "english": "Be a student, forever.",
+      "chinese": "永远做个学生。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531515"
+    },
+    {
+      "english": "Share what you know.",
+      "chinese": "分享你所知道的。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531516"
+    },
+    {
+      "english": "Reflect, and then act.",
+      "chinese": "反思，然后行动。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531517"
+    },
+    {
+      "english": "Seek understanding, always.",
+      "chinese": "永远寻求理解。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531518"
+    },
+    {
+      "english": "Be adaptable, be strong.",
+      "chinese": "灵活应变，强大。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531519"
+    },
+    {
+      "english": "Learn from every experience.",
+      "chinese": "从每次经历中学习。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531520"
+    },
+    {
+      "english": "Stay humble, stay growing.",
+      "chinese": "保持谦虚，持续成长。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531521"
+    },
+    {
+      "english": "What you focus, expands.",
+      "chinese": "你关注的，会扩展。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531522"
+    },
+    {
+      "english": "Keep refining your skills.",
+      "chinese": "不断打磨你的技能。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531523"
+    },
+    {
+      "english": "Embrace the journey, not just the end.",
+      "chinese": "享受过程，而非终点。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531524"
+    },
+    {
+      "english": "Small wins, build momentum.",
+      "chinese": "小小的胜利，积攒动力。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531525"
+    },
+    {
+      "english": "Adapt and overcome.",
+      "chinese": "适应并克服。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531526"
+    },
+    {
+      "english": "Keep moving forward.",
+      "chinese": "继续前进。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531528"
+    },
+    {
+      "english": "Push your limits.",
+      "chinese": "挑战你的极限。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531529"
+    },
+    {
+      "english": "Never stop evolving.",
+      "chinese": "永不停止进化。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531529"
+    },
+    {
+      "english": "See possibilities, everywhere.",
+      "chinese": "看见各种可能。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531530"
+    },
+    {
+      "english": "Bloom where planted.",
+      "chinese": "在原地绽放。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531531"
+    },
+    {
+      "english": "Build, don't break.",
+      "chinese": "建造，而非摧毁。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531532"
+    },
+    {
+      "english": "Practice makes progress.",
+      "chinese": "练习带来进步。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531533"
+    },
+    {
+      "english": "Embrace the journey.",
+      "chinese": "拥抱这段旅程。",
+      "category": "Growth",
+      "generated_at": "2026-08-28T12:28:38.531534"
     }
   ],
-  "last_updated": "2026-08-27T10:52:53.709445"
+  "last_updated": "2026-08-28T12:28:38.531537"
 }
