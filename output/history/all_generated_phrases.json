@@ -23039,7 +23039,787 @@
       "chinese": "拥抱这段旅程。",
       "category": "Growth",
       "generated_at": "2026-08-28T12:28:38.531534"
+    },
+    {
+      "english": "Be kind, always.",
+      "chinese": "永远善良。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306322"
+    },
+    {
+      "english": "Trust your gut.",
+      "chinese": "相信你的直觉。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306333"
+    },
+    {
+      "english": "Keep it simple.",
+      "chinese": "保持简单。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306334"
+    },
+    {
+      "english": "Stay curious, explore.",
+      "chinese": "保持好奇，探索。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306335"
+    },
+    {
+      "english": "Breathe, before speaking.",
+      "chinese": "说话前，深呼吸。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306336"
+    },
+    {
+      "english": "It’s okay, to not know.",
+      "chinese": "不知道，没关系。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306336"
+    },
+    {
+      "english": "Focus on solutions.",
+      "chinese": "专注于解决。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306337"
+    },
+    {
+      "english": "Small steps, lead far.",
+      "chinese": "小步，走很远。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306339"
+    },
+    {
+      "english": "Share your light.",
+      "chinese": "分享你的光芒。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306340"
+    },
+    {
+      "english": "Seek balance, always.",
+      "chinese": "寻求平衡。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306341"
+    },
+    {
+      "english": "Believe in yourself.",
+      "chinese": "相信自己。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306342"
+    },
+    {
+      "english": "Embrace change, bravely.",
+      "chinese": "勇敢拥抱改变。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306342"
+    },
+    {
+      "english": "Every day, is a chance.",
+      "chinese": "每天，都是机会。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306343"
+    },
+    {
+      "english": "Learn from mistakes.",
+      "chinese": "从错误中学习。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306343"
+    },
+    {
+      "english": "Your attitude, matters.",
+      "chinese": "你的态度，很重要。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306344"
+    },
+    {
+      "english": "Embrace the unknown.",
+      "chinese": "拥抱未知。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306344"
+    },
+    {
+      "english": "Forgive, and forget.",
+      "chinese": "宽恕，然后忘记。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306345"
+    },
+    {
+      "english": "Be the change.",
+      "chinese": "成为改变。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306346"
+    },
+    {
+      "english": "Listen to understand.",
+      "chinese": "倾听以理解。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306346"
+    },
+    {
+      "english": "Cherish this moment.",
+      "chinese": "珍惜此刻。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306347"
+    },
+    {
+      "english": "Make a difference.",
+      "chinese": "做出改变。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306347"
+    },
+    {
+      "english": "Live and let live.",
+      "chinese": "己所不欲，勿施于人。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306348"
+    },
+    {
+      "english": "Seek truth, always.",
+      "chinese": "永远寻求真相。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306348"
+    },
+    {
+      "english": "Be kind, always.",
+      "chinese": "永远善良。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306349"
+    },
+    {
+      "english": "Trust your gut.",
+      "chinese": "相信你的直觉。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306350"
+    },
+    {
+      "english": "Keep it simple.",
+      "chinese": "保持简单。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306350"
+    },
+    {
+      "english": "Stay curious, explore.",
+      "chinese": "保持好奇，探索。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306351"
+    },
+    {
+      "english": "Breathe, before speaking.",
+      "chinese": "说话前，深呼吸。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306352"
+    },
+    {
+      "english": "It’s okay, to not know.",
+      "chinese": "不知道，没关系。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306352"
+    },
+    {
+      "english": "Focus on solutions.",
+      "chinese": "专注于解决。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306353"
+    },
+    {
+      "english": "Small steps, lead far.",
+      "chinese": "小步，走很远。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306353"
+    },
+    {
+      "english": "Share your light.",
+      "chinese": "分享你的光芒。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306354"
+    },
+    {
+      "english": "Seek balance, always.",
+      "chinese": "寻求平衡。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306355"
+    },
+    {
+      "english": "Believe in yourself.",
+      "chinese": "相信自己。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306355"
+    },
+    {
+      "english": "Embrace change, bravely.",
+      "chinese": "勇敢拥抱改变。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306356"
+    },
+    {
+      "english": "Every day, is a chance.",
+      "chinese": "每天，都是机会。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306357"
+    },
+    {
+      "english": "Learn from mistakes.",
+      "chinese": "从错误中学习。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306357"
+    },
+    {
+      "english": "Your attitude, matters.",
+      "chinese": "你的态度，很重要。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306358"
+    },
+    {
+      "english": "Embrace the unknown.",
+      "chinese": "拥抱未知。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306358"
+    },
+    {
+      "english": "Forgive, and forget.",
+      "chinese": "宽恕，然后忘记。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306359"
+    },
+    {
+      "english": "Be the change.",
+      "chinese": "成为改变。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306360"
+    },
+    {
+      "english": "Listen to understand.",
+      "chinese": "倾听以理解。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306360"
+    },
+    {
+      "english": "Cherish this moment.",
+      "chinese": "珍惜此刻。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306361"
+    },
+    {
+      "english": "Make a difference.",
+      "chinese": "做出改变。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306361"
+    },
+    {
+      "english": "Live and let live.",
+      "chinese": "己所不欲，勿施于人。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306362"
+    },
+    {
+      "english": "Seek truth, always.",
+      "chinese": "永远寻求真相。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306362"
+    },
+    {
+      "english": "Be kind, always.",
+      "chinese": "永远善良。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306363"
+    },
+    {
+      "english": "Trust your gut.",
+      "chinese": "相信你的直觉。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306364"
+    },
+    {
+      "english": "Keep it simple.",
+      "chinese": "保持简单。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306364"
+    },
+    {
+      "english": "Stay curious, explore.",
+      "chinese": "保持好奇，探索。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306365"
+    },
+    {
+      "english": "Breathe, before speaking.",
+      "chinese": "说话前，深呼吸。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306365"
+    },
+    {
+      "english": "It’s okay, to not know.",
+      "chinese": "不知道，没关系。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306366"
+    },
+    {
+      "english": "Focus on solutions.",
+      "chinese": "专注于解决。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306367"
+    },
+    {
+      "english": "Small steps, lead far.",
+      "chinese": "小步，走很远。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306367"
+    },
+    {
+      "english": "Share your light.",
+      "chinese": "分享你的光芒。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306368"
+    },
+    {
+      "english": "Seek balance, always.",
+      "chinese": "寻求平衡。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306369"
+    },
+    {
+      "english": "Believe in yourself.",
+      "chinese": "相信自己。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306369"
+    },
+    {
+      "english": "Embrace change, bravely.",
+      "chinese": "勇敢拥抱改变。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306370"
+    },
+    {
+      "english": "Every day, is a chance.",
+      "chinese": "每天，都是机会。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306370"
+    },
+    {
+      "english": "Learn from mistakes.",
+      "chinese": "从错误中学习。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306371"
+    },
+    {
+      "english": "Your attitude, matters.",
+      "chinese": "你的态度，很重要。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306372"
+    },
+    {
+      "english": "Embrace the unknown.",
+      "chinese": "拥抱未知。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306372"
+    },
+    {
+      "english": "Forgive, and forget.",
+      "chinese": "宽恕，然后忘记。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306373"
+    },
+    {
+      "english": "Be the change.",
+      "chinese": "成为改变。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306373"
+    },
+    {
+      "english": "Listen to understand.",
+      "chinese": "倾听以理解。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306374"
+    },
+    {
+      "english": "Cherish this moment.",
+      "chinese": "珍惜此刻。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306374"
+    },
+    {
+      "english": "Make a difference.",
+      "chinese": "做出改变。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306375"
+    },
+    {
+      "english": "Live and let live.",
+      "chinese": "己所不欲，勿施于人。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306375"
+    },
+    {
+      "english": "Seek truth, always.",
+      "chinese": "永远寻求真相。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306376"
+    },
+    {
+      "english": "Be kind, always.",
+      "chinese": "永远善良。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306376"
+    },
+    {
+      "english": "Trust your gut.",
+      "chinese": "相信你的直觉。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306377"
+    },
+    {
+      "english": "Keep it simple.",
+      "chinese": "保持简单。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306378"
+    },
+    {
+      "english": "Stay curious, explore.",
+      "chinese": "保持好奇，探索。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306378"
+    },
+    {
+      "english": "Breathe, before speaking.",
+      "chinese": "说话前，深呼吸。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306379"
+    },
+    {
+      "english": "It’s okay, to not know.",
+      "chinese": "不知道，没关系。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306379"
+    },
+    {
+      "english": "Focus on solutions.",
+      "chinese": "专注于解决。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306380"
+    },
+    {
+      "english": "Small steps, lead far.",
+      "chinese": "小步，走很远。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306380"
+    },
+    {
+      "english": "Share your light.",
+      "chinese": "分享你的光芒。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306381"
+    },
+    {
+      "english": "Seek balance, always.",
+      "chinese": "寻求平衡。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306382"
+    },
+    {
+      "english": "Believe in yourself.",
+      "chinese": "相信自己。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306382"
+    },
+    {
+      "english": "Embrace change, bravely.",
+      "chinese": "勇敢拥抱改变。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306383"
+    },
+    {
+      "english": "Every day, is a chance.",
+      "chinese": "每天，都是机会。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306383"
+    },
+    {
+      "english": "Learn from mistakes.",
+      "chinese": "从错误中学习。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306384"
+    },
+    {
+      "english": "Your attitude, matters.",
+      "chinese": "你的态度，很重要。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306384"
+    },
+    {
+      "english": "Embrace the unknown.",
+      "chinese": "拥抱未知。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306385"
+    },
+    {
+      "english": "Forgive, and forget.",
+      "chinese": "宽恕，然后忘记。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306386"
+    },
+    {
+      "english": "Be the change.",
+      "chinese": "成为改变。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306386"
+    },
+    {
+      "english": "Listen to understand.",
+      "chinese": "倾听以理解。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306387"
+    },
+    {
+      "english": "Cherish this moment.",
+      "chinese": "珍惜此刻。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306387"
+    },
+    {
+      "english": "Make a difference.",
+      "chinese": "做出改变。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306388"
+    },
+    {
+      "english": "Live and let live.",
+      "chinese": "己所不欲，勿施于人。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306388"
+    },
+    {
+      "english": "Seek truth, always.",
+      "chinese": "永远寻求真相。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306389"
+    },
+    {
+      "english": "Be kind, always.",
+      "chinese": "永远善良。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306390"
+    },
+    {
+      "english": "Trust your gut.",
+      "chinese": "相信你的直觉。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306390"
+    },
+    {
+      "english": "Keep it simple.",
+      "chinese": "保持简单。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306391"
+    },
+    {
+      "english": "Stay curious, explore.",
+      "chinese": "保持好奇，探索。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306391"
+    },
+    {
+      "english": "Breathe, before speaking.",
+      "chinese": "说话前，深呼吸。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306392"
+    },
+    {
+      "english": "It’s okay, to not know.",
+      "chinese": "不知道，没关系。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306393"
+    },
+    {
+      "english": "Focus on solutions.",
+      "chinese": "专注于解决。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306393"
+    },
+    {
+      "english": "Small steps, lead far.",
+      "chinese": "小步，走很远。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306394"
+    },
+    {
+      "english": "Share your light.",
+      "chinese": "分享你的光芒。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306394"
+    },
+    {
+      "english": "Seek balance, always.",
+      "chinese": "寻求平衡。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306395"
+    },
+    {
+      "english": "Believe in yourself.",
+      "chinese": "相信自己。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306395"
+    },
+    {
+      "english": "Embrace change, bravely.",
+      "chinese": "勇敢拥抱改变。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306396"
+    },
+    {
+      "english": "Every day, is a chance.",
+      "chinese": "每天，都是机会。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306396"
+    },
+    {
+      "english": "Learn from mistakes.",
+      "chinese": "从错误中学习。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306397"
+    },
+    {
+      "english": "Your attitude, matters.",
+      "chinese": "你的态度，很重要。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306397"
+    },
+    {
+      "english": "Embrace the unknown.",
+      "chinese": "拥抱未知。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306398"
+    },
+    {
+      "english": "Forgive, and forget.",
+      "chinese": "宽恕，然后忘记。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306398"
+    },
+    {
+      "english": "Be the change.",
+      "chinese": "成为改变。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306399"
+    },
+    {
+      "english": "Listen to understand.",
+      "chinese": "倾听以理解。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306399"
+    },
+    {
+      "english": "Cherish this moment.",
+      "chinese": "珍惜此刻。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306400"
+    },
+    {
+      "english": "Make a difference.",
+      "chinese": "做出改变。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306401"
+    },
+    {
+      "english": "Live and let live.",
+      "chinese": "己所不欲，勿施于人。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306402"
+    },
+    {
+      "english": "Seek truth, always.",
+      "chinese": "永远寻求真相。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306404"
+    },
+    {
+      "english": "Every step counts, forward.",
+      "chinese": "每一步，都算数。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306406"
+    },
+    {
+      "english": "Patience brings success, eventually.",
+      "chinese": "耐心，终会成功。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306407"
+    },
+    {
+      "english": "Ask questions, don't be shy.",
+      "chinese": "多问，别怕。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306407"
+    },
+    {
+      "english": "Simplicity is beauty, true.",
+      "chinese": "简单，就是美。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306408"
+    },
+    {
+      "english": "Focus on the present, moment.",
+      "chinese": "活在，当下。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306409"
+    },
+    {
+      "english": "Seek peace, within you.",
+      "chinese": "寻找，内心的平静。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306410"
+    },
+    {
+      "english": "Gratitude opens doors, wide.",
+      "chinese": "感恩，开门。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306411"
+    },
+    {
+      "english": "Try new things, bravely.",
+      "chinese": "勇敢，尝试新事。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306412"
+    },
+    {
+      "english": "Be curious, explore more.",
+      "chinese": "保持好奇，探索。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306413"
+    },
+    {
+      "english": "Understanding grows, with effort.",
+      "chinese": "努力，才能懂。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306413"
+    },
+    {
+      "english": "True strength, is quiet.",
+      "chinese": "真正的强大，是安静。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306414"
+    },
+    {
+      "english": "Share your joy, spread it.",
+      "chinese": "分享快乐，传递。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306415"
+    },
+    {
+      "english": "Be a good listener, always.",
+      "chinese": "做好倾听者，永远。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306416"
+    },
+    {
+      "english": "Never underestimate, yourself.",
+      "chinese": "别小看，自己。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306417"
+    },
+    {
+      "english": "Small actions, create ripples.",
+      "chinese": "小行动，起波澜。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T07:39:05.306418"
     }
   ],
-  "last_updated": "2026-08-28T12:28:38.531537"
+  "last_updated": "2026-08-29T07:39:05.306419"
 }
