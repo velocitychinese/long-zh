@@ -23819,7 +23819,787 @@
       "chinese": "小行动，起波澜。",
       "category": "Wisdom",
       "generated_at": "2026-08-29T07:39:05.306418"
+    },
+    {
+      "english": "Speak up, your voice matters.",
+      "chinese": "大胆说，你的声音很重要。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198339"
+    },
+    {
+      "english": "Take that first step, now.",
+      "chinese": "迈出第一步，现在。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198350"
+    },
+    {
+      "english": "Dare to dream, bigger.",
+      "chinese": "敢于梦想，更大。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198352"
+    },
+    {
+      "english": "Be bold, in your choices.",
+      "chinese": "做选择时，大胆些。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198354"
+    },
+    {
+      "english": "Stand tall, with pride.",
+      "chinese": "挺直腰杆，带着骄傲。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198355"
+    },
+    {
+      "english": "Don't give up, keep going.",
+      "chinese": "别放弃，继续前进。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198356"
+    },
+    {
+      "english": "Trust your gut, always.",
+      "chinese": "相信你的直觉，永远。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198357"
+    },
+    {
+      "english": "Push your limits, a bit.",
+      "chinese": "挑战极限，一点点。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198360"
+    },
+    {
+      "english": "Seize the moment, seize life.",
+      "chinese": "抓住时机，抓住生活。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198362"
+    },
+    {
+      "english": "Be brave, in love.",
+      "chinese": "勇敢去爱。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198363"
+    },
+    {
+      "english": "Forge ahead, without fear.",
+      "chinese": "无畏前行。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198365"
+    },
+    {
+      "english": "Lead the way, if you must.",
+      "chinese": "必要时，带头。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198366"
+    },
+    {
+      "english": "Defend your beliefs, strongly.",
+      "chinese": "坚定捍卫你的信念。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198367"
+    },
+    {
+      "english": "Embrace adventure, fully.",
+      "chinese": "全身心投入冒险。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198368"
+    },
+    {
+      "english": "Act with conviction, always.",
+      "chinese": "永远带着信念行动。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198370"
+    },
+    {
+      "english": "Face your fears, directly.",
+      "chinese": "直面你的恐惧。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198371"
+    },
+    {
+      "english": "Take risks, for growth.",
+      "chinese": "为了成长，冒险吧。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198372"
+    },
+    {
+      "english": "Be resolute, in purpose.",
+      "chinese": "目标坚定。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198373"
+    },
+    {
+      "english": "Stand for what's right, firmly.",
+      "chinese": "坚定地站在正义一边。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198374"
+    },
+    {
+      "english": "Conquer obstacles, with spirit.",
+      "chinese": "用精神征服障碍。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198375"
+    },
+    {
+      "english": "Initiate action, don't wait.",
+      "chinese": "主动出击，别等。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198376"
+    },
+    {
+      "english": "Be daring, in your quest.",
+      "chinese": "大胆追求。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198377"
+    },
+    {
+      "english": "Persevere, through hardship.",
+      "chinese": "坚持，渡过难关。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198378"
+    },
+    {
+      "english": "Step out, of your comfort zone.",
+      "chinese": "走出舒适区。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198378"
+    },
+    {
+      "english": "Express yourself, freely.",
+      "chinese": "自由地表达自己。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198379"
+    },
+    {
+      "english": "Have the guts, to try.",
+      "chinese": "有勇气去尝试。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198380"
+    },
+    {
+      "english": "Be fearless, in spirit.",
+      "chinese": "精神上无所畏惧。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198382"
+    },
+    {
+      "english": "Embolden others, by example.",
+      "chinese": "以身作则，鼓舞他人。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198383"
+    },
+    {
+      "english": "Challenge the norm, boldly.",
+      "chinese": "大胆挑战常规。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198384"
+    },
+    {
+      "english": "Do what scares you, a lot.",
+      "chinese": "去做让你害怕的事。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198385"
+    },
+    {
+      "english": "Pioneer new paths, forward.",
+      "chinese": "开辟新道路。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198386"
+    },
+    {
+      "english": "Fortify your resolve, daily.",
+      "chinese": "每天增强你的决心。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198387"
+    },
+    {
+      "english": "Take a leap of faith, now.",
+      "chinese": "现在就信念一跃。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198388"
+    },
+    {
+      "english": "Be audacious, in your dreams.",
+      "chinese": "大胆做梦。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198389"
+    },
+    {
+      "english": "Speak up, your voice matters.",
+      "chinese": "大胆说，你的声音很重要。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198390"
+    },
+    {
+      "english": "Take that first step, now.",
+      "chinese": "迈出第一步，现在。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198391"
+    },
+    {
+      "english": "Dare to dream, bigger.",
+      "chinese": "敢于梦想，更大。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198392"
+    },
+    {
+      "english": "Be bold, in your choices.",
+      "chinese": "做选择时，大胆些。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198394"
+    },
+    {
+      "english": "Stand tall, with pride.",
+      "chinese": "挺直腰杆，带着骄傲。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198395"
+    },
+    {
+      "english": "Don't give up, keep going.",
+      "chinese": "别放弃，继续前进。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198396"
+    },
+    {
+      "english": "Trust your gut, always.",
+      "chinese": "相信你的直觉，永远。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198397"
+    },
+    {
+      "english": "Push your limits, a bit.",
+      "chinese": "挑战极限，一点点。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198398"
+    },
+    {
+      "english": "Seize the moment, seize life.",
+      "chinese": "抓住时机，抓住生活。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198399"
+    },
+    {
+      "english": "Be brave, in love.",
+      "chinese": "勇敢去爱。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198400"
+    },
+    {
+      "english": "Forge ahead, without fear.",
+      "chinese": "无畏前行。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198401"
+    },
+    {
+      "english": "Lead the way, if you must.",
+      "chinese": "必要时，带头。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198402"
+    },
+    {
+      "english": "Defend your beliefs, strongly.",
+      "chinese": "坚定捍卫你的信念。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198404"
+    },
+    {
+      "english": "Embrace adventure, fully.",
+      "chinese": "全身心投入冒险。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198405"
+    },
+    {
+      "english": "Act with conviction, always.",
+      "chinese": "永远带着信念行动。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198406"
+    },
+    {
+      "english": "Face your fears, directly.",
+      "chinese": "直面你的恐惧。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198407"
+    },
+    {
+      "english": "Take risks, for growth.",
+      "chinese": "为了成长，冒险吧。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198407"
+    },
+    {
+      "english": "Be resolute, in purpose.",
+      "chinese": "目标坚定。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198409"
+    },
+    {
+      "english": "Stand for what's right, firmly.",
+      "chinese": "坚定地站在正义一边。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198410"
+    },
+    {
+      "english": "Conquer obstacles, with spirit.",
+      "chinese": "用精神征服障碍。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198411"
+    },
+    {
+      "english": "Initiate action, don't wait.",
+      "chinese": "主动出击，别等。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198412"
+    },
+    {
+      "english": "Be daring, in your quest.",
+      "chinese": "大胆追求。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198413"
+    },
+    {
+      "english": "Persevere, through hardship.",
+      "chinese": "坚持，渡过难关。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198414"
+    },
+    {
+      "english": "Step out, of your comfort zone.",
+      "chinese": "走出舒适区。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198415"
+    },
+    {
+      "english": "Express yourself, freely.",
+      "chinese": "自由地表达自己。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198416"
+    },
+    {
+      "english": "Have the guts, to try.",
+      "chinese": "有勇气去尝试。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198417"
+    },
+    {
+      "english": "Be fearless, in spirit.",
+      "chinese": "精神上无所畏惧。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198418"
+    },
+    {
+      "english": "Embolden others, by example.",
+      "chinese": "以身作则，鼓舞他人。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198419"
+    },
+    {
+      "english": "Challenge the norm, boldly.",
+      "chinese": "大胆挑战常规。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198420"
+    },
+    {
+      "english": "Do what scares you, a lot.",
+      "chinese": "去做让你害怕的事。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198421"
+    },
+    {
+      "english": "Pioneer new paths, forward.",
+      "chinese": "开辟新道路。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198422"
+    },
+    {
+      "english": "Fortify your resolve, daily.",
+      "chinese": "每天增强你的决心。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198423"
+    },
+    {
+      "english": "Take a leap of faith, now.",
+      "chinese": "现在就信念一跃。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198424"
+    },
+    {
+      "english": "Be audacious, in your dreams.",
+      "chinese": "大胆做梦。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198425"
+    },
+    {
+      "english": "Speak up, your voice matters.",
+      "chinese": "大胆说，你的声音很重要。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198427"
+    },
+    {
+      "english": "Take that first step, now.",
+      "chinese": "迈出第一步，现在。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198428"
+    },
+    {
+      "english": "Dare to dream, bigger.",
+      "chinese": "敢于梦想，更大。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198429"
+    },
+    {
+      "english": "Be bold, in your choices.",
+      "chinese": "做选择时，大胆些。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198430"
+    },
+    {
+      "english": "Stand tall, with pride.",
+      "chinese": "挺直腰杆，带着骄傲。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198431"
+    },
+    {
+      "english": "Don't give up, keep going.",
+      "chinese": "别放弃，继续前进。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198432"
+    },
+    {
+      "english": "Trust your gut, always.",
+      "chinese": "相信你的直觉，永远。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198433"
+    },
+    {
+      "english": "Push your limits, a bit.",
+      "chinese": "挑战极限，一点点。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198434"
+    },
+    {
+      "english": "Seize the moment, seize life.",
+      "chinese": "抓住时机，抓住生活。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198435"
+    },
+    {
+      "english": "Be brave, in love.",
+      "chinese": "勇敢去爱。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198436"
+    },
+    {
+      "english": "Forge ahead, without fear.",
+      "chinese": "无畏前行。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198437"
+    },
+    {
+      "english": "Lead the way, if you must.",
+      "chinese": "必要时，带头。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198438"
+    },
+    {
+      "english": "Defend your beliefs, strongly.",
+      "chinese": "坚定捍卫你的信念。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198439"
+    },
+    {
+      "english": "Embrace adventure, fully.",
+      "chinese": "全身心投入冒险。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198440"
+    },
+    {
+      "english": "Act with conviction, always.",
+      "chinese": "永远带着信念行动。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198442"
+    },
+    {
+      "english": "Face your fears, directly.",
+      "chinese": "直面你的恐惧。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198443"
+    },
+    {
+      "english": "Take risks, for growth.",
+      "chinese": "为了成长，冒险吧。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198444"
+    },
+    {
+      "english": "Be resolute, in purpose.",
+      "chinese": "目标坚定。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198445"
+    },
+    {
+      "english": "Stand for what's right, firmly.",
+      "chinese": "坚定地站在正义一边。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198446"
+    },
+    {
+      "english": "Conquer obstacles, with spirit.",
+      "chinese": "用精神征服障碍。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198446"
+    },
+    {
+      "english": "Initiate action, don't wait.",
+      "chinese": "主动出击，别等。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198447"
+    },
+    {
+      "english": "Be daring, in your quest.",
+      "chinese": "大胆追求。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198448"
+    },
+    {
+      "english": "Persevere, through hardship.",
+      "chinese": "坚持，渡过难关。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198449"
+    },
+    {
+      "english": "Step out, of your comfort zone.",
+      "chinese": "走出舒适区。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198450"
+    },
+    {
+      "english": "Express yourself, freely.",
+      "chinese": "自由地表达自己。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198451"
+    },
+    {
+      "english": "Have the guts, to try.",
+      "chinese": "有勇气去尝试。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198452"
+    },
+    {
+      "english": "Be fearless, in spirit.",
+      "chinese": "精神上无所畏惧。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198453"
+    },
+    {
+      "english": "Embolden others, by example.",
+      "chinese": "以身作则，鼓舞他人。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198454"
+    },
+    {
+      "english": "Challenge the norm, boldly.",
+      "chinese": "大胆挑战常规。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198455"
+    },
+    {
+      "english": "Do what scares you, a lot.",
+      "chinese": "去做让你害怕的事。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198457"
+    },
+    {
+      "english": "Pioneer new paths, forward.",
+      "chinese": "开辟新道路。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198458"
+    },
+    {
+      "english": "Fortify your resolve, daily.",
+      "chinese": "每天增强你的决心。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198459"
+    },
+    {
+      "english": "Take a leap of faith, now.",
+      "chinese": "现在就信念一跃。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198460"
+    },
+    {
+      "english": "Be audacious, in your dreams.",
+      "chinese": "大胆做梦。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198461"
+    },
+    {
+      "english": "Speak up, your voice matters.",
+      "chinese": "大胆说，你的声音很重要。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198462"
+    },
+    {
+      "english": "Take that first step, now.",
+      "chinese": "迈出第一步，现在。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198463"
+    },
+    {
+      "english": "Dare to dream, bigger.",
+      "chinese": "敢于梦想，更大。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198464"
+    },
+    {
+      "english": "Be bold, in your choices.",
+      "chinese": "做选择时，大胆些。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198465"
+    },
+    {
+      "english": "Stand tall, with pride.",
+      "chinese": "挺直腰杆，带着骄傲。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198466"
+    },
+    {
+      "english": "Don't give up, keep going.",
+      "chinese": "别放弃，继续前进。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198467"
+    },
+    {
+      "english": "Trust your gut, always.",
+      "chinese": "相信你的直觉，永远。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198468"
+    },
+    {
+      "english": "Push your limits, a bit.",
+      "chinese": "挑战极限，一点点。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198469"
+    },
+    {
+      "english": "Seize the moment, seize life.",
+      "chinese": "抓住时机，抓住生活。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198470"
+    },
+    {
+      "english": "Be brave, in love.",
+      "chinese": "勇敢去爱。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198471"
+    },
+    {
+      "english": "Forge ahead, without fear.",
+      "chinese": "无畏前行。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198472"
+    },
+    {
+      "english": "Lead the way, if you must.",
+      "chinese": "必要时，带头。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198473"
+    },
+    {
+      "english": "Defend your beliefs, strongly.",
+      "chinese": "坚定捍卫你的信念。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198474"
+    },
+    {
+      "english": "Embrace adventure, fully.",
+      "chinese": "全身心投入冒险。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198475"
+    },
+    {
+      "english": "Act with conviction, always.",
+      "chinese": "永远带着信念行动。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198476"
+    },
+    {
+      "english": "Face your fears, directly.",
+      "chinese": "直面你的恐惧。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198477"
+    },
+    {
+      "english": "Take risks, for growth.",
+      "chinese": "为了成长，冒险吧。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198478"
+    },
+    {
+      "english": "Be resolute, in purpose.",
+      "chinese": "目标坚定。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198479"
+    },
+    {
+      "english": "Stand for what's right, firmly.",
+      "chinese": "坚定地站在正义一边。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198480"
+    },
+    {
+      "english": "Conquer obstacles, with spirit.",
+      "chinese": "用精神征服障碍。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198481"
+    },
+    {
+      "english": "Initiate action, don't wait.",
+      "chinese": "主动出击，别等。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198482"
+    },
+    {
+      "english": "Be daring, in your quest.",
+      "chinese": "大胆追求。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198483"
+    },
+    {
+      "english": "Persevere, through hardship.",
+      "chinese": "坚持，渡过难关。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198484"
+    },
+    {
+      "english": "Step out, of your comfort zone.",
+      "chinese": "走出舒适区。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198485"
+    },
+    {
+      "english": "Express yourself, freely.",
+      "chinese": "自由地表达自己。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198486"
+    },
+    {
+      "english": "Have the guts, to try.",
+      "chinese": "有勇气去尝试。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198487"
+    },
+    {
+      "english": "Be fearless, in spirit.",
+      "chinese": "精神上无所畏惧。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198488"
+    },
+    {
+      "english": "Embolden others, by example.",
+      "chinese": "以身作则，鼓舞他人。",
+      "category": "Courage",
+      "generated_at": "2026-08-30T06:11:51.198489"
     }
   ],
-  "last_updated": "2026-08-29T07:39:05.306419"
+  "last_updated": "2026-08-30T06:11:51.198491"
 }
