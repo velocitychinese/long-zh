@@ -30059,7 +30059,787 @@
       "chinese": "为一切做好准备。",
       "category": "Success",
       "generated_at": "2026-09-06T05:28:44.579562"
+    },
+    {
+      "english": "Oops, my bad. Let's forget it.",
+      "chinese": "哎呀，我的错，算了。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.178948"
+    },
+    {
+      "english": "No worries, happens to the best of us.",
+      "chinese": "没事，高手也会犯错。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.178960"
+    },
+    {
+      "english": "Water under the bridge, okay?",
+      "chinese": "往事如烟，好吗？",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.178962"
+    },
+    {
+      "english": "Let's just move on, yeah?",
+      "chinese": "咱们就往前看吧，嗯？",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.178964"
+    },
+    {
+      "english": "Forget it, no hard feelings.",
+      "chinese": "忘了它，不记仇。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.178965"
+    },
+    {
+      "english": "It's all good, let's be friends.",
+      "chinese": "都挺好的，做朋友吧。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.178966"
+    },
+    {
+      "english": "Past is past, let's look forward.",
+      "chinese": "过去就过去了，向前看。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.178967"
+    },
+    {
+      "english": "I forgive you, no big deal.",
+      "chinese": "我原谅你，小事一桩。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.178971"
+    },
+    {
+      "english": "Let's clear the air, okay?",
+      "chinese": "咱们把话说明白，行吗？",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.178972"
+    },
+    {
+      "english": "Don't sweat it, I get it.",
+      "chinese": "别担心，我懂。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.178974"
+    },
+    {
+      "english": "Shake it off, let's go.",
+      "chinese": "甩掉它，走吧。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.178975"
+    },
+    {
+      "english": "All is forgiven, move along.",
+      "chinese": "一切都原谅了，继续前行。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.178976"
+    },
+    {
+      "english": "Let's hit the reset button.",
+      "chinese": "咱们按下重启键。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.178977"
+    },
+    {
+      "english": "Can't we just let it go?",
+      "chinese": "咱们不能就这么算了？",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.178978"
+    },
+    {
+      "english": "Apology accepted, no hard feelings.",
+      "chinese": "接受道歉，不介意。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.178979"
+    },
+    {
+      "english": "It's a new day, let's start fresh.",
+      "chinese": "新的一天，重新开始。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.178980"
+    },
+    {
+      "english": "Consider it forgotten, alright?",
+      "chinese": "就当忘了，好吧？",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.178981"
+    },
+    {
+      "english": "Peace, let's be cool.",
+      "chinese": "和平，咱们冷静点。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.178982"
+    },
+    {
+      "english": "Let bygones be bygones, okay?",
+      "chinese": "过去的就让它过去，行吗？",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.178983"
+    },
+    {
+      "english": "I'm cool with it, don't worry.",
+      "chinese": "我没事，别担心。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.178984"
+    },
+    {
+      "english": "Let's bury the hatchet, shall we?",
+      "chinese": "咱们和好吧，好不好？",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.178985"
+    },
+    {
+      "english": "It's fine, we all mess up sometimes.",
+      "chinese": "没事，谁都会犯错。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.178986"
+    },
+    {
+      "english": "Let it go, move on.",
+      "chinese": "放下它，继续前进。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.178987"
+    },
+    {
+      "english": "No hard feelings, just forget it.",
+      "chinese": "不记仇，就忘了吧。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.178987"
+    },
+    {
+      "english": "We're good, let's move past this.",
+      "chinese": "咱们挺好的，翻篇吧。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.178988"
+    },
+    {
+      "english": "I forgive you, let's start over.",
+      "chinese": "我原谅你，重新开始。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.178989"
+    },
+    {
+      "english": "Forget it, it's not worth it.",
+      "chinese": "忘了它，不值得。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.178990"
+    },
+    {
+      "english": "Let's not hold grudges, okay?",
+      "chinese": "咱们别记仇了，好吗？",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.178991"
+    },
+    {
+      "english": "It's water under the bridge now.",
+      "chinese": "现在都过去了。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.178992"
+    },
+    {
+      "english": "Let's just forget this ever happened.",
+      "chinese": "咱们就当什么都没发生过。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.178993"
+    },
+    {
+      "english": "I accept your apology, all good.",
+      "chinese": "我接受你的道歉，没事。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.178994"
+    },
+    {
+      "english": "No harm done, let's be friends.",
+      "chinese": "没啥伤害，做朋友吧。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.178995"
+    },
+    {
+      "english": "Let's just wipe the slate clean.",
+      "chinese": "咱们就一笔勾销吧。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.178996"
+    },
+    {
+      "english": "Don't worry about it, I forgive.",
+      "chinese": "别担心，我原谅。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.178996"
+    },
+    {
+      "english": "Let's move on, no hard feelings.",
+      "chinese": "咱们往前走，不记仇。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.178998"
+    },
+    {
+      "english": "Consider it a learning experience.",
+      "chinese": "就当一个学习经验。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.178999"
+    },
+    {
+      "english": "Let's let it go, be happy.",
+      "chinese": "让它过去，开开心心。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.178999"
+    },
+    {
+      "english": "It's okay, I'm not mad.",
+      "chinese": "没关系，我不生气。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179000"
+    },
+    {
+      "english": "Let's start with a clean slate.",
+      "chinese": "咱们从头开始。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179001"
+    },
+    {
+      "english": "I forgive you, let's forget it.",
+      "chinese": "我原谅你，忘了吧。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179002"
+    },
+    {
+      "english": "Oops, my bad. Let's forget it.",
+      "chinese": "哎呀，我的错，算了。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179003"
+    },
+    {
+      "english": "No worries, happens to the best of us.",
+      "chinese": "没事，高手也会犯错。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179004"
+    },
+    {
+      "english": "Water under the bridge, okay?",
+      "chinese": "往事如烟，好吗？",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179006"
+    },
+    {
+      "english": "Let's just move on, yeah?",
+      "chinese": "咱们就往前看吧，嗯？",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179007"
+    },
+    {
+      "english": "Forget it, no hard feelings.",
+      "chinese": "忘了它，不记仇。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179008"
+    },
+    {
+      "english": "It's all good, let's be friends.",
+      "chinese": "都挺好的，做朋友吧。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179009"
+    },
+    {
+      "english": "Past is past, let's look forward.",
+      "chinese": "过去就过去了，向前看。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179010"
+    },
+    {
+      "english": "I forgive you, no big deal.",
+      "chinese": "我原谅你，小事一桩。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179011"
+    },
+    {
+      "english": "Let's clear the air, okay?",
+      "chinese": "咱们把话说明白，行吗？",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179012"
+    },
+    {
+      "english": "Don't sweat it, I get it.",
+      "chinese": "别担心，我懂。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179013"
+    },
+    {
+      "english": "Shake it off, let's go.",
+      "chinese": "甩掉它，走吧。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179014"
+    },
+    {
+      "english": "All is forgiven, move along.",
+      "chinese": "一切都原谅了，继续前行。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179015"
+    },
+    {
+      "english": "Let's hit the reset button.",
+      "chinese": "咱们按下重启键。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179016"
+    },
+    {
+      "english": "Can't we just let it go?",
+      "chinese": "咱们不能就这么算了？",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179017"
+    },
+    {
+      "english": "Apology accepted, no hard feelings.",
+      "chinese": "接受道歉，不介意。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179018"
+    },
+    {
+      "english": "It's a new day, let's start fresh.",
+      "chinese": "新的一天，重新开始。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179019"
+    },
+    {
+      "english": "Consider it forgotten, alright?",
+      "chinese": "就当忘了，好吧？",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179020"
+    },
+    {
+      "english": "Peace, let's be cool.",
+      "chinese": "和平，咱们冷静点。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179021"
+    },
+    {
+      "english": "Let bygones be bygones, okay?",
+      "chinese": "过去的就让它过去，行吗？",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179022"
+    },
+    {
+      "english": "I'm cool with it, don't worry.",
+      "chinese": "我没事，别担心。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179023"
+    },
+    {
+      "english": "Let's bury the hatchet, shall we?",
+      "chinese": "咱们和好吧，好不好？",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179024"
+    },
+    {
+      "english": "It's fine, we all mess up sometimes.",
+      "chinese": "没事，谁都会犯错。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179025"
+    },
+    {
+      "english": "Let it go, move on.",
+      "chinese": "放下它，继续前进。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179026"
+    },
+    {
+      "english": "No hard feelings, just forget it.",
+      "chinese": "不记仇，就忘了吧。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179027"
+    },
+    {
+      "english": "We're good, let's move past this.",
+      "chinese": "咱们挺好的，翻篇吧。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179028"
+    },
+    {
+      "english": "I forgive you, let's start over.",
+      "chinese": "我原谅你，重新开始。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179029"
+    },
+    {
+      "english": "Forget it, it's not worth it.",
+      "chinese": "忘了它，不值得。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179030"
+    },
+    {
+      "english": "Let's not hold grudges, okay?",
+      "chinese": "咱们别记仇了，好吗？",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179031"
+    },
+    {
+      "english": "It's water under the bridge now.",
+      "chinese": "现在都过去了。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179031"
+    },
+    {
+      "english": "Let's just forget this ever happened.",
+      "chinese": "咱们就当什么都没发生过。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179032"
+    },
+    {
+      "english": "I accept your apology, all good.",
+      "chinese": "我接受你的道歉，没事。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179033"
+    },
+    {
+      "english": "No harm done, let's be friends.",
+      "chinese": "没啥伤害，做朋友吧。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179034"
+    },
+    {
+      "english": "Let's just wipe the slate clean.",
+      "chinese": "咱们就一笔勾销吧。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179035"
+    },
+    {
+      "english": "Don't worry about it, I forgive.",
+      "chinese": "别担心，我原谅。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179036"
+    },
+    {
+      "english": "Let's move on, no hard feelings.",
+      "chinese": "咱们往前走，不记仇。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179037"
+    },
+    {
+      "english": "Consider it a learning experience.",
+      "chinese": "就当一个学习经验。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179038"
+    },
+    {
+      "english": "Let's let it go, be happy.",
+      "chinese": "让它过去，开开心心。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179039"
+    },
+    {
+      "english": "It's okay, I'm not mad.",
+      "chinese": "没关系，我不生气。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179039"
+    },
+    {
+      "english": "Let's start with a clean slate.",
+      "chinese": "咱们从头开始。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179040"
+    },
+    {
+      "english": "I forgive you, let's forget it.",
+      "chinese": "我原谅你，忘了吧。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179041"
+    },
+    {
+      "english": "Oops, my bad. Let's forget it.",
+      "chinese": "哎呀，我的错，算了。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179042"
+    },
+    {
+      "english": "No worries, happens to the best of us.",
+      "chinese": "没事，高手也会犯错。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179043"
+    },
+    {
+      "english": "Water under the bridge, okay?",
+      "chinese": "往事如烟，好吗？",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179044"
+    },
+    {
+      "english": "Let's just move on, yeah?",
+      "chinese": "咱们就往前看吧，嗯？",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179045"
+    },
+    {
+      "english": "Forget it, no hard feelings.",
+      "chinese": "忘了它，不记仇。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179046"
+    },
+    {
+      "english": "It's all good, let's be friends.",
+      "chinese": "都挺好的，做朋友吧。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179047"
+    },
+    {
+      "english": "Past is past, let's look forward.",
+      "chinese": "过去就过去了，向前看。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179048"
+    },
+    {
+      "english": "I forgive you, no big deal.",
+      "chinese": "我原谅你，小事一桩。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179049"
+    },
+    {
+      "english": "Let's clear the air, okay?",
+      "chinese": "咱们把话说明白，行吗？",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179050"
+    },
+    {
+      "english": "Don't sweat it, I get it.",
+      "chinese": "别担心，我懂。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179051"
+    },
+    {
+      "english": "Shake it off, let's go.",
+      "chinese": "甩掉它，走吧。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179052"
+    },
+    {
+      "english": "All is forgiven, move along.",
+      "chinese": "一切都原谅了，继续前行。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179054"
+    },
+    {
+      "english": "Let's hit the reset button.",
+      "chinese": "咱们按下重启键。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179055"
+    },
+    {
+      "english": "Can't we just let it go?",
+      "chinese": "咱们不能就这么算了？",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179056"
+    },
+    {
+      "english": "Apology accepted, no hard feelings.",
+      "chinese": "接受道歉，不介意。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179057"
+    },
+    {
+      "english": "It's a new day, let's start fresh.",
+      "chinese": "新的一天，重新开始。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179057"
+    },
+    {
+      "english": "Consider it forgotten, alright?",
+      "chinese": "就当忘了，好吧？",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179058"
+    },
+    {
+      "english": "Peace, let's be cool.",
+      "chinese": "和平，咱们冷静点。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179059"
+    },
+    {
+      "english": "Let bygones be bygones, okay?",
+      "chinese": "过去的就让它过去，行吗？",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179060"
+    },
+    {
+      "english": "I'm cool with it, don't worry.",
+      "chinese": "我没事，别担心。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179061"
+    },
+    {
+      "english": "Let's bury the hatchet, shall we?",
+      "chinese": "咱们和好吧，好不好？",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179062"
+    },
+    {
+      "english": "It's fine, we all mess up sometimes.",
+      "chinese": "没事，谁都会犯错。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179063"
+    },
+    {
+      "english": "Let it go, move on.",
+      "chinese": "放下它，继续前进。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179064"
+    },
+    {
+      "english": "No hard feelings, just forget it.",
+      "chinese": "不记仇，就忘了吧。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179065"
+    },
+    {
+      "english": "We're good, let's move past this.",
+      "chinese": "咱们挺好的，翻篇吧。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179066"
+    },
+    {
+      "english": "I forgive you, let's start over.",
+      "chinese": "我原谅你，重新开始。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179067"
+    },
+    {
+      "english": "Forget it, it's not worth it.",
+      "chinese": "忘了它，不值得。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179068"
+    },
+    {
+      "english": "Let's not hold grudges, okay?",
+      "chinese": "咱们别记仇了，好吗？",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179068"
+    },
+    {
+      "english": "It's water under the bridge now.",
+      "chinese": "现在都过去了。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179069"
+    },
+    {
+      "english": "Let's just forget this ever happened.",
+      "chinese": "咱们就当什么都没发生过。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179070"
+    },
+    {
+      "english": "I accept your apology, all good.",
+      "chinese": "我接受你的道歉，没事。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179071"
+    },
+    {
+      "english": "No harm done, let's be friends.",
+      "chinese": "没啥伤害，做朋友吧。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179072"
+    },
+    {
+      "english": "Let's just wipe the slate clean.",
+      "chinese": "咱们就一笔勾销吧。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179073"
+    },
+    {
+      "english": "Don't worry about it, I forgive.",
+      "chinese": "别担心，我原谅。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179074"
+    },
+    {
+      "english": "Let's move on, no hard feelings.",
+      "chinese": "咱们往前走，不记仇。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179075"
+    },
+    {
+      "english": "Consider it a learning experience.",
+      "chinese": "就当一个学习经验。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179076"
+    },
+    {
+      "english": "Let's let it go, be happy.",
+      "chinese": "让它过去，开开心心。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179077"
+    },
+    {
+      "english": "It's okay, I'm not mad.",
+      "chinese": "没关系，我不生气。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179078"
+    },
+    {
+      "english": "Let's start with a clean slate.",
+      "chinese": "咱们从头开始。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179078"
+    },
+    {
+      "english": "I forgive you, let's forget it.",
+      "chinese": "我原谅你，忘了吧。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179079"
+    },
+    {
+      "english": "Oops, my bad. Let's forget it.",
+      "chinese": "哎呀，我的错，算了。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179080"
+    },
+    {
+      "english": "No worries, happens to the best of us.",
+      "chinese": "没事，高手也会犯错。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179081"
+    },
+    {
+      "english": "Water under the bridge, okay?",
+      "chinese": "往事如烟，好吗？",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179082"
+    },
+    {
+      "english": "Let's just move on, yeah?",
+      "chinese": "咱们就往前看吧，嗯？",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179083"
+    },
+    {
+      "english": "Forget it, no hard feelings.",
+      "chinese": "忘了它，不记仇。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179084"
+    },
+    {
+      "english": "It's all good, let's be friends.",
+      "chinese": "都挺好的，做朋友吧。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179085"
+    },
+    {
+      "english": "Past is past, let's look forward.",
+      "chinese": "过去就过去了，向前看。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179087"
+    },
+    {
+      "english": "I forgive you, no big deal.",
+      "chinese": "我原谅你，小事一桩。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179088"
+    },
+    {
+      "english": "Let's clear the air, okay?",
+      "chinese": "咱们把话说明白，行吗？",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179089"
+    },
+    {
+      "english": "Don't sweat it, I get it.",
+      "chinese": "别担心，我懂。",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T05:38:41.179090"
     }
   ],
-  "last_updated": "2026-09-06T05:28:44.579563"
+  "last_updated": "2026-09-07T05:38:41.179091"
 }
