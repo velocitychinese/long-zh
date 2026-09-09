@@ -30839,7 +30839,787 @@
       "chinese": "别担心，我懂。",
       "category": "Forgiveness",
       "generated_at": "2026-09-07T05:38:41.179090"
+    },
+    {
+      "english": "Patience, my friend, is a virtue.",
+      "chinese": "耐心，我的朋友，是美德。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392217"
+    },
+    {
+      "english": "Good things, they take time.",
+      "chinese": "好东西，它们需要时间。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392232"
+    },
+    {
+      "english": "Wait for it, the reward is coming.",
+      "chinese": "等待它，奖励正在到来。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392234"
+    },
+    {
+      "english": "Haste makes, waste, you know?",
+      "chinese": "匆忙造成浪费，你知道吗？",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392237"
+    },
+    {
+      "english": "Breathe deep, and don't rush.",
+      "chinese": "深呼吸，不要急。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392239"
+    },
+    {
+      "english": "The best fruits, ripen slowly.",
+      "chinese": "最好的果实，慢慢成熟。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392241"
+    },
+    {
+      "english": "Keep going, your turn will come.",
+      "chinese": "继续前进，轮到你了。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392243"
+    },
+    {
+      "english": "A little more, and you're there.",
+      "chinese": "再多一点，你就到了。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392248"
+    },
+    {
+      "english": "Patience, is a powerful tool.",
+      "chinese": "耐心，是一个强大的工具。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392251"
+    },
+    {
+      "english": "Just hold on, a bit longer.",
+      "chinese": "再坚持一下，一会儿。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392253"
+    },
+    {
+      "english": "The journey, takes its own pace.",
+      "chinese": "旅程，有它自己的节奏。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392255"
+    },
+    {
+      "english": "Don't get discouraged, okay?",
+      "chinese": "不要气馁，好吗？",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392257"
+    },
+    {
+      "english": "This too, shall pass, you see.",
+      "chinese": "这也会过去的，你看。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392259"
+    },
+    {
+      "english": "Keep a calm mind, always.",
+      "chinese": "保持冷静的心，总是。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392260"
+    },
+    {
+      "english": "Great things, require great patience.",
+      "chinese": "伟大的事情，需要伟大的耐心。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392262"
+    },
+    {
+      "english": "The reward, is worth the wait.",
+      "chinese": "回报，值得等待。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392264"
+    },
+    {
+      "english": "Take a deep breath, then proceed.",
+      "chinese": "深吸一口气，然后继续。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392265"
+    },
+    {
+      "english": "This is a test, of endurance.",
+      "chinese": "这是一个考验，耐力的。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392267"
+    },
+    {
+      "english": "Stay strong, and persist.",
+      "chinese": "保持坚强，并坚持。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392269"
+    },
+    {
+      "english": "The universe, moves in its own time.",
+      "chinese": "宇宙，有它自己的时间。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392271"
+    },
+    {
+      "english": "Even the longest river, flows.",
+      "chinese": "即使最长的河流，也会流淌。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392272"
+    },
+    {
+      "english": "Your moment, is coming soon.",
+      "chinese": "你的时刻，很快就会到来。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392274"
+    },
+    {
+      "english": "Cultivate your patience, daily.",
+      "chinese": "培养你的耐心，每天。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392276"
+    },
+    {
+      "english": "The seed, needs time to sprout.",
+      "chinese": "种子，需要时间发芽。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392277"
+    },
+    {
+      "english": "Trust the timing, of your life.",
+      "chinese": "相信你的生活的时机。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392279"
+    },
+    {
+      "english": "Patience, is a form of wisdom.",
+      "chinese": "耐心，是一种智慧。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392281"
+    },
+    {
+      "english": "The night, before dawn, is darkest.",
+      "chinese": "黎明前的夜晚，最黑暗。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392283"
+    },
+    {
+      "english": "Just wait, and see what happens.",
+      "chinese": "等等看，会发生什么。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392284"
+    },
+    {
+      "english": "Little by little, things improve.",
+      "chinese": "一点一点地，事情会改善。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392286"
+    },
+    {
+      "english": "This waiting game, builds strength.",
+      "chinese": "这场等待游戏，建立力量。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392288"
+    },
+    {
+      "english": "Embrace the pause, it's important.",
+      "chinese": "拥抱暂停，它很重要。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392289"
+    },
+    {
+      "english": "Be patient, with the outcome.",
+      "chinese": "对结果要有耐心。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392296"
+    },
+    {
+      "english": "A calm sea, does not make, a skilled sailor.",
+      "chinese": "平静的海，造不出熟练的帆手。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392298"
+    },
+    {
+      "english": "Endure the moment, for the future.",
+      "chinese": "忍受这一刻，为了未来。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392299"
+    },
+    {
+      "english": "Patience, is a quiet strength.",
+      "chinese": "耐心，是一种安静的力量。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392301"
+    },
+    {
+      "english": "Don't get ahead, of yourself.",
+      "chinese": "不要急于求成。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392302"
+    },
+    {
+      "english": "Patience, my friend, is a virtue.",
+      "chinese": "耐心，我的朋友，是美德。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392304"
+    },
+    {
+      "english": "Good things, they take time.",
+      "chinese": "好东西，它们需要时间。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392305"
+    },
+    {
+      "english": "Wait for it, the reward is coming.",
+      "chinese": "等待它，奖励正在到来。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392306"
+    },
+    {
+      "english": "Haste makes, waste, you know?",
+      "chinese": "匆忙造成浪费，你知道吗？",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392307"
+    },
+    {
+      "english": "Breathe deep, and don't rush.",
+      "chinese": "深呼吸，不要急。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392308"
+    },
+    {
+      "english": "The best fruits, ripen slowly.",
+      "chinese": "最好的果实，慢慢成熟。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392309"
+    },
+    {
+      "english": "Keep going, your turn will come.",
+      "chinese": "继续前进，轮到你了。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392313"
+    },
+    {
+      "english": "A little more, and you're there.",
+      "chinese": "再多一点，你就到了。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392314"
+    },
+    {
+      "english": "Patience, is a powerful tool.",
+      "chinese": "耐心，是一个强大的工具。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392315"
+    },
+    {
+      "english": "Just hold on, a bit longer.",
+      "chinese": "再坚持一下，一会儿。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392316"
+    },
+    {
+      "english": "The journey, takes its own pace.",
+      "chinese": "旅程，有它自己的节奏。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392317"
+    },
+    {
+      "english": "Don't get discouraged, okay?",
+      "chinese": "不要气馁，好吗？",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392318"
+    },
+    {
+      "english": "This too, shall pass, you see.",
+      "chinese": "这也会过去的，你看。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392320"
+    },
+    {
+      "english": "Keep a calm mind, always.",
+      "chinese": "保持冷静的心，总是。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392321"
+    },
+    {
+      "english": "Great things, require great patience.",
+      "chinese": "伟大的事情，需要伟大的耐心。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392322"
+    },
+    {
+      "english": "The reward, is worth the wait.",
+      "chinese": "回报，值得等待。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392323"
+    },
+    {
+      "english": "Take a deep breath, then proceed.",
+      "chinese": "深吸一口气，然后继续。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392324"
+    },
+    {
+      "english": "This is a test, of endurance.",
+      "chinese": "这是一个考验，耐力的。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392325"
+    },
+    {
+      "english": "Stay strong, and persist.",
+      "chinese": "保持坚强，并坚持。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392326"
+    },
+    {
+      "english": "The universe, moves in its own time.",
+      "chinese": "宇宙，有它自己的时间。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392327"
+    },
+    {
+      "english": "Even the longest river, flows.",
+      "chinese": "即使最长的河流，也会流淌。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392328"
+    },
+    {
+      "english": "Your moment, is coming soon.",
+      "chinese": "你的时刻，很快就会到来。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392329"
+    },
+    {
+      "english": "Cultivate your patience, daily.",
+      "chinese": "培养你的耐心，每天。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392330"
+    },
+    {
+      "english": "The seed, needs time to sprout.",
+      "chinese": "种子，需要时间发芽。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392331"
+    },
+    {
+      "english": "Trust the timing, of your life.",
+      "chinese": "相信你的生活的时机。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392332"
+    },
+    {
+      "english": "Patience, is a form of wisdom.",
+      "chinese": "耐心，是一种智慧。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392333"
+    },
+    {
+      "english": "The night, before dawn, is darkest.",
+      "chinese": "黎明前的夜晚，最黑暗。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392334"
+    },
+    {
+      "english": "Just wait, and see what happens.",
+      "chinese": "等等看，会发生什么。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392334"
+    },
+    {
+      "english": "Little by little, things improve.",
+      "chinese": "一点一点地，事情会改善。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392335"
+    },
+    {
+      "english": "This waiting game, builds strength.",
+      "chinese": "这场等待游戏，建立力量。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392336"
+    },
+    {
+      "english": "Embrace the pause, it's important.",
+      "chinese": "拥抱暂停，它很重要。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392337"
+    },
+    {
+      "english": "Be patient, with the outcome.",
+      "chinese": "对结果要有耐心。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392338"
+    },
+    {
+      "english": "A calm sea, does not make, a skilled sailor.",
+      "chinese": "平静的海，造不出熟练的帆手。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392339"
+    },
+    {
+      "english": "Endure the moment, for the future.",
+      "chinese": "忍受这一刻，为了未来。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392340"
+    },
+    {
+      "english": "Patience, is a quiet strength.",
+      "chinese": "耐心，是一种安静的力量。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392341"
+    },
+    {
+      "english": "Don't get ahead, of yourself.",
+      "chinese": "不要急于求成。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392342"
+    },
+    {
+      "english": "Patience, my friend, is a virtue.",
+      "chinese": "耐心，我的朋友，是美德。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392343"
+    },
+    {
+      "english": "Good things, they take time.",
+      "chinese": "好东西，它们需要时间。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392354"
+    },
+    {
+      "english": "Wait for it, the reward is coming.",
+      "chinese": "等待它，奖励正在到来。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392355"
+    },
+    {
+      "english": "Haste makes, waste, you know?",
+      "chinese": "匆忙造成浪费，你知道吗？",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392356"
+    },
+    {
+      "english": "Breathe deep, and don't rush.",
+      "chinese": "深呼吸，不要急。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392357"
+    },
+    {
+      "english": "The best fruits, ripen slowly.",
+      "chinese": "最好的果实，慢慢成熟。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392358"
+    },
+    {
+      "english": "Keep going, your turn will come.",
+      "chinese": "继续前进，轮到你了。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392359"
+    },
+    {
+      "english": "A little more, and you're there.",
+      "chinese": "再多一点，你就到了。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392360"
+    },
+    {
+      "english": "Patience, is a powerful tool.",
+      "chinese": "耐心，是一个强大的工具。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392361"
+    },
+    {
+      "english": "Just hold on, a bit longer.",
+      "chinese": "再坚持一下，一会儿。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392362"
+    },
+    {
+      "english": "The journey, takes its own pace.",
+      "chinese": "旅程，有它自己的节奏。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392364"
+    },
+    {
+      "english": "Don't get discouraged, okay?",
+      "chinese": "不要气馁，好吗？",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392365"
+    },
+    {
+      "english": "This too, shall pass, you see.",
+      "chinese": "这也会过去的，你看。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392366"
+    },
+    {
+      "english": "Keep a calm mind, always.",
+      "chinese": "保持冷静的心，总是。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392367"
+    },
+    {
+      "english": "Great things, require great patience.",
+      "chinese": "伟大的事情，需要伟大的耐心。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392368"
+    },
+    {
+      "english": "The reward, is worth the wait.",
+      "chinese": "回报，值得等待。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392369"
+    },
+    {
+      "english": "Take a deep breath, then proceed.",
+      "chinese": "深吸一口气，然后继续。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392370"
+    },
+    {
+      "english": "This is a test, of endurance.",
+      "chinese": "这是一个考验，耐力的。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392371"
+    },
+    {
+      "english": "Stay strong, and persist.",
+      "chinese": "保持坚强，并坚持。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392372"
+    },
+    {
+      "english": "The universe, moves in its own time.",
+      "chinese": "宇宙，有它自己的时间。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392373"
+    },
+    {
+      "english": "Even the longest river, flows.",
+      "chinese": "即使最长的河流，也会流淌。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392374"
+    },
+    {
+      "english": "Your moment, is coming soon.",
+      "chinese": "你的时刻，很快就会到来。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392377"
+    },
+    {
+      "english": "Cultivate your patience, daily.",
+      "chinese": "培养你的耐心，每天。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392380"
+    },
+    {
+      "english": "The seed, needs time to sprout.",
+      "chinese": "种子，需要时间发芽。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392381"
+    },
+    {
+      "english": "Trust the timing, of your life.",
+      "chinese": "相信你的生活的时机。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392382"
+    },
+    {
+      "english": "Patience, is a form of wisdom.",
+      "chinese": "耐心，是一种智慧。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392383"
+    },
+    {
+      "english": "The night, before dawn, is darkest.",
+      "chinese": "黎明前的夜晚，最黑暗。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392384"
+    },
+    {
+      "english": "Just wait, and see what happens.",
+      "chinese": "等等看，会发生什么。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392385"
+    },
+    {
+      "english": "Little by little, things improve.",
+      "chinese": "一点一点地，事情会改善。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392386"
+    },
+    {
+      "english": "This waiting game, builds strength.",
+      "chinese": "这场等待游戏，建立力量。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392387"
+    },
+    {
+      "english": "Embrace the pause, it's important.",
+      "chinese": "拥抱暂停，它很重要。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392388"
+    },
+    {
+      "english": "Be patient, with the outcome.",
+      "chinese": "对结果要有耐心。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392389"
+    },
+    {
+      "english": "A calm sea, does not make, a skilled sailor.",
+      "chinese": "平静的海，造不出熟练的帆手。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392392"
+    },
+    {
+      "english": "Endure the moment, for the future.",
+      "chinese": "忍受这一刻，为了未来。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392393"
+    },
+    {
+      "english": "Patience, is a quiet strength.",
+      "chinese": "耐心，是一种安静的力量。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392394"
+    },
+    {
+      "english": "Don't get ahead, of yourself.",
+      "chinese": "不要急于求成。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392395"
+    },
+    {
+      "english": "Patience, my friend, is a virtue.",
+      "chinese": "耐心，我的朋友，是美德。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392396"
+    },
+    {
+      "english": "Good things, they take time.",
+      "chinese": "好东西，它们需要时间。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392397"
+    },
+    {
+      "english": "Wait for it, the reward is coming.",
+      "chinese": "等待它，奖励正在到来。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392398"
+    },
+    {
+      "english": "Haste makes, waste, you know?",
+      "chinese": "匆忙造成浪费，你知道吗？",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392399"
+    },
+    {
+      "english": "Breathe deep, and don't rush.",
+      "chinese": "深呼吸，不要急。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392400"
+    },
+    {
+      "english": "The best fruits, ripen slowly.",
+      "chinese": "最好的果实，慢慢成熟。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392401"
+    },
+    {
+      "english": "Keep going, your turn will come.",
+      "chinese": "继续前进，轮到你了。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392402"
+    },
+    {
+      "english": "A little more, and you're there.",
+      "chinese": "再多一点，你就到了。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392403"
+    },
+    {
+      "english": "Patience, is a powerful tool.",
+      "chinese": "耐心，是一个强大的工具。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392404"
+    },
+    {
+      "english": "Just hold on, a bit longer.",
+      "chinese": "再坚持一下，一会儿。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392405"
+    },
+    {
+      "english": "The journey, takes its own pace.",
+      "chinese": "旅程，有它自己的节奏。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392406"
+    },
+    {
+      "english": "Don't get discouraged, okay?",
+      "chinese": "不要气馁，好吗？",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392407"
+    },
+    {
+      "english": "This too, shall pass, you see.",
+      "chinese": "这也会过去的，你看。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392408"
+    },
+    {
+      "english": "Keep a calm mind, always.",
+      "chinese": "保持冷静的心，总是。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392409"
+    },
+    {
+      "english": "Great things, require great patience.",
+      "chinese": "伟大的事情，需要伟大的耐心。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392410"
+    },
+    {
+      "english": "The reward, is worth the wait.",
+      "chinese": "回报，值得等待。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392411"
+    },
+    {
+      "english": "Take a deep breath, then proceed.",
+      "chinese": "深吸一口气，然后继续。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392412"
+    },
+    {
+      "english": "This is a test, of endurance.",
+      "chinese": "这是一个考验，耐力的。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392413"
+    },
+    {
+      "english": "Stay strong, and persist.",
+      "chinese": "保持坚强，并坚持。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392414"
+    },
+    {
+      "english": "The universe, moves in its own time.",
+      "chinese": "宇宙，有它自己的时间。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392415"
+    },
+    {
+      "english": "Even the longest river, flows.",
+      "chinese": "即使最长的河流，也会流淌。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392416"
+    },
+    {
+      "english": "Your moment, is coming soon.",
+      "chinese": "你的时刻，很快就会到来。",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:41:50.392417"
     }
   ],
-  "last_updated": "2026-09-07T05:38:41.179091"
+  "last_updated": "2026-09-09T05:41:50.392419"
 }
