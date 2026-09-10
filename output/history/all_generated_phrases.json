@@ -31619,7 +31619,787 @@
       "chinese": "你的时刻，很快就会到来。",
       "category": "Patience",
       "generated_at": "2026-09-09T05:41:50.392417"
+    },
+    {
+      "english": "Share a smile, brightens the day.",
+      "chinese": "分享微笑，照亮一天。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270250"
+    },
+    {
+      "english": "Help a stranger, make a friend.",
+      "chinese": "帮助陌生人，结交朋友。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270262"
+    },
+    {
+      "english": "Offer your seat, show respect.",
+      "chinese": "让个座，显敬意。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270264"
+    },
+    {
+      "english": "Give a compliment, boost spirits.",
+      "chinese": "送赞美，提士气。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270265"
+    },
+    {
+      "english": "Be kind to yourself, it matters.",
+      "chinese": "善待自己，很重要。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270265"
+    },
+    {
+      "english": "Lend a hand, ease the load.",
+      "chinese": "伸援手，减负担。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270266"
+    },
+    {
+      "english": "Share your knowledge, empower others.",
+      "chinese": "分享知识，赋能他。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270267"
+    },
+    {
+      "english": "Offer encouragement, when needed.",
+      "chinese": "适时鼓励，暖人心。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270270"
+    },
+    {
+      "english": "Be polite, it goes far.",
+      "chinese": "讲礼貌，走更远。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270271"
+    },
+    {
+      "english": "Hold the door, for someone.",
+      "chinese": "为他人，开门。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270272"
+    },
+    {
+      "english": "Express gratitude, show thanks.",
+      "chinese": "表达感谢，说谢谢。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270272"
+    },
+    {
+      "english": "Be patient, with learning.",
+      "chinese": "学习时，请耐心。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270273"
+    },
+    {
+      "english": "Share your food, a small gesture.",
+      "chinese": "分享食物，小举动。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270274"
+    },
+    {
+      "english": "Speak kindly, spread positivity.",
+      "chinese": "善言语，传正能量。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270275"
+    },
+    {
+      "english": "Offer a solution, solve problems.",
+      "chinese": "提建议，解难题。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270275"
+    },
+    {
+      "english": "Be a good listener, truly hear.",
+      "chinese": "做听众，真倾听。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270276"
+    },
+    {
+      "english": "Help with directions, guide the way.",
+      "chinese": "指路，带方向。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270276"
+    },
+    {
+      "english": "Offer your umbrella, share shelter.",
+      "chinese": "借伞，共遮雨。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270277"
+    },
+    {
+      "english": "Say 'please' and 'thank you'.",
+      "chinese": "常说请，多谢。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270278"
+    },
+    {
+      "english": "Be forgiving, of mistakes.",
+      "chinese": "宽容错，无妨。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270279"
+    },
+    {
+      "english": "Share a story, connect souls.",
+      "chinese": "讲故事，连心。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270279"
+    },
+    {
+      "english": "Offer comfort, in times of need.",
+      "chinese": "给安慰，帮渡难。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270280"
+    },
+    {
+      "english": "Be humble, accept help.",
+      "chinese": "谦逊些，受帮助。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270280"
+    },
+    {
+      "english": "Share a laugh, lighten hearts.",
+      "chinese": "笑一笑，轻心。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270281"
+    },
+    {
+      "english": "Offer a quiet word, of support.",
+      "chinese": "静语支持，给力量。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270282"
+    },
+    {
+      "english": "Be understanding, bridge gaps.",
+      "chinese": "懂点事，搭桥梁。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270282"
+    },
+    {
+      "english": "Share your optimism, it's catchy.",
+      "chinese": "分享乐观，会传染。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270283"
+    },
+    {
+      "english": "Offer a small gift, show you care.",
+      "chinese": "送小礼，表心意。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270283"
+    },
+    {
+      "english": "Be gentle, with your words.",
+      "chinese": "言语柔，更显贵。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270284"
+    },
+    {
+      "english": "Offer a helping hand, always willing.",
+      "chinese": "帮个忙，常乐意。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270284"
+    },
+    {
+      "english": "Be generous, with your praise.",
+      "chinese": "赞美大方，显胸怀。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270285"
+    },
+    {
+      "english": "Share your energy, boost mood.",
+      "chinese": "分享能量，提精神。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270285"
+    },
+    {
+      "english": "Offer a peaceful moment, for calm.",
+      "chinese": "静时刻，给安宁。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270286"
+    },
+    {
+      "english": "Be considerate, think of others.",
+      "chinese": "多顾及，他人事。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270286"
+    },
+    {
+      "english": "Share your hope, inspire dreams.",
+      "chinese": "分享希望，启梦想。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270287"
+    },
+    {
+      "english": "Offer a warm welcome, make feel home.",
+      "chinese": "热情欢迎，似回家。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270287"
+    },
+    {
+      "english": "Share a smile, brightens the day.",
+      "chinese": "分享微笑，照亮一天。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270288"
+    },
+    {
+      "english": "Help a stranger, make a friend.",
+      "chinese": "帮助陌生人，结交朋友。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270289"
+    },
+    {
+      "english": "Offer your seat, show respect.",
+      "chinese": "让个座，显敬意。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270290"
+    },
+    {
+      "english": "Give a compliment, boost spirits.",
+      "chinese": "送赞美，提士气。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270290"
+    },
+    {
+      "english": "Be kind to yourself, it matters.",
+      "chinese": "善待自己，很重要。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270291"
+    },
+    {
+      "english": "Lend a hand, ease the load.",
+      "chinese": "伸援手，减负担。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270291"
+    },
+    {
+      "english": "Share your knowledge, empower others.",
+      "chinese": "分享知识，赋能他。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270292"
+    },
+    {
+      "english": "Offer encouragement, when needed.",
+      "chinese": "适时鼓励，暖人心。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270293"
+    },
+    {
+      "english": "Be polite, it goes far.",
+      "chinese": "讲礼貌，走更远。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270293"
+    },
+    {
+      "english": "Hold the door, for someone.",
+      "chinese": "为他人，开门。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270294"
+    },
+    {
+      "english": "Express gratitude, show thanks.",
+      "chinese": "表达感谢，说谢谢。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270295"
+    },
+    {
+      "english": "Be patient, with learning.",
+      "chinese": "学习时，请耐心。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270295"
+    },
+    {
+      "english": "Share your food, a small gesture.",
+      "chinese": "分享食物，小举动。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270296"
+    },
+    {
+      "english": "Speak kindly, spread positivity.",
+      "chinese": "善言语，传正能量。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270296"
+    },
+    {
+      "english": "Offer a solution, solve problems.",
+      "chinese": "提建议，解难题。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270297"
+    },
+    {
+      "english": "Be a good listener, truly hear.",
+      "chinese": "做听众，真倾听。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270297"
+    },
+    {
+      "english": "Help with directions, guide the way.",
+      "chinese": "指路，带方向。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270298"
+    },
+    {
+      "english": "Offer your umbrella, share shelter.",
+      "chinese": "借伞，共遮雨。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270298"
+    },
+    {
+      "english": "Say 'please' and 'thank you'.",
+      "chinese": "常说请，多谢。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270299"
+    },
+    {
+      "english": "Be forgiving, of mistakes.",
+      "chinese": "宽容错，无妨。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270299"
+    },
+    {
+      "english": "Share a story, connect souls.",
+      "chinese": "讲故事，连心。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270300"
+    },
+    {
+      "english": "Offer comfort, in times of need.",
+      "chinese": "给安慰，帮渡难。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270300"
+    },
+    {
+      "english": "Be humble, accept help.",
+      "chinese": "谦逊些，受帮助。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270301"
+    },
+    {
+      "english": "Share a laugh, lighten hearts.",
+      "chinese": "笑一笑，轻心。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270302"
+    },
+    {
+      "english": "Offer a quiet word, of support.",
+      "chinese": "静语支持，给力量。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270302"
+    },
+    {
+      "english": "Be understanding, bridge gaps.",
+      "chinese": "懂点事，搭桥梁。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270303"
+    },
+    {
+      "english": "Share your optimism, it's catchy.",
+      "chinese": "分享乐观，会传染。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270303"
+    },
+    {
+      "english": "Offer a small gift, show you care.",
+      "chinese": "送小礼，表心意。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270304"
+    },
+    {
+      "english": "Be gentle, with your words.",
+      "chinese": "言语柔，更显贵。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270304"
+    },
+    {
+      "english": "Offer a helping hand, always willing.",
+      "chinese": "帮个忙，常乐意。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270305"
+    },
+    {
+      "english": "Be generous, with your praise.",
+      "chinese": "赞美大方，显胸怀。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270305"
+    },
+    {
+      "english": "Share your energy, boost mood.",
+      "chinese": "分享能量，提精神。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270306"
+    },
+    {
+      "english": "Offer a peaceful moment, for calm.",
+      "chinese": "静时刻，给安宁。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270306"
+    },
+    {
+      "english": "Be considerate, think of others.",
+      "chinese": "多顾及，他人事。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270307"
+    },
+    {
+      "english": "Share your hope, inspire dreams.",
+      "chinese": "分享希望，启梦想。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270307"
+    },
+    {
+      "english": "Offer a warm welcome, make feel home.",
+      "chinese": "热情欢迎，似回家。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270308"
+    },
+    {
+      "english": "Share a smile, brightens the day.",
+      "chinese": "分享微笑，照亮一天。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270309"
+    },
+    {
+      "english": "Help a stranger, make a friend.",
+      "chinese": "帮助陌生人，结交朋友。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270309"
+    },
+    {
+      "english": "Offer your seat, show respect.",
+      "chinese": "让个座，显敬意。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270310"
+    },
+    {
+      "english": "Give a compliment, boost spirits.",
+      "chinese": "送赞美，提士气。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270310"
+    },
+    {
+      "english": "Be kind to yourself, it matters.",
+      "chinese": "善待自己，很重要。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270311"
+    },
+    {
+      "english": "Lend a hand, ease the load.",
+      "chinese": "伸援手，减负担。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270311"
+    },
+    {
+      "english": "Share your knowledge, empower others.",
+      "chinese": "分享知识，赋能他。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270312"
+    },
+    {
+      "english": "Offer encouragement, when needed.",
+      "chinese": "适时鼓励，暖人心。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270313"
+    },
+    {
+      "english": "Be polite, it goes far.",
+      "chinese": "讲礼貌，走更远。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270313"
+    },
+    {
+      "english": "Hold the door, for someone.",
+      "chinese": "为他人，开门。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270314"
+    },
+    {
+      "english": "Express gratitude, show thanks.",
+      "chinese": "表达感谢，说谢谢。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270315"
+    },
+    {
+      "english": "Be patient, with learning.",
+      "chinese": "学习时，请耐心。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270315"
+    },
+    {
+      "english": "Share your food, a small gesture.",
+      "chinese": "分享食物，小举动。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270316"
+    },
+    {
+      "english": "Speak kindly, spread positivity.",
+      "chinese": "善言语，传正能量。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270317"
+    },
+    {
+      "english": "Offer a solution, solve problems.",
+      "chinese": "提建议，解难题。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270317"
+    },
+    {
+      "english": "Be a good listener, truly hear.",
+      "chinese": "做听众，真倾听。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270318"
+    },
+    {
+      "english": "Help with directions, guide the way.",
+      "chinese": "指路，带方向。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270318"
+    },
+    {
+      "english": "Offer your umbrella, share shelter.",
+      "chinese": "借伞，共遮雨。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270319"
+    },
+    {
+      "english": "Say 'please' and 'thank you'.",
+      "chinese": "常说请，多谢。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270319"
+    },
+    {
+      "english": "Be forgiving, of mistakes.",
+      "chinese": "宽容错，无妨。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270320"
+    },
+    {
+      "english": "Share a story, connect souls.",
+      "chinese": "讲故事，连心。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270320"
+    },
+    {
+      "english": "Offer comfort, in times of need.",
+      "chinese": "给安慰，帮渡难。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270321"
+    },
+    {
+      "english": "Be humble, accept help.",
+      "chinese": "谦逊些，受帮助。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270322"
+    },
+    {
+      "english": "Share a laugh, lighten hearts.",
+      "chinese": "笑一笑，轻心。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270322"
+    },
+    {
+      "english": "Offer a quiet word, of support.",
+      "chinese": "静语支持，给力量。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270323"
+    },
+    {
+      "english": "Be understanding, bridge gaps.",
+      "chinese": "懂点事，搭桥梁。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270323"
+    },
+    {
+      "english": "Share your optimism, it's catchy.",
+      "chinese": "分享乐观，会传染。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270324"
+    },
+    {
+      "english": "Offer a small gift, show you care.",
+      "chinese": "送小礼，表心意。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270324"
+    },
+    {
+      "english": "Be gentle, with your words.",
+      "chinese": "言语柔，更显贵。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270325"
+    },
+    {
+      "english": "Offer a helping hand, always willing.",
+      "chinese": "帮个忙，常乐意。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270325"
+    },
+    {
+      "english": "Be generous, with your praise.",
+      "chinese": "赞美大方，显胸怀。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270326"
+    },
+    {
+      "english": "Share your energy, boost mood.",
+      "chinese": "分享能量，提精神。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270326"
+    },
+    {
+      "english": "Offer a peaceful moment, for calm.",
+      "chinese": "静时刻，给安宁。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270327"
+    },
+    {
+      "english": "Be considerate, think of others.",
+      "chinese": "多顾及，他人事。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270327"
+    },
+    {
+      "english": "Share your hope, inspire dreams.",
+      "chinese": "分享希望，启梦想。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270328"
+    },
+    {
+      "english": "Offer a warm welcome, make feel home.",
+      "chinese": "热情欢迎，似回家。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270328"
+    },
+    {
+      "english": "Share a smile, brightens the day.",
+      "chinese": "分享微笑，照亮一天。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270329"
+    },
+    {
+      "english": "Help a stranger, make a friend.",
+      "chinese": "帮助陌生人，结交朋友。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270330"
+    },
+    {
+      "english": "Offer your seat, show respect.",
+      "chinese": "让个座，显敬意。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270330"
+    },
+    {
+      "english": "Give a compliment, boost spirits.",
+      "chinese": "送赞美，提士气。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270331"
+    },
+    {
+      "english": "Be kind to yourself, it matters.",
+      "chinese": "善待自己，很重要。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270331"
+    },
+    {
+      "english": "Lend a hand, ease the load.",
+      "chinese": "伸援手，减负担。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270332"
+    },
+    {
+      "english": "Share your knowledge, empower others.",
+      "chinese": "分享知识，赋能他。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270332"
+    },
+    {
+      "english": "Offer encouragement, when needed.",
+      "chinese": "适时鼓励，暖人心。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270333"
+    },
+    {
+      "english": "Be polite, it goes far.",
+      "chinese": "讲礼貌，走更远。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270333"
+    },
+    {
+      "english": "Hold the door, for someone.",
+      "chinese": "为他人，开门。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270334"
+    },
+    {
+      "english": "Express gratitude, show thanks.",
+      "chinese": "表达感谢，说谢谢。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270335"
+    },
+    {
+      "english": "Be patient, with learning.",
+      "chinese": "学习时，请耐心。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270336"
+    },
+    {
+      "english": "Share your food, a small gesture.",
+      "chinese": "分享食物，小举动。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270336"
+    },
+    {
+      "english": "Speak kindly, spread positivity.",
+      "chinese": "善言语，传正能量。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270337"
+    },
+    {
+      "english": "Offer a solution, solve problems.",
+      "chinese": "提建议，解难题。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270337"
+    },
+    {
+      "english": "Be a good listener, truly hear.",
+      "chinese": "做听众，真倾听。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270338"
+    },
+    {
+      "english": "Help with directions, guide the way.",
+      "chinese": "指路，带方向。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270338"
+    },
+    {
+      "english": "Offer your umbrella, share shelter.",
+      "chinese": "借伞，共遮雨。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270339"
+    },
+    {
+      "english": "Say 'please' and 'thank you'.",
+      "chinese": "常说请，多谢。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270339"
+    },
+    {
+      "english": "Be forgiving, of mistakes.",
+      "chinese": "宽容错，无妨。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270340"
+    },
+    {
+      "english": "Share a story, connect souls.",
+      "chinese": "讲故事，连心。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270340"
+    },
+    {
+      "english": "Offer comfort, in times of need.",
+      "chinese": "给安慰，帮渡难。",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T05:33:39.270341"
     }
   ],
-  "last_updated": "2026-09-09T05:41:50.392419"
+  "last_updated": "2026-09-10T05:33:39.270342"
 }
