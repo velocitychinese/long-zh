@@ -37859,7 +37859,787 @@
       "chinese": "我们一起，头脑风暴。",
       "category": "Creativity",
       "generated_at": "2026-09-17T05:41:57.444664"
+    },
+    {
+      "english": "Speak up, don't be shy.",
+      "chinese": "大胆说，别害羞。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939009"
+    },
+    {
+      "english": "Level up, your Chinese.",
+      "chinese": "升级吧，你的中文。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939020"
+    },
+    {
+      "english": "Mistakes are okay, really.",
+      "chinese": "犯错没关系，真的。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939021"
+    },
+    {
+      "english": "You're learning, awesome job!",
+      "chinese": "你在学习，太棒了！",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939022"
+    },
+    {
+      "english": "Don't quit, keep going.",
+      "chinese": "别放弃，继续前进。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939024"
+    },
+    {
+      "english": "Practice makes, perfect, right?",
+      "chinese": "熟能生巧，对吧？",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939025"
+    },
+    {
+      "english": "Say it loud, and clear.",
+      "chinese": "大声说出来，清楚。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939026"
+    },
+    {
+      "english": "Little steps, big progress.",
+      "chinese": "小步子，大进步。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939029"
+    },
+    {
+      "english": "You can do, it again.",
+      "chinese": "你能再次做到。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939030"
+    },
+    {
+      "english": "Let's have, some fun.",
+      "chinese": "让我们玩得开心。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939031"
+    },
+    {
+      "english": "Speak it, feel it.",
+      "chinese": "说出来，感受它。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939032"
+    },
+    {
+      "english": "You're improving, great job!",
+      "chinese": "你进步了，干得好！",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939033"
+    },
+    {
+      "english": "Try saying, this word.",
+      "chinese": "试试说，这个词。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939034"
+    },
+    {
+      "english": "You're not alone, friend.",
+      "chinese": "你不是一个人，朋友。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939035"
+    },
+    {
+      "english": "Go for, it now.",
+      "chinese": "现在就去尝试。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939036"
+    },
+    {
+      "english": "You're doing great, keep it up.",
+      "chinese": "你做得很好，继续保持。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939036"
+    },
+    {
+      "english": "Speak it, like you mean it.",
+      "chinese": "说出来，认真点。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939037"
+    },
+    {
+      "english": "One day, you'll be fluent.",
+      "chinese": "总有一天，你会流利。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939038"
+    },
+    {
+      "english": "Don't be a, silent watcher.",
+      "chinese": "别当，沉默的旁观者。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939038"
+    },
+    {
+      "english": "Learn, one phrase, daily.",
+      "chinese": "每天学，一个短语。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939039"
+    },
+    {
+      "english": "You're making, good progress.",
+      "chinese": "你取得了良好进展。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939040"
+    },
+    {
+      "english": "Speak with, confidence, friend.",
+      "chinese": "自信地说，朋友。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939041"
+    },
+    {
+      "english": "You're getting, better, yay!",
+      "chinese": "你越来越好了，耶！",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939042"
+    },
+    {
+      "english": "Don't hide, your words.",
+      "chinese": "别藏起，你的话。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939042"
+    },
+    {
+      "english": "Take a breath, and speak.",
+      "chinese": "深呼吸，然后说。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939043"
+    },
+    {
+      "english": "You can, say anything.",
+      "chinese": "你可以说任何话。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939044"
+    },
+    {
+      "english": "Keep pushing, forward.",
+      "chinese": "继续向前推。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939045"
+    },
+    {
+      "english": "Speak up, don't be shy.",
+      "chinese": "大胆说，别害羞。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939046"
+    },
+    {
+      "english": "Level up, your Chinese.",
+      "chinese": "升级吧，你的中文。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939047"
+    },
+    {
+      "english": "Mistakes are okay, really.",
+      "chinese": "犯错没关系，真的。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939048"
+    },
+    {
+      "english": "You're learning, awesome job!",
+      "chinese": "你在学习，太棒了！",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939049"
+    },
+    {
+      "english": "Don't quit, keep going.",
+      "chinese": "别放弃，继续前进。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939050"
+    },
+    {
+      "english": "Practice makes, perfect, right?",
+      "chinese": "熟能生巧，对吧？",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939051"
+    },
+    {
+      "english": "Say it loud, and clear.",
+      "chinese": "大声说出来，清楚。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939051"
+    },
+    {
+      "english": "Little steps, big progress.",
+      "chinese": "小步子，大进步。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939052"
+    },
+    {
+      "english": "You can do, it again.",
+      "chinese": "你能再次做到。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939053"
+    },
+    {
+      "english": "Let's have, some fun.",
+      "chinese": "让我们玩得开心。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939054"
+    },
+    {
+      "english": "Speak it, feel it.",
+      "chinese": "说出来，感受它。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939055"
+    },
+    {
+      "english": "You're improving, great job!",
+      "chinese": "你进步了，干得好！",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939055"
+    },
+    {
+      "english": "Try saying, this word.",
+      "chinese": "试试说，这个词。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939056"
+    },
+    {
+      "english": "You're not alone, friend.",
+      "chinese": "你不是一个人，朋友。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939057"
+    },
+    {
+      "english": "Go for, it now.",
+      "chinese": "现在就去尝试。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939058"
+    },
+    {
+      "english": "You're doing great, keep it up.",
+      "chinese": "你做得很好，继续保持。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939058"
+    },
+    {
+      "english": "Speak it, like you mean it.",
+      "chinese": "说出来，认真点。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939059"
+    },
+    {
+      "english": "One day, you'll be fluent.",
+      "chinese": "总有一天，你会流利。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939060"
+    },
+    {
+      "english": "Don't be a, silent watcher.",
+      "chinese": "别当，沉默的旁观者。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939061"
+    },
+    {
+      "english": "Learn, one phrase, daily.",
+      "chinese": "每天学，一个短语。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939061"
+    },
+    {
+      "english": "You're making, good progress.",
+      "chinese": "你取得了良好进展。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939062"
+    },
+    {
+      "english": "Speak with, confidence, friend.",
+      "chinese": "自信地说，朋友。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939063"
+    },
+    {
+      "english": "You're getting, better, yay!",
+      "chinese": "你越来越好了，耶！",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939064"
+    },
+    {
+      "english": "Don't hide, your words.",
+      "chinese": "别藏起，你的话。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939065"
+    },
+    {
+      "english": "Take a breath, and speak.",
+      "chinese": "深呼吸，然后说。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939066"
+    },
+    {
+      "english": "You can, say anything.",
+      "chinese": "你可以说任何话。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939067"
+    },
+    {
+      "english": "Keep pushing, forward.",
+      "chinese": "继续向前推。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939067"
+    },
+    {
+      "english": "Speak up, don't be shy.",
+      "chinese": "大胆说，别害羞。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939069"
+    },
+    {
+      "english": "Level up, your Chinese.",
+      "chinese": "升级吧，你的中文。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939069"
+    },
+    {
+      "english": "Mistakes are okay, really.",
+      "chinese": "犯错没关系，真的。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939070"
+    },
+    {
+      "english": "You're learning, awesome job!",
+      "chinese": "你在学习，太棒了！",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939071"
+    },
+    {
+      "english": "Don't quit, keep going.",
+      "chinese": "别放弃，继续前进。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939072"
+    },
+    {
+      "english": "Practice makes, perfect, right?",
+      "chinese": "熟能生巧，对吧？",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939073"
+    },
+    {
+      "english": "Say it loud, and clear.",
+      "chinese": "大声说出来，清楚。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939074"
+    },
+    {
+      "english": "Little steps, big progress.",
+      "chinese": "小步子，大进步。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939075"
+    },
+    {
+      "english": "You can do, it again.",
+      "chinese": "你能再次做到。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939075"
+    },
+    {
+      "english": "Let's have, some fun.",
+      "chinese": "让我们玩得开心。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939076"
+    },
+    {
+      "english": "Speak it, feel it.",
+      "chinese": "说出来，感受它。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939077"
+    },
+    {
+      "english": "You're improving, great job!",
+      "chinese": "你进步了，干得好！",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939078"
+    },
+    {
+      "english": "Try saying, this word.",
+      "chinese": "试试说，这个词。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939080"
+    },
+    {
+      "english": "You're not alone, friend.",
+      "chinese": "你不是一个人，朋友。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939080"
+    },
+    {
+      "english": "Go for, it now.",
+      "chinese": "现在就去尝试。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939081"
+    },
+    {
+      "english": "You're doing great, keep it up.",
+      "chinese": "你做得很好，继续保持。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939082"
+    },
+    {
+      "english": "Speak it, like you mean it.",
+      "chinese": "说出来，认真点。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939083"
+    },
+    {
+      "english": "One day, you'll be fluent.",
+      "chinese": "总有一天，你会流利。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939084"
+    },
+    {
+      "english": "Don't be a, silent watcher.",
+      "chinese": "别当，沉默的旁观者。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939085"
+    },
+    {
+      "english": "Learn, one phrase, daily.",
+      "chinese": "每天学，一个短语。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939085"
+    },
+    {
+      "english": "You're making, good progress.",
+      "chinese": "你取得了良好进展。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939086"
+    },
+    {
+      "english": "Speak with, confidence, friend.",
+      "chinese": "自信地说，朋友。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939087"
+    },
+    {
+      "english": "You're getting, better, yay!",
+      "chinese": "你越来越好了，耶！",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939125"
+    },
+    {
+      "english": "Don't hide, your words.",
+      "chinese": "别藏起，你的话。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939127"
+    },
+    {
+      "english": "Take a breath, and speak.",
+      "chinese": "深呼吸，然后说。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939127"
+    },
+    {
+      "english": "You can, say anything.",
+      "chinese": "你可以说任何话。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939128"
+    },
+    {
+      "english": "Keep pushing, forward.",
+      "chinese": "继续向前推。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939129"
+    },
+    {
+      "english": "Speak up, don't be shy.",
+      "chinese": "大胆说，别害羞。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939130"
+    },
+    {
+      "english": "Level up, your Chinese.",
+      "chinese": "升级吧，你的中文。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939131"
+    },
+    {
+      "english": "Mistakes are okay, really.",
+      "chinese": "犯错没关系，真的。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939132"
+    },
+    {
+      "english": "You're learning, awesome job!",
+      "chinese": "你在学习，太棒了！",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939133"
+    },
+    {
+      "english": "Don't quit, keep going.",
+      "chinese": "别放弃，继续前进。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939133"
+    },
+    {
+      "english": "Practice makes, perfect, right?",
+      "chinese": "熟能生巧，对吧？",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939134"
+    },
+    {
+      "english": "Say it loud, and clear.",
+      "chinese": "大声说出来，清楚。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939135"
+    },
+    {
+      "english": "Little steps, big progress.",
+      "chinese": "小步子，大进步。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939136"
+    },
+    {
+      "english": "You can do, it again.",
+      "chinese": "你能再次做到。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939137"
+    },
+    {
+      "english": "Let's have, some fun.",
+      "chinese": "让我们玩得开心。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939137"
+    },
+    {
+      "english": "Speak it, feel it.",
+      "chinese": "说出来，感受它。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939138"
+    },
+    {
+      "english": "You're improving, great job!",
+      "chinese": "你进步了，干得好！",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939139"
+    },
+    {
+      "english": "Try saying, this word.",
+      "chinese": "试试说，这个词。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939140"
+    },
+    {
+      "english": "You're not alone, friend.",
+      "chinese": "你不是一个人，朋友。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939141"
+    },
+    {
+      "english": "Go for, it now.",
+      "chinese": "现在就去尝试。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939141"
+    },
+    {
+      "english": "You're doing great, keep it up.",
+      "chinese": "你做得很好，继续保持。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939142"
+    },
+    {
+      "english": "Speak it, like you mean it.",
+      "chinese": "说出来，认真点。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939143"
+    },
+    {
+      "english": "One day, you'll be fluent.",
+      "chinese": "总有一天，你会流利。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939143"
+    },
+    {
+      "english": "Don't be a, silent watcher.",
+      "chinese": "别当，沉默的旁观者。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939144"
+    },
+    {
+      "english": "Learn, one phrase, daily.",
+      "chinese": "每天学，一个短语。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939145"
+    },
+    {
+      "english": "You're making, good progress.",
+      "chinese": "你取得了良好进展。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939145"
+    },
+    {
+      "english": "Speak with, confidence, friend.",
+      "chinese": "自信地说，朋友。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939146"
+    },
+    {
+      "english": "You're getting, better, yay!",
+      "chinese": "你越来越好了，耶！",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939147"
+    },
+    {
+      "english": "Don't hide, your words.",
+      "chinese": "别藏起，你的话。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939147"
+    },
+    {
+      "english": "Take a breath, and speak.",
+      "chinese": "深呼吸，然后说。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939148"
+    },
+    {
+      "english": "You can, say anything.",
+      "chinese": "你可以说任何话。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939149"
+    },
+    {
+      "english": "Keep pushing, forward.",
+      "chinese": "继续向前推。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939149"
+    },
+    {
+      "english": "Speak up, don't be shy.",
+      "chinese": "大胆说，别害羞。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939150"
+    },
+    {
+      "english": "Level up, your Chinese.",
+      "chinese": "升级吧，你的中文。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939151"
+    },
+    {
+      "english": "Mistakes are okay, really.",
+      "chinese": "犯错没关系，真的。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939152"
+    },
+    {
+      "english": "You're learning, awesome job!",
+      "chinese": "你在学习，太棒了！",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939153"
+    },
+    {
+      "english": "Don't quit, keep going.",
+      "chinese": "别放弃，继续前进。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939154"
+    },
+    {
+      "english": "Practice makes, perfect, right?",
+      "chinese": "熟能生巧，对吧？",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939155"
+    },
+    {
+      "english": "Say it loud, and clear.",
+      "chinese": "大声说出来，清楚。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939155"
+    },
+    {
+      "english": "Little steps, big progress.",
+      "chinese": "小步子，大进步。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939156"
+    },
+    {
+      "english": "You can do, it again.",
+      "chinese": "你能再次做到。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939157"
+    },
+    {
+      "english": "Let's have, some fun.",
+      "chinese": "让我们玩得开心。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939158"
+    },
+    {
+      "english": "Speak it, feel it.",
+      "chinese": "说出来，感受它。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939158"
+    },
+    {
+      "english": "You're improving, great job!",
+      "chinese": "你进步了，干得好！",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939159"
+    },
+    {
+      "english": "Try saying, this word.",
+      "chinese": "试试说，这个词。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939160"
+    },
+    {
+      "english": "You're not alone, friend.",
+      "chinese": "你不是一个人，朋友。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939161"
+    },
+    {
+      "english": "Go for, it now.",
+      "chinese": "现在就去尝试。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939162"
+    },
+    {
+      "english": "You're doing great, keep it up.",
+      "chinese": "你做得很好，继续保持。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939162"
+    },
+    {
+      "english": "Speak it, like you mean it.",
+      "chinese": "说出来，认真点。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939163"
+    },
+    {
+      "english": "One day, you'll be fluent.",
+      "chinese": "总有一天，你会流利。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939164"
+    },
+    {
+      "english": "Don't be a, silent watcher.",
+      "chinese": "别当，沉默的旁观者。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939165"
+    },
+    {
+      "english": "Learn, one phrase, daily.",
+      "chinese": "每天学，一个短语。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939165"
+    },
+    {
+      "english": "You're making, good progress.",
+      "chinese": "你取得了良好进展。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939166"
+    },
+    {
+      "english": "Speak with, confidence, friend.",
+      "chinese": "自信地说，朋友。",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T05:31:29.939167"
     }
   ],
-  "last_updated": "2026-09-17T05:41:57.444666"
+  "last_updated": "2026-09-18T05:31:29.939169"
 }
