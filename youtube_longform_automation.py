@@ -78,7 +78,7 @@ CATEGORIES_CHINESE = {
 }
 
 # Edge TTS voices
-ENGLISH_VOICE = "en-US-AndrewNeural"
+ENGLISH_VOICE = "en-US-GuyNeural"
 CHINESE_VOICE = "zh-CN-XiaoxiaoNeural"
 
 # Phrase history file (NEVER delete this!)
