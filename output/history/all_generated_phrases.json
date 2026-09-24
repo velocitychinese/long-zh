@@ -42539,7 +42539,787 @@
       "chinese": "对你的智慧，非常感恩。",
       "category": "Gratitude",
       "generated_at": "2026-09-23T05:28:36.034729"
+    },
+    {
+      "english": "Learn Chinese, unlock the world.",
+      "chinese": "学中文，打开世界。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500278"
+    },
+    {
+      "english": "Speak with confidence, grow daily.",
+      "chinese": "自信地说，每天进步。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500287"
+    },
+    {
+      "english": "Practice makes perfect, believe it.",
+      "chinese": "熟能生巧，信不信？",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500289"
+    },
+    {
+      "english": "Small steps, big dreams, Chinese.",
+      "chinese": "小步子，大梦想，学中文。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500290"
+    },
+    {
+      "english": "Understand culture, truly understand.",
+      "chinese": "懂文化，才真懂。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500292"
+    },
+    {
+      "english": "Build bridges, with every word.",
+      "chinese": "用每个字，搭桥梁。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500293"
+    },
+    {
+      "english": "Explore China, speak the language.",
+      "chinese": "游中国，说中国话。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500294"
+    },
+    {
+      "english": "Future is bright, with Mandarin.",
+      "chinese": "未来光明，靠普通话。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500296"
+    },
+    {
+      "english": "New skills, new opportunities, now.",
+      "chinese": "新技能，新机会，现在。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500298"
+    },
+    {
+      "english": "Open your mind, embrace the new.",
+      "chinese": "敞开心扉，拥抱新。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500307"
+    },
+    {
+      "english": "Learn for fun, learn for life.",
+      "chinese": "为乐趣学，为生活学。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500309"
+    },
+    {
+      "english": "This journey, is worth it.",
+      "chinese": "这段旅程，很值得。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500310"
+    },
+    {
+      "english": "Unlock secrets, in every character.",
+      "chinese": "解开秘密，在每个字。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500311"
+    },
+    {
+      "english": "Make friends, far and wide.",
+      "chinese": "交朋友，天涯海角。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500312"
+    },
+    {
+      "english": "Discover more, with every lesson.",
+      "chinese": "每节课，发现更多。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500313"
+    },
+    {
+      "english": "Your voice matters, in Chinese.",
+      "chinese": "你的声音，中文里重要。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500315"
+    },
+    {
+      "english": "Grow your confidence, speak out.",
+      "chinese": "增自信，大胆说。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500316"
+    },
+    {
+      "english": "It's never too late, start now.",
+      "chinese": "永远不晚，现在开始。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500317"
+    },
+    {
+      "english": "Find your passion, with Chinese.",
+      "chinese": "找热情，学中文。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500318"
+    },
+    {
+      "english": "Understand nuances, beyond words.",
+      "chinese": "懂精妙，在字外。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500319"
+    },
+    {
+      "english": "A new world, awaits you.",
+      "chinese": "新世界，等你。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500320"
+    },
+    {
+      "english": "Build your future, word by word.",
+      "chinese": "建未来，一个字一个字。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500321"
+    },
+    {
+      "english": "Feel the rhythm, of Mandarin.",
+      "chinese": "感受节奏，普通话的。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500322"
+    },
+    {
+      "english": "Don't be shy, just try.",
+      "chinese": "别害羞，就试试。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500323"
+    },
+    {
+      "english": "Master the sounds, master the words.",
+      "chinese": "掌握发音，掌握词。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500324"
+    },
+    {
+      "english": "Share your thoughts, in Chinese.",
+      "chinese": "分享想法，用中文。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500325"
+    },
+    {
+      "english": "This skill, will open doors.",
+      "chinese": "这项技能，会开门。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500326"
+    },
+    {
+      "english": "Embrace the challenge, enjoy it.",
+      "chinese": "拥抱挑战，享受它。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500327"
+    },
+    {
+      "english": "Understand locals, truly connect.",
+      "chinese": "懂本地人，真连接。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500328"
+    },
+    {
+      "english": "Grow your network, globally.",
+      "chinese": "扩人脉，全球化。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500329"
+    },
+    {
+      "english": "Speak with clarity, be heard.",
+      "chinese": "清晰地说，被听到。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500330"
+    },
+    {
+      "english": "This is your moment, to learn.",
+      "chinese": "这是你的时刻，去学。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500331"
+    },
+    {
+      "english": "Discover stories, unspoken.",
+      "chinese": "发现故事，未曾说。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500332"
+    },
+    {
+      "english": "Your Chinese journey, starts here.",
+      "chinese": "你的中文旅程，从这。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500333"
+    },
+    {
+      "english": "Live the language, every day.",
+      "chinese": "活出语言，每天。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500334"
+    },
+    {
+      "english": "Learn Chinese, unlock the world.",
+      "chinese": "学中文，打开世界。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500335"
+    },
+    {
+      "english": "Speak with confidence, grow daily.",
+      "chinese": "自信地说，每天进步。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500336"
+    },
+    {
+      "english": "Practice makes perfect, believe it.",
+      "chinese": "熟能生巧，信不信？",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500337"
+    },
+    {
+      "english": "Small steps, big dreams, Chinese.",
+      "chinese": "小步子，大梦想，学中文。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500338"
+    },
+    {
+      "english": "Understand culture, truly understand.",
+      "chinese": "懂文化，才真懂。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500339"
+    },
+    {
+      "english": "Build bridges, with every word.",
+      "chinese": "用每个字，搭桥梁。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500340"
+    },
+    {
+      "english": "Explore China, speak the language.",
+      "chinese": "游中国，说中国话。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500341"
+    },
+    {
+      "english": "Future is bright, with Mandarin.",
+      "chinese": "未来光明，靠普通话。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500343"
+    },
+    {
+      "english": "New skills, new opportunities, now.",
+      "chinese": "新技能，新机会，现在。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500343"
+    },
+    {
+      "english": "Open your mind, embrace the new.",
+      "chinese": "敞开心扉，拥抱新。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500345"
+    },
+    {
+      "english": "Learn for fun, learn for life.",
+      "chinese": "为乐趣学，为生活学。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500346"
+    },
+    {
+      "english": "This journey, is worth it.",
+      "chinese": "这段旅程，很值得。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500347"
+    },
+    {
+      "english": "Unlock secrets, in every character.",
+      "chinese": "解开秘密，在每个字。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500348"
+    },
+    {
+      "english": "Make friends, far and wide.",
+      "chinese": "交朋友，天涯海角。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500353"
+    },
+    {
+      "english": "Discover more, with every lesson.",
+      "chinese": "每节课，发现更多。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500354"
+    },
+    {
+      "english": "Your voice matters, in Chinese.",
+      "chinese": "你的声音，中文里重要。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500355"
+    },
+    {
+      "english": "Grow your confidence, speak out.",
+      "chinese": "增自信，大胆说。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500355"
+    },
+    {
+      "english": "It's never too late, start now.",
+      "chinese": "永远不晚，现在开始。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500356"
+    },
+    {
+      "english": "Find your passion, with Chinese.",
+      "chinese": "找热情，学中文。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500357"
+    },
+    {
+      "english": "Understand nuances, beyond words.",
+      "chinese": "懂精妙，在字外。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500358"
+    },
+    {
+      "english": "A new world, awaits you.",
+      "chinese": "新世界，等你。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500359"
+    },
+    {
+      "english": "Build your future, word by word.",
+      "chinese": "建未来，一个字一个字。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500360"
+    },
+    {
+      "english": "Feel the rhythm, of Mandarin.",
+      "chinese": "感受节奏，普通话的。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500361"
+    },
+    {
+      "english": "Don't be shy, just try.",
+      "chinese": "别害羞，就试试。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500362"
+    },
+    {
+      "english": "Master the sounds, master the words.",
+      "chinese": "掌握发音，掌握词。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500365"
+    },
+    {
+      "english": "Share your thoughts, in Chinese.",
+      "chinese": "分享想法，用中文。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500367"
+    },
+    {
+      "english": "This skill, will open doors.",
+      "chinese": "这项技能，会开门。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500368"
+    },
+    {
+      "english": "Embrace the challenge, enjoy it.",
+      "chinese": "拥抱挑战，享受它。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500369"
+    },
+    {
+      "english": "Understand locals, truly connect.",
+      "chinese": "懂本地人，真连接。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500370"
+    },
+    {
+      "english": "Grow your network, globally.",
+      "chinese": "扩人脉，全球化。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500371"
+    },
+    {
+      "english": "Speak with clarity, be heard.",
+      "chinese": "清晰地说，被听到。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500372"
+    },
+    {
+      "english": "This is your moment, to learn.",
+      "chinese": "这是你的时刻，去学。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500373"
+    },
+    {
+      "english": "Discover stories, unspoken.",
+      "chinese": "发现故事，未曾说。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500374"
+    },
+    {
+      "english": "Your Chinese journey, starts here.",
+      "chinese": "你的中文旅程，从这。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500375"
+    },
+    {
+      "english": "Live the language, every day.",
+      "chinese": "活出语言，每天。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500376"
+    },
+    {
+      "english": "Learn Chinese, unlock the world.",
+      "chinese": "学中文，打开世界。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500377"
+    },
+    {
+      "english": "Speak with confidence, grow daily.",
+      "chinese": "自信地说，每天进步。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500378"
+    },
+    {
+      "english": "Practice makes perfect, believe it.",
+      "chinese": "熟能生巧，信不信？",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500379"
+    },
+    {
+      "english": "Small steps, big dreams, Chinese.",
+      "chinese": "小步子，大梦想，学中文。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500380"
+    },
+    {
+      "english": "Understand culture, truly understand.",
+      "chinese": "懂文化，才真懂。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500381"
+    },
+    {
+      "english": "Build bridges, with every word.",
+      "chinese": "用每个字，搭桥梁。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500382"
+    },
+    {
+      "english": "Explore China, speak the language.",
+      "chinese": "游中国，说中国话。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500383"
+    },
+    {
+      "english": "Future is bright, with Mandarin.",
+      "chinese": "未来光明，靠普通话。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500384"
+    },
+    {
+      "english": "New skills, new opportunities, now.",
+      "chinese": "新技能，新机会，现在。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500385"
+    },
+    {
+      "english": "Open your mind, embrace the new.",
+      "chinese": "敞开心扉，拥抱新。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500386"
+    },
+    {
+      "english": "Learn for fun, learn for life.",
+      "chinese": "为乐趣学，为生活学。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500387"
+    },
+    {
+      "english": "This journey, is worth it.",
+      "chinese": "这段旅程，很值得。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500388"
+    },
+    {
+      "english": "Unlock secrets, in every character.",
+      "chinese": "解开秘密，在每个字。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500391"
+    },
+    {
+      "english": "Make friends, far and wide.",
+      "chinese": "交朋友，天涯海角。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500392"
+    },
+    {
+      "english": "Discover more, with every lesson.",
+      "chinese": "每节课，发现更多。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500393"
+    },
+    {
+      "english": "Your voice matters, in Chinese.",
+      "chinese": "你的声音，中文里重要。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500394"
+    },
+    {
+      "english": "Grow your confidence, speak out.",
+      "chinese": "增自信，大胆说。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500395"
+    },
+    {
+      "english": "It's never too late, start now.",
+      "chinese": "永远不晚，现在开始。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500396"
+    },
+    {
+      "english": "Find your passion, with Chinese.",
+      "chinese": "找热情，学中文。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500397"
+    },
+    {
+      "english": "Understand nuances, beyond words.",
+      "chinese": "懂精妙，在字外。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500398"
+    },
+    {
+      "english": "A new world, awaits you.",
+      "chinese": "新世界，等你。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500399"
+    },
+    {
+      "english": "Build your future, word by word.",
+      "chinese": "建未来，一个字一个字。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500400"
+    },
+    {
+      "english": "Feel the rhythm, of Mandarin.",
+      "chinese": "感受节奏，普通话的。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500401"
+    },
+    {
+      "english": "Don't be shy, just try.",
+      "chinese": "别害羞，就试试。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500402"
+    },
+    {
+      "english": "Master the sounds, master the words.",
+      "chinese": "掌握发音，掌握词。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500403"
+    },
+    {
+      "english": "Share your thoughts, in Chinese.",
+      "chinese": "分享想法，用中文。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500404"
+    },
+    {
+      "english": "This skill, will open doors.",
+      "chinese": "这项技能，会开门。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500405"
+    },
+    {
+      "english": "Embrace the challenge, enjoy it.",
+      "chinese": "拥抱挑战，享受它。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500406"
+    },
+    {
+      "english": "Understand locals, truly connect.",
+      "chinese": "懂本地人，真连接。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500407"
+    },
+    {
+      "english": "Grow your network, globally.",
+      "chinese": "扩人脉，全球化。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500408"
+    },
+    {
+      "english": "Speak with clarity, be heard.",
+      "chinese": "清晰地说，被听到。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500409"
+    },
+    {
+      "english": "This is your moment, to learn.",
+      "chinese": "这是你的时刻，去学。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500410"
+    },
+    {
+      "english": "Discover stories, unspoken.",
+      "chinese": "发现故事，未曾说。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500411"
+    },
+    {
+      "english": "Your Chinese journey, starts here.",
+      "chinese": "你的中文旅程，从这。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500412"
+    },
+    {
+      "english": "Live the language, every day.",
+      "chinese": "活出语言，每天。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500413"
+    },
+    {
+      "english": "Learn Chinese, unlock the world.",
+      "chinese": "学中文，打开世界。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500414"
+    },
+    {
+      "english": "Speak with confidence, grow daily.",
+      "chinese": "自信地说，每天进步。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500415"
+    },
+    {
+      "english": "Practice makes perfect, believe it.",
+      "chinese": "熟能生巧，信不信？",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500416"
+    },
+    {
+      "english": "Small steps, big dreams, Chinese.",
+      "chinese": "小步子，大梦想，学中文。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500417"
+    },
+    {
+      "english": "Understand culture, truly understand.",
+      "chinese": "懂文化，才真懂。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500418"
+    },
+    {
+      "english": "Build bridges, with every word.",
+      "chinese": "用每个字，搭桥梁。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500420"
+    },
+    {
+      "english": "Explore China, speak the language.",
+      "chinese": "游中国，说中国话。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500421"
+    },
+    {
+      "english": "Future is bright, with Mandarin.",
+      "chinese": "未来光明，靠普通话。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500422"
+    },
+    {
+      "english": "New skills, new opportunities, now.",
+      "chinese": "新技能，新机会，现在。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500425"
+    },
+    {
+      "english": "Open your mind, embrace the new.",
+      "chinese": "敞开心扉，拥抱新。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500426"
+    },
+    {
+      "english": "Learn for fun, learn for life.",
+      "chinese": "为乐趣学，为生活学。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500427"
+    },
+    {
+      "english": "This journey, is worth it.",
+      "chinese": "这段旅程，很值得。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500428"
+    },
+    {
+      "english": "Unlock secrets, in every character.",
+      "chinese": "解开秘密，在每个字。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500429"
+    },
+    {
+      "english": "Make friends, far and wide.",
+      "chinese": "交朋友，天涯海角。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500430"
+    },
+    {
+      "english": "Discover more, with every lesson.",
+      "chinese": "每节课，发现更多。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500431"
+    },
+    {
+      "english": "Your voice matters, in Chinese.",
+      "chinese": "你的声音，中文里重要。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500432"
+    },
+    {
+      "english": "Grow your confidence, speak out.",
+      "chinese": "增自信，大胆说。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500433"
+    },
+    {
+      "english": "It's never too late, start now.",
+      "chinese": "永远不晚，现在开始。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500434"
+    },
+    {
+      "english": "Find your passion, with Chinese.",
+      "chinese": "找热情，学中文。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500435"
+    },
+    {
+      "english": "Understand nuances, beyond words.",
+      "chinese": "懂精妙，在字外。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500436"
+    },
+    {
+      "english": "A new world, awaits you.",
+      "chinese": "新世界，等你。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500437"
+    },
+    {
+      "english": "Build your future, word by word.",
+      "chinese": "建未来，一个字一个字。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500438"
+    },
+    {
+      "english": "Feel the rhythm, of Mandarin.",
+      "chinese": "感受节奏，普通话的。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500439"
+    },
+    {
+      "english": "Don't be shy, just try.",
+      "chinese": "别害羞，就试试。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500440"
+    },
+    {
+      "english": "Master the sounds, master the words.",
+      "chinese": "掌握发音，掌握词。",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T05:50:17.500441"
     }
   ],
-  "last_updated": "2026-09-23T05:28:36.034731"
+  "last_updated": "2026-09-24T05:50:17.500442"
 }
