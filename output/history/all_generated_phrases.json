@@ -43319,7 +43319,787 @@
       "chinese": "掌握发音，掌握词。",
       "category": "Purpose",
       "generated_at": "2026-09-24T05:50:17.500441"
+    },
+    {
+      "english": "Keep pushing forward, don't give up.",
+      "chinese": "继续前进，不要放弃。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.568983"
+    },
+    {
+      "english": "Chase your dreams, with all your heart.",
+      "chinese": "追逐梦想，全力以赴。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.568993"
+    },
+    {
+      "english": "Embrace challenges, they make you strong.",
+      "chinese": "拥抱挑战，它们让你强大。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.568995"
+    },
+    {
+      "english": "Be kind, to yourself and others.",
+      "chinese": "善待自己，也善待他人。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.568996"
+    },
+    {
+      "english": "Celebrate small wins, they matter.",
+      "chinese": "庆祝小胜利，它们很重要。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.568997"
+    },
+    {
+      "english": "Share your light, inspire others.",
+      "chinese": "分享你的光芒，启发他人。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.568999"
+    },
+    {
+      "english": "Learn something new, every single day.",
+      "chinese": "每天，都学点新东西。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569000"
+    },
+    {
+      "english": "Stay positive, think good thoughts.",
+      "chinese": "保持积极，多想好事。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569003"
+    },
+    {
+      "english": "Create your own happiness, starting now.",
+      "chinese": "创造自己的幸福，从现在开始。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569005"
+    },
+    {
+      "english": "Trust the process, it will work out.",
+      "chinese": "相信过程，它会奏效的。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569006"
+    },
+    {
+      "english": "Grow with love, and kindness.",
+      "chinese": "用爱和善良，去成长。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569007"
+    },
+    {
+      "english": "Make time, for what you love.",
+      "chinese": "为热爱的事，腾出时间。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569009"
+    },
+    {
+      "english": "Spread good vibes, everywhere you go.",
+      "chinese": "走到哪里，都散播好心情。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569010"
+    },
+    {
+      "english": "Be the change, you wish to see.",
+      "chinese": "做你想见证的改变。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569011"
+    },
+    {
+      "english": "Find your passion, ignite your soul.",
+      "chinese": "找到热爱，点燃灵魂。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569012"
+    },
+    {
+      "english": "Never stop learning, never stop growing.",
+      "chinese": "永不停止学习，永不停止成长。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569013"
+    },
+    {
+      "english": "Let go, of what no longer serves you.",
+      "chinese": "放下，不再为你服务的事。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569014"
+    },
+    {
+      "english": "Believe in the power, of positive thinking.",
+      "chinese": "相信积极思考的力量。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569015"
+    },
+    {
+      "english": "Make today, amazing.",
+      "chinese": "让今天，变得精彩。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569016"
+    },
+    {
+      "english": "Stay true, to who you are.",
+      "chinese": "忠于，真实的你。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569017"
+    },
+    {
+      "english": "You are capable, of great things.",
+      "chinese": "你能够，成就大事。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569018"
+    },
+    {
+      "english": "Fill your life, with adventures.",
+      "chinese": "用冒险，充实你的生活。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569019"
+    },
+    {
+      "english": "Be patient, with yourself and others.",
+      "chinese": "对自己和他人，保持耐心。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569020"
+    },
+    {
+      "english": "Choose happiness, every single day.",
+      "chinese": "每天，选择快乐。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569021"
+    },
+    {
+      "english": "Spread kindness, like confetti.",
+      "chinese": "播撒善良，像撒纸片。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569022"
+    },
+    {
+      "english": "Embrace who you are, flaws and all.",
+      "chinese": "拥抱真实的你，包括缺点。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569023"
+    },
+    {
+      "english": "Believe in better days, they are coming.",
+      "chinese": "相信更美好的日子，它会来。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569024"
+    },
+    {
+      "english": "Make a difference, with your actions.",
+      "chinese": "用你的行动，创造改变。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569025"
+    },
+    {
+      "english": "Keep pushing forward, don't give up.",
+      "chinese": "继续前进，不要放弃。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569027"
+    },
+    {
+      "english": "Chase your dreams, with all your heart.",
+      "chinese": "追逐梦想，全力以赴。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569028"
+    },
+    {
+      "english": "Embrace challenges, they make you strong.",
+      "chinese": "拥抱挑战，它们让你强大。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569029"
+    },
+    {
+      "english": "Be kind, to yourself and others.",
+      "chinese": "善待自己，也善待他人。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569030"
+    },
+    {
+      "english": "Celebrate small wins, they matter.",
+      "chinese": "庆祝小胜利，它们很重要。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569031"
+    },
+    {
+      "english": "Share your light, inspire others.",
+      "chinese": "分享你的光芒，启发他人。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569032"
+    },
+    {
+      "english": "Learn something new, every single day.",
+      "chinese": "每天，都学点新东西。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569034"
+    },
+    {
+      "english": "Stay positive, think good thoughts.",
+      "chinese": "保持积极，多想好事。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569035"
+    },
+    {
+      "english": "Create your own happiness, starting now.",
+      "chinese": "创造自己的幸福，从现在开始。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569036"
+    },
+    {
+      "english": "Trust the process, it will work out.",
+      "chinese": "相信过程，它会奏效的。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569037"
+    },
+    {
+      "english": "Grow with love, and kindness.",
+      "chinese": "用爱和善良，去成长。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569038"
+    },
+    {
+      "english": "Make time, for what you love.",
+      "chinese": "为热爱的事，腾出时间。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569039"
+    },
+    {
+      "english": "Spread good vibes, everywhere you go.",
+      "chinese": "走到哪里，都散播好心情。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569040"
+    },
+    {
+      "english": "Be the change, you wish to see.",
+      "chinese": "做你想见证的改变。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569042"
+    },
+    {
+      "english": "Find your passion, ignite your soul.",
+      "chinese": "找到热爱，点燃灵魂。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569043"
+    },
+    {
+      "english": "Never stop learning, never stop growing.",
+      "chinese": "永不停止学习，永不停止成长。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569044"
+    },
+    {
+      "english": "Let go, of what no longer serves you.",
+      "chinese": "放下，不再为你服务的事。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569045"
+    },
+    {
+      "english": "Believe in the power, of positive thinking.",
+      "chinese": "相信积极思考的力量。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569046"
+    },
+    {
+      "english": "Make today, amazing.",
+      "chinese": "让今天，变得精彩。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569047"
+    },
+    {
+      "english": "Stay true, to who you are.",
+      "chinese": "忠于，真实的你。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569048"
+    },
+    {
+      "english": "You are capable, of great things.",
+      "chinese": "你能够，成就大事。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569049"
+    },
+    {
+      "english": "Fill your life, with adventures.",
+      "chinese": "用冒险，充实你的生活。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569050"
+    },
+    {
+      "english": "Be patient, with yourself and others.",
+      "chinese": "对自己和他人，保持耐心。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569051"
+    },
+    {
+      "english": "Choose happiness, every single day.",
+      "chinese": "每天，选择快乐。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569052"
+    },
+    {
+      "english": "Spread kindness, like confetti.",
+      "chinese": "播撒善良，像撒纸片。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569053"
+    },
+    {
+      "english": "Embrace who you are, flaws and all.",
+      "chinese": "拥抱真实的你，包括缺点。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569054"
+    },
+    {
+      "english": "Believe in better days, they are coming.",
+      "chinese": "相信更美好的日子，它会来。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569055"
+    },
+    {
+      "english": "Make a difference, with your actions.",
+      "chinese": "用你的行动，创造改变。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569056"
+    },
+    {
+      "english": "Keep pushing forward, don't give up.",
+      "chinese": "继续前进，不要放弃。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569057"
+    },
+    {
+      "english": "Chase your dreams, with all your heart.",
+      "chinese": "追逐梦想，全力以赴。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569058"
+    },
+    {
+      "english": "Embrace challenges, they make you strong.",
+      "chinese": "拥抱挑战，它们让你强大。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569059"
+    },
+    {
+      "english": "Be kind, to yourself and others.",
+      "chinese": "善待自己，也善待他人。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569061"
+    },
+    {
+      "english": "Celebrate small wins, they matter.",
+      "chinese": "庆祝小胜利，它们很重要。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569062"
+    },
+    {
+      "english": "Share your light, inspire others.",
+      "chinese": "分享你的光芒，启发他人。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569063"
+    },
+    {
+      "english": "Learn something new, every single day.",
+      "chinese": "每天，都学点新东西。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569064"
+    },
+    {
+      "english": "Stay positive, think good thoughts.",
+      "chinese": "保持积极，多想好事。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569065"
+    },
+    {
+      "english": "Create your own happiness, starting now.",
+      "chinese": "创造自己的幸福，从现在开始。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569066"
+    },
+    {
+      "english": "Trust the process, it will work out.",
+      "chinese": "相信过程，它会奏效的。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569068"
+    },
+    {
+      "english": "Grow with love, and kindness.",
+      "chinese": "用爱和善良，去成长。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569069"
+    },
+    {
+      "english": "Make time, for what you love.",
+      "chinese": "为热爱的事，腾出时间。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569070"
+    },
+    {
+      "english": "Spread good vibes, everywhere you go.",
+      "chinese": "走到哪里，都散播好心情。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569071"
+    },
+    {
+      "english": "Be the change, you wish to see.",
+      "chinese": "做你想见证的改变。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569072"
+    },
+    {
+      "english": "Find your passion, ignite your soul.",
+      "chinese": "找到热爱，点燃灵魂。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569073"
+    },
+    {
+      "english": "Never stop learning, never stop growing.",
+      "chinese": "永不停止学习，永不停止成长。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569074"
+    },
+    {
+      "english": "Let go, of what no longer serves you.",
+      "chinese": "放下，不再为你服务的事。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569075"
+    },
+    {
+      "english": "Believe in the power, of positive thinking.",
+      "chinese": "相信积极思考的力量。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569076"
+    },
+    {
+      "english": "Make today, amazing.",
+      "chinese": "让今天，变得精彩。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569078"
+    },
+    {
+      "english": "Stay true, to who you are.",
+      "chinese": "忠于，真实的你。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569079"
+    },
+    {
+      "english": "You are capable, of great things.",
+      "chinese": "你能够，成就大事。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569080"
+    },
+    {
+      "english": "Fill your life, with adventures.",
+      "chinese": "用冒险，充实你的生活。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569082"
+    },
+    {
+      "english": "Be patient, with yourself and others.",
+      "chinese": "对自己和他人，保持耐心。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569083"
+    },
+    {
+      "english": "Choose happiness, every single day.",
+      "chinese": "每天，选择快乐。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569084"
+    },
+    {
+      "english": "Spread kindness, like confetti.",
+      "chinese": "播撒善良，像撒纸片。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569085"
+    },
+    {
+      "english": "Embrace who you are, flaws and all.",
+      "chinese": "拥抱真实的你，包括缺点。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569086"
+    },
+    {
+      "english": "Believe in better days, they are coming.",
+      "chinese": "相信更美好的日子，它会来。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569087"
+    },
+    {
+      "english": "Make a difference, with your actions.",
+      "chinese": "用你的行动，创造改变。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569088"
+    },
+    {
+      "english": "Keep pushing forward, don't give up.",
+      "chinese": "继续前进，不要放弃。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569089"
+    },
+    {
+      "english": "Chase your dreams, with all your heart.",
+      "chinese": "追逐梦想，全力以赴。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569090"
+    },
+    {
+      "english": "Embrace challenges, they make you strong.",
+      "chinese": "拥抱挑战，它们让你强大。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569091"
+    },
+    {
+      "english": "Be kind, to yourself and others.",
+      "chinese": "善待自己，也善待他人。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569092"
+    },
+    {
+      "english": "Celebrate small wins, they matter.",
+      "chinese": "庆祝小胜利，它们很重要。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569093"
+    },
+    {
+      "english": "Share your light, inspire others.",
+      "chinese": "分享你的光芒，启发他人。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569094"
+    },
+    {
+      "english": "Learn something new, every single day.",
+      "chinese": "每天，都学点新东西。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569095"
+    },
+    {
+      "english": "Stay positive, think good thoughts.",
+      "chinese": "保持积极，多想好事。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569096"
+    },
+    {
+      "english": "Create your own happiness, starting now.",
+      "chinese": "创造自己的幸福，从现在开始。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569098"
+    },
+    {
+      "english": "Trust the process, it will work out.",
+      "chinese": "相信过程，它会奏效的。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569099"
+    },
+    {
+      "english": "Grow with love, and kindness.",
+      "chinese": "用爱和善良，去成长。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569100"
+    },
+    {
+      "english": "Make time, for what you love.",
+      "chinese": "为热爱的事，腾出时间。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569101"
+    },
+    {
+      "english": "Spread good vibes, everywhere you go.",
+      "chinese": "走到哪里，都散播好心情。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569102"
+    },
+    {
+      "english": "Be the change, you wish to see.",
+      "chinese": "做你想见证的改变。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569103"
+    },
+    {
+      "english": "Find your passion, ignite your soul.",
+      "chinese": "找到热爱，点燃灵魂。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569104"
+    },
+    {
+      "english": "Never stop learning, never stop growing.",
+      "chinese": "永不停止学习，永不停止成长。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569105"
+    },
+    {
+      "english": "Let go, of what no longer serves you.",
+      "chinese": "放下，不再为你服务的事。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569106"
+    },
+    {
+      "english": "Believe in the power, of positive thinking.",
+      "chinese": "相信积极思考的力量。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569107"
+    },
+    {
+      "english": "Make today, amazing.",
+      "chinese": "让今天，变得精彩。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569108"
+    },
+    {
+      "english": "Stay true, to who you are.",
+      "chinese": "忠于，真实的你。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569109"
+    },
+    {
+      "english": "You are capable, of great things.",
+      "chinese": "你能够，成就大事。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569110"
+    },
+    {
+      "english": "Fill your life, with adventures.",
+      "chinese": "用冒险，充实你的生活。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569111"
+    },
+    {
+      "english": "Be patient, with yourself and others.",
+      "chinese": "对自己和他人，保持耐心。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569112"
+    },
+    {
+      "english": "Choose happiness, every single day.",
+      "chinese": "每天，选择快乐。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569113"
+    },
+    {
+      "english": "Spread kindness, like confetti.",
+      "chinese": "播撒善良，像撒纸片。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569114"
+    },
+    {
+      "english": "Embrace who you are, flaws and all.",
+      "chinese": "拥抱真实的你，包括缺点。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569115"
+    },
+    {
+      "english": "Believe in better days, they are coming.",
+      "chinese": "相信更美好的日子，它会来。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569116"
+    },
+    {
+      "english": "Make a difference, with your actions.",
+      "chinese": "用你的行动，创造改变。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569117"
+    },
+    {
+      "english": "Keep pushing forward, don't give up.",
+      "chinese": "继续前进，不要放弃。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569118"
+    },
+    {
+      "english": "Chase your dreams, with all your heart.",
+      "chinese": "追逐梦想，全力以赴。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569119"
+    },
+    {
+      "english": "Embrace challenges, they make you strong.",
+      "chinese": "拥抱挑战，它们让你强大。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569121"
+    },
+    {
+      "english": "Be kind, to yourself and others.",
+      "chinese": "善待自己，也善待他人。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569122"
+    },
+    {
+      "english": "Celebrate small wins, they matter.",
+      "chinese": "庆祝小胜利，它们很重要。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569123"
+    },
+    {
+      "english": "Share your light, inspire others.",
+      "chinese": "分享你的光芒，启发他人。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569124"
+    },
+    {
+      "english": "Learn something new, every single day.",
+      "chinese": "每天，都学点新东西。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569125"
+    },
+    {
+      "english": "Stay positive, think good thoughts.",
+      "chinese": "保持积极，多想好事。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569126"
+    },
+    {
+      "english": "Create your own happiness, starting now.",
+      "chinese": "创造自己的幸福，从现在开始。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569127"
+    },
+    {
+      "english": "Trust the process, it will work out.",
+      "chinese": "相信过程，它会奏效的。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569128"
+    },
+    {
+      "english": "Grow with love, and kindness.",
+      "chinese": "用爱和善良，去成长。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569129"
+    },
+    {
+      "english": "Make time, for what you love.",
+      "chinese": "为热爱的事，腾出时间。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569130"
+    },
+    {
+      "english": "Spread good vibes, everywhere you go.",
+      "chinese": "走到哪里，都散播好心情。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569132"
+    },
+    {
+      "english": "Be the change, you wish to see.",
+      "chinese": "做你想见证的改变。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569133"
+    },
+    {
+      "english": "Find your passion, ignite your soul.",
+      "chinese": "找到热爱，点燃灵魂。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569134"
+    },
+    {
+      "english": "Never stop learning, never stop growing.",
+      "chinese": "永不停止学习，永不停止成长。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569135"
+    },
+    {
+      "english": "Let go, of what no longer serves you.",
+      "chinese": "放下，不再为你服务的事。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569136"
+    },
+    {
+      "english": "Believe in the power, of positive thinking.",
+      "chinese": "相信积极思考的力量。",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T05:45:00.569137"
     }
   ],
-  "last_updated": "2026-09-24T05:50:17.500442"
+  "last_updated": "2026-09-25T05:45:00.569139"
 }
