@@ -44099,7 +44099,787 @@
       "chinese": "相信积极思考的力量。",
       "category": "Positive Life",
       "generated_at": "2026-09-25T05:45:00.569137"
+    },
+    {
+      "english": "Eat to live, not live to eat.",
+      "chinese": "吃饭是为了活,不是活着为了吃。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936828"
+    },
+    {
+      "english": "Think first, then act.",
+      "chinese": "先想,再做。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936839"
+    },
+    {
+      "english": "Read to know, not just to look.",
+      "chinese": "看书是为了知道,不是光看看。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936841"
+    },
+    {
+      "english": "Give thanks, for simple things.",
+      "chinese": "为简单的事,感恩。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936843"
+    },
+    {
+      "english": "Save today, for tomorrow.",
+      "chinese": "今天省着,为明天。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936844"
+    },
+    {
+      "english": "Walk every day, for health.",
+      "chinese": "每天走路,为了健康。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936846"
+    },
+    {
+      "english": "Help others, feel good.",
+      "chinese": "帮助别人,感觉很好。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936847"
+    },
+    {
+      "english": "Sleep enough, be refreshed.",
+      "chinese": "睡够觉,精神焕发。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936851"
+    },
+    {
+      "english": "Drink water, stay hydrated.",
+      "chinese": "喝水,保持水分。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936852"
+    },
+    {
+      "english": "Laugh loud, live long.",
+      "chinese": "大声笑,长命百岁。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936854"
+    },
+    {
+      "english": "Observe details, notice everything.",
+      "chinese": "观察细节,注意到一切。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936855"
+    },
+    {
+      "english": "Apologize quickly, for wrongs.",
+      "chinese": "为错误,迅速道歉。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936856"
+    },
+    {
+      "english": "Forgive easily, find peace.",
+      "chinese": "轻松原谅,找到平静。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936857"
+    },
+    {
+      "english": "Share joy, multiply happiness.",
+      "chinese": "分享快乐,乘以幸福。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936858"
+    },
+    {
+      "english": "Save time, be efficient.",
+      "chinese": "节省时间,高效。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936859"
+    },
+    {
+      "english": "Seek knowledge, expand mind.",
+      "chinese": "寻求知识,拓展思维。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936861"
+    },
+    {
+      "english": "Move your body, feel alive.",
+      "chinese": "动动身体,感觉活着。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936862"
+    },
+    {
+      "english": "Plan ahead, avoid trouble.",
+      "chinese": "提前计划,避免麻烦。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936863"
+    },
+    {
+      "english": "Rest when tired, recharge.",
+      "chinese": "累了就休息,充电。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936864"
+    },
+    {
+      "english": "Express gratitude, feel loved.",
+      "chinese": "表达感激,感觉被爱。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936865"
+    },
+    {
+      "english": "Connect with nature, feel peace.",
+      "chinese": "亲近自然,感受宁静。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936866"
+    },
+    {
+      "english": "Listen to your heart, follow it.",
+      "chinese": "听从你的心,跟着它。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936868"
+    },
+    {
+      "english": "Set goals, achieve them.",
+      "chinese": "设定目标,实现它们。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936869"
+    },
+    {
+      "english": "Practice patience, it pays.",
+      "chinese": "练习耐心,它有回报。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936870"
+    },
+    {
+      "english": "Simplify life, find joy.",
+      "chinese": "简化生活,找到快乐。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936871"
+    },
+    {
+      "english": "Embrace change, grow.",
+      "chinese": "拥抱改变,成长。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936872"
+    },
+    {
+      "english": "Celebrate progress, not perfection.",
+      "chinese": "庆祝进步,而非完美。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936872"
+    },
+    {
+      "english": "Eat to live, not live to eat.",
+      "chinese": "吃饭是为了活,不是活着为了吃。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936874"
+    },
+    {
+      "english": "Think first, then act.",
+      "chinese": "先想,再做。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936875"
+    },
+    {
+      "english": "Read to know, not just to look.",
+      "chinese": "看书是为了知道,不是光看看。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936876"
+    },
+    {
+      "english": "Give thanks, for simple things.",
+      "chinese": "为简单的事,感恩。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936877"
+    },
+    {
+      "english": "Save today, for tomorrow.",
+      "chinese": "今天省着,为明天。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936879"
+    },
+    {
+      "english": "Walk every day, for health.",
+      "chinese": "每天走路,为了健康。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936880"
+    },
+    {
+      "english": "Help others, feel good.",
+      "chinese": "帮助别人,感觉很好。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936881"
+    },
+    {
+      "english": "Sleep enough, be refreshed.",
+      "chinese": "睡够觉,精神焕发。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936882"
+    },
+    {
+      "english": "Drink water, stay hydrated.",
+      "chinese": "喝水,保持水分。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936883"
+    },
+    {
+      "english": "Laugh loud, live long.",
+      "chinese": "大声笑,长命百岁。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936884"
+    },
+    {
+      "english": "Observe details, notice everything.",
+      "chinese": "观察细节,注意到一切。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936885"
+    },
+    {
+      "english": "Apologize quickly, for wrongs.",
+      "chinese": "为错误,迅速道歉。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936886"
+    },
+    {
+      "english": "Forgive easily, find peace.",
+      "chinese": "轻松原谅,找到平静。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936888"
+    },
+    {
+      "english": "Share joy, multiply happiness.",
+      "chinese": "分享快乐,乘以幸福。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936889"
+    },
+    {
+      "english": "Save time, be efficient.",
+      "chinese": "节省时间,高效。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936890"
+    },
+    {
+      "english": "Seek knowledge, expand mind.",
+      "chinese": "寻求知识,拓展思维。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936891"
+    },
+    {
+      "english": "Move your body, feel alive.",
+      "chinese": "动动身体,感觉活着。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936892"
+    },
+    {
+      "english": "Plan ahead, avoid trouble.",
+      "chinese": "提前计划,避免麻烦。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936893"
+    },
+    {
+      "english": "Rest when tired, recharge.",
+      "chinese": "累了就休息,充电。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936894"
+    },
+    {
+      "english": "Express gratitude, feel loved.",
+      "chinese": "表达感激,感觉被爱。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936895"
+    },
+    {
+      "english": "Connect with nature, feel peace.",
+      "chinese": "亲近自然,感受宁静。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936896"
+    },
+    {
+      "english": "Listen to your heart, follow it.",
+      "chinese": "听从你的心,跟着它。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936897"
+    },
+    {
+      "english": "Set goals, achieve them.",
+      "chinese": "设定目标,实现它们。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936898"
+    },
+    {
+      "english": "Practice patience, it pays.",
+      "chinese": "练习耐心,它有回报。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936899"
+    },
+    {
+      "english": "Simplify life, find joy.",
+      "chinese": "简化生活,找到快乐。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936900"
+    },
+    {
+      "english": "Embrace change, grow.",
+      "chinese": "拥抱改变,成长。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936901"
+    },
+    {
+      "english": "Celebrate progress, not perfection.",
+      "chinese": "庆祝进步,而非完美。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936902"
+    },
+    {
+      "english": "Eat to live, not live to eat.",
+      "chinese": "吃饭是为了活,不是活着为了吃。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936904"
+    },
+    {
+      "english": "Think first, then act.",
+      "chinese": "先想,再做。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936905"
+    },
+    {
+      "english": "Read to know, not just to look.",
+      "chinese": "看书是为了知道,不是光看看。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936906"
+    },
+    {
+      "english": "Give thanks, for simple things.",
+      "chinese": "为简单的事,感恩。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936907"
+    },
+    {
+      "english": "Save today, for tomorrow.",
+      "chinese": "今天省着,为明天。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936909"
+    },
+    {
+      "english": "Walk every day, for health.",
+      "chinese": "每天走路,为了健康。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936910"
+    },
+    {
+      "english": "Help others, feel good.",
+      "chinese": "帮助别人,感觉很好。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936911"
+    },
+    {
+      "english": "Sleep enough, be refreshed.",
+      "chinese": "睡够觉,精神焕发。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936912"
+    },
+    {
+      "english": "Drink water, stay hydrated.",
+      "chinese": "喝水,保持水分。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936913"
+    },
+    {
+      "english": "Laugh loud, live long.",
+      "chinese": "大声笑,长命百岁。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936915"
+    },
+    {
+      "english": "Observe details, notice everything.",
+      "chinese": "观察细节,注意到一切。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936916"
+    },
+    {
+      "english": "Apologize quickly, for wrongs.",
+      "chinese": "为错误,迅速道歉。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936917"
+    },
+    {
+      "english": "Forgive easily, find peace.",
+      "chinese": "轻松原谅,找到平静。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936918"
+    },
+    {
+      "english": "Share joy, multiply happiness.",
+      "chinese": "分享快乐,乘以幸福。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936919"
+    },
+    {
+      "english": "Save time, be efficient.",
+      "chinese": "节省时间,高效。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936920"
+    },
+    {
+      "english": "Seek knowledge, expand mind.",
+      "chinese": "寻求知识,拓展思维。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936921"
+    },
+    {
+      "english": "Move your body, feel alive.",
+      "chinese": "动动身体,感觉活着。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936922"
+    },
+    {
+      "english": "Plan ahead, avoid trouble.",
+      "chinese": "提前计划,避免麻烦。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936923"
+    },
+    {
+      "english": "Rest when tired, recharge.",
+      "chinese": "累了就休息,充电。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936925"
+    },
+    {
+      "english": "Express gratitude, feel loved.",
+      "chinese": "表达感激,感觉被爱。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936926"
+    },
+    {
+      "english": "Connect with nature, feel peace.",
+      "chinese": "亲近自然,感受宁静。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936927"
+    },
+    {
+      "english": "Listen to your heart, follow it.",
+      "chinese": "听从你的心,跟着它。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936928"
+    },
+    {
+      "english": "Set goals, achieve them.",
+      "chinese": "设定目标,实现它们。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936929"
+    },
+    {
+      "english": "Practice patience, it pays.",
+      "chinese": "练习耐心,它有回报。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936930"
+    },
+    {
+      "english": "Simplify life, find joy.",
+      "chinese": "简化生活,找到快乐。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936931"
+    },
+    {
+      "english": "Embrace change, grow.",
+      "chinese": "拥抱改变,成长。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936932"
+    },
+    {
+      "english": "Celebrate progress, not perfection.",
+      "chinese": "庆祝进步,而非完美。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936933"
+    },
+    {
+      "english": "Eat to live, not live to eat.",
+      "chinese": "吃饭是为了活,不是活着为了吃。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936934"
+    },
+    {
+      "english": "Think first, then act.",
+      "chinese": "先想,再做。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936936"
+    },
+    {
+      "english": "Read to know, not just to look.",
+      "chinese": "看书是为了知道,不是光看看。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936937"
+    },
+    {
+      "english": "Give thanks, for simple things.",
+      "chinese": "为简单的事,感恩。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936938"
+    },
+    {
+      "english": "Save today, for tomorrow.",
+      "chinese": "今天省着,为明天。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936939"
+    },
+    {
+      "english": "Walk every day, for health.",
+      "chinese": "每天走路,为了健康。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936940"
+    },
+    {
+      "english": "Help others, feel good.",
+      "chinese": "帮助别人,感觉很好。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936941"
+    },
+    {
+      "english": "Sleep enough, be refreshed.",
+      "chinese": "睡够觉,精神焕发。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936942"
+    },
+    {
+      "english": "Drink water, stay hydrated.",
+      "chinese": "喝水,保持水分。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936943"
+    },
+    {
+      "english": "Laugh loud, live long.",
+      "chinese": "大声笑,长命百岁。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936944"
+    },
+    {
+      "english": "Observe details, notice everything.",
+      "chinese": "观察细节,注意到一切。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936945"
+    },
+    {
+      "english": "Apologize quickly, for wrongs.",
+      "chinese": "为错误,迅速道歉。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936946"
+    },
+    {
+      "english": "Forgive easily, find peace.",
+      "chinese": "轻松原谅,找到平静。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936947"
+    },
+    {
+      "english": "Share joy, multiply happiness.",
+      "chinese": "分享快乐,乘以幸福。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936949"
+    },
+    {
+      "english": "Save time, be efficient.",
+      "chinese": "节省时间,高效。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936950"
+    },
+    {
+      "english": "Seek knowledge, expand mind.",
+      "chinese": "寻求知识,拓展思维。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936951"
+    },
+    {
+      "english": "Move your body, feel alive.",
+      "chinese": "动动身体,感觉活着。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936952"
+    },
+    {
+      "english": "Plan ahead, avoid trouble.",
+      "chinese": "提前计划,避免麻烦。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936953"
+    },
+    {
+      "english": "Rest when tired, recharge.",
+      "chinese": "累了就休息,充电。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936954"
+    },
+    {
+      "english": "Express gratitude, feel loved.",
+      "chinese": "表达感激,感觉被爱。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936955"
+    },
+    {
+      "english": "Connect with nature, feel peace.",
+      "chinese": "亲近自然,感受宁静。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936956"
+    },
+    {
+      "english": "Listen to your heart, follow it.",
+      "chinese": "听从你的心,跟着它。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936957"
+    },
+    {
+      "english": "Set goals, achieve them.",
+      "chinese": "设定目标,实现它们。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936959"
+    },
+    {
+      "english": "Practice patience, it pays.",
+      "chinese": "练习耐心,它有回报。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936960"
+    },
+    {
+      "english": "Simplify life, find joy.",
+      "chinese": "简化生活,找到快乐。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936961"
+    },
+    {
+      "english": "Embrace change, grow.",
+      "chinese": "拥抱改变,成长。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936962"
+    },
+    {
+      "english": "Celebrate progress, not perfection.",
+      "chinese": "庆祝进步,而非完美。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936963"
+    },
+    {
+      "english": "Eat to live, not live to eat.",
+      "chinese": "吃饭是为了活,不是活着为了吃。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936964"
+    },
+    {
+      "english": "Think first, then act.",
+      "chinese": "先想,再做。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936965"
+    },
+    {
+      "english": "Read to know, not just to look.",
+      "chinese": "看书是为了知道,不是光看看。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936966"
+    },
+    {
+      "english": "Give thanks, for simple things.",
+      "chinese": "为简单的事,感恩。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936968"
+    },
+    {
+      "english": "Save today, for tomorrow.",
+      "chinese": "今天省着,为明天。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936969"
+    },
+    {
+      "english": "Walk every day, for health.",
+      "chinese": "每天走路,为了健康。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936970"
+    },
+    {
+      "english": "Help others, feel good.",
+      "chinese": "帮助别人,感觉很好。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936972"
+    },
+    {
+      "english": "Sleep enough, be refreshed.",
+      "chinese": "睡够觉,精神焕发。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936973"
+    },
+    {
+      "english": "Drink water, stay hydrated.",
+      "chinese": "喝水,保持水分。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936974"
+    },
+    {
+      "english": "Laugh loud, live long.",
+      "chinese": "大声笑,长命百岁。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936975"
+    },
+    {
+      "english": "Observe details, notice everything.",
+      "chinese": "观察细节,注意到一切。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936976"
+    },
+    {
+      "english": "Apologize quickly, for wrongs.",
+      "chinese": "为错误,迅速道歉。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936977"
+    },
+    {
+      "english": "Forgive easily, find peace.",
+      "chinese": "轻松原谅,找到平静。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936978"
+    },
+    {
+      "english": "Share joy, multiply happiness.",
+      "chinese": "分享快乐,乘以幸福。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936979"
+    },
+    {
+      "english": "Save time, be efficient.",
+      "chinese": "节省时间,高效。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936980"
+    },
+    {
+      "english": "Seek knowledge, expand mind.",
+      "chinese": "寻求知识,拓展思维。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936981"
+    },
+    {
+      "english": "Move your body, feel alive.",
+      "chinese": "动动身体,感觉活着。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936982"
+    },
+    {
+      "english": "Plan ahead, avoid trouble.",
+      "chinese": "提前计划,避免麻烦。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936984"
+    },
+    {
+      "english": "Rest when tired, recharge.",
+      "chinese": "累了就休息,充电。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936985"
+    },
+    {
+      "english": "Express gratitude, feel loved.",
+      "chinese": "表达感激,感觉被爱。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936986"
+    },
+    {
+      "english": "Connect with nature, feel peace.",
+      "chinese": "亲近自然,感受宁静。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936987"
+    },
+    {
+      "english": "Listen to your heart, follow it.",
+      "chinese": "听从你的心,跟着它。",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T05:49:17.936988"
     }
   ],
-  "last_updated": "2026-09-25T05:45:00.569139"
+  "last_updated": "2026-09-26T05:49:17.936990"
 }
