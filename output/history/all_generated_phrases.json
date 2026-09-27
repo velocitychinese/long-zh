@@ -44879,7 +44879,787 @@
       "chinese": "听从你的心,跟着它。",
       "category": "Purpose",
       "generated_at": "2026-09-26T05:49:17.936988"
+    },
+    {
+      "english": "Learn a little, everyday.",
+      "chinese": "每天学一点。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118188"
+    },
+    {
+      "english": "Breathe deep, clear your mind.",
+      "chinese": "深呼吸，清头脑。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118202"
+    },
+    {
+      "english": "Taste new foods, explore flavors.",
+      "chinese": "尝新食物，探风味。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118203"
+    },
+    {
+      "english": "Ask questions, gain insight.",
+      "chinese": "多问问题，多明白。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118205"
+    },
+    {
+      "english": "Walk slower, see more.",
+      "chinese": "走慢点，看得多。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118206"
+    },
+    {
+      "english": "Try new routes, get lost.",
+      "chinese": "走新路，会迷路。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118207"
+    },
+    {
+      "english": "Pack light, travel free.",
+      "chinese": "轻打包，行自由。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118209"
+    },
+    {
+      "english": "Take photos, make memories.",
+      "chinese": "拍照片，留回忆。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118213"
+    },
+    {
+      "english": "Observe people, learn life.",
+      "chinese": "看别人，学人生。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118215"
+    },
+    {
+      "english": "Drink tea, relax yourself.",
+      "chinese": "喝杯茶，放松下。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118216"
+    },
+    {
+      "english": "Wake early, greet the sun.",
+      "chinese": "早起床，迎朝阳。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118217"
+    },
+    {
+      "english": "Stretch daily, feel nimble.",
+      "chinese": "常拉伸，更灵活。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118219"
+    },
+    {
+      "english": "Find quiet spots, recharge.",
+      "chinese": "找静处，充充电。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118220"
+    },
+    {
+      "english": "Carry a notebook, capture ideas.",
+      "chinese": "带本子，记想法。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118221"
+    },
+    {
+      "english": "Smile often, spread good.",
+      "chinese": "常微笑，传美好。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118222"
+    },
+    {
+      "english": "Learn local phrases, connect.",
+      "chinese": "学当地话，多交流。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118223"
+    },
+    {
+      "english": "Eat local, taste real.",
+      "chinese": "吃当地，品真实。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118225"
+    },
+    {
+      "english": "Rest your eyes, see clearly.",
+      "chinese": "歇歇眼，看得清。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118226"
+    },
+    {
+      "english": "Ask for directions, be polite.",
+      "chinese": "问路吧，有礼貌。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118227"
+    },
+    {
+      "english": "Try a new hobby, find passion.",
+      "chinese": "试新业，寻热爱。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118228"
+    },
+    {
+      "english": "Document your journey, reflect.",
+      "chinese": "记旅程，想一想。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118229"
+    },
+    {
+      "english": "Sit quietly, just observe.",
+      "chinese": "静坐着，只看。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118230"
+    },
+    {
+      "english": "Share a story, build bridges.",
+      "chinese": "讲故事，搭桥梁。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118231"
+    },
+    {
+      "english": "Carry snacks, avoid hunger.",
+      "chinese": "带点零食，不挨饿。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118232"
+    },
+    {
+      "english": "Stretch your legs, move freely.",
+      "chinese": "伸腿脚，随心动。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118233"
+    },
+    {
+      "english": "Look up, see the sky.",
+      "chinese": "抬头看，看天空。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118234"
+    },
+    {
+      "english": "Be open-minded, accept all.",
+      "chinese": "心放开，全接受。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118235"
+    },
+    {
+      "english": "Hum a tune, lift your mood.",
+      "chinese": "哼首歌，心情好。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118236"
+    },
+    {
+      "english": "Take a pause, catch your breath.",
+      "chinese": "歇一歇，喘口气。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118237"
+    },
+    {
+      "english": "Walk barefoot, feel the ground.",
+      "chinese": "赤脚走，接地气。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118238"
+    },
+    {
+      "english": "Sketch your view, keep it.",
+      "chinese": "画风景，留下来。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118239"
+    },
+    {
+      "english": "Learn a gesture, communicate.",
+      "chinese": "学个手势，会说。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118240"
+    },
+    {
+      "english": "Sing along, join the fun.",
+      "chinese": "一起唱，有意思。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118241"
+    },
+    {
+      "english": "Sit by water, feel calm.",
+      "chinese": "临水坐，很安静。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118242"
+    },
+    {
+      "english": "Taste slowly, savor life.",
+      "chinese": "慢品尝，享生活。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118243"
+    },
+    {
+      "english": "Observe the light, notice changes.",
+      "chinese": "看光线，看变化。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118243"
+    },
+    {
+      "english": "Find a local market, explore.",
+      "chinese": "找市场，逛一逛。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118244"
+    },
+    {
+      "english": "Learn a little, everyday.",
+      "chinese": "每天学一点。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118246"
+    },
+    {
+      "english": "Breathe deep, clear your mind.",
+      "chinese": "深呼吸，清头脑。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118247"
+    },
+    {
+      "english": "Taste new foods, explore flavors.",
+      "chinese": "尝新食物，探风味。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118248"
+    },
+    {
+      "english": "Ask questions, gain insight.",
+      "chinese": "多问问题，多明白。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118249"
+    },
+    {
+      "english": "Walk slower, see more.",
+      "chinese": "走慢点，看得多。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118251"
+    },
+    {
+      "english": "Try new routes, get lost.",
+      "chinese": "走新路，会迷路。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118252"
+    },
+    {
+      "english": "Pack light, travel free.",
+      "chinese": "轻打包，行自由。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118253"
+    },
+    {
+      "english": "Take photos, make memories.",
+      "chinese": "拍照片，留回忆。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118254"
+    },
+    {
+      "english": "Observe people, learn life.",
+      "chinese": "看别人，学人生。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118255"
+    },
+    {
+      "english": "Drink tea, relax yourself.",
+      "chinese": "喝杯茶，放松下。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118256"
+    },
+    {
+      "english": "Wake early, greet the sun.",
+      "chinese": "早起床，迎朝阳。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118257"
+    },
+    {
+      "english": "Stretch daily, feel nimble.",
+      "chinese": "常拉伸，更灵活。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118258"
+    },
+    {
+      "english": "Find quiet spots, recharge.",
+      "chinese": "找静处，充充电。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118259"
+    },
+    {
+      "english": "Carry a notebook, capture ideas.",
+      "chinese": "带本子，记想法。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118260"
+    },
+    {
+      "english": "Smile often, spread good.",
+      "chinese": "常微笑，传美好。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118261"
+    },
+    {
+      "english": "Learn local phrases, connect.",
+      "chinese": "学当地话，多交流。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118262"
+    },
+    {
+      "english": "Eat local, taste real.",
+      "chinese": "吃当地，品真实。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118263"
+    },
+    {
+      "english": "Rest your eyes, see clearly.",
+      "chinese": "歇歇眼，看得清。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118264"
+    },
+    {
+      "english": "Ask for directions, be polite.",
+      "chinese": "问路吧，有礼貌。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118264"
+    },
+    {
+      "english": "Try a new hobby, find passion.",
+      "chinese": "试新业，寻热爱。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118265"
+    },
+    {
+      "english": "Document your journey, reflect.",
+      "chinese": "记旅程，想一想。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118266"
+    },
+    {
+      "english": "Sit quietly, just observe.",
+      "chinese": "静坐着，只看。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118267"
+    },
+    {
+      "english": "Share a story, build bridges.",
+      "chinese": "讲故事，搭桥梁。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118268"
+    },
+    {
+      "english": "Carry snacks, avoid hunger.",
+      "chinese": "带点零食，不挨饿。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118269"
+    },
+    {
+      "english": "Stretch your legs, move freely.",
+      "chinese": "伸腿脚，随心动。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118270"
+    },
+    {
+      "english": "Look up, see the sky.",
+      "chinese": "抬头看，看天空。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118271"
+    },
+    {
+      "english": "Be open-minded, accept all.",
+      "chinese": "心放开，全接受。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118272"
+    },
+    {
+      "english": "Hum a tune, lift your mood.",
+      "chinese": "哼首歌，心情好。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118273"
+    },
+    {
+      "english": "Take a pause, catch your breath.",
+      "chinese": "歇一歇，喘口气。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118273"
+    },
+    {
+      "english": "Walk barefoot, feel the ground.",
+      "chinese": "赤脚走，接地气。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118274"
+    },
+    {
+      "english": "Sketch your view, keep it.",
+      "chinese": "画风景，留下来。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118275"
+    },
+    {
+      "english": "Learn a gesture, communicate.",
+      "chinese": "学个手势，会说。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118276"
+    },
+    {
+      "english": "Sing along, join the fun.",
+      "chinese": "一起唱，有意思。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118277"
+    },
+    {
+      "english": "Sit by water, feel calm.",
+      "chinese": "临水坐，很安静。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118278"
+    },
+    {
+      "english": "Taste slowly, savor life.",
+      "chinese": "慢品尝，享生活。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118279"
+    },
+    {
+      "english": "Observe the light, notice changes.",
+      "chinese": "看光线，看变化。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118280"
+    },
+    {
+      "english": "Find a local market, explore.",
+      "chinese": "找市场，逛一逛。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118281"
+    },
+    {
+      "english": "Learn a little, everyday.",
+      "chinese": "每天学一点。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118282"
+    },
+    {
+      "english": "Breathe deep, clear your mind.",
+      "chinese": "深呼吸，清头脑。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118283"
+    },
+    {
+      "english": "Taste new foods, explore flavors.",
+      "chinese": "尝新食物，探风味。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118284"
+    },
+    {
+      "english": "Ask questions, gain insight.",
+      "chinese": "多问问题，多明白。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118285"
+    },
+    {
+      "english": "Walk slower, see more.",
+      "chinese": "走慢点，看得多。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118286"
+    },
+    {
+      "english": "Try new routes, get lost.",
+      "chinese": "走新路，会迷路。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118288"
+    },
+    {
+      "english": "Pack light, travel free.",
+      "chinese": "轻打包，行自由。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118289"
+    },
+    {
+      "english": "Take photos, make memories.",
+      "chinese": "拍照片，留回忆。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118290"
+    },
+    {
+      "english": "Observe people, learn life.",
+      "chinese": "看别人，学人生。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118291"
+    },
+    {
+      "english": "Drink tea, relax yourself.",
+      "chinese": "喝杯茶，放松下。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118292"
+    },
+    {
+      "english": "Wake early, greet the sun.",
+      "chinese": "早起床，迎朝阳。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118293"
+    },
+    {
+      "english": "Stretch daily, feel nimble.",
+      "chinese": "常拉伸，更灵活。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118294"
+    },
+    {
+      "english": "Find quiet spots, recharge.",
+      "chinese": "找静处，充充电。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118295"
+    },
+    {
+      "english": "Carry a notebook, capture ideas.",
+      "chinese": "带本子，记想法。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118296"
+    },
+    {
+      "english": "Smile often, spread good.",
+      "chinese": "常微笑，传美好。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118297"
+    },
+    {
+      "english": "Learn local phrases, connect.",
+      "chinese": "学当地话，多交流。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118298"
+    },
+    {
+      "english": "Eat local, taste real.",
+      "chinese": "吃当地，品真实。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118299"
+    },
+    {
+      "english": "Rest your eyes, see clearly.",
+      "chinese": "歇歇眼，看得清。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118300"
+    },
+    {
+      "english": "Ask for directions, be polite.",
+      "chinese": "问路吧，有礼貌。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118301"
+    },
+    {
+      "english": "Try a new hobby, find passion.",
+      "chinese": "试新业，寻热爱。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118302"
+    },
+    {
+      "english": "Document your journey, reflect.",
+      "chinese": "记旅程，想一想。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118303"
+    },
+    {
+      "english": "Sit quietly, just observe.",
+      "chinese": "静坐着，只看。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118304"
+    },
+    {
+      "english": "Share a story, build bridges.",
+      "chinese": "讲故事，搭桥梁。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118305"
+    },
+    {
+      "english": "Carry snacks, avoid hunger.",
+      "chinese": "带点零食，不挨饿。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118306"
+    },
+    {
+      "english": "Stretch your legs, move freely.",
+      "chinese": "伸腿脚，随心动。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118306"
+    },
+    {
+      "english": "Look up, see the sky.",
+      "chinese": "抬头看，看天空。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118307"
+    },
+    {
+      "english": "Be open-minded, accept all.",
+      "chinese": "心放开，全接受。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118308"
+    },
+    {
+      "english": "Hum a tune, lift your mood.",
+      "chinese": "哼首歌，心情好。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118309"
+    },
+    {
+      "english": "Take a pause, catch your breath.",
+      "chinese": "歇一歇，喘口气。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118310"
+    },
+    {
+      "english": "Walk barefoot, feel the ground.",
+      "chinese": "赤脚走，接地气。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118311"
+    },
+    {
+      "english": "Sketch your view, keep it.",
+      "chinese": "画风景，留下来。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118312"
+    },
+    {
+      "english": "Learn a gesture, communicate.",
+      "chinese": "学个手势，会说。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118313"
+    },
+    {
+      "english": "Sing along, join the fun.",
+      "chinese": "一起唱，有意思。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118314"
+    },
+    {
+      "english": "Sit by water, feel calm.",
+      "chinese": "临水坐，很安静。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118315"
+    },
+    {
+      "english": "Taste slowly, savor life.",
+      "chinese": "慢品尝，享生活。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118316"
+    },
+    {
+      "english": "Observe the light, notice changes.",
+      "chinese": "看光线，看变化。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118317"
+    },
+    {
+      "english": "Find a local market, explore.",
+      "chinese": "找市场，逛一逛。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118318"
+    },
+    {
+      "english": "Learn a little, everyday.",
+      "chinese": "每天学一点。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118319"
+    },
+    {
+      "english": "Breathe deep, clear your mind.",
+      "chinese": "深呼吸，清头脑。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118320"
+    },
+    {
+      "english": "Taste new foods, explore flavors.",
+      "chinese": "尝新食物，探风味。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118321"
+    },
+    {
+      "english": "Ask questions, gain insight.",
+      "chinese": "多问问题，多明白。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118322"
+    },
+    {
+      "english": "Walk slower, see more.",
+      "chinese": "走慢点，看得多。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118323"
+    },
+    {
+      "english": "Try new routes, get lost.",
+      "chinese": "走新路，会迷路。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118324"
+    },
+    {
+      "english": "Pack light, travel free.",
+      "chinese": "轻打包，行自由。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118325"
+    },
+    {
+      "english": "Take photos, make memories.",
+      "chinese": "拍照片，留回忆。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118326"
+    },
+    {
+      "english": "Observe people, learn life.",
+      "chinese": "看别人，学人生。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118327"
+    },
+    {
+      "english": "Drink tea, relax yourself.",
+      "chinese": "喝杯茶，放松下。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118328"
+    },
+    {
+      "english": "Wake early, greet the sun.",
+      "chinese": "早起床，迎朝阳。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118330"
+    },
+    {
+      "english": "Stretch daily, feel nimble.",
+      "chinese": "常拉伸，更灵活。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118331"
+    },
+    {
+      "english": "Find quiet spots, recharge.",
+      "chinese": "找静处，充充电。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118332"
+    },
+    {
+      "english": "Carry a notebook, capture ideas.",
+      "chinese": "带本子，记想法。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118333"
+    },
+    {
+      "english": "Smile often, spread good.",
+      "chinese": "常微笑，传美好。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118334"
+    },
+    {
+      "english": "Learn local phrases, connect.",
+      "chinese": "学当地话，多交流。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118334"
+    },
+    {
+      "english": "Eat local, taste real.",
+      "chinese": "吃当地，品真实。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118335"
+    },
+    {
+      "english": "Rest your eyes, see clearly.",
+      "chinese": "歇歇眼，看得清。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118337"
+    },
+    {
+      "english": "Ask for directions, be polite.",
+      "chinese": "问路吧，有礼貌。",
+      "category": "Balance",
+      "generated_at": "2026-09-27T06:09:02.118337"
     }
   ],
-  "last_updated": "2026-09-26T05:49:17.936990"
+  "last_updated": "2026-09-27T06:09:02.118340"
 }
