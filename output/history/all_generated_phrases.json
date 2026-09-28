@@ -45659,7 +45659,787 @@
       "chinese": "问路吧，有礼貌。",
       "category": "Balance",
       "generated_at": "2026-09-27T06:09:02.118337"
+    },
+    {
+      "english": "Try once, then twice.",
+      "chinese": "尝试一次，再来一次。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663207"
+    },
+    {
+      "english": "Plan ahead, stay on track.",
+      "chinese": "提前计划，保持正轨。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663220"
+    },
+    {
+      "english": "Share your talent, shine bright.",
+      "chinese": "分享才华，闪耀光芒。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663222"
+    },
+    {
+      "english": "Read a chapter, expand your world.",
+      "chinese": "读一章，拓展你的世界。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663222"
+    },
+    {
+      "english": "Celebrate small wins, stay motivated.",
+      "chinese": "庆祝小胜利，保持动力。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663223"
+    },
+    {
+      "english": "Declutter your space, clear your mind.",
+      "chinese": "整理空间，清理思绪。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663224"
+    },
+    {
+      "english": "Embrace challenges, grow stronger.",
+      "chinese": "拥抱挑战，变得更强。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663225"
+    },
+    {
+      "english": "Save a little, for tomorrow.",
+      "chinese": "储蓄一点，为了明天。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663228"
+    },
+    {
+      "english": "Review your day, learn from it.",
+      "chinese": "回顾一天，从中学习。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663230"
+    },
+    {
+      "english": "Seek feedback, improve yourself.",
+      "chinese": "寻求反馈，提升自己。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663231"
+    },
+    {
+      "english": "Forgive your past, move forward.",
+      "chinese": "原谅过去，向前看。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663231"
+    },
+    {
+      "english": "Create a routine, build habits.",
+      "chinese": "建立规律，养成习惯。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663232"
+    },
+    {
+      "english": "Limit distractions, focus better.",
+      "chinese": "减少干扰，专注更好。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663233"
+    },
+    {
+      "english": "Express gratitude, be thankful.",
+      "chinese": "表达感激，心怀感恩。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663233"
+    },
+    {
+      "english": "Learn from mistakes, don't repeat.",
+      "chinese": "从错误中学习，别重蹈覆辙。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663234"
+    },
+    {
+      "english": "Set goals, aim high.",
+      "chinese": "设定目标，志存高远。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663235"
+    },
+    {
+      "english": "Reflect regularly, grow daily.",
+      "chinese": "经常反思，每日成长。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663235"
+    },
+    {
+      "english": "Take breaks, refresh your mind.",
+      "chinese": "休息一下，头脑清爽。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663236"
+    },
+    {
+      "english": "Seek knowledge, never stop.",
+      "chinese": "追求知识，永不停歇。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663237"
+    },
+    {
+      "english": "Plan your meals, eat healthier.",
+      "chinese": "规划饮食，健康饮食。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663238"
+    },
+    {
+      "english": "Practice self-compassion, be gentle.",
+      "chinese": "练习自爱，温柔待己。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663238"
+    },
+    {
+      "english": "Learn a new skill, expand horizons.",
+      "chinese": "学习新技能，拓宽视野。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663239"
+    },
+    {
+      "english": "Prioritize tasks, be efficient.",
+      "chinese": "优先排序，高效工作。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663240"
+    },
+    {
+      "english": "Stay curious, ask why.",
+      "chinese": "保持好奇，问个为什么。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663240"
+    },
+    {
+      "english": "Accept imperfections, be real.",
+      "chinese": "接受不完美，做真实的自己。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663241"
+    },
+    {
+      "english": "Manage your energy, not just time.",
+      "chinese": "管理精力，不只管理时间。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663242"
+    },
+    {
+      "english": "Build good habits, break bad ones.",
+      "chinese": "养成好习惯，改掉坏习惯。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663242"
+    },
+    {
+      "english": "Trust your gut, follow intuition.",
+      "chinese": "相信直觉，跟着感觉走。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663243"
+    },
+    {
+      "english": "Try once, then twice.",
+      "chinese": "尝试一次，再来一次。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663244"
+    },
+    {
+      "english": "Plan ahead, stay on track.",
+      "chinese": "提前计划，保持正轨。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663245"
+    },
+    {
+      "english": "Share your talent, shine bright.",
+      "chinese": "分享才华，闪耀光芒。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663246"
+    },
+    {
+      "english": "Read a chapter, expand your world.",
+      "chinese": "读一章，拓展你的世界。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663246"
+    },
+    {
+      "english": "Celebrate small wins, stay motivated.",
+      "chinese": "庆祝小胜利，保持动力。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663247"
+    },
+    {
+      "english": "Declutter your space, clear your mind.",
+      "chinese": "整理空间，清理思绪。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663248"
+    },
+    {
+      "english": "Embrace challenges, grow stronger.",
+      "chinese": "拥抱挑战，变得更强。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663248"
+    },
+    {
+      "english": "Save a little, for tomorrow.",
+      "chinese": "储蓄一点，为了明天。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663249"
+    },
+    {
+      "english": "Review your day, learn from it.",
+      "chinese": "回顾一天，从中学习。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663250"
+    },
+    {
+      "english": "Seek feedback, improve yourself.",
+      "chinese": "寻求反馈，提升自己。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663251"
+    },
+    {
+      "english": "Forgive your past, move forward.",
+      "chinese": "原谅过去，向前看。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663251"
+    },
+    {
+      "english": "Create a routine, build habits.",
+      "chinese": "建立规律，养成习惯。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663252"
+    },
+    {
+      "english": "Limit distractions, focus better.",
+      "chinese": "减少干扰，专注更好。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663253"
+    },
+    {
+      "english": "Express gratitude, be thankful.",
+      "chinese": "表达感激，心怀感恩。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663253"
+    },
+    {
+      "english": "Learn from mistakes, don't repeat.",
+      "chinese": "从错误中学习，别重蹈覆辙。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663254"
+    },
+    {
+      "english": "Set goals, aim high.",
+      "chinese": "设定目标，志存高远。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663255"
+    },
+    {
+      "english": "Reflect regularly, grow daily.",
+      "chinese": "经常反思，每日成长。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663255"
+    },
+    {
+      "english": "Take breaks, refresh your mind.",
+      "chinese": "休息一下，头脑清爽。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663256"
+    },
+    {
+      "english": "Seek knowledge, never stop.",
+      "chinese": "追求知识，永不停歇。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663257"
+    },
+    {
+      "english": "Plan your meals, eat healthier.",
+      "chinese": "规划饮食，健康饮食。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663258"
+    },
+    {
+      "english": "Practice self-compassion, be gentle.",
+      "chinese": "练习自爱，温柔待己。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663258"
+    },
+    {
+      "english": "Learn a new skill, expand horizons.",
+      "chinese": "学习新技能，拓宽视野。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663259"
+    },
+    {
+      "english": "Prioritize tasks, be efficient.",
+      "chinese": "优先排序，高效工作。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663259"
+    },
+    {
+      "english": "Stay curious, ask why.",
+      "chinese": "保持好奇，问个为什么。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663260"
+    },
+    {
+      "english": "Accept imperfections, be real.",
+      "chinese": "接受不完美，做真实的自己。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663261"
+    },
+    {
+      "english": "Manage your energy, not just time.",
+      "chinese": "管理精力，不只管理时间。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663262"
+    },
+    {
+      "english": "Build good habits, break bad ones.",
+      "chinese": "养成好习惯，改掉坏习惯。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663262"
+    },
+    {
+      "english": "Trust your gut, follow intuition.",
+      "chinese": "相信直觉，跟着感觉走。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663263"
+    },
+    {
+      "english": "Try once, then twice.",
+      "chinese": "尝试一次，再来一次。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663264"
+    },
+    {
+      "english": "Plan ahead, stay on track.",
+      "chinese": "提前计划，保持正轨。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663265"
+    },
+    {
+      "english": "Share your talent, shine bright.",
+      "chinese": "分享才华，闪耀光芒。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663265"
+    },
+    {
+      "english": "Read a chapter, expand your world.",
+      "chinese": "读一章，拓展你的世界。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663266"
+    },
+    {
+      "english": "Celebrate small wins, stay motivated.",
+      "chinese": "庆祝小胜利，保持动力。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663267"
+    },
+    {
+      "english": "Declutter your space, clear your mind.",
+      "chinese": "整理空间，清理思绪。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663267"
+    },
+    {
+      "english": "Embrace challenges, grow stronger.",
+      "chinese": "拥抱挑战，变得更强。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663268"
+    },
+    {
+      "english": "Save a little, for tomorrow.",
+      "chinese": "储蓄一点，为了明天。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663269"
+    },
+    {
+      "english": "Review your day, learn from it.",
+      "chinese": "回顾一天，从中学习。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663270"
+    },
+    {
+      "english": "Seek feedback, improve yourself.",
+      "chinese": "寻求反馈，提升自己。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663271"
+    },
+    {
+      "english": "Forgive your past, move forward.",
+      "chinese": "原谅过去，向前看。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663272"
+    },
+    {
+      "english": "Create a routine, build habits.",
+      "chinese": "建立规律，养成习惯。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663272"
+    },
+    {
+      "english": "Limit distractions, focus better.",
+      "chinese": "减少干扰，专注更好。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663273"
+    },
+    {
+      "english": "Express gratitude, be thankful.",
+      "chinese": "表达感激，心怀感恩。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663274"
+    },
+    {
+      "english": "Learn from mistakes, don't repeat.",
+      "chinese": "从错误中学习，别重蹈覆辙。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663275"
+    },
+    {
+      "english": "Set goals, aim high.",
+      "chinese": "设定目标，志存高远。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663275"
+    },
+    {
+      "english": "Reflect regularly, grow daily.",
+      "chinese": "经常反思，每日成长。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663276"
+    },
+    {
+      "english": "Take breaks, refresh your mind.",
+      "chinese": "休息一下，头脑清爽。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663277"
+    },
+    {
+      "english": "Seek knowledge, never stop.",
+      "chinese": "追求知识，永不停歇。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663277"
+    },
+    {
+      "english": "Plan your meals, eat healthier.",
+      "chinese": "规划饮食，健康饮食。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663278"
+    },
+    {
+      "english": "Practice self-compassion, be gentle.",
+      "chinese": "练习自爱，温柔待己。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663279"
+    },
+    {
+      "english": "Learn a new skill, expand horizons.",
+      "chinese": "学习新技能，拓宽视野。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663279"
+    },
+    {
+      "english": "Prioritize tasks, be efficient.",
+      "chinese": "优先排序，高效工作。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663280"
+    },
+    {
+      "english": "Stay curious, ask why.",
+      "chinese": "保持好奇，问个为什么。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663281"
+    },
+    {
+      "english": "Accept imperfections, be real.",
+      "chinese": "接受不完美，做真实的自己。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663281"
+    },
+    {
+      "english": "Manage your energy, not just time.",
+      "chinese": "管理精力，不只管理时间。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663282"
+    },
+    {
+      "english": "Build good habits, break bad ones.",
+      "chinese": "养成好习惯，改掉坏习惯。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663283"
+    },
+    {
+      "english": "Trust your gut, follow intuition.",
+      "chinese": "相信直觉，跟着感觉走。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663283"
+    },
+    {
+      "english": "Try once, then twice.",
+      "chinese": "尝试一次，再来一次。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663284"
+    },
+    {
+      "english": "Plan ahead, stay on track.",
+      "chinese": "提前计划，保持正轨。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663285"
+    },
+    {
+      "english": "Share your talent, shine bright.",
+      "chinese": "分享才华，闪耀光芒。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663286"
+    },
+    {
+      "english": "Read a chapter, expand your world.",
+      "chinese": "读一章，拓展你的世界。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663286"
+    },
+    {
+      "english": "Celebrate small wins, stay motivated.",
+      "chinese": "庆祝小胜利，保持动力。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663287"
+    },
+    {
+      "english": "Declutter your space, clear your mind.",
+      "chinese": "整理空间，清理思绪。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663288"
+    },
+    {
+      "english": "Embrace challenges, grow stronger.",
+      "chinese": "拥抱挑战，变得更强。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663289"
+    },
+    {
+      "english": "Save a little, for tomorrow.",
+      "chinese": "储蓄一点，为了明天。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663289"
+    },
+    {
+      "english": "Review your day, learn from it.",
+      "chinese": "回顾一天，从中学习。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663290"
+    },
+    {
+      "english": "Seek feedback, improve yourself.",
+      "chinese": "寻求反馈，提升自己。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663291"
+    },
+    {
+      "english": "Forgive your past, move forward.",
+      "chinese": "原谅过去，向前看。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663292"
+    },
+    {
+      "english": "Create a routine, build habits.",
+      "chinese": "建立规律，养成习惯。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663292"
+    },
+    {
+      "english": "Limit distractions, focus better.",
+      "chinese": "减少干扰，专注更好。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663293"
+    },
+    {
+      "english": "Express gratitude, be thankful.",
+      "chinese": "表达感激，心怀感恩。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663294"
+    },
+    {
+      "english": "Learn from mistakes, don't repeat.",
+      "chinese": "从错误中学习，别重蹈覆辙。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663295"
+    },
+    {
+      "english": "Set goals, aim high.",
+      "chinese": "设定目标，志存高远。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663295"
+    },
+    {
+      "english": "Reflect regularly, grow daily.",
+      "chinese": "经常反思，每日成长。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663296"
+    },
+    {
+      "english": "Take breaks, refresh your mind.",
+      "chinese": "休息一下，头脑清爽。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663296"
+    },
+    {
+      "english": "Seek knowledge, never stop.",
+      "chinese": "追求知识，永不停歇。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663297"
+    },
+    {
+      "english": "Plan your meals, eat healthier.",
+      "chinese": "规划饮食，健康饮食。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663298"
+    },
+    {
+      "english": "Practice self-compassion, be gentle.",
+      "chinese": "练习自爱，温柔待己。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663298"
+    },
+    {
+      "english": "Learn a new skill, expand horizons.",
+      "chinese": "学习新技能，拓宽视野。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663299"
+    },
+    {
+      "english": "Prioritize tasks, be efficient.",
+      "chinese": "优先排序，高效工作。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663300"
+    },
+    {
+      "english": "Stay curious, ask why.",
+      "chinese": "保持好奇，问个为什么。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663300"
+    },
+    {
+      "english": "Accept imperfections, be real.",
+      "chinese": "接受不完美，做真实的自己。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663301"
+    },
+    {
+      "english": "Manage your energy, not just time.",
+      "chinese": "管理精力，不只管理时间。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663302"
+    },
+    {
+      "english": "Build good habits, break bad ones.",
+      "chinese": "养成好习惯，改掉坏习惯。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663302"
+    },
+    {
+      "english": "Trust your gut, follow intuition.",
+      "chinese": "相信直觉，跟着感觉走。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663303"
+    },
+    {
+      "english": "Try once, then twice.",
+      "chinese": "尝试一次，再来一次。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663304"
+    },
+    {
+      "english": "Plan ahead, stay on track.",
+      "chinese": "提前计划，保持正轨。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663304"
+    },
+    {
+      "english": "Share your talent, shine bright.",
+      "chinese": "分享才华，闪耀光芒。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663305"
+    },
+    {
+      "english": "Read a chapter, expand your world.",
+      "chinese": "读一章，拓展你的世界。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663306"
+    },
+    {
+      "english": "Celebrate small wins, stay motivated.",
+      "chinese": "庆祝小胜利，保持动力。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663306"
+    },
+    {
+      "english": "Declutter your space, clear your mind.",
+      "chinese": "整理空间，清理思绪。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663307"
+    },
+    {
+      "english": "Embrace challenges, grow stronger.",
+      "chinese": "拥抱挑战，变得更强。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663307"
+    },
+    {
+      "english": "Save a little, for tomorrow.",
+      "chinese": "储蓄一点，为了明天。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663308"
+    },
+    {
+      "english": "Review your day, learn from it.",
+      "chinese": "回顾一天，从中学习。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663309"
+    },
+    {
+      "english": "Seek feedback, improve yourself.",
+      "chinese": "寻求反馈，提升自己。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663309"
+    },
+    {
+      "english": "Forgive your past, move forward.",
+      "chinese": "原谅过去，向前看。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663310"
+    },
+    {
+      "english": "Create a routine, build habits.",
+      "chinese": "建立规律，养成习惯。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663311"
+    },
+    {
+      "english": "Limit distractions, focus better.",
+      "chinese": "减少干扰，专注更好。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663311"
+    },
+    {
+      "english": "Express gratitude, be thankful.",
+      "chinese": "表达感激，心怀感恩。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663312"
+    },
+    {
+      "english": "Learn from mistakes, don't repeat.",
+      "chinese": "从错误中学习，别重蹈覆辙。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663312"
+    },
+    {
+      "english": "Set goals, aim high.",
+      "chinese": "设定目标，志存高远。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663313"
+    },
+    {
+      "english": "Reflect regularly, grow daily.",
+      "chinese": "经常反思，每日成长。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663314"
+    },
+    {
+      "english": "Take breaks, refresh your mind.",
+      "chinese": "休息一下，头脑清爽。",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T06:18:18.663314"
     }
   ],
-  "last_updated": "2026-09-27T06:09:02.118340"
+  "last_updated": "2026-09-28T06:18:18.663316"
 }
