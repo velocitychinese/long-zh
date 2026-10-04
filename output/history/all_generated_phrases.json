@@ -50339,7 +50339,787 @@
       "chinese": "大声说出来，感受它。",
       "category": "Motivation",
       "generated_at": "2026-10-03T05:59:40.298301"
+    },
+    {
+      "english": "Eat well, speak well, live well.",
+      "chinese": "吃好, 说好, 过好.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986376"
+    },
+    {
+      "english": "Talk is cheap, practice is gold.",
+      "chinese": "光说空, 练习才真.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986388"
+    },
+    {
+      "english": "Hear it, say it, remember it.",
+      "chinese": "听见, 说出, 记住.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986390"
+    },
+    {
+      "english": "One phrase, one smile.",
+      "chinese": "一句话, 一抹笑.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986391"
+    },
+    {
+      "english": "Your mouth, your superpower.",
+      "chinese": "你的嘴, 你的超能力.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986393"
+    },
+    {
+      "english": "Be brave, make mistakes.",
+      "chinese": "勇敢点, 犯错误.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986394"
+    },
+    {
+      "english": "Funny words, open doors.",
+      "chinese": "有趣词, 开门路.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986396"
+    },
+    {
+      "english": "Don't just learn, live it.",
+      "chinese": "别只学, 要生活.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986400"
+    },
+    {
+      "english": "Speak slowly, think fast.",
+      "chinese": "慢点说, 快点想.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986402"
+    },
+    {
+      "english": "Language is a game, let's play.",
+      "chinese": "语言游戏, 来玩吧.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986403"
+    },
+    {
+      "english": "Curious mind, growing voice.",
+      "chinese": "好奇心, 声音长.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986404"
+    },
+    {
+      "english": "Words are seeds, plant them.",
+      "chinese": "词语是种, 种下去.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986405"
+    },
+    {
+      "english": "Don't be afraid, be ready.",
+      "chinese": "别怕了, 准备好.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986406"
+    },
+    {
+      "english": "Laugh often, speak often.",
+      "chinese": "常大笑, 常开口.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986407"
+    },
+    {
+      "english": "Connect the dots, with words.",
+      "chinese": "连点线, 用词语.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986409"
+    },
+    {
+      "english": "Simple words, powerful impact.",
+      "chinese": "简单词, 力量大.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986410"
+    },
+    {
+      "english": "Speak your truth, in Chinese.",
+      "chinese": "说真话, 用中文.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986411"
+    },
+    {
+      "english": "Got it? Say it. Understand.",
+      "chinese": "懂了? 说出来. 理解.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986412"
+    },
+    {
+      "english": "Joyful learning, happy speaking.",
+      "chinese": "乐中学, 乐开口.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986413"
+    },
+    {
+      "english": "Your progress, is our joy.",
+      "chinese": "你进步, 我开心.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986414"
+    },
+    {
+      "english": "Feel the rhythm, speak the flow.",
+      "chinese": "感觉节奏, 说得溜.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986416"
+    },
+    {
+      "english": "Be playful, learn Chinese.",
+      "chinese": "开心点, 学中文.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986417"
+    },
+    {
+      "english": "No fear, just clear.",
+      "chinese": "没在怕, 就清楚.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986418"
+    },
+    {
+      "english": "Hear the sound, make it yours.",
+      "chinese": "听声音, 成你的.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986419"
+    },
+    {
+      "english": "Big dreams, small words.",
+      "chinese": "大梦想, 小词语.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986420"
+    },
+    {
+      "english": "Speak the culture, feel the life.",
+      "chinese": "说文化, 感受生活.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986421"
+    },
+    {
+      "english": "Your words, are your wings.",
+      "chinese": "你的话, 你的翅膀.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986422"
+    },
+    {
+      "english": "Try once, twice, always.",
+      "chinese": "试一次, 再二次, 永远.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986423"
+    },
+    {
+      "english": "Have fun, learn faster.",
+      "chinese": "玩得嗨, 学得快.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986424"
+    },
+    {
+      "english": "Your voice, a new world.",
+      "chinese": "你的声音, 新世界.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986425"
+    },
+    {
+      "english": "Speak up, stand out.",
+      "chinese": "站出来, 很显眼.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986426"
+    },
+    {
+      "english": "Eat well, speak well, live well.",
+      "chinese": "吃好, 说好, 过好.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986427"
+    },
+    {
+      "english": "Talk is cheap, practice is gold.",
+      "chinese": "光说空, 练习才真.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986429"
+    },
+    {
+      "english": "Hear it, say it, remember it.",
+      "chinese": "听见, 说出, 记住.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986430"
+    },
+    {
+      "english": "One phrase, one smile.",
+      "chinese": "一句话, 一抹笑.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986431"
+    },
+    {
+      "english": "Your mouth, your superpower.",
+      "chinese": "你的嘴, 你的超能力.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986433"
+    },
+    {
+      "english": "Be brave, make mistakes.",
+      "chinese": "勇敢点, 犯错误.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986434"
+    },
+    {
+      "english": "Funny words, open doors.",
+      "chinese": "有趣词, 开门路.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986435"
+    },
+    {
+      "english": "Don't just learn, live it.",
+      "chinese": "别只学, 要生活.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986436"
+    },
+    {
+      "english": "Speak slowly, think fast.",
+      "chinese": "慢点说, 快点想.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986437"
+    },
+    {
+      "english": "Language is a game, let's play.",
+      "chinese": "语言游戏, 来玩吧.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986438"
+    },
+    {
+      "english": "Curious mind, growing voice.",
+      "chinese": "好奇心, 声音长.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986440"
+    },
+    {
+      "english": "Words are seeds, plant them.",
+      "chinese": "词语是种, 种下去.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986441"
+    },
+    {
+      "english": "Don't be afraid, be ready.",
+      "chinese": "别怕了, 准备好.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986442"
+    },
+    {
+      "english": "Laugh often, speak often.",
+      "chinese": "常大笑, 常开口.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986443"
+    },
+    {
+      "english": "Connect the dots, with words.",
+      "chinese": "连点线, 用词语.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986444"
+    },
+    {
+      "english": "Simple words, powerful impact.",
+      "chinese": "简单词, 力量大.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986445"
+    },
+    {
+      "english": "Speak your truth, in Chinese.",
+      "chinese": "说真话, 用中文.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986446"
+    },
+    {
+      "english": "Got it? Say it. Understand.",
+      "chinese": "懂了? 说出来. 理解.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986447"
+    },
+    {
+      "english": "Joyful learning, happy speaking.",
+      "chinese": "乐中学, 乐开口.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986448"
+    },
+    {
+      "english": "Your progress, is our joy.",
+      "chinese": "你进步, 我开心.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986450"
+    },
+    {
+      "english": "Feel the rhythm, speak the flow.",
+      "chinese": "感觉节奏, 说得溜.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986450"
+    },
+    {
+      "english": "Be playful, learn Chinese.",
+      "chinese": "开心点, 学中文.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986451"
+    },
+    {
+      "english": "No fear, just clear.",
+      "chinese": "没在怕, 就清楚.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986452"
+    },
+    {
+      "english": "Hear the sound, make it yours.",
+      "chinese": "听声音, 成你的.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986454"
+    },
+    {
+      "english": "Big dreams, small words.",
+      "chinese": "大梦想, 小词语.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986455"
+    },
+    {
+      "english": "Speak the culture, feel the life.",
+      "chinese": "说文化, 感受生活.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986456"
+    },
+    {
+      "english": "Your words, are your wings.",
+      "chinese": "你的话, 你的翅膀.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986456"
+    },
+    {
+      "english": "Try once, twice, always.",
+      "chinese": "试一次, 再二次, 永远.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986458"
+    },
+    {
+      "english": "Have fun, learn faster.",
+      "chinese": "玩得嗨, 学得快.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986459"
+    },
+    {
+      "english": "Your voice, a new world.",
+      "chinese": "你的声音, 新世界.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986460"
+    },
+    {
+      "english": "Speak up, stand out.",
+      "chinese": "站出来, 很显眼.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986461"
+    },
+    {
+      "english": "Eat well, speak well, live well.",
+      "chinese": "吃好, 说好, 过好.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986462"
+    },
+    {
+      "english": "Talk is cheap, practice is gold.",
+      "chinese": "光说空, 练习才真.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986463"
+    },
+    {
+      "english": "Hear it, say it, remember it.",
+      "chinese": "听见, 说出, 记住.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986464"
+    },
+    {
+      "english": "One phrase, one smile.",
+      "chinese": "一句话, 一抹笑.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986465"
+    },
+    {
+      "english": "Your mouth, your superpower.",
+      "chinese": "你的嘴, 你的超能力.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986466"
+    },
+    {
+      "english": "Be brave, make mistakes.",
+      "chinese": "勇敢点, 犯错误.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986468"
+    },
+    {
+      "english": "Funny words, open doors.",
+      "chinese": "有趣词, 开门路.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986469"
+    },
+    {
+      "english": "Don't just learn, live it.",
+      "chinese": "别只学, 要生活.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986470"
+    },
+    {
+      "english": "Speak slowly, think fast.",
+      "chinese": "慢点说, 快点想.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986471"
+    },
+    {
+      "english": "Language is a game, let's play.",
+      "chinese": "语言游戏, 来玩吧.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986472"
+    },
+    {
+      "english": "Curious mind, growing voice.",
+      "chinese": "好奇心, 声音长.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986473"
+    },
+    {
+      "english": "Words are seeds, plant them.",
+      "chinese": "词语是种, 种下去.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986475"
+    },
+    {
+      "english": "Don't be afraid, be ready.",
+      "chinese": "别怕了, 准备好.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986476"
+    },
+    {
+      "english": "Laugh often, speak often.",
+      "chinese": "常大笑, 常开口.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986477"
+    },
+    {
+      "english": "Connect the dots, with words.",
+      "chinese": "连点线, 用词语.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986478"
+    },
+    {
+      "english": "Simple words, powerful impact.",
+      "chinese": "简单词, 力量大.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986479"
+    },
+    {
+      "english": "Speak your truth, in Chinese.",
+      "chinese": "说真话, 用中文.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986480"
+    },
+    {
+      "english": "Got it? Say it. Understand.",
+      "chinese": "懂了? 说出来. 理解.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986481"
+    },
+    {
+      "english": "Joyful learning, happy speaking.",
+      "chinese": "乐中学, 乐开口.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986482"
+    },
+    {
+      "english": "Your progress, is our joy.",
+      "chinese": "你进步, 我开心.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986483"
+    },
+    {
+      "english": "Feel the rhythm, speak the flow.",
+      "chinese": "感觉节奏, 说得溜.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986484"
+    },
+    {
+      "english": "Be playful, learn Chinese.",
+      "chinese": "开心点, 学中文.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986485"
+    },
+    {
+      "english": "No fear, just clear.",
+      "chinese": "没在怕, 就清楚.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986486"
+    },
+    {
+      "english": "Hear the sound, make it yours.",
+      "chinese": "听声音, 成你的.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986487"
+    },
+    {
+      "english": "Big dreams, small words.",
+      "chinese": "大梦想, 小词语.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986488"
+    },
+    {
+      "english": "Speak the culture, feel the life.",
+      "chinese": "说文化, 感受生活.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986489"
+    },
+    {
+      "english": "Your words, are your wings.",
+      "chinese": "你的话, 你的翅膀.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986490"
+    },
+    {
+      "english": "Try once, twice, always.",
+      "chinese": "试一次, 再二次, 永远.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986491"
+    },
+    {
+      "english": "Have fun, learn faster.",
+      "chinese": "玩得嗨, 学得快.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986492"
+    },
+    {
+      "english": "Your voice, a new world.",
+      "chinese": "你的声音, 新世界.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986493"
+    },
+    {
+      "english": "Speak up, stand out.",
+      "chinese": "站出来, 很显眼.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986495"
+    },
+    {
+      "english": "Eat well, speak well, live well.",
+      "chinese": "吃好, 说好, 过好.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986496"
+    },
+    {
+      "english": "Talk is cheap, practice is gold.",
+      "chinese": "光说空, 练习才真.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986497"
+    },
+    {
+      "english": "Hear it, say it, remember it.",
+      "chinese": "听见, 说出, 记住.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986498"
+    },
+    {
+      "english": "One phrase, one smile.",
+      "chinese": "一句话, 一抹笑.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986499"
+    },
+    {
+      "english": "Your mouth, your superpower.",
+      "chinese": "你的嘴, 你的超能力.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986500"
+    },
+    {
+      "english": "Be brave, make mistakes.",
+      "chinese": "勇敢点, 犯错误.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986502"
+    },
+    {
+      "english": "Funny words, open doors.",
+      "chinese": "有趣词, 开门路.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986504"
+    },
+    {
+      "english": "Don't just learn, live it.",
+      "chinese": "别只学, 要生活.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986505"
+    },
+    {
+      "english": "Speak slowly, think fast.",
+      "chinese": "慢点说, 快点想.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986506"
+    },
+    {
+      "english": "Language is a game, let's play.",
+      "chinese": "语言游戏, 来玩吧.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986507"
+    },
+    {
+      "english": "Curious mind, growing voice.",
+      "chinese": "好奇心, 声音长.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986508"
+    },
+    {
+      "english": "Words are seeds, plant them.",
+      "chinese": "词语是种, 种下去.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986509"
+    },
+    {
+      "english": "Don't be afraid, be ready.",
+      "chinese": "别怕了, 准备好.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986510"
+    },
+    {
+      "english": "Laugh often, speak often.",
+      "chinese": "常大笑, 常开口.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986511"
+    },
+    {
+      "english": "Connect the dots, with words.",
+      "chinese": "连点线, 用词语.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986512"
+    },
+    {
+      "english": "Simple words, powerful impact.",
+      "chinese": "简单词, 力量大.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986513"
+    },
+    {
+      "english": "Speak your truth, in Chinese.",
+      "chinese": "说真话, 用中文.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986514"
+    },
+    {
+      "english": "Got it? Say it. Understand.",
+      "chinese": "懂了? 说出来. 理解.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986515"
+    },
+    {
+      "english": "Joyful learning, happy speaking.",
+      "chinese": "乐中学, 乐开口.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986516"
+    },
+    {
+      "english": "Your progress, is our joy.",
+      "chinese": "你进步, 我开心.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986517"
+    },
+    {
+      "english": "Feel the rhythm, speak the flow.",
+      "chinese": "感觉节奏, 说得溜.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986518"
+    },
+    {
+      "english": "Be playful, learn Chinese.",
+      "chinese": "开心点, 学中文.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986519"
+    },
+    {
+      "english": "No fear, just clear.",
+      "chinese": "没在怕, 就清楚.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986520"
+    },
+    {
+      "english": "Hear the sound, make it yours.",
+      "chinese": "听声音, 成你的.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986521"
+    },
+    {
+      "english": "Big dreams, small words.",
+      "chinese": "大梦想, 小词语.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986522"
+    },
+    {
+      "english": "Speak the culture, feel the life.",
+      "chinese": "说文化, 感受生活.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986523"
+    },
+    {
+      "english": "Your words, are your wings.",
+      "chinese": "你的话, 你的翅膀.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986524"
+    },
+    {
+      "english": "Try once, twice, always.",
+      "chinese": "试一次, 再二次, 永远.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986525"
+    },
+    {
+      "english": "Have fun, learn faster.",
+      "chinese": "玩得嗨, 学得快.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986526"
+    },
+    {
+      "english": "Your voice, a new world.",
+      "chinese": "你的声音, 新世界.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986527"
+    },
+    {
+      "english": "Speak up, stand out.",
+      "chinese": "站出来, 很显眼.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986528"
+    },
+    {
+      "english": "Eat well, speak well, live well.",
+      "chinese": "吃好, 说好, 过好.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986529"
+    },
+    {
+      "english": "Talk is cheap, practice is gold.",
+      "chinese": "光说空, 练习才真.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986530"
+    },
+    {
+      "english": "Hear it, say it, remember it.",
+      "chinese": "听见, 说出, 记住.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986532"
+    },
+    {
+      "english": "One phrase, one smile.",
+      "chinese": "一句话, 一抹笑.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986533"
+    },
+    {
+      "english": "Your mouth, your superpower.",
+      "chinese": "你的嘴, 你的超能力.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986534"
+    },
+    {
+      "english": "Be brave, make mistakes.",
+      "chinese": "勇敢点, 犯错误.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-04T06:36:29.986535"
     }
   ],
-  "last_updated": "2026-10-03T05:59:40.298303"
+  "last_updated": "2026-10-04T06:36:29.986537"
 }
