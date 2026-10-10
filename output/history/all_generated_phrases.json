@@ -55019,7 +55019,787 @@
       "chinese": "相信自己，你能行。",
       "category": "Strength",
       "generated_at": "2026-10-09T07:06:54.111247"
+    },
+    {
+      "english": "Every day, new chance.",
+      "chinese": "每一天, 新机会。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056334"
+    },
+    {
+      "english": "Inner strength, outer peace.",
+      "chinese": "内在的力量, 外在的平静。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056345"
+    },
+    {
+      "english": "See challenge, find opportunity.",
+      "chinese": "看见挑战, 找到机会。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056347"
+    },
+    {
+      "english": "Kindness echoes, always.",
+      "chinese": "善意会回响, 永远。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056348"
+    },
+    {
+      "english": "Effort counts, always.",
+      "chinese": "努力很重要, 总是。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056349"
+    },
+    {
+      "english": "Learn to adapt, thrive.",
+      "chinese": "学会适应, 就能生存。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056351"
+    },
+    {
+      "english": "Quiet focus, strong results.",
+      "chinese": "安静专注, 强劲成果。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056352"
+    },
+    {
+      "english": "Gratitude opens doors.",
+      "chinese": "感恩会开启门。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056355"
+    },
+    {
+      "english": "Steady pace, reach goal.",
+      "chinese": "稳健的步伐, 到达目标。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056357"
+    },
+    {
+      "english": "Small acts, great impact.",
+      "chinese": "小小的行动, 伟大的影响。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056358"
+    },
+    {
+      "english": "Seek joy, spread it.",
+      "chinese": "寻找快乐, 传播它。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056359"
+    },
+    {
+      "english": "Courage grows, with action.",
+      "chinese": "勇气增长, 伴随行动。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056360"
+    },
+    {
+      "english": "One focus, sharp skill.",
+      "chinese": "一个焦点, 精湛技能。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056362"
+    },
+    {
+      "english": "Embrace change, flow with it.",
+      "chinese": "拥抱改变, 随它流动。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056363"
+    },
+    {
+      "english": "Speak truth, gently.",
+      "chinese": "说出真相, 温柔地。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056364"
+    },
+    {
+      "english": "Action plants seed.",
+      "chinese": "行动种下种子。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056365"
+    },
+    {
+      "english": "Growth is inside.",
+      "chinese": "成长在内心。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056366"
+    },
+    {
+      "english": "Know yourself, grow.",
+      "chinese": "认识自己, 然后成长。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056367"
+    },
+    {
+      "english": "Kindness, a silent strength.",
+      "chinese": "仁慈, 一种无声力量。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056368"
+    },
+    {
+      "english": "Clarity comes, after fog.",
+      "chinese": "清晰出现, 雾散之后。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056369"
+    },
+    {
+      "english": "Respect others, be respected.",
+      "chinese": "尊重别人, 获得尊重。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056371"
+    },
+    {
+      "english": "Simple living, rich mind.",
+      "chinese": "简朴生活, 富足思想。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056372"
+    },
+    {
+      "english": "Seek wisdom, not just facts.",
+      "chinese": "寻求智慧, 不只是事实。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056373"
+    },
+    {
+      "english": "Every day, new chance.",
+      "chinese": "每一天, 新机会。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056374"
+    },
+    {
+      "english": "Inner strength, outer peace.",
+      "chinese": "内在的力量, 外在的平静。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056375"
+    },
+    {
+      "english": "See challenge, find opportunity.",
+      "chinese": "看见挑战, 找到机会。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056376"
+    },
+    {
+      "english": "Kindness echoes, always.",
+      "chinese": "善意会回响, 永远。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056377"
+    },
+    {
+      "english": "Effort counts, always.",
+      "chinese": "努力很重要, 总是。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056379"
+    },
+    {
+      "english": "Learn to adapt, thrive.",
+      "chinese": "学会适应, 就能生存。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056380"
+    },
+    {
+      "english": "Quiet focus, strong results.",
+      "chinese": "安静专注, 强劲成果。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056381"
+    },
+    {
+      "english": "Gratitude opens doors.",
+      "chinese": "感恩会开启门。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056382"
+    },
+    {
+      "english": "Steady pace, reach goal.",
+      "chinese": "稳健的步伐, 到达目标。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056383"
+    },
+    {
+      "english": "Small acts, great impact.",
+      "chinese": "小小的行动, 伟大的影响。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056384"
+    },
+    {
+      "english": "Seek joy, spread it.",
+      "chinese": "寻找快乐, 传播它。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056385"
+    },
+    {
+      "english": "Courage grows, with action.",
+      "chinese": "勇气增长, 伴随行动。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056386"
+    },
+    {
+      "english": "One focus, sharp skill.",
+      "chinese": "一个焦点, 精湛技能。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056387"
+    },
+    {
+      "english": "Embrace change, flow with it.",
+      "chinese": "拥抱改变, 随它流动。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056388"
+    },
+    {
+      "english": "Speak truth, gently.",
+      "chinese": "说出真相, 温柔地。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056389"
+    },
+    {
+      "english": "Action plants seed.",
+      "chinese": "行动种下种子。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056390"
+    },
+    {
+      "english": "Growth is inside.",
+      "chinese": "成长在内心。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056391"
+    },
+    {
+      "english": "Know yourself, grow.",
+      "chinese": "认识自己, 然后成长。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056392"
+    },
+    {
+      "english": "Kindness, a silent strength.",
+      "chinese": "仁慈, 一种无声力量。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056393"
+    },
+    {
+      "english": "Clarity comes, after fog.",
+      "chinese": "清晰出现, 雾散之后。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056394"
+    },
+    {
+      "english": "Respect others, be respected.",
+      "chinese": "尊重别人, 获得尊重。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056395"
+    },
+    {
+      "english": "Simple living, rich mind.",
+      "chinese": "简朴生活, 富足思想。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056396"
+    },
+    {
+      "english": "Seek wisdom, not just facts.",
+      "chinese": "寻求智慧, 不只是事实。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056397"
+    },
+    {
+      "english": "Every day, new chance.",
+      "chinese": "每一天, 新机会。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056399"
+    },
+    {
+      "english": "Inner strength, outer peace.",
+      "chinese": "内在的力量, 外在的平静。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056400"
+    },
+    {
+      "english": "See challenge, find opportunity.",
+      "chinese": "看见挑战, 找到机会。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056401"
+    },
+    {
+      "english": "Kindness echoes, always.",
+      "chinese": "善意会回响, 永远。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056402"
+    },
+    {
+      "english": "Effort counts, always.",
+      "chinese": "努力很重要, 总是。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056403"
+    },
+    {
+      "english": "Learn to adapt, thrive.",
+      "chinese": "学会适应, 就能生存。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056404"
+    },
+    {
+      "english": "Quiet focus, strong results.",
+      "chinese": "安静专注, 强劲成果。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056405"
+    },
+    {
+      "english": "Gratitude opens doors.",
+      "chinese": "感恩会开启门。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056407"
+    },
+    {
+      "english": "Steady pace, reach goal.",
+      "chinese": "稳健的步伐, 到达目标。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056408"
+    },
+    {
+      "english": "Small acts, great impact.",
+      "chinese": "小小的行动, 伟大的影响。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056409"
+    },
+    {
+      "english": "Seek joy, spread it.",
+      "chinese": "寻找快乐, 传播它。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056410"
+    },
+    {
+      "english": "Courage grows, with action.",
+      "chinese": "勇气增长, 伴随行动。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056411"
+    },
+    {
+      "english": "One focus, sharp skill.",
+      "chinese": "一个焦点, 精湛技能。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056412"
+    },
+    {
+      "english": "Embrace change, flow with it.",
+      "chinese": "拥抱改变, 随它流动。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056413"
+    },
+    {
+      "english": "Speak truth, gently.",
+      "chinese": "说出真相, 温柔地。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056414"
+    },
+    {
+      "english": "Action plants seed.",
+      "chinese": "行动种下种子。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056415"
+    },
+    {
+      "english": "Growth is inside.",
+      "chinese": "成长在内心。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056416"
+    },
+    {
+      "english": "Know yourself, grow.",
+      "chinese": "认识自己, 然后成长。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056417"
+    },
+    {
+      "english": "Kindness, a silent strength.",
+      "chinese": "仁慈, 一种无声力量。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056419"
+    },
+    {
+      "english": "Clarity comes, after fog.",
+      "chinese": "清晰出现, 雾散之后。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056420"
+    },
+    {
+      "english": "Respect others, be respected.",
+      "chinese": "尊重别人, 获得尊重。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056421"
+    },
+    {
+      "english": "Simple living, rich mind.",
+      "chinese": "简朴生活, 富足思想。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056422"
+    },
+    {
+      "english": "Seek wisdom, not just facts.",
+      "chinese": "寻求智慧, 不只是事实。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056423"
+    },
+    {
+      "english": "Every day, new chance.",
+      "chinese": "每一天, 新机会。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056424"
+    },
+    {
+      "english": "Inner strength, outer peace.",
+      "chinese": "内在的力量, 外在的平静。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056425"
+    },
+    {
+      "english": "See challenge, find opportunity.",
+      "chinese": "看见挑战, 找到机会。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056426"
+    },
+    {
+      "english": "Kindness echoes, always.",
+      "chinese": "善意会回响, 永远。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056427"
+    },
+    {
+      "english": "Effort counts, always.",
+      "chinese": "努力很重要, 总是。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056428"
+    },
+    {
+      "english": "Learn to adapt, thrive.",
+      "chinese": "学会适应, 就能生存。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056429"
+    },
+    {
+      "english": "Quiet focus, strong results.",
+      "chinese": "安静专注, 强劲成果。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056430"
+    },
+    {
+      "english": "Gratitude opens doors.",
+      "chinese": "感恩会开启门。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056431"
+    },
+    {
+      "english": "Steady pace, reach goal.",
+      "chinese": "稳健的步伐, 到达目标。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056432"
+    },
+    {
+      "english": "Small acts, great impact.",
+      "chinese": "小小的行动, 伟大的影响。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056433"
+    },
+    {
+      "english": "Seek joy, spread it.",
+      "chinese": "寻找快乐, 传播它。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056434"
+    },
+    {
+      "english": "Courage grows, with action.",
+      "chinese": "勇气增长, 伴随行动。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056435"
+    },
+    {
+      "english": "One focus, sharp skill.",
+      "chinese": "一个焦点, 精湛技能。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056436"
+    },
+    {
+      "english": "Embrace change, flow with it.",
+      "chinese": "拥抱改变, 随它流动。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056437"
+    },
+    {
+      "english": "Speak truth, gently.",
+      "chinese": "说出真相, 温柔地。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056438"
+    },
+    {
+      "english": "Action plants seed.",
+      "chinese": "行动种下种子。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056439"
+    },
+    {
+      "english": "Growth is inside.",
+      "chinese": "成长在内心。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056440"
+    },
+    {
+      "english": "Know yourself, grow.",
+      "chinese": "认识自己, 然后成长。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056441"
+    },
+    {
+      "english": "Kindness, a silent strength.",
+      "chinese": "仁慈, 一种无声力量。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056442"
+    },
+    {
+      "english": "Clarity comes, after fog.",
+      "chinese": "清晰出现, 雾散之后。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056443"
+    },
+    {
+      "english": "Respect others, be respected.",
+      "chinese": "尊重别人, 获得尊重。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056444"
+    },
+    {
+      "english": "Simple living, rich mind.",
+      "chinese": "简朴生活, 富足思想。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056445"
+    },
+    {
+      "english": "Seek wisdom, not just facts.",
+      "chinese": "寻求智慧, 不只是事实。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056447"
+    },
+    {
+      "english": "Every day, new chance.",
+      "chinese": "每一天, 新机会。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056448"
+    },
+    {
+      "english": "Inner strength, outer peace.",
+      "chinese": "内在的力量, 外在的平静。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056449"
+    },
+    {
+      "english": "See challenge, find opportunity.",
+      "chinese": "看见挑战, 找到机会。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056450"
+    },
+    {
+      "english": "Kindness echoes, always.",
+      "chinese": "善意会回响, 永远。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056451"
+    },
+    {
+      "english": "Effort counts, always.",
+      "chinese": "努力很重要, 总是。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056452"
+    },
+    {
+      "english": "Learn to adapt, thrive.",
+      "chinese": "学会适应, 就能生存。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056453"
+    },
+    {
+      "english": "Quiet focus, strong results.",
+      "chinese": "安静专注, 强劲成果。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056454"
+    },
+    {
+      "english": "Gratitude opens doors.",
+      "chinese": "感恩会开启门。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056455"
+    },
+    {
+      "english": "Steady pace, reach goal.",
+      "chinese": "稳健的步伐, 到达目标。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056456"
+    },
+    {
+      "english": "Small acts, great impact.",
+      "chinese": "小小的行动, 伟大的影响。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056457"
+    },
+    {
+      "english": "Seek joy, spread it.",
+      "chinese": "寻找快乐, 传播它。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056458"
+    },
+    {
+      "english": "Courage grows, with action.",
+      "chinese": "勇气增长, 伴随行动。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056459"
+    },
+    {
+      "english": "One focus, sharp skill.",
+      "chinese": "一个焦点, 精湛技能。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056460"
+    },
+    {
+      "english": "Embrace change, flow with it.",
+      "chinese": "拥抱改变, 随它流动。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056461"
+    },
+    {
+      "english": "Speak truth, gently.",
+      "chinese": "说出真相, 温柔地。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056462"
+    },
+    {
+      "english": "Action plants seed.",
+      "chinese": "行动种下种子。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056463"
+    },
+    {
+      "english": "Growth is inside.",
+      "chinese": "成长在内心。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056464"
+    },
+    {
+      "english": "Know yourself, grow.",
+      "chinese": "认识自己, 然后成长。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056465"
+    },
+    {
+      "english": "Kindness, a silent strength.",
+      "chinese": "仁慈, 一种无声力量。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056466"
+    },
+    {
+      "english": "Clarity comes, after fog.",
+      "chinese": "清晰出现, 雾散之后。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056467"
+    },
+    {
+      "english": "Respect others, be respected.",
+      "chinese": "尊重别人, 获得尊重。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056468"
+    },
+    {
+      "english": "Simple living, rich mind.",
+      "chinese": "简朴生活, 富足思想。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056469"
+    },
+    {
+      "english": "Seek wisdom, not just facts.",
+      "chinese": "寻求智慧, 不只是事实。",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056470"
+    },
+    {
+      "english": "Every step counts, keep moving.",
+      "chinese": "每一步, 都算数, 继续前进.",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056471"
+    },
+    {
+      "english": "Learn from mistakes, then forget.",
+      "chinese": "从错误中学习, 然后忘记.",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056473"
+    },
+    {
+      "english": "Focus on the journey, enjoy it.",
+      "chinese": "专注旅程, 享受它.",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056474"
+    },
+    {
+      "english": "Open mind, full heart, ready.",
+      "chinese": "心开放, 心充满, 就准备好.",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056475"
+    },
+    {
+      "english": "Seek understanding, then act.",
+      "chinese": "先寻求理解, 再行动.",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056476"
+    },
+    {
+      "english": "Kindness costs nothing, but means much.",
+      "chinese": "善良不花钱, 但意义重大.",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056477"
+    },
+    {
+      "english": "Persistence wins, always remember.",
+      "chinese": "坚持就赢, 永远记得.",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056478"
+    },
+    {
+      "english": "New day, new chances.",
+      "chinese": "新一天, 新机会.",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056479"
+    },
+    {
+      "english": "Curiosity fuels discovery.",
+      "chinese": "好奇心, 驱动发现.",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056480"
+    },
+    {
+      "english": "Listen to others, learn their world.",
+      "chinese": "听别人说, 了解他们.",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056481"
+    },
+    {
+      "english": "Effort planted, success harvested.",
+      "chinese": "种下努力, 收获成功.",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056482"
+    },
+    {
+      "english": "Find your rhythm, flow with it.",
+      "chinese": "找到你的节奏, 随之流动.",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056483"
+    },
+    {
+      "english": "Small kindness, big ripple.",
+      "chinese": "小小的善意, 大大的涟漪.",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056485"
+    },
+    {
+      "english": "Dare to try, don't fear failure.",
+      "chinese": "敢于尝试, 无惧失败.",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056486"
+    },
+    {
+      "english": "Patience brings rewards.",
+      "chinese": "耐心带来回报.",
+      "category": "Success",
+      "generated_at": "2026-10-10T06:40:27.056487"
     }
   ],
-  "last_updated": "2026-10-09T07:06:54.111250"
+  "last_updated": "2026-10-10T06:40:27.056488"
 }
