@@ -55799,7 +55799,787 @@
       "chinese": "耐心带来回报.",
       "category": "Success",
       "generated_at": "2026-10-10T06:40:27.056487"
+    },
+    {
+      "english": "Thanks for making me smile.",
+      "chinese": "谢谢你，让我微笑。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435792"
+    },
+    {
+      "english": "Grateful for your kindness.",
+      "chinese": "感激你的善良。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435808"
+    },
+    {
+      "english": "So lucky to have you.",
+      "chinese": "有你真幸运。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435809"
+    },
+    {
+      "english": "My world, brighter with you.",
+      "chinese": "我的世界，因你更亮。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435811"
+    },
+    {
+      "english": "Appreciate your energy.",
+      "chinese": "欣赏你的活力。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435812"
+    },
+    {
+      "english": "Thank you, truly.",
+      "chinese": "谢谢你，真心。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435813"
+    },
+    {
+      "english": "Your support, means everything.",
+      "chinese": "你的支持，意味着一切。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435815"
+    },
+    {
+      "english": "Grateful for our moments.",
+      "chinese": "感激我们的时光。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435820"
+    },
+    {
+      "english": "Thanks for being you.",
+      "chinese": "谢谢你，做你自己。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435822"
+    },
+    {
+      "english": "My heart, full of thanks.",
+      "chinese": "我心里，充满感谢。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435823"
+    },
+    {
+      "english": "So thankful for your light.",
+      "chinese": "感激你的光芒。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435824"
+    },
+    {
+      "english": "You're amazing, really.",
+      "chinese": "你太棒了，真的。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435825"
+    },
+    {
+      "english": "Thanks for sharing your world.",
+      "chinese": "谢谢你，分享你的世界。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435826"
+    },
+    {
+      "english": "Your kindness, a treasure.",
+      "chinese": "你的善良，是宝藏。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435827"
+    },
+    {
+      "english": "Grateful for every moment.",
+      "chinese": "感激每一个瞬间。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435828"
+    },
+    {
+      "english": "You brighten my days.",
+      "chinese": "你点亮我的日子。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435830"
+    },
+    {
+      "english": "Thank you for everything.",
+      "chinese": "谢谢你，所有的一切。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435831"
+    },
+    {
+      "english": "Your smile, a gift to me.",
+      "chinese": "你的笑容，我的礼物。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435832"
+    },
+    {
+      "english": "So thankful for your heart.",
+      "chinese": "感激你的心。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435833"
+    },
+    {
+      "english": "You make me feel seen.",
+      "chinese": "你让我感到被看见。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435834"
+    },
+    {
+      "english": "Thanks for being my rock.",
+      "chinese": "谢谢你，我的依靠。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435835"
+    },
+    {
+      "english": "You're wonderful, truly.",
+      "chinese": "你真棒，确实。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435836"
+    },
+    {
+      "english": "Grateful for your warmth.",
+      "chinese": "感激你的温暖。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435837"
+    },
+    {
+      "english": "You add joy to life.",
+      "chinese": "你给生活添乐趣。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435837"
+    },
+    {
+      "english": "Thanks for your sweet words.",
+      "chinese": "谢谢你，甜言蜜语。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435838"
+    },
+    {
+      "english": "My thanks, to you.",
+      "chinese": "我的感谢，给你。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435839"
+    },
+    {
+      "english": "So glad we met.",
+      "chinese": "很高兴我们相遇。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435840"
+    },
+    {
+      "english": "Thanks for your understanding.",
+      "chinese": "谢谢你的理解。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435841"
+    },
+    {
+      "english": "Grateful for your laughter.",
+      "chinese": "感激你的笑声。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435842"
+    },
+    {
+      "english": "Thanks for being so kind.",
+      "chinese": "谢谢你，这么好。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435843"
+    },
+    {
+      "english": "Thanks for making me smile.",
+      "chinese": "谢谢你，让我微笑。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435844"
+    },
+    {
+      "english": "Grateful for your kindness.",
+      "chinese": "感激你的善良。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435845"
+    },
+    {
+      "english": "So lucky to have you.",
+      "chinese": "有你真幸运。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435847"
+    },
+    {
+      "english": "My world, brighter with you.",
+      "chinese": "我的世界，因你更亮。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435848"
+    },
+    {
+      "english": "Appreciate your energy.",
+      "chinese": "欣赏你的活力。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435849"
+    },
+    {
+      "english": "Thank you, truly.",
+      "chinese": "谢谢你，真心。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435850"
+    },
+    {
+      "english": "Your support, means everything.",
+      "chinese": "你的支持，意味着一切。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435851"
+    },
+    {
+      "english": "Grateful for our moments.",
+      "chinese": "感激我们的时光。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435852"
+    },
+    {
+      "english": "Thanks for being you.",
+      "chinese": "谢谢你，做你自己。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435853"
+    },
+    {
+      "english": "My heart, full of thanks.",
+      "chinese": "我心里，充满感谢。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435855"
+    },
+    {
+      "english": "So thankful for your light.",
+      "chinese": "感激你的光芒。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435856"
+    },
+    {
+      "english": "You're amazing, really.",
+      "chinese": "你太棒了，真的。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435857"
+    },
+    {
+      "english": "Thanks for sharing your world.",
+      "chinese": "谢谢你，分享你的世界。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435858"
+    },
+    {
+      "english": "Your kindness, a treasure.",
+      "chinese": "你的善良，是宝藏。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435859"
+    },
+    {
+      "english": "Grateful for every moment.",
+      "chinese": "感激每一个瞬间。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435860"
+    },
+    {
+      "english": "You brighten my days.",
+      "chinese": "你点亮我的日子。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435861"
+    },
+    {
+      "english": "Thank you for everything.",
+      "chinese": "谢谢你，所有的一切。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435862"
+    },
+    {
+      "english": "Your smile, a gift to me.",
+      "chinese": "你的笑容，我的礼物。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435863"
+    },
+    {
+      "english": "So thankful for your heart.",
+      "chinese": "感激你的心。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435864"
+    },
+    {
+      "english": "You make me feel seen.",
+      "chinese": "你让我感到被看见。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435865"
+    },
+    {
+      "english": "Thanks for being my rock.",
+      "chinese": "谢谢你，我的依靠。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435867"
+    },
+    {
+      "english": "You're wonderful, truly.",
+      "chinese": "你真棒，确实。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435868"
+    },
+    {
+      "english": "Grateful for your warmth.",
+      "chinese": "感激你的温暖。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435869"
+    },
+    {
+      "english": "You add joy to life.",
+      "chinese": "你给生活添乐趣。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435869"
+    },
+    {
+      "english": "Thanks for your sweet words.",
+      "chinese": "谢谢你，甜言蜜语。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435870"
+    },
+    {
+      "english": "My thanks, to you.",
+      "chinese": "我的感谢，给你。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435871"
+    },
+    {
+      "english": "So glad we met.",
+      "chinese": "很高兴我们相遇。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435873"
+    },
+    {
+      "english": "Thanks for your understanding.",
+      "chinese": "谢谢你的理解。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435874"
+    },
+    {
+      "english": "Grateful for your laughter.",
+      "chinese": "感激你的笑声。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435875"
+    },
+    {
+      "english": "Thanks for being so kind.",
+      "chinese": "谢谢你，这么好。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435876"
+    },
+    {
+      "english": "Thanks for making me smile.",
+      "chinese": "谢谢你，让我微笑。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435877"
+    },
+    {
+      "english": "Grateful for your kindness.",
+      "chinese": "感激你的善良。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435878"
+    },
+    {
+      "english": "So lucky to have you.",
+      "chinese": "有你真幸运。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435879"
+    },
+    {
+      "english": "My world, brighter with you.",
+      "chinese": "我的世界，因你更亮。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435881"
+    },
+    {
+      "english": "Appreciate your energy.",
+      "chinese": "欣赏你的活力。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435882"
+    },
+    {
+      "english": "Thank you, truly.",
+      "chinese": "谢谢你，真心。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435883"
+    },
+    {
+      "english": "Your support, means everything.",
+      "chinese": "你的支持，意味着一切。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435884"
+    },
+    {
+      "english": "Grateful for our moments.",
+      "chinese": "感激我们的时光。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435885"
+    },
+    {
+      "english": "Thanks for being you.",
+      "chinese": "谢谢你，做你自己。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435886"
+    },
+    {
+      "english": "My heart, full of thanks.",
+      "chinese": "我心里，充满感谢。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435887"
+    },
+    {
+      "english": "So thankful for your light.",
+      "chinese": "感激你的光芒。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435889"
+    },
+    {
+      "english": "You're amazing, really.",
+      "chinese": "你太棒了，真的。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435890"
+    },
+    {
+      "english": "Thanks for sharing your world.",
+      "chinese": "谢谢你，分享你的世界。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435890"
+    },
+    {
+      "english": "Your kindness, a treasure.",
+      "chinese": "你的善良，是宝藏。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435891"
+    },
+    {
+      "english": "Grateful for every moment.",
+      "chinese": "感激每一个瞬间。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435892"
+    },
+    {
+      "english": "You brighten my days.",
+      "chinese": "你点亮我的日子。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435893"
+    },
+    {
+      "english": "Thank you for everything.",
+      "chinese": "谢谢你，所有的一切。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435894"
+    },
+    {
+      "english": "Your smile, a gift to me.",
+      "chinese": "你的笑容，我的礼物。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435895"
+    },
+    {
+      "english": "So thankful for your heart.",
+      "chinese": "感激你的心。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435896"
+    },
+    {
+      "english": "You make me feel seen.",
+      "chinese": "你让我感到被看见。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435897"
+    },
+    {
+      "english": "Thanks for being my rock.",
+      "chinese": "谢谢你，我的依靠。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435898"
+    },
+    {
+      "english": "You're wonderful, truly.",
+      "chinese": "你真棒，确实。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435900"
+    },
+    {
+      "english": "Grateful for your warmth.",
+      "chinese": "感激你的温暖。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435901"
+    },
+    {
+      "english": "You add joy to life.",
+      "chinese": "你给生活添乐趣。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435902"
+    },
+    {
+      "english": "Thanks for your sweet words.",
+      "chinese": "谢谢你，甜言蜜语。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435903"
+    },
+    {
+      "english": "My thanks, to you.",
+      "chinese": "我的感谢，给你。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435904"
+    },
+    {
+      "english": "So glad we met.",
+      "chinese": "很高兴我们相遇。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435904"
+    },
+    {
+      "english": "Thanks for your understanding.",
+      "chinese": "谢谢你的理解。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435905"
+    },
+    {
+      "english": "Grateful for your laughter.",
+      "chinese": "感激你的笑声。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435906"
+    },
+    {
+      "english": "Thanks for being so kind.",
+      "chinese": "谢谢你，这么好。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435907"
+    },
+    {
+      "english": "Thanks for making me smile.",
+      "chinese": "谢谢你，让我微笑。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435909"
+    },
+    {
+      "english": "Grateful for your kindness.",
+      "chinese": "感激你的善良。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435910"
+    },
+    {
+      "english": "So lucky to have you.",
+      "chinese": "有你真幸运。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435911"
+    },
+    {
+      "english": "My world, brighter with you.",
+      "chinese": "我的世界，因你更亮。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435912"
+    },
+    {
+      "english": "Appreciate your energy.",
+      "chinese": "欣赏你的活力。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435912"
+    },
+    {
+      "english": "Thank you, truly.",
+      "chinese": "谢谢你，真心。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435913"
+    },
+    {
+      "english": "Your support, means everything.",
+      "chinese": "你的支持，意味着一切。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435914"
+    },
+    {
+      "english": "Grateful for our moments.",
+      "chinese": "感激我们的时光。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435915"
+    },
+    {
+      "english": "Thanks for being you.",
+      "chinese": "谢谢你，做你自己。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435916"
+    },
+    {
+      "english": "My heart, full of thanks.",
+      "chinese": "我心里，充满感谢。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435917"
+    },
+    {
+      "english": "So thankful for your light.",
+      "chinese": "感激你的光芒。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435918"
+    },
+    {
+      "english": "You're amazing, really.",
+      "chinese": "你太棒了，真的。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435919"
+    },
+    {
+      "english": "Thanks for sharing your world.",
+      "chinese": "谢谢你，分享你的世界。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435920"
+    },
+    {
+      "english": "Your kindness, a treasure.",
+      "chinese": "你的善良，是宝藏。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435921"
+    },
+    {
+      "english": "Grateful for every moment.",
+      "chinese": "感激每一个瞬间。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435922"
+    },
+    {
+      "english": "You brighten my days.",
+      "chinese": "你点亮我的日子。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435923"
+    },
+    {
+      "english": "Thank you for everything.",
+      "chinese": "谢谢你，所有的一切。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435924"
+    },
+    {
+      "english": "Your smile, a gift to me.",
+      "chinese": "你的笑容，我的礼物。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435925"
+    },
+    {
+      "english": "So thankful for your heart.",
+      "chinese": "感激你的心。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435925"
+    },
+    {
+      "english": "You make me feel seen.",
+      "chinese": "你让我感到被看见。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435926"
+    },
+    {
+      "english": "Thanks for being my rock.",
+      "chinese": "谢谢你，我的依靠。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435927"
+    },
+    {
+      "english": "You're wonderful, truly.",
+      "chinese": "你真棒，确实。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435928"
+    },
+    {
+      "english": "Grateful for your warmth.",
+      "chinese": "感激你的温暖。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435929"
+    },
+    {
+      "english": "You add joy to life.",
+      "chinese": "你给生活添乐趣。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435930"
+    },
+    {
+      "english": "Thanks for your sweet words.",
+      "chinese": "谢谢你，甜言蜜语。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435931"
+    },
+    {
+      "english": "My thanks, to you.",
+      "chinese": "我的感谢，给你。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435932"
+    },
+    {
+      "english": "So glad we met.",
+      "chinese": "很高兴我们相遇。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435933"
+    },
+    {
+      "english": "Thanks for your understanding.",
+      "chinese": "谢谢你的理解。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435934"
+    },
+    {
+      "english": "Grateful for your laughter.",
+      "chinese": "感激你的笑声。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435935"
+    },
+    {
+      "english": "Thanks for being so kind.",
+      "chinese": "谢谢你，这么好。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435936"
+    },
+    {
+      "english": "Thanks for making me smile.",
+      "chinese": "谢谢你，让我微笑。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435937"
+    },
+    {
+      "english": "Grateful for your kindness.",
+      "chinese": "感激你的善良。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435938"
+    },
+    {
+      "english": "So lucky to have you.",
+      "chinese": "有你真幸运。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435939"
+    },
+    {
+      "english": "My world, brighter with you.",
+      "chinese": "我的世界，因你更亮。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435940"
+    },
+    {
+      "english": "Appreciate your energy.",
+      "chinese": "欣赏你的活力。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435941"
+    },
+    {
+      "english": "Thank you, truly.",
+      "chinese": "谢谢你，真心。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435942"
+    },
+    {
+      "english": "Your support, means everything.",
+      "chinese": "你的支持，意味着一切。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435943"
+    },
+    {
+      "english": "Grateful for our moments.",
+      "chinese": "感激我们的时光。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435943"
+    },
+    {
+      "english": "Thanks for being you.",
+      "chinese": "谢谢你，做你自己。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435945"
+    },
+    {
+      "english": "My heart, full of thanks.",
+      "chinese": "我心里，充满感谢。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T06:47:01.435946"
     }
   ],
-  "last_updated": "2026-10-10T06:40:27.056488"
+  "last_updated": "2026-10-11T06:47:01.435948"
 }
