@@ -40,13 +40,7 @@ TARGET_DURATION_MINUTES = 20  # Target ~20-minute videos (120 unique phrases wit
 TARGET_PHRASES = 120  # Number of unique phrases to generate
 
 # English category names (for American/European learners)
-CATEGORIES_ENGLISH = [
-    "Motivation", "Love", "Success", "Wisdom", "Happiness",
-    "Self Improvement", "Gratitude", "Friendship", "Hope", "Creativity",
-    "Inner Peace", "Confidence", "Perseverance", "Inspiration", "Positive Life",
-    "Courage", "Kindness", "Patience", "Forgiveness", "Strength",
-    "Joy", "Balance", "Growth", "Purpose", "Mindfulness",
-]
+CATEGORIES_ENGLISH = list(CATEGORIES_CHINESE.keys())
 
 # Chinese translations for display
 CATEGORIES_CHINESE = {
@@ -75,6 +69,33 @@ CATEGORIES_CHINESE = {
     "Growth": "成长",
     "Purpose": "目标",
     "Mindfulness": "正念",
+
+    # 26-50: Practical Conversational & Real-World Life Scenarios
+    "Travel & Airport": "旅行与机场",
+    "Ordering Food & Dining": "点餐与用餐",
+    "Shopping & Prices": "购物与价格",
+    "Asking for Directions": "问路",
+    "Hotel & Accommodation": "酒店与住宿",
+    "Daily Routine": "日常生活",
+    "Meeting People & Greetings": "认识新朋友与问候",
+    "Emergency & Health": "紧急情况与健康",
+    "Public Transportation": "公共交通",
+    "Work & Office": "工作与办公室",
+    "Weather & Small Talk": "天气与闲聊",
+    "Coffee Shop & Bakery": "咖啡馆与面包店",
+    "Family & Home": "家庭与家居",
+    "Hobbies & Free Time": "爱好与休闲",
+    "Dating & Romance": "约会与浪漫",
+    "Phone Calls & Messages": "电话与短信",
+    "Banking & Money": "银行与金钱",
+    "Doctor & Pharmacy": "医生与药房",
+    "Sports & Fitness": "运动与健身",
+    "Celebrations & Parties": "庆祝活动与派对",
+    "Feelings & Emotions": "感受与情绪",
+    "Agreeing & Disagreeing": "同意与反对",
+    "Making Plans": "制定计划",
+    "Common Native Slang": "常用本土俚语",
+    "Cultural Traditions": "文化传统",
 }
 
 # Edge TTS voices
@@ -247,6 +268,37 @@ SUBTHEMES = [
     ("Reflections & Emotional Honesty", "Focus on expressing personal feelings, sincere reflections, patience, and deeper thoughts"),
     ("Practical Life Situations & Tips", "Focus on daily habits, real-world social scenarios, practical problem-solving, and actionable advice")
 ]
+
+
+def get_next_category(categories_dict: dict) -> str:
+    """Select the least recently used category to guarantee a smooth, non-repeating cycle"""
+    recent_file = HISTORY_DIR / "recent_categories.json"
+    recent = []
+    if recent_file.exists():
+        try:
+            with open(recent_file, "r", encoding="utf-8") as f:
+                recent = json.load(f)
+        except Exception:
+            recent = []
+
+    all_cats = list(categories_dict.keys())
+    cooldown = max(1, len(all_cats) - 10)
+    available = [c for c in all_cats if c not in recent[-cooldown:]]
+    if not available:
+        available = all_cats
+
+    chosen = random.choice(available)
+    recent.append(chosen)
+    if len(recent) > 100:
+        recent = recent[-100:]
+
+    try:
+        with open(recent_file, "w", encoding="utf-8") as f:
+            json.dump(recent, f, indent=2, ensure_ascii=False)
+    except Exception:
+        pass
+
+    return chosen
 
 
 def generate_phrases_for_longform(category_english: str, num_phrases: int = TARGET_PHRASES) -> list:
@@ -1191,7 +1243,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     """Generate complete long-form YouTube video with thumbnail and metadata"""
 
     if not category_english:
-        category_english = random.choice(CATEGORIES_ENGLISH)
+        category_english = get_next_category(CATEGORIES_CHINESE)
 
     # Use provided phrases count or default
     phrases_count = target_phrases if target_phrases else TARGET_PHRASES
