@@ -804,15 +804,20 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
         "C:/Windows/Fonts/segoeuib.ttf",
         "C:/Windows/Fonts/arialbd.ttf",
         "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
+        "/usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc",
+        "/usr/share/fonts/truetype/noto/NotoSans-Bold.ttf",
     ]
 
     chinese_font_paths = [
-        "C:/Windows/Fonts/msgothic.ttc",
-        "C:/Windows/Fonts/YuGothB.ttc",
-        "C:/Windows/Fonts/Meiryo.ttc",
+        "C:/Windows/Fonts/msyhbd.ttc",
+        "C:/Windows/Fonts/msyh.ttc",
+        "C:/Windows/Fonts/simhei.ttf",
+        "C:/Windows/Fonts/simsun.ttc",
         "/usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc",
         "/usr/share/fonts/noto-cjk/NotoSansCJK-Bold.ttc",
         "/usr/share/fonts/truetype/wqy/wqy-zenhei.ttc",
+        "/usr/share/fonts/truetype/wqy/wqy-microhei.ttc",
+        "C:/Windows/Fonts/msgothic.ttc",
     ]
 
     def load_font(font_paths, size):
@@ -832,7 +837,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
 
     english = phrase_data.get("english", "")
     chinese = phrase_data.get("chinese") or phrase_data.get("target") or phrase_data.get("foreign") or ""
-    romaji = phrase_data.get("romaji", "")
+    romaji = phrase_data.get("pinyin") or phrase_data.get("pronunciation") or phrase_data.get("romaji") or phrase_data.get("phonetic") or ""
 
     def wrap_text(text, font, max_width):
         words = text.split()
@@ -908,8 +913,9 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     cn_line_h = 100
     cn_total_h = len(cn_lines) * cn_line_h
     
-    # 3. Pinyin/Romaji Box
-    ro_text = f"[{romaji}]"
+    # 3. Pinyin/Transliteration Box
+    clean_pron = romaji.strip()
+    ro_text = clean_pron if (clean_pron.startswith("[") and clean_pron.endswith("]")) else f"[{clean_pron}]"
     ro_lines = wrap_text(ro_text, font_romaji, VIDEO_WIDTH - 400)
     ro_line_h = 60
     ro_total_h = len(ro_lines) * ro_line_h
