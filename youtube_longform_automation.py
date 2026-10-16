@@ -279,7 +279,13 @@ def get_next_category(categories_dict: dict) -> str:
     if recent_file.exists():
         try:
             with open(recent_file, "r", encoding="utf-8") as f:
-                recent = json.load(f)
+                data = json.load(f)
+                if isinstance(data, list):
+                    recent = data
+                elif isinstance(data, dict):
+                    recent = data.get("recent_categories") or data.get("last_3_days") or []
+                else:
+                    recent = []
         except Exception:
             recent = []
 
@@ -296,7 +302,11 @@ def get_next_category(categories_dict: dict) -> str:
 
     try:
         with open(recent_file, "w", encoding="utf-8") as f:
-            json.dump(recent, f, indent=2, ensure_ascii=False)
+            json.dump({
+                "recent_categories": recent,
+                "last_3_days": recent[-3:] if len(recent) >= 3 else recent,
+                "last_updated": datetime.now().isoformat()
+            }, f, indent=2, ensure_ascii=False)
     except Exception:
         pass
 
