@@ -1181,6 +1181,7 @@ Perfect for beginners and intermediate learners!
         f.write("\n" + "=" * 80 + "\n")
         f.write("🏷️ VIDEO TAGS (for YouTube):\n")
         f.write("-" * 80 + "\n")
+        brand_text = "Velocity Chinese"
         tags = [
             f"Learn Chinese",
             f"Chinese Phrases",
