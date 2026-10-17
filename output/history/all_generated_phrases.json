@@ -6815,7 +6815,727 @@
       "chinese": "看当地人怎么做。",
       "category": "Success",
       "generated_at": "2026-10-16T17:03:32.561344"
+    },
+    {
+      "english": "Home sweet home, I'm back.",
+      "chinese": "我回来了，还是家里好。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181629"
+    },
+    {
+      "english": "Welcome home, you're here!",
+      "chinese": "欢迎回家，你回来了！",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181638"
+    },
+    {
+      "english": "Is dinner ready yet?",
+      "chinese": "晚饭准备好了吗？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181641"
+    },
+    {
+      "english": "Let's eat together, shall we?",
+      "chinese": "咱们一起吃饭吧？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181643"
+    },
+    {
+      "english": "This tastes amazing, Mom!",
+      "chinese": "妈妈，这味道真棒！",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181644"
+    },
+    {
+      "english": "I'm so tired, need rest.",
+      "chinese": "我太累了，需要休息。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181646"
+    },
+    {
+      "english": "What are you doing now?",
+      "chinese": "你现在在做什么？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181648"
+    },
+    {
+      "english": "Come here for a moment.",
+      "chinese": "过来一下。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181652"
+    },
+    {
+      "english": "Can you help me with this?",
+      "chinese": "你能帮我这个吗？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181654"
+    },
+    {
+      "english": "It's quite late now, right?",
+      "chinese": "现在挺晚的了，对吧？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181656"
+    },
+    {
+      "english": "Don't forget to lock the door.",
+      "chinese": "别忘了锁门。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181658"
+    },
+    {
+      "english": "Turn off the lights, please.",
+      "chinese": "请关灯。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181660"
+    },
+    {
+      "english": "Let's watch TV together.",
+      "chinese": "我们一起看电视吧。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181662"
+    },
+    {
+      "english": "I miss my family so much.",
+      "chinese": "我好想我的家人。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181663"
+    },
+    {
+      "english": "Have you eaten your lunch?",
+      "chinese": "你吃午饭了吗？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181665"
+    },
+    {
+      "english": "This room is so messy.",
+      "chinese": "这个房间好乱啊。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181666"
+    },
+    {
+      "english": "Let's clean up this weekend.",
+      "chinese": "这个周末我们来打扫一下。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181668"
+    },
+    {
+      "english": "I'm going out for a bit.",
+      "chinese": "我出去一下。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181669"
+    },
+    {
+      "english": "Be careful when you go.",
+      "chinese": "你出去，小心点。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181671"
+    },
+    {
+      "english": "What's for breakfast tomorrow?",
+      "chinese": "明天早餐吃什么？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181672"
+    },
+    {
+      "english": "I need to go grocery shopping.",
+      "chinese": "我需要去买菜。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181674"
+    },
+    {
+      "english": "Did you finish your homework?",
+      "chinese": "你的作业做完了吗？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181675"
+    },
+    {
+      "english": "Don't make so much noise.",
+      "chinese": "别弄出这么大的声音。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181677"
+    },
+    {
+      "english": "I'm feeling a bit unwell.",
+      "chinese": "我感觉有点不舒服。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181678"
+    },
+    {
+      "english": "Get well soon, okay?",
+      "chinese": "快点好起来，好吗？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181680"
+    },
+    {
+      "english": "Let's have some tea.",
+      "chinese": "我们喝点茶吧。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181681"
+    },
+    {
+      "english": "This is a great idea!",
+      "chinese": "这是个好主意！",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181683"
+    },
+    {
+      "english": "Please close the window.",
+      "chinese": "请关窗户。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181685"
+    },
+    {
+      "english": "I'm heading to bed now.",
+      "chinese": "我准备去睡觉了。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181686"
+    },
+    {
+      "english": "Sleep well, good night.",
+      "chinese": "睡个好觉，晚安。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181688"
+    },
+    {
+      "english": "Whose turn is it, to cook?",
+      "chinese": "今天轮到谁做饭？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181690"
+    },
+    {
+      "english": "Can you pass me, the salt please?",
+      "chinese": "请递给我，盐可以吗？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181691"
+    },
+    {
+      "english": "What time, should we eat dinner?",
+      "chinese": "我们几点，吃晚饭好？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181693"
+    },
+    {
+      "english": "Is Dad home, yet?",
+      "chinese": "爸爸，到家了吗？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181695"
+    },
+    {
+      "english": "Did you call, Grandma today?",
+      "chinese": "今天给奶奶，打电话了吗？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181697"
+    },
+    {
+      "english": "Who is that visitor, at the door?",
+      "chinese": "门口那是，谁呀？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181698"
+    },
+    {
+      "english": "What should we buy, for dinner?",
+      "chinese": "晚饭买点，什么菜好？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181700"
+    },
+    {
+      "english": "Can you help me, tidy my room?",
+      "chinese": "你能帮我，收拾房间吗？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181702"
+    },
+    {
+      "english": "Where did you put, my keys?",
+      "chinese": "我的钥匙，你放哪儿了？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181703"
+    },
+    {
+      "english": "Is the TV remote, nearby?",
+      "chinese": "电视遥控器，在这附近吗？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181705"
+    },
+    {
+      "english": "What movie, do you want to watch?",
+      "chinese": "你想看，什么电影？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181706"
+    },
+    {
+      "english": "Whose turn is it, to do laundry?",
+      "chinese": "今天轮到，谁洗衣服？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181708"
+    },
+    {
+      "english": "Can you lower, the volume?",
+      "chinese": "能把声音，小点儿吗？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181710"
+    },
+    {
+      "english": "Is the AC on, yet?",
+      "chinese": "空调，开了吗？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181712"
+    },
+    {
+      "english": "What do you think, of this sofa?",
+      "chinese": "你觉得，这个沙发怎么样？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181713"
+    },
+    {
+      "english": "Did you water, the plants?",
+      "chinese": "你给植物，浇水了吗？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181716"
+    },
+    {
+      "english": "When are we leaving, for vacation?",
+      "chinese": "我们什么时候，出发去度假？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181717"
+    },
+    {
+      "english": "Do we have, enough milk?",
+      "chinese": "牛奶，够不够？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181719"
+    },
+    {
+      "english": "Can you help me, find my phone?",
+      "chinese": "你能帮我，找一下手机吗？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181720"
+    },
+    {
+      "english": "Is the door locked, properly?",
+      "chinese": "门锁好了，吗？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181722"
+    },
+    {
+      "english": "What time, does the store close?",
+      "chinese": "商店几点，关门？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181723"
+    },
+    {
+      "english": "Did you see, my glasses?",
+      "chinese": "我的眼镜，你看见了吗？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181725"
+    },
+    {
+      "english": "Who ordered, pizza tonight?",
+      "chinese": "今晚谁订的，披萨？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181726"
+    },
+    {
+      "english": "Can you turn on, the fan?",
+      "chinese": "能把风扇，打开吗？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181728"
+    },
+    {
+      "english": "Are the kids, asleep yet?",
+      "chinese": "孩子们，睡着了吗？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181730"
+    },
+    {
+      "english": "Did you pay, the electricity bill?",
+      "chinese": "电费，交了吗？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181732"
+    },
+    {
+      "english": "Whose turn is it, to wash dishes?",
+      "chinese": "今天轮到，谁洗碗？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181734"
+    },
+    {
+      "english": "What's wrong, with the Wi-Fi?",
+      "chinese": "Wi-Fi, 怎么了？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181736"
+    },
+    {
+      "english": "Can you remind me, later?",
+      "chinese": "到时候，提醒我一下？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181737"
+    },
+    {
+      "english": "Keep trying, don't give up.",
+      "chinese": "继续努力，别放弃。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181739"
+    },
+    {
+      "english": "You're doing great, keep it up!",
+      "chinese": "你做得很好，继续加油！",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181741"
+    },
+    {
+      "english": "Every little step counts.",
+      "chinese": "每一步小小的进步都算数。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181742"
+    },
+    {
+      "english": "We are a strong team.",
+      "chinese": "我们是一个强大的团队。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181744"
+    },
+    {
+      "english": "Let's support each other always.",
+      "chinese": "让我们永远互相支持。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181745"
+    },
+    {
+      "english": "This home is full of love.",
+      "chinese": "这个家充满爱。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181747"
+    },
+    {
+      "english": "We can overcome any challenge.",
+      "chinese": "我们可以克服任何挑战。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181748"
+    },
+    {
+      "english": "Your effort is appreciated.",
+      "chinese": "你的努力得到了肯定。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181750"
+    },
+    {
+      "english": "Stay positive, stay hopeful.",
+      "chinese": "保持积极，保持希望。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181751"
+    },
+    {
+      "english": "We learn and grow together.",
+      "chinese": "我们一起学习，一起成长。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181753"
+    },
+    {
+      "english": "A warm home, a warm heart.",
+      "chinese": "温暖的家，温暖的心。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181754"
+    },
+    {
+      "english": "You make our family proud.",
+      "chinese": "你让我们的家为你骄傲。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181756"
+    },
+    {
+      "english": "Never underestimate your strength.",
+      "chinese": "永远不要低估你的力量。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181758"
+    },
+    {
+      "english": "Let's make today amazing.",
+      "chinese": "让我们把今天变得精彩。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181759"
+    },
+    {
+      "english": "Your contribution matters a lot.",
+      "chinese": "你的贡献非常重要。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181761"
+    },
+    {
+      "english": "We have the best family.",
+      "chinese": "我们拥有最棒的家庭。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181763"
+    },
+    {
+      "english": "Keep shining, my dear.",
+      "chinese": "继续闪耀吧，我的亲爱的。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181765"
+    },
+    {
+      "english": "Success comes from hard work.",
+      "chinese": "成功源于努力。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181766"
+    },
+    {
+      "english": "What a wonderful home we have.",
+      "chinese": "我们拥有多么美好的家啊。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181768"
+    },
+    {
+      "english": "Always believe in a brighter future.",
+      "chinese": "永远相信更光明的未来。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181769"
+    },
+    {
+      "english": "You're a true inspiration.",
+      "chinese": "你是一个真正的鼓舞。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181771"
+    },
+    {
+      "english": "Let's build a happy life together.",
+      "chinese": "让我们一起建立幸福的生活。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181773"
+    },
+    {
+      "english": "Your positivity is contagious.",
+      "chinese": "你的积极性很有感染力。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181775"
+    },
+    {
+      "english": "Embrace challenges, find solutions.",
+      "chinese": "拥抱挑战，寻找解决办法。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181777"
+    },
+    {
+      "english": "You've accomplished so much already.",
+      "chinese": "你已经成就了很多。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181778"
+    },
+    {
+      "english": "May our home be filled with joy.",
+      "chinese": "愿我们的家充满欢乐。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181780"
+    },
+    {
+      "english": "Let's make memories together.",
+      "chinese": "让我们一起创造回忆。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181781"
+    },
+    {
+      "english": "You are capable of amazing things.",
+      "chinese": "你能做令人惊叹的事情。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181783"
+    },
+    {
+      "english": "This feeling, is hard to explain.",
+      "chinese": "这种感觉，很难形容。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181785"
+    },
+    {
+      "english": "I cherish these moments, dearly.",
+      "chinese": "我非常珍惜这些时刻。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181786"
+    },
+    {
+      "english": "Patience, brings peace to the home.",
+      "chinese": "耐心，能给家带来平静。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181788"
+    },
+    {
+      "english": "Thinking deeply, about our journey.",
+      "chinese": "深刻地思考，我们的旅程。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181790"
+    },
+    {
+      "english": "Let's be honest, with each other.",
+      "chinese": "让我们坦诚相待。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181791"
+    },
+    {
+      "english": "Understanding grows, with empathy.",
+      "chinese": "理解源于同理心。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181817"
+    },
+    {
+      "english": "My heart feels, very content.",
+      "chinese": "我的心感到，非常满足。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181819"
+    },
+    {
+      "english": "Home is where, the heart rests.",
+      "chinese": "家是心灵的归宿。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181820"
+    },
+    {
+      "english": "What are you, really thinking?",
+      "chinese": "你到底在想什么？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181822"
+    },
+    {
+      "english": "This warmth, is irreplaceable.",
+      "chinese": "这份温暖，是无可替代的。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181823"
+    },
+    {
+      "english": "Let's talk, about our feelings.",
+      "chinese": "我们来聊聊，感受。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181825"
+    },
+    {
+      "english": "Acceptance, is the first step.",
+      "chinese": "接纳，是第一步。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181826"
+    },
+    {
+      "english": "True connection, takes time.",
+      "chinese": "真正的连接，需要时间。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181828"
+    },
+    {
+      "english": "I reflect, on your kindness.",
+      "chinese": "我反思，你的善良。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181829"
+    },
+    {
+      "english": "This quiet moment, means a lot.",
+      "chinese": "这宁静的时刻，意义重大。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181831"
+    },
+    {
+      "english": "We build trust, slowly.",
+      "chinese": "我们慢慢建立信任。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181833"
+    },
+    {
+      "english": "My hope, is for our future.",
+      "chinese": "我的希望，是我们的未来。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181834"
+    },
+    {
+      "english": "Sharing vulnerabilities, strengthens us.",
+      "chinese": "分享脆弱，让我们更强大。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181836"
+    },
+    {
+      "english": "This understanding, feels so right.",
+      "chinese": "这种理解，感觉很对。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181846"
+    },
+    {
+      "english": "Let's forgive, and move forward.",
+      "chinese": "让我们原谅，然后前进。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181850"
+    },
+    {
+      "english": "Your perspective, is valuable.",
+      "chinese": "你的观点，很有价值。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181852"
+    },
+    {
+      "english": "This empathy, makes us closer.",
+      "chinese": "这份同理心，让我们更亲近。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181853"
+    },
+    {
+      "english": "I feel safe, here with you.",
+      "chinese": "和你在一起，我感到很安全。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181857"
+    },
+    {
+      "english": "What truly matters, is love.",
+      "chinese": "真正重要的是，爱。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181859"
+    },
+    {
+      "english": "Let's appreciate, the quiet moments.",
+      "chinese": "让我们珍惜，宁静的时光。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181861"
+    },
+    {
+      "english": "My heart holds, deep gratitude.",
+      "chinese": "我的心里，充满深深的感激。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181863"
+    },
+    {
+      "english": "We grow better, through reflection.",
+      "chinese": "通过反思，我们变得更好。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181864"
+    },
+    {
+      "english": "Your honesty, is a gift.",
+      "chinese": "你的诚实，是一份礼物。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181866"
+    },
+    {
+      "english": "This bond, is truly special.",
+      "chinese": "这份羁绊，真的特别。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181867"
+    },
+    {
+      "english": "Patience is key, to harmony.",
+      "chinese": "耐心是和谐的关键。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181869"
+    },
+    {
+      "english": "Remember to turn off the lights, when you leave.",
+      "chinese": "出门记得关灯。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181870"
+    },
+    {
+      "english": "Please help tidy up, the living room.",
+      "chinese": "请帮忙收拾一下客厅。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181872"
+    },
+    {
+      "english": "We should recycle, more often.",
+      "chinese": "我们应该多做回收。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T05:18:03.181873"
     }
   ],
-  "last_updated": "2026-10-16T17:03:32.561346"
+  "last_updated": "2026-10-17T05:18:03.181875"
 }
