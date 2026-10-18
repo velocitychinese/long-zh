@@ -7535,7 +7535,727 @@
       "chinese": "我们应该多做回收。",
       "category": "Family & Home",
       "generated_at": "2026-10-17T05:18:03.181873"
+    },
+    {
+      "english": "How much is it, please?",
+      "chinese": "请问, 这个多少钱?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078655"
+    },
+    {
+      "english": "I want to deposit money.",
+      "chinese": "我想存钱。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078667"
+    },
+    {
+      "english": "I need to withdraw cash.",
+      "chinese": "我要取现金。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078670"
+    },
+    {
+      "english": "Can I pay by card?",
+      "chinese": "我能刷卡吗?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078673"
+    },
+    {
+      "english": "Do you accept mobile payment?",
+      "chinese": "支持手机支付吗?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078676"
+    },
+    {
+      "english": "What's the exchange rate?",
+      "chinese": "汇率是多少?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078682"
+    },
+    {
+      "english": "I'd like to change currency.",
+      "chinese": "我想换点外币。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078685"
+    },
+    {
+      "english": "Do you have change for this?",
+      "chinese": "这个有零钱吗?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078690"
+    },
+    {
+      "english": "It's too expensive, okay?",
+      "chinese": "太贵了, 好不好?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078694"
+    },
+    {
+      "english": "Can I get a discount?",
+      "chinese": "能打个折吗?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078698"
+    },
+    {
+      "english": "I'm short of money.",
+      "chinese": "我钱不够了。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078701"
+    },
+    {
+      "english": "Let's split the bill.",
+      "chinese": "我们AA制吧。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078704"
+    },
+    {
+      "english": "Can I have the receipt?",
+      "chinese": "可以给我收据吗?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078706"
+    },
+    {
+      "english": "My wallet is empty.",
+      "chinese": "我的钱包空了。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078709"
+    },
+    {
+      "english": "Save money, live well.",
+      "chinese": "省钱, 好生活。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078712"
+    },
+    {
+      "english": "Money talks, you know?",
+      "chinese": "钱能通神, 懂吗?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078714"
+    },
+    {
+      "english": "Don't spend recklessly.",
+      "chinese": "别乱花钱。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078717"
+    },
+    {
+      "english": "Is there an ATM nearby?",
+      "chinese": "附近有ATM吗?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078719"
+    },
+    {
+      "english": "I need to check my balance.",
+      "chinese": "我想查一下余额。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078722"
+    },
+    {
+      "english": "This price is unbelievable!",
+      "chinese": "这价格太离谱了!",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078724"
+    },
+    {
+      "english": "I'm a bit short.",
+      "chinese": "我差一点点。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078727"
+    },
+    {
+      "english": "Keep the change, thanks.",
+      "chinese": "零钱不用找了, 谢谢。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078729"
+    },
+    {
+      "english": "Can I pay in installments?",
+      "chinese": "可以分期付款吗?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078731"
+    },
+    {
+      "english": "This is a great deal!",
+      "chinese": "这真是个好交易!",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078734"
+    },
+    {
+      "english": "I need a loan.",
+      "chinese": "我需要一笔贷款。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078736"
+    },
+    {
+      "english": "Budgeting is important.",
+      "chinese": "预算很重要。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078739"
+    },
+    {
+      "english": "Is this negotiable?",
+      "chinese": "这个能商量吗?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078741"
+    },
+    {
+      "english": "I'm saving up for it.",
+      "chinese": "我正为此攒钱。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078744"
+    },
+    {
+      "english": "Cash is king, sometimes.",
+      "chinese": "现金, 有时是王道。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078746"
+    },
+    {
+      "english": "Let me get this one.",
+      "chinese": "这顿我请客。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078749"
+    },
+    {
+      "english": "Could you tell me, the opening hours?",
+      "chinese": "请问, 你们几点开门？",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078751"
+    },
+    {
+      "english": "Where is the nearest, bank branch?",
+      "chinese": "最近的银行网点, 在哪里？",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078755"
+    },
+    {
+      "english": "I'd like to inquire, about a savings account.",
+      "chinese": "我想咨询一下, 存款账户。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078758"
+    },
+    {
+      "english": "What are the requirements, for a new card?",
+      "chinese": "办新卡需要什么, 证件？",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078761"
+    },
+    {
+      "english": "Can you help me, find a transaction?",
+      "chinese": "您能帮我查一下, 交易记录吗？",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078764"
+    },
+    {
+      "english": "Is there a fee, for international transfers?",
+      "chinese": "国际汇款有手续费, 吗？",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078766"
+    },
+    {
+      "english": "How do I set up, online banking?",
+      "chinese": "网上银行怎么开通？",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078771"
+    },
+    {
+      "english": "Could you explain, this charge please?",
+      "chinese": "能解释一下, 这笔费用吗？",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078776"
+    },
+    {
+      "english": "What's the interest rate, for this loan?",
+      "chinese": "这个贷款的利率, 是多少？",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078779"
+    },
+    {
+      "english": "I lost my bank card, what should I do?",
+      "chinese": "我银行卡丢了, 怎么办？",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078781"
+    },
+    {
+      "english": "Can I speak to, a manager, please?",
+      "chinese": "能让我跟经理, 说句话吗？",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078786"
+    },
+    {
+      "english": "What's the procedure, for opening an account?",
+      "chinese": "开户的手续, 是怎样的？",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078789"
+    },
+    {
+      "english": "I have a question, about my statement.",
+      "chinese": "我的账单, 有个问题。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078792"
+    },
+    {
+      "english": "Is there an alternative, way to pay?",
+      "chinese": "有别的支付方式, 吗？",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078794"
+    },
+    {
+      "english": "Could you verify, this amount for me?",
+      "chinese": "您能帮我核对一下, 这个金额吗？",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078797"
+    },
+    {
+      "english": "What are the limits, for daily withdrawals?",
+      "chinese": "每天取款的限额, 是多少？",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078800"
+    },
+    {
+      "english": "I need to report, a suspicious transaction.",
+      "chinese": "我需要报告, 可疑交易。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078802"
+    },
+    {
+      "english": "Can I get advice, on investments?",
+      "chinese": "能给我一些, 投资建议吗？",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078805"
+    },
+    {
+      "english": "How long does it take, to process a loan?",
+      "chinese": "贷款审批需要多久？",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078808"
+    },
+    {
+      "english": "Are there any promotions, right now?",
+      "chinese": "现在有什么, 优惠活动吗？",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078811"
+    },
+    {
+      "english": "I'd like to close, my account.",
+      "chinese": "我想销户, 了。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078814"
+    },
+    {
+      "english": "Can you help me, reset my password?",
+      "chinese": "您能帮我, 重设密码吗？",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078816"
+    },
+    {
+      "english": "What's the difference, between these two accounts?",
+      "chinese": "这两个账户, 有什么区别？",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078819"
+    },
+    {
+      "english": "I want to set up, a standing order.",
+      "chinese": "我想设置, 定期转账。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078822"
+    },
+    {
+      "english": "Is mobile banking, secure enough?",
+      "chinese": "手机银行, 安全吗？",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078824"
+    },
+    {
+      "english": "How can I track, my spending?",
+      "chinese": "我怎么能追踪, 我的开销？",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078827"
+    },
+    {
+      "english": "Could you confirm, the details, please?",
+      "chinese": "您能确认一下, 这些细节吗？",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078830"
+    },
+    {
+      "english": "What are the fees, for overseas use?",
+      "chinese": "境外使用, 有什么费用？",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078833"
+    },
+    {
+      "english": "I need to update, my contact information.",
+      "chinese": "我需要更新, 联系方式。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078835"
+    },
+    {
+      "english": "Can you recommend, a good financial product?",
+      "chinese": "您能推荐, 一个好的理财产品吗？",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078838"
+    },
+    {
+      "english": "Money doesn't grow on trees.",
+      "chinese": "钱，不是大风刮来的。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078841"
+    },
+    {
+      "english": "A penny saved, is a penny earned.",
+      "chinese": "省一分钱，就是赚一分钱。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078844"
+    },
+    {
+      "english": "Don't put all your eggs, in one basket.",
+      "chinese": "别把鸡蛋，放在一个篮子里。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078847"
+    },
+    {
+      "english": "Money talks, loudly.",
+      "chinese": "钱，能让鬼推磨。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078849"
+    },
+    {
+      "english": "Cut your coat, according to your cloth.",
+      "chinese": "量体裁衣，知足常乐。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078854"
+    },
+    {
+      "english": "He who pays the piper, calls the tune.",
+      "chinese": "谁付钱，谁说了算。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078857"
+    },
+    {
+      "english": "It takes money, to make money.",
+      "chinese": "钱生钱，需要本钱。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078860"
+    },
+    {
+      "english": "Easy come, easy go.",
+      "chinese": "来得容易，去得也快。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078862"
+    },
+    {
+      "english": "Every little helps.",
+      "chinese": "积少成多，聚沙成塔。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078864"
+    },
+    {
+      "english": "Necessity is the mother, of invention.",
+      "chinese": "需求是发明之母。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078869"
+    },
+    {
+      "english": "A fool and his money, are soon parted.",
+      "chinese": "愚人自以为是，钱财两空。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078872"
+    },
+    {
+      "english": "Too many cooks, spoil the broth.",
+      "chinese": "人多嘴杂，坏了事情。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078874"
+    },
+    {
+      "english": "Better safe, than sorry.",
+      "chinese": "小心为上，避免后悔。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078877"
+    },
+    {
+      "english": "Honesty is the best policy.",
+      "chinese": "诚实是最好的策略。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078879"
+    },
+    {
+      "english": "There's no free lunch.",
+      "chinese": "天下没有免费的午餐。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078882"
+    },
+    {
+      "english": "To each his own.",
+      "chinese": "各有所好。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078884"
+    },
+    {
+      "english": "Don't judge a book, by its cover.",
+      "chinese": "人不可貌相。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078888"
+    },
+    {
+      "english": "A friend in need, is a friend indeed.",
+      "chinese": "患难见真情。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078891"
+    },
+    {
+      "english": "Spend wisely, save diligently.",
+      "chinese": "精打细算，勤俭节约。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078894"
+    },
+    {
+      "english": "Don't chase quick money.",
+      "chinese": "不要急功近利。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078896"
+    },
+    {
+      "english": "Investments, have risks.",
+      "chinese": "投资有风险。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078899"
+    },
+    {
+      "english": "Budget well, live comfortably.",
+      "chinese": "量入为出，生活不愁。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078901"
+    },
+    {
+      "english": "Borrowing is easy, repayment is hard.",
+      "chinese": "借钱容易，还钱难。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078905"
+    },
+    {
+      "english": "A little bit, adds up.",
+      "chinese": "积少成多，聚沙成塔。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078907"
+    },
+    {
+      "english": "Money is a good servant.",
+      "chinese": "钱是好仆人。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078910"
+    },
+    {
+      "english": "But a bad master.",
+      "chinese": "也是坏主人。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078912"
+    },
+    {
+      "english": "Save for a rainy day.",
+      "chinese": "未雨绸缪，积谷防饥。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078915"
+    },
+    {
+      "english": "Live within your means.",
+      "chinese": "量力而行，知足常乐。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078917"
+    },
+    {
+      "english": "Don't gamble, your future.",
+      "chinese": "不要拿未来赌博。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078920"
+    },
+    {
+      "english": "Financial planning, is key.",
+      "chinese": "理财规划，至关重要。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078922"
+    },
+    {
+      "english": "A wise person, saves.",
+      "chinese": "聪明人，会存钱。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078925"
+    },
+    {
+      "english": "Money makes the world, go round.",
+      "chinese": "有钱能使鬼推磨。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078928"
+    },
+    {
+      "english": "Spend money, like water.",
+      "chinese": "花钱如流水。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078930"
+    },
+    {
+      "english": "Be careful, with your wallet.",
+      "chinese": "钱包要看好。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078933"
+    },
+    {
+      "english": "Debt, is a heavy burden.",
+      "chinese": "债务是个重担。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078936"
+    },
+    {
+      "english": "Plan ahead, for retirement.",
+      "chinese": "提前规划，为养老。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078939"
+    },
+    {
+      "english": "Generosity, is appreciated.",
+      "chinese": "慷慨，受欢迎。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078941"
+    },
+    {
+      "english": "Greed, leads to ruin.",
+      "chinese": "贪婪，导致毁灭。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078944"
+    },
+    {
+      "english": "Make money, work for you.",
+      "chinese": "让钱为你工作。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078948"
+    },
+    {
+      "english": "Small expenses, add up.",
+      "chinese": "小开销，累积成大。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078951"
+    },
+    {
+      "english": "Value, your hard-earned money.",
+      "chinese": "珍惜你的血汗钱。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078954"
+    },
+    {
+      "english": "Financial freedom, is the goal.",
+      "chinese": "财务自由，是目标。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078962"
+    },
+    {
+      "english": "Don't borrow, without a plan.",
+      "chinese": "没有计划，别借钱。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078964"
+    },
+    {
+      "english": "Pay yourself first.",
+      "chinese": "先付给自己。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078969"
+    },
+    {
+      "english": "Be mindful, of your spending.",
+      "chinese": "注意你的开销。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078972"
+    },
+    {
+      "english": "A good habit, saves you.",
+      "chinese": "好习惯，救了你。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078974"
+    },
+    {
+      "english": "Don't let money, control you.",
+      "chinese": "别让钱控制你。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078977"
+    },
+    {
+      "english": "Prosperity, takes effort.",
+      "chinese": "富裕，需要努力。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078980"
+    },
+    {
+      "english": "Check your balance, often.",
+      "chinese": "常查余额。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078982"
+    },
+    {
+      "english": "Keep receipts, for records.",
+      "chinese": "保留收据，作记录。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078985"
+    },
+    {
+      "english": "Ask for discounts, politely.",
+      "chinese": "礼貌地问问折扣。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078987"
+    },
+    {
+      "english": "Understand the fees, clearly.",
+      "chinese": "弄懂手续费。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078990"
+    },
+    {
+      "english": "Compare prices, before buying.",
+      "chinese": "购物前，比比价。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078992"
+    },
+    {
+      "english": "Avoid impulse purchases.",
+      "chinese": "别冲动消费。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078995"
+    },
+    {
+      "english": "Set a spending limit.",
+      "chinese": "定个消费上限。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.078997"
+    },
+    {
+      "english": "Track your expenses, daily.",
+      "chinese": "每天记账。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.079000"
+    },
+    {
+      "english": "Separate savings, from spending.",
+      "chinese": "储蓄分开。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.079003"
+    },
+    {
+      "english": "Review bank statements, monthly.",
+      "chinese": "每月看账单。",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.079005"
+    },
+    {
+      "english": "Can I get, a receipt?",
+      "chinese": "能给我收据吗？",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.079008"
+    },
+    {
+      "english": "Is there a transaction fee?",
+      "chinese": "有手续费吗？",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-18T05:23:32.079010"
     }
   ],
-  "last_updated": "2026-10-17T05:18:03.181875"
+  "last_updated": "2026-10-18T05:23:32.079012"
 }
