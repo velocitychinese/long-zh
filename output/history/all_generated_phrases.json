@@ -8255,7 +8255,727 @@
       "chinese": "有手续费吗？",
       "category": "Banking & Money",
       "generated_at": "2026-10-18T05:23:32.079010"
+    },
+    {
+      "english": "What's the goal, exactly?",
+      "chinese": "目标是什么, 确切地说？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.546881"
+    },
+    {
+      "english": "This is for a reason.",
+      "chinese": "这是有原因的。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.546895"
+    },
+    {
+      "english": "Why are you doing this?",
+      "chinese": "你为什么这样做？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.546898"
+    },
+    {
+      "english": "Intention is important.",
+      "chinese": "意图很重要。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.546901"
+    },
+    {
+      "english": "What's your purpose here?",
+      "chinese": "你在此的目的是什么？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.546904"
+    },
+    {
+      "english": "It has a special meaning.",
+      "chinese": "这有特殊的含义。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.546909"
+    },
+    {
+      "english": "Let's get to the point.",
+      "chinese": "直奔主题吧。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.546912"
+    },
+    {
+      "english": "What's the main idea?",
+      "chinese": "主要想法是什么？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.546917"
+    },
+    {
+      "english": "This serves a purpose.",
+      "chinese": "这有其作用。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.546920"
+    },
+    {
+      "english": "What do you aim for?",
+      "chinese": "你追求什么？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.546923"
+    },
+    {
+      "english": "It's all for a cause.",
+      "chinese": "这都是为了一个事业。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.546926"
+    },
+    {
+      "english": "What's behind this action?",
+      "chinese": "这个行动背后是什么？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.546928"
+    },
+    {
+      "english": "Have a clear direction.",
+      "chinese": "要有明确的方向。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.546931"
+    },
+    {
+      "english": "What's the intention behind it?",
+      "chinese": "背后的意图是什么？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.546933"
+    },
+    {
+      "english": "This is my intention.",
+      "chinese": "这是我的意图。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.546936"
+    },
+    {
+      "english": "What's the bigger picture?",
+      "chinese": "更大的画面是什么？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.546940"
+    },
+    {
+      "english": "It's for a good cause.",
+      "chinese": "这是为了一个好事业。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.546943"
+    },
+    {
+      "english": "What are we working towards?",
+      "chinese": "我们在朝着什么努力？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.546945"
+    },
+    {
+      "english": "Focus on the objective.",
+      "chinese": "专注于目标。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.546948"
+    },
+    {
+      "english": "What's the ultimate aim?",
+      "chinese": "最终目标是什么？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.546950"
+    },
+    {
+      "english": "This is the whole point.",
+      "chinese": "这就是重点。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.546952"
+    },
+    {
+      "english": "What's the underlying reason?",
+      "chinese": "根本原因是什么？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.546955"
+    },
+    {
+      "english": "It's meant to be this way.",
+      "chinese": "它就是这样设计的。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.546957"
+    },
+    {
+      "english": "What is this for?",
+      "chinese": "这是干什么用的？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.546960"
+    },
+    {
+      "english": "What's your true motive?",
+      "chinese": "你真正的动机是什么？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.546962"
+    },
+    {
+      "english": "It has a specific function.",
+      "chinese": "它有特定功能。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.546965"
+    },
+    {
+      "english": "What's the bigger purpose?",
+      "chinese": "更大的目的是什么？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.546967"
+    },
+    {
+      "english": "What's the ultimate goal?",
+      "chinese": "最终目标是什么？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.546969"
+    },
+    {
+      "english": "It serves this very purpose.",
+      "chinese": "它就是为此目的。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.546972"
+    },
+    {
+      "english": "What's the real reason, tell me?",
+      "chinese": "真正的原因是啥，告诉我？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.546976"
+    },
+    {
+      "english": "Could you clarify, what's this for?",
+      "chinese": "能解释一下吗，这是干嘛的？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.546981"
+    },
+    {
+      "english": "What are you hoping to achieve?",
+      "chinese": "你希望达成什么？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.546986"
+    },
+    {
+      "english": "What's the main objective, please?",
+      "chinese": "主要目标是什么，麻烦说下？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.546989"
+    },
+    {
+      "english": "Is there a deeper meaning here?",
+      "chinese": "这里面有更深的含义吗？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.546992"
+    },
+    {
+      "english": "Why are we doing this, specifically?",
+      "chinese": "我们具体为啥做这个？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.546994"
+    },
+    {
+      "english": "What's the underlying motivation?",
+      "chinese": "根本的动机是什么？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.546997"
+    },
+    {
+      "english": "Can you explain the intention?",
+      "chinese": "你能解释下意图吗？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547000"
+    },
+    {
+      "english": "What's the specific function of this?",
+      "chinese": "这个的具体功能是什么？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547002"
+    },
+    {
+      "english": "What is your ultimate goal?",
+      "chinese": "你的最终目标是啥？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547005"
+    },
+    {
+      "english": "What are you aiming for?",
+      "chinese": "你在瞄准什么？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547007"
+    },
+    {
+      "english": "What's the big picture here?",
+      "chinese": "这里面的大局是什么？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547010"
+    },
+    {
+      "english": "What problem does this solve?",
+      "chinese": "这解决了什么问题？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547012"
+    },
+    {
+      "english": "What's the desired outcome?",
+      "chinese": "期望的结果是什么？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547015"
+    },
+    {
+      "english": "Can you elaborate on the purpose?",
+      "chinese": "能详细说说目的吗？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547017"
+    },
+    {
+      "english": "What drives this decision?",
+      "chinese": "是什么推动了这个决定？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547019"
+    },
+    {
+      "english": "What's the point of all this?",
+      "chinese": "这一切的意义是什么？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547022"
+    },
+    {
+      "english": "What are you trying to prove?",
+      "chinese": "你想证明什么？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547024"
+    },
+    {
+      "english": "What's the underlying philosophy?",
+      "chinese": "底层的哲学是什么？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547027"
+    },
+    {
+      "english": "What's the reason for this effort?",
+      "chinese": "付出的努力是为了啥？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547029"
+    },
+    {
+      "english": "What message are you sending?",
+      "chinese": "你想传递什么信息？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547032"
+    },
+    {
+      "english": "What's the vision behind this?",
+      "chinese": "这背后的愿景是什么？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547034"
+    },
+    {
+      "english": "What's the underlying principle?",
+      "chinese": "根本原则是什么？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547037"
+    },
+    {
+      "english": "What's the true significance?",
+      "chinese": "真正的意义是什么？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547039"
+    },
+    {
+      "english": "Can you shed light on this?",
+      "chinese": "你能说明白这一点吗？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547042"
+    },
+    {
+      "english": "What's the intended effect?",
+      "chinese": "预期的效果是什么？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547044"
+    },
+    {
+      "english": "What's the ultimate aspiration?",
+      "chinese": "最终的抱负是什么？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547046"
+    },
+    {
+      "english": "What's the core idea here?",
+      "chinese": "这里的核心想法是什么？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547049"
+    },
+    {
+      "english": "What's the reason for the action?",
+      "chinese": "这次行动的原因是什么？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547051"
+    },
+    {
+      "english": "Keep pushing, you've got this!",
+      "chinese": "继续加油，你能行的！",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547054"
+    },
+    {
+      "english": "Your effort, truly pays off.",
+      "chinese": "你的努力，终会回报。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547059"
+    },
+    {
+      "english": "Believe in your vision.",
+      "chinese": "相信你的愿景。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547061"
+    },
+    {
+      "english": "Stay focused, on your path.",
+      "chinese": "保持专注，走好你的路。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547064"
+    },
+    {
+      "english": "Great job, keep it up!",
+      "chinese": "做得好，继续保持！",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547068"
+    },
+    {
+      "english": "This is why you started.",
+      "chinese": "这就是你当初的出发点。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547071"
+    },
+    {
+      "english": "Never give up, on dreams.",
+      "chinese": "梦想，永不放弃。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547073"
+    },
+    {
+      "english": "You are making progress.",
+      "chinese": "你正在进步。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547076"
+    },
+    {
+      "english": "Remember your 'why', always.",
+      "chinese": "永远记得你的‘为什么’。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547079"
+    },
+    {
+      "english": "Your dedication, is inspiring.",
+      "chinese": "你的投入，令人敬佩。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547081"
+    },
+    {
+      "english": "You are capable of more.",
+      "chinese": "你潜力无限。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547083"
+    },
+    {
+      "english": "Keep that fire burning.",
+      "chinese": "保持那份热情。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547086"
+    },
+    {
+      "english": "What's your driving force?",
+      "chinese": "你的驱动力是什么？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547089"
+    },
+    {
+      "english": "Stay positive, always.",
+      "chinese": "永远保持积极。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547092"
+    },
+    {
+      "english": "This matters, to you.",
+      "chinese": "这对你来说，很重要。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547094"
+    },
+    {
+      "english": "Your passion, shines through.",
+      "chinese": "你的热情，显而易见。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547097"
+    },
+    {
+      "english": "You're doing fantastic!",
+      "chinese": "你做得太棒了！",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547100"
+    },
+    {
+      "english": "What's the big vision?",
+      "chinese": "你心中宏图是什么？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547134"
+    },
+    {
+      "english": "Your future self, thanks you.",
+      "chinese": "未来的你会感谢你。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547137"
+    },
+    {
+      "english": "Find your true north.",
+      "chinese": "找到你的北极星。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547139"
+    },
+    {
+      "english": "You have the power.",
+      "chinese": "你拥有力量。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547144"
+    },
+    {
+      "english": "Keep going, strong.",
+      "chinese": "继续前进，保持强大。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547146"
+    },
+    {
+      "english": "Don't forget your purpose.",
+      "chinese": "别忘了你的初衷。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547149"
+    },
+    {
+      "english": "You're on the right track.",
+      "chinese": "你走在正确的道路上。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547151"
+    },
+    {
+      "english": "Your efforts, are noticed.",
+      "chinese": "你的努力，有人看见。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547154"
+    },
+    {
+      "english": "What drives you forward?",
+      "chinese": "是什么推动你前进？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547156"
+    },
+    {
+      "english": "Stay motivated, always.",
+      "chinese": "永远保持动力。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547159"
+    },
+    {
+      "english": "You're making a difference.",
+      "chinese": "你在创造价值。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547163"
+    },
+    {
+      "english": "What's truly important, to you?",
+      "chinese": "对你来说，什么最重要？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547166"
+    },
+    {
+      "english": "Reflect on, your deeper motivations.",
+      "chinese": "反思一下，你内心的动机。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547169"
+    },
+    {
+      "english": "Be patient, with the process.",
+      "chinese": "对过程，保持耐心。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547172"
+    },
+    {
+      "english": "This feeling, it guides you.",
+      "chinese": "这种感觉，指引着你。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547174"
+    },
+    {
+      "english": "Is this, aligned with your heart?",
+      "chinese": "这是否，符合你的心意？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547177"
+    },
+    {
+      "english": "What lessons, have you learned?",
+      "chinese": "你吸取了，哪些教训？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547180"
+    },
+    {
+      "english": "Honesty, with yourself, matters.",
+      "chinese": "对自己诚实，很重要。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547183"
+    },
+    {
+      "english": "Where does, this peace come from?",
+      "chinese": "这份平静，源自何处？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547186"
+    },
+    {
+      "english": "Embrace, your inner voice.",
+      "chinese": "拥抱，你内心的声音。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547190"
+    },
+    {
+      "english": "What brings, you genuine joy?",
+      "chinese": "什么让你，感到由衷快乐？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547193"
+    },
+    {
+      "english": "Trust, your intuition, always.",
+      "chinese": "相信，你的直觉，永远。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547195"
+    },
+    {
+      "english": "Let go, of what holds you back.",
+      "chinese": "放下，那些束缚你的。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547198"
+    },
+    {
+      "english": "Is this, truly fulfilling you?",
+      "chinese": "这是否，让你真正满足？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547201"
+    },
+    {
+      "english": "Allow yourself, to feel deeply.",
+      "chinese": "允许自己，深刻地感受。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547203"
+    },
+    {
+      "english": "What nourishes, your soul?",
+      "chinese": "什么滋养，你的灵魂？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547206"
+    },
+    {
+      "english": "Are you, living authentically?",
+      "chinese": "你是否，活得真实？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547209"
+    },
+    {
+      "english": "Connect, with your true self.",
+      "chinese": "连接，你真实的自我。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547211"
+    },
+    {
+      "english": "Gratitude, for this moment.",
+      "chinese": "感恩，此刻。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547214"
+    },
+    {
+      "english": "What lessons, does life teach?",
+      "chinese": "生活教会，我们什么？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547216"
+    },
+    {
+      "english": "Seek, inner contentment.",
+      "chinese": "寻求，内心的满足。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547219"
+    },
+    {
+      "english": "Let your feelings, guide you.",
+      "chinese": "让你的感觉，引领你。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547222"
+    },
+    {
+      "english": "This resonates, with your spirit.",
+      "chinese": "这与你的灵魂，产生共鸣。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547225"
+    },
+    {
+      "english": "What does your heart, truly desire?",
+      "chinese": "你的心，真正渴望什么？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547228"
+    },
+    {
+      "english": "Embrace, vulnerability.",
+      "chinese": "拥抱，脆弱。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547230"
+    },
+    {
+      "english": "Find peace, in the stillness.",
+      "chinese": "在宁静中，找到平静。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547233"
+    },
+    {
+      "english": "This path, feels right.",
+      "chinese": "这条路，感觉是对的。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547237"
+    },
+    {
+      "english": "What truly, matters most?",
+      "chinese": "什么，最最重要？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547239"
+    },
+    {
+      "english": "Listen, to your inner wisdom.",
+      "chinese": "倾听，你内心的智慧。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547242"
+    },
+    {
+      "english": "Are you, true to yourself?",
+      "chinese": "你是否，忠于自己？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547244"
+    },
+    {
+      "english": "What brings, lasting happiness?",
+      "chinese": "什么带来，持久的快乐？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547247"
+    },
+    {
+      "english": "What's the goal, today?",
+      "chinese": "今天目标是什么？",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547250"
+    },
+    {
+      "english": "Think, about tomorrow.",
+      "chinese": "想想，明天。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547252"
+    },
+    {
+      "english": "Small steps, big impact.",
+      "chinese": "小步子，大影响。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547255"
+    },
+    {
+      "english": "Focus, on one thing.",
+      "chinese": "集中，注意力。",
+      "category": "Purpose",
+      "generated_at": "2026-10-19T05:41:07.547257"
     }
   ],
-  "last_updated": "2026-10-18T05:23:32.079012"
+  "last_updated": "2026-10-19T05:41:07.547259"
 }
