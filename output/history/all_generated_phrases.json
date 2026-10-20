@@ -8975,7 +8975,727 @@
       "chinese": "集中，注意力。",
       "category": "Purpose",
       "generated_at": "2026-10-19T05:41:07.547257"
+    },
+    {
+      "english": "Let's go, hurry up!",
+      "chinese": "加油, 快点!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632053"
+    },
+    {
+      "english": "I'm tired, let's rest.",
+      "chinese": "我累了, 休息一下。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632068"
+    },
+    {
+      "english": "Good job, keep it up!",
+      "chinese": "很棒, 继续加油!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632072"
+    },
+    {
+      "english": "Are you ready? Let's start.",
+      "chinese": "准备好了吗? 开始吧。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632076"
+    },
+    {
+      "english": "Don't give up, persist!",
+      "chinese": "别放弃, 坚持住!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632079"
+    },
+    {
+      "english": "This is tough, but fun.",
+      "chinese": "这很难, 但很有趣。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632082"
+    },
+    {
+      "english": "Warm up first, please.",
+      "chinese": "先热身一下, 拜托了。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632084"
+    },
+    {
+      "english": "Cool down is important.",
+      "chinese": "放松运动很重要。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632090"
+    },
+    {
+      "english": "How was your workout?",
+      "chinese": "你锻炼得怎么样?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632094"
+    },
+    {
+      "english": "I feel great, thanks!",
+      "chinese": "我感觉很棒, 谢谢!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632097"
+    },
+    {
+      "english": "Let's pace ourselves.",
+      "chinese": "我们悠着点来。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632100"
+    },
+    {
+      "english": "Try your best, you can do it.",
+      "chinese": "尽力而为, 你能行的。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632102"
+    },
+    {
+      "english": "It's a good workout today.",
+      "chinese": "今天锻炼得真好。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632105"
+    },
+    {
+      "english": "Just a little bit more.",
+      "chinese": "再来一点点。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632108"
+    },
+    {
+      "english": "Wow, you're so fast!",
+      "chinese": "哇, 你好快啊!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632111"
+    },
+    {
+      "english": "Let's go for a run.",
+      "chinese": "我们去跑步吧。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632115"
+    },
+    {
+      "english": "Time for some stretching.",
+      "chinese": "是时候拉伸一下了。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632118"
+    },
+    {
+      "english": "Did you exercise today?",
+      "chinese": "你今天运动了吗?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632121"
+    },
+    {
+      "english": "I need more water.",
+      "chinese": "我需要多喝水。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632123"
+    },
+    {
+      "english": "Push yourself harder!",
+      "chinese": "再加把劲!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632125"
+    },
+    {
+      "english": "That was intense, amazing!",
+      "chinese": "强度好大, 太棒了!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632128"
+    },
+    {
+      "english": "Let's take a break.",
+      "chinese": "我们休息一下吧。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632131"
+    },
+    {
+      "english": "Almost there, keep going.",
+      "chinese": "快到了, 继续。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632133"
+    },
+    {
+      "english": "Focus on your form.",
+      "chinese": "注意你的姿势。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632136"
+    },
+    {
+      "english": "This feels good, right?",
+      "chinese": "这感觉不错, 对吧?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632138"
+    },
+    {
+      "english": "Let's try a new exercise.",
+      "chinese": "我们试试新动作。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632141"
+    },
+    {
+      "english": "You look energized!",
+      "chinese": "你看起来很有活力!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632144"
+    },
+    {
+      "english": "Let's start from zero.",
+      "chinese": "我们从零开始。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632149"
+    },
+    {
+      "english": "Consistency is key.",
+      "chinese": "坚持就是胜利。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632153"
+    },
+    {
+      "english": "Challenge accepted!",
+      "chinese": "接受挑战!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632155"
+    },
+    {
+      "english": "What exercise is good for weight loss?",
+      "chinese": "减肥做什么运动好？",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632158"
+    },
+    {
+      "english": "Can you show me how?",
+      "chinese": "你能教我一下吗？",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632161"
+    },
+    {
+      "english": "Where do you usually exercise?",
+      "chinese": "你平时在哪儿锻炼？",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632163"
+    },
+    {
+      "english": "This is a bit difficult, isn't it?",
+      "chinese": "这个有点难，对吧？",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632167"
+    },
+    {
+      "english": "How long have you been exercising?",
+      "chinese": "你锻炼多久了？",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632169"
+    },
+    {
+      "english": "What's your fitness goal?",
+      "chinese": "你的健身目标是什么？",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632172"
+    },
+    {
+      "english": "Is this the right way?",
+      "chinese": "这样做对吗？",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632175"
+    },
+    {
+      "english": "Can we go together sometime?",
+      "chinese": "我们能一起去吗？",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632177"
+    },
+    {
+      "english": "I'm new here, any tips?",
+      "chinese": "我是新手，有什么建议吗？",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632181"
+    },
+    {
+      "english": "Should I increase the weight?",
+      "chinese": "要增加重量吗？",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632183"
+    },
+    {
+      "english": "What's your favorite sport?",
+      "chinese": "你最喜欢的运动是什么？",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632186"
+    },
+    {
+      "english": "How often do you work out?",
+      "chinese": "你多久锻炼一次？",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632190"
+    },
+    {
+      "english": "Can I join your group?",
+      "chinese": "我可以加入你们吗？",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632193"
+    },
+    {
+      "english": "Do you prefer indoor or outdoor sports?",
+      "chinese": "你喜欢室内还是室外运动？",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632196"
+    },
+    {
+      "english": "How to improve stamina?",
+      "chinese": "怎么提高耐力？",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632199"
+    },
+    {
+      "english": "Is this exercise effective?",
+      "chinese": "这个动作有效吗？",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632201"
+    },
+    {
+      "english": "What about your recovery?",
+      "chinese": "你的恢复怎么样？",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632204"
+    },
+    {
+      "english": "Do you need a spotter?",
+      "chinese": "需要人帮你扶着吗？",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632206"
+    },
+    {
+      "english": "Let's talk about training.",
+      "chinese": "我们聊聊训练吧。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632209"
+    },
+    {
+      "english": "What muscles are we working?",
+      "chinese": "我们练的是哪块肌肉？",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632211"
+    },
+    {
+      "english": "Can you recommend a trainer?",
+      "chinese": "你能推荐个教练吗？",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632214"
+    },
+    {
+      "english": "How do you stay motivated?",
+      "chinese": "你是怎么保持动力的？",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632216"
+    },
+    {
+      "english": "Are you sore today?",
+      "chinese": "你今天肌肉酸痛吗？",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632218"
+    },
+    {
+      "english": "Let's try a different routine.",
+      "chinese": "我们换个训练计划吧。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632221"
+    },
+    {
+      "english": "What do you eat after exercise?",
+      "chinese": "运动后吃什么？",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632224"
+    },
+    {
+      "english": "How do you feel about it?",
+      "chinese": "你感觉怎么样？",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632226"
+    },
+    {
+      "english": "Is it time to switch?",
+      "chinese": "该换下一个了吗？",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632228"
+    },
+    {
+      "english": "What's your next workout plan?",
+      "chinese": "你下次的训练计划是什么？",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632231"
+    },
+    {
+      "english": "Believe in yourself, always.",
+      "chinese": "永远相信自己。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632235"
+    },
+    {
+      "english": "Don't give up, you're strong.",
+      "chinese": "别放弃，你很强大。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632238"
+    },
+    {
+      "english": "You've got this, I know it.",
+      "chinese": "你能行的，我知道。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632243"
+    },
+    {
+      "english": "Your effort is inspiring.",
+      "chinese": "你的努力令人钦佩。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632245"
+    },
+    {
+      "english": "Keep that positive energy flowing.",
+      "chinese": "保持那股正能量。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632248"
+    },
+    {
+      "english": "This is your journey, own it.",
+      "chinese": "这是你的旅程，掌控它。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632251"
+    },
+    {
+      "english": "You're stronger than you think.",
+      "chinese": "你比想象中更强。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632254"
+    },
+    {
+      "english": "Feel the burn, embrace the growth.",
+      "chinese": "感受灼热，拥抱成长。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632257"
+    },
+    {
+      "english": "Mind over matter, you can do it.",
+      "chinese": "意念战胜一切，你能做到。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632260"
+    },
+    {
+      "english": "Keep pushing your limits.",
+      "chinese": "不断挑战你的极限。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632262"
+    },
+    {
+      "english": "That inner strength is showing.",
+      "chinese": "内在的力量在显现。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632267"
+    },
+    {
+      "english": "Amazing effort, truly impressed.",
+      "chinese": "努力惊人，真心佩服。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632270"
+    },
+    {
+      "english": "Today's pain, tomorrow's strength.",
+      "chinese": "今天的痛苦，明天的力量。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632274"
+    },
+    {
+      "english": "Your dedication is admirable.",
+      "chinese": "你的奉献令人敬佩。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632276"
+    },
+    {
+      "english": "You're making real progress.",
+      "chinese": "你取得了真正的进步。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632279"
+    },
+    {
+      "english": "One workout at a time.",
+      "chinese": "一次只专注一次训练。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632282"
+    },
+    {
+      "english": "That determination is fantastic.",
+      "chinese": "那股决心太棒了。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632285"
+    },
+    {
+      "english": "You have incredible stamina.",
+      "chinese": "你有着惊人的耐力。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632288"
+    },
+    {
+      "english": "Your commitment is inspiring.",
+      "chinese": "你的投入鼓舞人心。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632290"
+    },
+    {
+      "english": "You're achieving your goals.",
+      "chinese": "你正在实现你的目标。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632293"
+    },
+    {
+      "english": "Respect the grind, love the result.",
+      "chinese": "尊重过程，热爱结果。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632296"
+    },
+    {
+      "english": "Stay focused, stay powerful.",
+      "chinese": "保持专注，保持强大。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632298"
+    },
+    {
+      "english": "Your body is thanking you.",
+      "chinese": "你的身体在感谢你。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632301"
+    },
+    {
+      "english": "Never underestimate your potential.",
+      "chinese": "永远别低估你的潜力。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632304"
+    },
+    {
+      "english": "You're crushing it today!",
+      "chinese": "你今天太厉害了！",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632306"
+    },
+    {
+      "english": "Slow progress, is still progress.",
+      "chinese": "进步慢，也是进步。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632309"
+    },
+    {
+      "english": "Listen to your body, truly.",
+      "chinese": "要真听身体的话。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632312"
+    },
+    {
+      "english": "My mindset, shifted recently.",
+      "chinese": "我的想法，最近变了。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632315"
+    },
+    {
+      "english": "I'm learning to enjoy this.",
+      "chinese": "我正学着享受这个。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632317"
+    },
+    {
+      "english": "Honestly, I'm not there yet.",
+      "chinese": "说实话，我还没到那。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632322"
+    },
+    {
+      "english": "What if, I just rest today?",
+      "chinese": "如果今天，就休息一下呢？",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632325"
+    },
+    {
+      "english": "Deep breaths, calm your mind.",
+      "chinese": "深呼吸，让心平静。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632331"
+    },
+    {
+      "english": "This challenge, makes me stronger.",
+      "chinese": "这个挑战，让我更强。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632334"
+    },
+    {
+      "english": "It's okay, to not be perfect.",
+      "chinese": "不完美，也没关系。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632337"
+    },
+    {
+      "english": "I feel, a little more confident.",
+      "chinese": "我感觉，自信多了点。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632342"
+    },
+    {
+      "english": "This is more than just exercise.",
+      "chinese": "这不只是锻炼。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632344"
+    },
+    {
+      "english": "Letting go, of expectations.",
+      "chinese": "放下，那些期待。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632347"
+    },
+    {
+      "english": "My body, remembers everything.",
+      "chinese": "我的身体，都记得。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632352"
+    },
+    {
+      "english": "I need this, for my mental health.",
+      "chinese": "我需要这个，为了精神。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632355"
+    },
+    {
+      "english": "It’s about the journey, always.",
+      "chinese": "重点是过程，一直。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632359"
+    },
+    {
+      "english": "My perspective, has changed.",
+      "chinese": "我的看法，改变了。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632362"
+    },
+    {
+      "english": "This requires real focus.",
+      "chinese": "这需要真专注。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632365"
+    },
+    {
+      "english": "I’m grateful, for this moment.",
+      "chinese": "我很感激，这一刻。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632369"
+    },
+    {
+      "english": "It’s a battle, within myself.",
+      "chinese": "这是场战斗，跟自己。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632373"
+    },
+    {
+      "english": "What am I learning today?",
+      "chinese": "我今天学到什么？",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632375"
+    },
+    {
+      "english": "This quiet strength, I feel.",
+      "chinese": "这种安静的力量，我感觉。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632378"
+    },
+    {
+      "english": "I’m not giving up, not now.",
+      "chinese": "我不放弃，现在不。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632384"
+    },
+    {
+      "english": "This is my peaceful escape.",
+      "chinese": "这是我平静的港湾。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632387"
+    },
+    {
+      "english": "Slowly, finding my rhythm.",
+      "chinese": "慢慢地，找到节奏。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632389"
+    },
+    {
+      "english": "Tomorrow, I’ll try harder.",
+      "chinese": "明天，我会更拼。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632393"
+    },
+    {
+      "english": "This journey, is humbling.",
+      "chinese": "这段旅程，很让人谦逊。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632396"
+    },
+    {
+      "english": "Just be present, right now.",
+      "chinese": "就在当下，好好感受。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632399"
+    },
+    {
+      "english": "Drink plenty of water, stay hydrated.",
+      "chinese": "多喝水，保持水分。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632402"
+    },
+    {
+      "english": "Warm up first, then start exercising.",
+      "chinese": "先热身，再开始运动。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632404"
+    },
+    {
+      "english": "Eat healthy food, fuels your body.",
+      "chinese": "吃健康食物，滋养身体。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632407"
+    },
+    {
+      "english": "Stretch well, prevent injuries.",
+      "chinese": "好好拉伸，预防受伤。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632410"
+    },
+    {
+      "english": "Rest is important, for recovery.",
+      "chinese": "休息很重要，为了恢复。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632413"
+    },
+    {
+      "english": "Find a workout buddy, stay motivated.",
+      "chinese": "找个运动伙伴，保持动力。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632415"
+    },
+    {
+      "english": "Try a new sport, expand horizons.",
+      "chinese": "尝试新运动，拓展视野。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632418"
+    },
+    {
+      "english": "Consistency beats intensity, long term.",
+      "chinese": "坚持胜于强度，长期来看。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632421"
+    },
+    {
+      "english": "Don't compare, your journey is unique.",
+      "chinese": "别去比较，你的旅程独特。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632424"
+    },
+    {
+      "english": "Listen to your coach, they know best.",
+      "chinese": "听教练的话，他们最懂。",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-20T05:40:22.632427"
     }
   ],
-  "last_updated": "2026-10-19T05:41:07.547259"
+  "last_updated": "2026-10-20T05:40:22.632429"
 }
