@@ -9695,7 +9695,727 @@
       "chinese": "听教练的话，他们最懂。",
       "category": "Sports & Fitness",
       "generated_at": "2026-10-20T05:40:22.632427"
+    },
+    {
+      "english": "Wish you the best, always.",
+      "chinese": "祝你一切顺利，永远。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684403"
+    },
+    {
+      "english": "May good luck find you.",
+      "chinese": "愿好运找到你。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684417"
+    },
+    {
+      "english": "Let's look forward to it.",
+      "chinese": "让我们期待吧。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684421"
+    },
+    {
+      "english": "There's always a way.",
+      "chinese": "总会有办法的。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684424"
+    },
+    {
+      "english": "Keep your chin up.",
+      "chinese": "振作起来。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684427"
+    },
+    {
+      "english": "A brighter future awaits.",
+      "chinese": "更美好的未来在等着。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684430"
+    },
+    {
+      "english": "Never lose hope, friend.",
+      "chinese": "朋友，永远不要失去希望。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684433"
+    },
+    {
+      "english": "Tomorrow will be better.",
+      "chinese": "明天会更好。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684438"
+    },
+    {
+      "english": "Believe in new beginnings.",
+      "chinese": "相信新的开始。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684444"
+    },
+    {
+      "english": "Stay positive, it helps.",
+      "chinese": "保持积极，这有帮助。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684447"
+    },
+    {
+      "english": "Good things are coming.",
+      "chinese": "好事正在发生。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684450"
+    },
+    {
+      "english": "Hang in there, champ.",
+      "chinese": "坚持住，冠军。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684452"
+    },
+    {
+      "english": "Chase your dreams now.",
+      "chinese": "现在就追逐你的梦想。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684455"
+    },
+    {
+      "english": "You got this, I believe.",
+      "chinese": "你能行，我相信。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684457"
+    },
+    {
+      "english": "Keep the faith alive.",
+      "chinese": "保持信念。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684460"
+    },
+    {
+      "english": "A little hope, goes far.",
+      "chinese": "一点点希望，走得很远。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684462"
+    },
+    {
+      "english": "Look up, stars shine.",
+      "chinese": "抬头看，星星闪耀。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684465"
+    },
+    {
+      "english": "Hope blooms in darkness.",
+      "chinese": "希望在黑暗中绽放。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684467"
+    },
+    {
+      "english": "You are stronger than you think.",
+      "chinese": "你比你想的更坚强。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684470"
+    },
+    {
+      "english": "Let optimism guide you.",
+      "chinese": "让乐观指引你。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684472"
+    },
+    {
+      "english": "A new day, brings new chances.",
+      "chinese": "新的一天，带来新机会。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684475"
+    },
+    {
+      "english": "Keep pushing forward, always.",
+      "chinese": "永远向前。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684478"
+    },
+    {
+      "english": "Wishing you bright moments.",
+      "chinese": "祝你拥有美好的时刻。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684480"
+    },
+    {
+      "english": "There is light ahead.",
+      "chinese": "前方有光明。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684482"
+    },
+    {
+      "english": "May your spirit soar.",
+      "chinese": "愿你的精神飞扬。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684485"
+    },
+    {
+      "english": "Don't lose sight of dreams.",
+      "chinese": "不要忘记梦想。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684487"
+    },
+    {
+      "english": "Keep your heart open.",
+      "chinese": "敞开心扉。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684490"
+    },
+    {
+      "english": "Hope is contagious, spread it.",
+      "chinese": "希望会传染，传播它。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684492"
+    },
+    {
+      "english": "Embrace the possibilities.",
+      "chinese": "拥抱可能性。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684495"
+    },
+    {
+      "english": "What are your hopes, for today?",
+      "chinese": "你今天有什么希望？",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684498"
+    },
+    {
+      "english": "Shall we discuss our dreams?",
+      "chinese": "我们聊聊梦想吧？",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684501"
+    },
+    {
+      "english": "Do you see a silver lining?",
+      "chinese": "你看到一线希望了吗？",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684503"
+    },
+    {
+      "english": "What inspires your optimism?",
+      "chinese": "什么激励着你的乐观？",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684506"
+    },
+    {
+      "english": "Can we work on this together?",
+      "chinese": "我们能一起做这件事吗？",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684508"
+    },
+    {
+      "english": "What's your secret for hope?",
+      "chinese": "你保持希望的秘诀是什么？",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684514"
+    },
+    {
+      "english": "Are you feeling hopeful now?",
+      "chinese": "你现在感觉有希望吗？",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684516"
+    },
+    {
+      "english": "What advice do you have?",
+      "chinese": "你有什么建议吗？",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684519"
+    },
+    {
+      "english": "Let's share some good news.",
+      "chinese": "分享一些好消息吧。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684522"
+    },
+    {
+      "english": "How can I help you?",
+      "chinese": "我能怎么帮你？",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684525"
+    },
+    {
+      "english": "Are you thinking positively?",
+      "chinese": "你正积极地思考吗？",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684527"
+    },
+    {
+      "english": "What are you looking forward to?",
+      "chinese": "你在期待什么？",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684530"
+    },
+    {
+      "english": "Is there anything I can do?",
+      "chinese": "有什么我能做的吗？",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684532"
+    },
+    {
+      "english": "What makes you smile today?",
+      "chinese": "今天是什么让你微笑？",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684534"
+    },
+    {
+      "english": "Can we find a solution?",
+      "chinese": "我们能找到解决办法吗？",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684537"
+    },
+    {
+      "english": "What's your biggest aspiration?",
+      "chinese": "你最大的抱负是什么？",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684540"
+    },
+    {
+      "english": "Shall we brainstorm some ideas?",
+      "chinese": "我们一起头脑风暴一下？",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684542"
+    },
+    {
+      "english": "Do you believe it's possible?",
+      "chinese": "你相信这是可能的吗？",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684545"
+    },
+    {
+      "english": "What are you grateful for?",
+      "chinese": "你感激什么？",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684547"
+    },
+    {
+      "english": "How do you bounce back?",
+      "chinese": "你是如何恢复的？",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684550"
+    },
+    {
+      "english": "What's your positive outlook?",
+      "chinese": "你积极的展望是什么？",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684552"
+    },
+    {
+      "english": "Can we learn from this?",
+      "chinese": "我们能从中学习吗？",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684555"
+    },
+    {
+      "english": "What sparks your joy?",
+      "chinese": "什么让你感到快乐？",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684557"
+    },
+    {
+      "english": "Do you need a listening ear?",
+      "chinese": "你需要倾听者吗？",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684559"
+    },
+    {
+      "english": "What's your next step?",
+      "chinese": "你的下一步是什么？",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684562"
+    },
+    {
+      "english": "Let's encourage each other.",
+      "chinese": "我们互相鼓励吧。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684564"
+    },
+    {
+      "english": "What's your optimistic view?",
+      "chinese": "你的乐观观点是什么？",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684569"
+    },
+    {
+      "english": "How do you find strength?",
+      "chinese": "你是如何找到力量的？",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684571"
+    },
+    {
+      "english": "You've got this, I promise.",
+      "chinese": "你能行，我保证。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684574"
+    },
+    {
+      "english": "Stay positive, keep shining.",
+      "chinese": "保持积极，继续闪耀。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684577"
+    },
+    {
+      "english": "Your potential, is limitless.",
+      "chinese": "你的潜力，是无限的。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684585"
+    },
+    {
+      "english": "Every step, counts forward.",
+      "chinese": "每一步，都算数。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684588"
+    },
+    {
+      "english": "You're doing great, truly.",
+      "chinese": "你做得很好，真的。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684593"
+    },
+    {
+      "english": "Let courage, lead your heart.",
+      "chinese": "让勇气，引领你的心。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684595"
+    },
+    {
+      "english": "Tomorrow, is a brand new start.",
+      "chinese": "明天，是全新的开始。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684598"
+    },
+    {
+      "english": "Keep hope, alive inside.",
+      "chinese": "让希望，活在心中。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684601"
+    },
+    {
+      "english": "Focus on, the good vibes.",
+      "chinese": "专注于，好的氛围。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684603"
+    },
+    {
+      "english": "Hang in there, almost there.",
+      "chinese": "坚持住，快到了。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684606"
+    },
+    {
+      "english": "Positive thoughts, attract good luck.",
+      "chinese": "积极的想法，吸引好运。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684609"
+    },
+    {
+      "english": "You make, a difference.",
+      "chinese": "你很重要，能带来改变。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684611"
+    },
+    {
+      "english": "Your future, is bright.",
+      "chinese": "你的未来，很光明。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684614"
+    },
+    {
+      "english": "Keep aiming, high up.",
+      "chinese": "继续努力，目标远大。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684616"
+    },
+    {
+      "english": "What a great effort, you've made.",
+      "chinese": "你付出了，巨大的努力。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684619"
+    },
+    {
+      "english": "Don't doubt, your progress.",
+      "chinese": "别怀疑，你的进步。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684622"
+    },
+    {
+      "english": "The best is, yet to come.",
+      "chinese": "最好的还在，未来。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684625"
+    },
+    {
+      "english": "You are truly, amazing.",
+      "chinese": "你真的，太棒了。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684627"
+    },
+    {
+      "english": "Let passion, fuel your journey.",
+      "chinese": "让热情，点燃你的旅程。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684630"
+    },
+    {
+      "english": "Keep the faith, going.",
+      "chinese": "保持信心，继续。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684632"
+    },
+    {
+      "english": "You are resilient, and brave.",
+      "chinese": "你坚韧，而且勇敢。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684635"
+    },
+    {
+      "english": "Stay focused, on your goals.",
+      "chinese": "专注于，你的目标。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684638"
+    },
+    {
+      "english": "A bright future, awaits you.",
+      "chinese": "光明的未来，在等你。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684640"
+    },
+    {
+      "english": "Your positive attitude, is inspiring.",
+      "chinese": "你的积极态度，令人鼓舞。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684643"
+    },
+    {
+      "english": "My heart feels lighter, today.",
+      "chinese": "我心里轻松多了，今天。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684646"
+    },
+    {
+      "english": "This feeling, is quite comforting.",
+      "chinese": "这种感觉，挺让人安心的。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684648"
+    },
+    {
+      "english": "I'm learning to trust, the process.",
+      "chinese": "我正在学着信任，这个过程。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684651"
+    },
+    {
+      "english": "Inner peace, is truly valuable.",
+      "chinese": "内心的平静，确实很宝贵。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684654"
+    },
+    {
+      "english": "Letting go, brings a sense of freedom.",
+      "chinese": "放下过去，会带来自由感。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684657"
+    },
+    {
+      "english": "Honesty with myself, feels good.",
+      "chinese": "对自己坦诚，感觉很好。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684660"
+    },
+    {
+      "english": "Patience really, is a virtue.",
+      "chinese": "耐心真的是，一种美德。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684667"
+    },
+    {
+      "english": "I'm reflecting, on my journey.",
+      "chinese": "我在反思，我的人生旅程。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684669"
+    },
+    {
+      "english": "This quiet moment, is needed.",
+      "chinese": "这个安静的时刻，是必需的。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684672"
+    },
+    {
+      "english": "Deep breaths, help me calm down.",
+      "chinese": "深呼吸，帮我平静下来。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684675"
+    },
+    {
+      "english": "Understanding myself, is key.",
+      "chinese": "了解自己，是关键。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684677"
+    },
+    {
+      "english": "I feel a gentle hope, blooming.",
+      "chinese": "我感到一种温柔的希望，在萌芽。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684680"
+    },
+    {
+      "english": "This inner strength, is growing.",
+      "chinese": "这份内在的力量，正在增长。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684683"
+    },
+    {
+      "english": "Accepting things, brings peace.",
+      "chinese": "接受现实，带来平静。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684686"
+    },
+    {
+      "english": "My feelings, are valid too.",
+      "chinese": "我的感受，也是有效的。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684689"
+    },
+    {
+      "english": "This moment, holds quiet promise.",
+      "chinese": "这一刻，蕴含着宁静的承诺。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684706"
+    },
+    {
+      "english": "I'm practicing, self-compassion.",
+      "chinese": "我正在练习，自我关怀。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684709"
+    },
+    {
+      "english": "Finding beauty, in small things.",
+      "chinese": "在小事中，寻找美好。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684712"
+    },
+    {
+      "english": "My perspective, is shifting now.",
+      "chinese": "我的视角，现在正在改变。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684714"
+    },
+    {
+      "english": "This gentle persistence, pays off.",
+      "chinese": "这种温和的坚持，会得到回报。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684717"
+    },
+    {
+      "english": "Emotional honesty, feels liberating.",
+      "chinese": "情感上的坦诚，感觉很解放。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684720"
+    },
+    {
+      "english": "Allowing myself, to feel deeply.",
+      "chinese": "允许自己，去深刻感受。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684722"
+    },
+    {
+      "english": "A quiet strength, within me.",
+      "chinese": "一种安静的力量，在我心中。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684769"
+    },
+    {
+      "english": "Hope whispers, gently now.",
+      "chinese": "希望在低语，轻轻地。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684772"
+    },
+    {
+      "english": "I’m cultivating, inner resilience.",
+      "chinese": "我正在培养，内心的韧性。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684776"
+    },
+    {
+      "english": "Trusting my intuition, more.",
+      "chinese": "更相信我的直觉。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684779"
+    },
+    {
+      "english": "This calm focus, is helpful.",
+      "chinese": "这种平静的专注，很有帮助。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684782"
+    },
+    {
+      "english": "Learning from setbacks, is growth.",
+      "chinese": "从挫折中学习，就是成长。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684785"
+    },
+    {
+      "english": "My inner landscape, is changing.",
+      "chinese": "我的内心世界，正在改变。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684787"
+    },
+    {
+      "english": "This gentle optimism, feels real.",
+      "chinese": "这种温和的乐观，感觉很真实。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684790"
+    },
+    {
+      "english": "Small steps, big impact. Keep going.",
+      "chinese": "小步快跑，影响巨大。坚持下去。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684793"
+    },
+    {
+      "english": "Face challenges, with a smile.",
+      "chinese": "面对挑战，带着微笑。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684796"
+    },
+    {
+      "english": "When lost, ask for directions.",
+      "chinese": "迷路时，问问路。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684799"
+    },
+    {
+      "english": "Share your worries, lighten your load.",
+      "chinese": "分享烦恼，减轻负担。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684801"
+    },
+    {
+      "english": "Even a small light, dispels darkness.",
+      "chinese": "哪怕微光，也能驱散黑暗。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684807"
+    },
+    {
+      "english": "Need help? Don't be shy.",
+      "chinese": "需要帮忙？别不好意思。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684810"
+    },
+    {
+      "english": "Mistakes are lessons, learn them.",
+      "chinese": "错误是教训，学会它们。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684813"
+    },
+    {
+      "english": "Good habits, build a good life.",
+      "chinese": "好习惯，成就好生活。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684816"
+    },
+    {
+      "english": "Celebrate small wins, often.",
+      "chinese": "经常庆祝小胜利。",
+      "category": "Hope",
+      "generated_at": "2026-10-21T05:42:16.684821"
     }
   ],
-  "last_updated": "2026-10-20T05:40:22.632429"
+  "last_updated": "2026-10-21T05:42:16.684823"
 }
