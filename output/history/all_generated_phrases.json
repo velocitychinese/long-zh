@@ -11855,7 +11855,727 @@
       "chinese": "真挚的情感, 连接你我。",
       "category": "Strength",
       "generated_at": "2026-10-23T05:43:18.365140"
+    },
+    {
+      "english": "Hello, I have a reservation.",
+      "chinese": "你好, 我有预订。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915617"
+    },
+    {
+      "english": "Can I check in, please?",
+      "chinese": "请问, 可以入住吗?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915632"
+    },
+    {
+      "english": "What time is check-out?",
+      "chinese": "退房是几点?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915635"
+    },
+    {
+      "english": "I'd like to extend my stay.",
+      "chinese": "我想续住。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915638"
+    },
+    {
+      "english": "My room number is...",
+      "chinese": "我的房间号是...",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915640"
+    },
+    {
+      "english": "Is breakfast included?",
+      "chinese": "包含早餐吗?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915642"
+    },
+    {
+      "english": "Where is the elevator?",
+      "chinese": "电梯在哪里?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915643"
+    },
+    {
+      "english": "The Wi-Fi password, please.",
+      "chinese": "Wi-Fi 密码是?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915647"
+    },
+    {
+      "english": "Can I have more towels?",
+      "chinese": "可以再给我一些毛巾吗?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915650"
+    },
+    {
+      "english": "The air conditioning is broken.",
+      "chinese": "空调坏了。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915651"
+    },
+    {
+      "english": "I need a wake-up call.",
+      "chinese": "请叫我起床。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915653"
+    },
+    {
+      "english": "Where is the nearest convenience store?",
+      "chinese": "最近的便利店在哪?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915655"
+    },
+    {
+      "english": "This is a great hotel!",
+      "chinese": "这家酒店太棒了!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915656"
+    },
+    {
+      "english": "I'm quite satisfied.",
+      "chinese": "我很满意。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915658"
+    },
+    {
+      "english": "The room is very clean.",
+      "chinese": "房间很干净。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915660"
+    },
+    {
+      "english": "The view is beautiful.",
+      "chinese": "风景很美。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915661"
+    },
+    {
+      "english": "I need a receipt, please.",
+      "chinese": "请给我发票。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915663"
+    },
+    {
+      "english": "Can I leave my luggage here?",
+      "chinese": "我可以把行李寄在这里吗?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915665"
+    },
+    {
+      "english": "Do you have a map?",
+      "chinese": "有地图吗?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915666"
+    },
+    {
+      "english": "Is there a gym?",
+      "chinese": "有健身房吗?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915668"
+    },
+    {
+      "english": "This key card doesn't work.",
+      "chinese": "这张房卡没用了。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915670"
+    },
+    {
+      "english": "I'd like a quiet room.",
+      "chinese": "我想要个安静的房间。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915671"
+    },
+    {
+      "english": "How do I get to the subway?",
+      "chinese": "去地铁站怎么走?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915673"
+    },
+    {
+      "english": "Is room service available?",
+      "chinese": "有送餐服务吗?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915674"
+    },
+    {
+      "english": "The shower is not working.",
+      "chinese": "淋浴不工作。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915676"
+    },
+    {
+      "english": "Could you call a taxi?",
+      "chinese": "你能叫辆出租车吗?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915678"
+    },
+    {
+      "english": "Thank you for your help.",
+      "chinese": "谢谢你的帮助。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915680"
+    },
+    {
+      "english": "Have a nice stay!",
+      "chinese": "住得愉快!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915682"
+    },
+    {
+      "english": "Could you repeat that, please?",
+      "chinese": "您能再说一遍吗？",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915686"
+    },
+    {
+      "english": "Do you have a single room?",
+      "chinese": "你们有单人间吗？",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915688"
+    },
+    {
+      "english": "What's the price per night?",
+      "chinese": "一晚多少钱？",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915690"
+    },
+    {
+      "english": "Can I see the room first?",
+      "chinese": "我可以先看看房间吗？",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915694"
+    },
+    {
+      "english": "Is there free parking nearby?",
+      "chinese": "附近有免费停车位吗？",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915695"
+    },
+    {
+      "english": "How do I get to the city center?",
+      "chinese": "去市中心怎么走？",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915697"
+    },
+    {
+      "english": "Can I get a room with a balcony?",
+      "chinese": "能给我一个带阳台的房间吗？",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915699"
+    },
+    {
+      "english": "What time does the restaurant open?",
+      "chinese": "餐厅几点开门？",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915701"
+    },
+    {
+      "english": "Could you recommend a good restaurant?",
+      "chinese": "能推荐一家好餐厅吗？",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915702"
+    },
+    {
+      "english": "Where can I exchange money?",
+      "chinese": "在哪里可以换钱？",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915704"
+    },
+    {
+      "english": "Do you have a shuttle service?",
+      "chinese": "有班车服务吗？",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915706"
+    },
+    {
+      "english": "Is it far from the train station?",
+      "chinese": "离火车站远吗？",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915707"
+    },
+    {
+      "english": "Can I get a discount for a long stay?",
+      "chinese": "长住可以打折吗？",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915709"
+    },
+    {
+      "english": "What amenities are included?",
+      "chinese": "包含哪些设施？",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915712"
+    },
+    {
+      "english": "Could you turn up the heat?",
+      "chinese": "能把暖气开大点吗？",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915713"
+    },
+    {
+      "english": "I have a booking under my name.",
+      "chinese": "我预订了一个房间。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915715"
+    },
+    {
+      "english": "What floor is my room on?",
+      "chinese": "我的房间在哪一层？",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915717"
+    },
+    {
+      "english": "Can I get a receipt in English?",
+      "chinese": "能给我英文收据吗？",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915719"
+    },
+    {
+      "english": "Is there a swimming pool?",
+      "chinese": "有游泳池吗？",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915720"
+    },
+    {
+      "english": "How late is the reception open?",
+      "chinese": "前台开到几点？",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915722"
+    },
+    {
+      "english": "Can I have an extra pillow?",
+      "chinese": "能再给我一个枕头吗？",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915724"
+    },
+    {
+      "english": "The water pressure is low.",
+      "chinese": "水压有点低。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915726"
+    },
+    {
+      "english": "Where is the nearest ATM?",
+      "chinese": "最近的ATM在哪里？",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915727"
+    },
+    {
+      "english": "Could you help me with my luggage?",
+      "chinese": "能帮我拿一下行李吗？",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915729"
+    },
+    {
+      "english": "What time is breakfast served?",
+      "chinese": "早餐几点供应？",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915730"
+    },
+    {
+      "english": "I'd like to cancel my reservation.",
+      "chinese": "我想取消预订。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915732"
+    },
+    {
+      "english": "Is there a tour desk?",
+      "chinese": "有旅游咨询台吗？",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915734"
+    },
+    {
+      "english": "What's the Wi-Fi speed like?",
+      "chinese": "这里的网速怎么样？",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915736"
+    },
+    {
+      "english": "I'm looking for a quiet place.",
+      "chinese": "我在找个安静的地方。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915739"
+    },
+    {
+      "english": "Every small step counts, right?",
+      "chinese": "每一步都很重要, 对吧?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915741"
+    },
+    {
+      "english": "This is a fantastic choice!",
+      "chinese": "这是个绝佳的选择!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915743"
+    },
+    {
+      "english": "You've got this, easy peasy.",
+      "chinese": "你肯定能搞定, 小菜一碟。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915745"
+    },
+    {
+      "english": "Your effort is really commendable.",
+      "chinese": "你的努力真的很值得称赞。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915747"
+    },
+    {
+      "english": "What a beautiful view, enjoy!",
+      "chinese": "多么美的风景, 好好享受!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915749"
+    },
+    {
+      "english": "You're learning so quickly, impressive!",
+      "chinese": "你学得真快, 太棒了!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915751"
+    },
+    {
+      "english": "This experience will be amazing.",
+      "chinese": "这次经历一定会很棒。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915759"
+    },
+    {
+      "english": "Don't worry, it's all part of it.",
+      "chinese": "别担心, 这都是过程。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915761"
+    },
+    {
+      "english": "You are a natural learner.",
+      "chinese": "你真是个天生的学习者。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915762"
+    },
+    {
+      "english": "Embrace the new, explore more.",
+      "chinese": "拥抱新事物, 多去探索。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915764"
+    },
+    {
+      "english": "This place feels so welcoming, right?",
+      "chinese": "这里感觉很温馨, 是吧?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915766"
+    },
+    {
+      "english": "You've handled that perfectly.",
+      "chinese": "你处理得太完美了。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915768"
+    },
+    {
+      "english": "Stay positive, good things will come.",
+      "chinese": "保持积极, 好事会来的。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915770"
+    },
+    {
+      "english": "What a great attitude you have!",
+      "chinese": "你这心态真棒!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915772"
+    },
+    {
+      "english": "You're making this trip unforgettable.",
+      "chinese": "你让这次旅行难以忘怀。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915775"
+    },
+    {
+      "english": "Just relax and enjoy the moment.",
+      "chinese": "放松心情, 享受当下。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915777"
+    },
+    {
+      "english": "You're a quick learner, I see.",
+      "chinese": "你学得真快, 我看出来了。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915779"
+    },
+    {
+      "english": "This is a perfect spot to recharge.",
+      "chinese": "这是个绝佳的放松地。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915780"
+    },
+    {
+      "english": "You're navigating this like a pro.",
+      "chinese": "你处理得像个专家。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915782"
+    },
+    {
+      "english": "Every challenge is a chance to grow.",
+      "chinese": "每个挑战都是成长的机会。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915783"
+    },
+    {
+      "english": "This is exactly what you needed.",
+      "chinese": "这正是你所需要的。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915785"
+    },
+    {
+      "english": "Your positive energy is contagious.",
+      "chinese": "你的积极能量很有感染力。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915787"
+    },
+    {
+      "english": "You're doing better than you think.",
+      "chinese": "你做得比你想象的要好。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915788"
+    },
+    {
+      "english": "This moment is yours to savor.",
+      "chinese": "这是属于你的时刻, 好好品味。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915790"
+    },
+    {
+      "english": "You've got a good head on your shoulders.",
+      "chinese": "你脑子很灵光。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915792"
+    },
+    {
+      "english": "Embrace the adventure, you'll love it.",
+      "chinese": "拥抱冒险吧, 你会喜欢的。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915794"
+    },
+    {
+      "english": "This room, it feels like home.",
+      "chinese": "这个房间，住着像家一样。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915796"
+    },
+    {
+      "english": "Sometimes, quiet is what I need.",
+      "chinese": "有时候，我需要的是安静。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915798"
+    },
+    {
+      "english": "Hope the neighbors are considerate.",
+      "chinese": "希望邻居们能体谅。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915799"
+    },
+    {
+      "english": "This bed, so comfortable, wow.",
+      "chinese": "这张床，太舒服了，哇。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915801"
+    },
+    {
+      "english": "Can I just linger here a bit?",
+      "chinese": "我能在这里多待一会儿吗？",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915803"
+    },
+    {
+      "english": "Thinking back, it was a good stay.",
+      "chinese": "回想起来，住得很愉快。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915805"
+    },
+    {
+      "english": "No rush, take your time deciding.",
+      "chinese": "不着急，慢慢决定。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915808"
+    },
+    {
+      "english": "This view, truly soul-soothing.",
+      "chinese": "这景色，真让人心旷神怡。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915812"
+    },
+    {
+      "english": "Let's see how the morning feels.",
+      "chinese": "看看早晨感觉怎么样。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915814"
+    },
+    {
+      "english": "My feelings are honest, truly.",
+      "chinese": "我的感受很真实，真的。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915816"
+    },
+    {
+      "english": "It's okay to feel a little lost.",
+      "chinese": "有点迷茫也没关系。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915817"
+    },
+    {
+      "english": "This space, it really inspires.",
+      "chinese": "这个空间，真的很有启发。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915820"
+    },
+    {
+      "english": "Let's just be present, okay?",
+      "chinese": "我们就活在当下，好吗？",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915822"
+    },
+    {
+      "english": "This feeling, I can't quite explain.",
+      "chinese": "这种感觉，我说不太清楚。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915824"
+    },
+    {
+      "english": "Patience, it's a virtue, right?",
+      "chinese": "耐心，是种美德，对吧？",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915826"
+    },
+    {
+      "english": "I'm just soaking it all in.",
+      "chinese": "我只是慢慢体会。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915828"
+    },
+    {
+      "english": "What a thoughtful little detail.",
+      "chinese": "多么贴心的小细节。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915830"
+    },
+    {
+      "english": "This stay, it feels meaningful.",
+      "chinese": "这次住宿，感觉很有意义。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915832"
+    },
+    {
+      "english": "Allow yourself to unwind a bit.",
+      "chinese": "让自己放松一下。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915833"
+    },
+    {
+      "english": "Did I pack enough warm clothes?",
+      "chinese": "我带够暖和的衣服了吗？",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915835"
+    },
+    {
+      "english": "This silence, it's golden.",
+      "chinese": "这份宁静，是无价的。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915837"
+    },
+    {
+      "english": "Let's reflect on the day, shall we?",
+      "chinese": "我们来回顾一下今天吧？",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915839"
+    },
+    {
+      "english": "This amenity, a pleasant surprise.",
+      "chinese": "这个便利设施，惊喜。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915841"
+    },
+    {
+      "english": "I'm truly grateful for this.",
+      "chinese": "我真的很感激。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915843"
+    },
+    {
+      "english": "It's good to be here, honestly.",
+      "chinese": "说实话，能来这里真好。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915845"
+    },
+    {
+      "english": "This moment, just for me.",
+      "chinese": "这一刻，只属于我。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915846"
+    },
+    {
+      "english": "Hope tomorrow is just as nice.",
+      "chinese": "希望明天也一样好。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915848"
+    },
+    {
+      "english": "A deep breath, feels good.",
+      "chinese": "深呼吸，感觉真好。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915850"
+    },
+    {
+      "english": "What a peaceful atmosphere.",
+      "chinese": "多么宁静的氛围。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915852"
+    },
+    {
+      "english": "This place has a good vibe.",
+      "chinese": "这地方感觉不错。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915853"
+    },
+    {
+      "english": "Excuse me, where's the elevator?",
+      "chinese": "请问，电梯在哪儿？",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915855"
+    },
+    {
+      "english": "Can I have a wake-up call?",
+      "chinese": "可以叫我起床吗？",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915857"
+    },
+    {
+      "english": "My room key isn't working.",
+      "chinese": "我的房卡打不开门。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915859"
+    },
+    {
+      "english": "I need extra towels, please.",
+      "chinese": "我需要一些额外的毛巾。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915862"
+    },
+    {
+      "english": "Is Wi-Fi free here?",
+      "chinese": "这里的Wi-Fi是免费的吗？",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915864"
+    },
+    {
+      "english": "Where can I exchange currency?",
+      "chinese": "在哪儿可以换钱？",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915866"
+    },
+    {
+      "english": "I'd like to check out now.",
+      "chinese": "我想现在退房。",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-24T05:21:58.915868"
     }
   ],
-  "last_updated": "2026-10-23T05:43:18.365142"
+  "last_updated": "2026-10-24T05:21:58.915869"
 }
