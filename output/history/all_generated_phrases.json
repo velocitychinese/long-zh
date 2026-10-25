@@ -12575,7 +12575,727 @@
       "chinese": "我想现在退房。",
       "category": "Hotel & Accommodation",
       "generated_at": "2026-10-24T05:21:58.915868"
+    },
+    {
+      "english": "Let's begin, shall we?",
+      "chinese": "我们开始吧，好吗？",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.603987"
+    },
+    {
+      "english": "What's new today?",
+      "chinese": "今天有什么新鲜事？",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604003"
+    },
+    {
+      "english": "That's interesting, tell me more.",
+      "chinese": "那很有趣，跟我多说点。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604006"
+    },
+    {
+      "english": "I understand now, finally.",
+      "chinese": "我终于明白了。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604009"
+    },
+    {
+      "english": "Can you say that again?",
+      "chinese": "你能再说一遍吗？",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604011"
+    },
+    {
+      "english": "This is useful, I'll use it.",
+      "chinese": "这个有用，我会用的。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604014"
+    },
+    {
+      "english": "How do you say this?",
+      "chinese": "这个怎么说？",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604016"
+    },
+    {
+      "english": "What does that mean?",
+      "chinese": "那是什么意思？",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604022"
+    },
+    {
+      "english": "This sounds right, yes.",
+      "chinese": "这听起来对，是的。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604026"
+    },
+    {
+      "english": "You speak very well.",
+      "chinese": "你说得很好。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604028"
+    },
+    {
+      "english": "What's the best way?",
+      "chinese": "最好的方法是什么？",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604031"
+    },
+    {
+      "english": "I'm learning quickly, wow.",
+      "chinese": "我学得很快，哇。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604033"
+    },
+    {
+      "english": "This is a good start.",
+      "chinese": "这是一个好的开始。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604035"
+    },
+    {
+      "english": "Don't be afraid, try it.",
+      "chinese": "别害怕，试试看。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604039"
+    },
+    {
+      "english": "Can you hear me clearly?",
+      "chinese": "你听得清楚吗？",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604041"
+    },
+    {
+      "english": "Let's try that phrase.",
+      "chinese": "我们试试那个短语。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604044"
+    },
+    {
+      "english": "This feels natural now.",
+      "chinese": "现在感觉很自然。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604046"
+    },
+    {
+      "english": "I like this learning method.",
+      "chinese": "我喜欢这个学习方法。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604048"
+    },
+    {
+      "english": "Almost there, keep pushing.",
+      "chinese": "快到了，继续努力。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604050"
+    },
+    {
+      "english": "This makes sense, truly.",
+      "chinese": "这说得通，真的。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604054"
+    },
+    {
+      "english": "Let's review this part.",
+      "chinese": "我们复习一下这部分。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604056"
+    },
+    {
+      "english": "What's the word for...?",
+      "chinese": "那个词是什么...？",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604058"
+    },
+    {
+      "english": "I feel progress, yes.",
+      "chinese": "我感觉到进步了，是的。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604061"
+    },
+    {
+      "english": "That's a great question.",
+      "chinese": "那是个好问题。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604063"
+    },
+    {
+      "english": "Let's try a new sentence.",
+      "chinese": "我们试试新句子。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604065"
+    },
+    {
+      "english": "What's your goal, for today?",
+      "chinese": "你今天的目标是什么？",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604068"
+    },
+    {
+      "english": "Any advice, for a beginner?",
+      "chinese": "给新手有什么建议吗？",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604070"
+    },
+    {
+      "english": "Where should I focus, first?",
+      "chinese": "我应该先集中在哪儿？",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604073"
+    },
+    {
+      "english": "Could you show me, an example?",
+      "chinese": "你能给我看个例子吗？",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604076"
+    },
+    {
+      "english": "How do you practice, effectively?",
+      "chinese": "你如何有效地练习？",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604078"
+    },
+    {
+      "english": "What's a common mistake, people make?",
+      "chinese": "人们常犯什么错误？",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604081"
+    },
+    {
+      "english": "Is there a better way, to learn?",
+      "chinese": "有更好的学习方法吗？",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604084"
+    },
+    {
+      "english": "What helps you, stay motivated?",
+      "chinese": "什么能帮助你保持动力？",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604086"
+    },
+    {
+      "english": "Can you recommend, a resource?",
+      "chinese": "你能推荐一个资源吗？",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604089"
+    },
+    {
+      "english": "What if I get stuck, what then?",
+      "chinese": "如果我卡住了怎么办？",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604091"
+    },
+    {
+      "english": "How long did this take you?",
+      "chinese": "这花了你多长时间？",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604094"
+    },
+    {
+      "english": "What's your favorite part, of learning?",
+      "chinese": "你学习中最喜欢的部分是什么？",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604097"
+    },
+    {
+      "english": "Did you find this helpful, too?",
+      "chinese": "你也觉得这个有帮助吗？",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604099"
+    },
+    {
+      "english": "What are your next steps, clearly?",
+      "chinese": "你下一步计划是什么？",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604102"
+    },
+    {
+      "english": "How do you handle, challenges?",
+      "chinese": "你如何应对挑战？",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604106"
+    },
+    {
+      "english": "What's your learning style, basically?",
+      "chinese": "你的学习风格是怎样的？",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604108"
+    },
+    {
+      "english": "What's the biggest win, you've had?",
+      "chinese": "你最大的成就是什么？",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604111"
+    },
+    {
+      "english": "Could you elaborate, a little more?",
+      "chinese": "你能再详细说一点吗？",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604113"
+    },
+    {
+      "english": "What surprised you, most recently?",
+      "chinese": "你最近最惊讶的是什么？",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604115"
+    },
+    {
+      "english": "How did you overcome, that hurdle?",
+      "chinese": "你是如何克服那个障碍的？",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604118"
+    },
+    {
+      "english": "What's your take, on this idea?",
+      "chinese": "你对此有什么看法？",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604120"
+    },
+    {
+      "english": "Any tips for speaking, confidently?",
+      "chinese": "有什么提高口语自信的技巧吗？",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604123"
+    },
+    {
+      "english": "What's the key, to quick progress?",
+      "chinese": "快速进步的关键是什么？",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604125"
+    },
+    {
+      "english": "How do you measure, your growth?",
+      "chinese": "你如何衡量你的成长？",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604128"
+    },
+    {
+      "english": "What's a good starting point, for practice?",
+      "chinese": "练习的好的起点是什么？",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604130"
+    },
+    {
+      "english": "What's your opinion, on this topic?",
+      "chinese": "你对这个话题有什么看法？",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604134"
+    },
+    {
+      "english": "How can I improve, my listening?",
+      "chinese": "我怎样才能提高听力？",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604136"
+    },
+    {
+      "english": "What inspires you, to keep going?",
+      "chinese": "什么激励你继续前进？",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604138"
+    },
+    {
+      "english": "Small steps, big results.",
+      "chinese": "小步子, 大成果。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604141"
+    },
+    {
+      "english": "Every try, is learning.",
+      "chinese": "每一次尝试, 都是学习。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604143"
+    },
+    {
+      "english": "Your effort, is visible.",
+      "chinese": "你的努力, 看得见。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604146"
+    },
+    {
+      "english": "Don't give up, easily.",
+      "chinese": "别轻易放弃。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604149"
+    },
+    {
+      "english": "This is progress, truly.",
+      "chinese": "这就是进步, 真的。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604151"
+    },
+    {
+      "english": "You've got this, power!",
+      "chinese": "你能搞定, 加油！",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604154"
+    },
+    {
+      "english": "Focus on your strengths.",
+      "chinese": "专注于你的优点。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604156"
+    },
+    {
+      "english": "Mistakes are learning tools.",
+      "chinese": "错误是学习的工具。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604159"
+    },
+    {
+      "english": "You're getting better, daily.",
+      "chinese": "你每天都在变好。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604162"
+    },
+    {
+      "english": "Your mindset, is key.",
+      "chinese": "你的心态, 是关键。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604164"
+    },
+    {
+      "english": "Growth takes time, patience.",
+      "chinese": "成长需要时间, 耐心。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604166"
+    },
+    {
+      "english": "Learning is a journey.",
+      "chinese": "学习是一个旅程。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604169"
+    },
+    {
+      "english": "Don't compare, just grow.",
+      "chinese": "别比较, 只管成长。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604171"
+    },
+    {
+      "english": "Embrace imperfections, learn.",
+      "chinese": "接受不完美, 去学。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604174"
+    },
+    {
+      "english": "You are capable, of much.",
+      "chinese": "你很有能力, 能做很多。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604176"
+    },
+    {
+      "english": "Keep that good attitude.",
+      "chinese": "保持那个好态度。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604178"
+    },
+    {
+      "english": "Focus on the positive.",
+      "chinese": "专注于积极面。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604180"
+    },
+    {
+      "english": "You are learning, fast.",
+      "chinese": "你学得很快。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604182"
+    },
+    {
+      "english": "Believe in the process.",
+      "chinese": "相信这个过程。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604186"
+    },
+    {
+      "english": "Keep aiming higher, always.",
+      "chinese": "一直朝着更高目标努力。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604189"
+    },
+    {
+      "english": "Plant seeds, watch them grow.",
+      "chinese": "种瓜得瓜，种豆得豆。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604191"
+    },
+    {
+      "english": "Climb the mountain, step by step.",
+      "chinese": "登山不只看高度，一步一个脚印。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604194"
+    },
+    {
+      "english": "The river flows, to the sea.",
+      "chinese": "天道酬勤，水滴石穿。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604196"
+    },
+    {
+      "english": "Learn one thing, apply one thing.",
+      "chinese": "学以致用，融会贯通。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604200"
+    },
+    {
+      "english": "Don't be afraid, of going slow.",
+      "chinese": "不怕慢，就怕站。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604204"
+    },
+    {
+      "english": "Practice makes, perfect, truly.",
+      "chinese": "熟能生巧，功夫不负有心人。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604207"
+    },
+    {
+      "english": "Open your mind, embrace change.",
+      "chinese": "海纳百川，有容乃大。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604210"
+    },
+    {
+      "english": "Focus on the journey, not just the destination.",
+      "chinese": "行百里者，半九十。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604213"
+    },
+    {
+      "english": "A good beginning, is half the battle.",
+      "chinese": "万事开头难，好的开始。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604215"
+    },
+    {
+      "english": "Reflect often, learn deeper.",
+      "chinese": "吾日三省吾身。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604218"
+    },
+    {
+      "english": "Gather knowledge, bit by bit.",
+      "chinese": "积少成多，聚沙成塔。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604220"
+    },
+    {
+      "english": "Don't lose heart, keep trying.",
+      "chinese": "锲而不舍，金石可镂。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604223"
+    },
+    {
+      "english": "Adapt to the times, move forward.",
+      "chinese": "顺势而为，与时俱进。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604226"
+    },
+    {
+      "english": "Each day, a little better.",
+      "chinese": "日拱一卒，功无不克。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604229"
+    },
+    {
+      "english": "Find your passion, follow it.",
+      "chinese": "找到热爱，一往无前。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604232"
+    },
+    {
+      "english": "The reward, is worth the effort.",
+      "chinese": "不劳无获，功到自然成。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604234"
+    },
+    {
+      "english": "Every fall, teaches us, to stand.",
+      "chinese": "跌倒了，爬起来，继续走。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604237"
+    },
+    {
+      "english": "Be brave, to explore new paths.",
+      "chinese": "敢于尝试，不怕未知。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604240"
+    },
+    {
+      "english": "What you practice, you become.",
+      "chinese": "用心去做，必有所成。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604243"
+    },
+    {
+      "english": "Build on basics, excel later.",
+      "chinese": "万丈高楼，平地起。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604246"
+    },
+    {
+      "english": "Don't fear, the unknown ahead.",
+      "chinese": "前途光明，不怕挑战。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604249"
+    },
+    {
+      "english": "Persistence, is the mother of success.",
+      "chinese": "坚持就是胜利。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604251"
+    },
+    {
+      "english": "Embrace challenges, gain wisdom.",
+      "chinese": "吃一堑，长一智。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604254"
+    },
+    {
+      "english": "Let your actions, speak volumes.",
+      "chinese": "事实胜于雄辩。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604257"
+    },
+    {
+      "english": "Continuous effort, brings great results.",
+      "chinese": "持之以恒，终有所成。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604259"
+    },
+    {
+      "english": "Learn from elders, respect their wisdom.",
+      "chinese": "听老人言，吃饱饭。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604262"
+    },
+    {
+      "english": "Invest in yourself, always.",
+      "chinese": "投资自己，受益无穷。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604264"
+    },
+    {
+      "english": "Try new things, often.",
+      "chinese": "多多尝试新事物。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604266"
+    },
+    {
+      "english": "Ask questions, don't assume.",
+      "chinese": "多问问题，别瞎猜。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604269"
+    },
+    {
+      "english": "Fix problems, don't avoid.",
+      "chinese": "解决问题，不逃避。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604272"
+    },
+    {
+      "english": "Help others, learn together.",
+      "chinese": "互相帮助，共同学习。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604274"
+    },
+    {
+      "english": "Be mindful, of surroundings.",
+      "chinese": "留心周围，保持警惕。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604277"
+    },
+    {
+      "english": "Organize your space, clear mind.",
+      "chinese": "整理空间，思路清晰。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604279"
+    },
+    {
+      "english": "Budget wisely, save money.",
+      "chinese": "精打细算，才能省钱。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604281"
+    },
+    {
+      "english": "Set realistic goals, achieve them.",
+      "chinese": "目标定实际，才能达成。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604283"
+    },
+    {
+      "english": "Seek feedback, from trusted people.",
+      "chinese": "找人给意见，很重要。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604286"
+    },
+    {
+      "english": "Network actively, build connections.",
+      "chinese": "积极社交，拓展人脉。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604288"
+    },
+    {
+      "english": "Manage your time, effectively.",
+      "chinese": "有效管理你的时间。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604289"
+    },
+    {
+      "english": "Take breaks, avoid burnout.",
+      "chinese": "劳逸结合，避免倦怠。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604291"
+    },
+    {
+      "english": "Stay curious, always learn.",
+      "chinese": "保持好奇，永远学习。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604293"
+    },
+    {
+      "english": "Celebrate small wins, stay motivated.",
+      "chinese": "庆祝小成功，保持动力。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604295"
+    },
+    {
+      "english": "Review past actions, improve future.",
+      "chinese": "回顾过去，改进未来。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604297"
+    },
+    {
+      "english": "Find mentors, learn from them.",
+      "chinese": "找到良师，学习经验。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604298"
+    },
+    {
+      "english": "Communicate clearly, avoid misunderstandings.",
+      "chinese": "清晰沟通，免生误会。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604300"
+    },
+    {
+      "english": "Be adaptable, to changing situations.",
+      "chinese": "适应变化，灵活应变。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604302"
+    },
+    {
+      "english": "Prioritize tasks, focus energy.",
+      "chinese": "分清主次，集中精力。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604303"
+    },
+    {
+      "english": "Stay healthy, mind and body.",
+      "chinese": "身心健康，最是重要。",
+      "category": "Growth",
+      "generated_at": "2026-10-25T05:38:52.604305"
     }
   ],
-  "last_updated": "2026-10-24T05:21:58.915869"
+  "last_updated": "2026-10-25T05:38:52.604306"
 }
