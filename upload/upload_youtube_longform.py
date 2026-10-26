@@ -218,6 +218,31 @@ def upload_to_youtube(video_info):
         print(f"   URL: https://www.youtube.com/watch?v={video_id}")
         print(f"   Status: Public (visible to everyone)")
         
+        # Post pinned comment linking to website
+        try:
+            comment_text = (
+                "🇨🇳 Master Mandarin Chinese faster with our interactive vocabulary tools & free guides!\n"
+                "👉 Visit Velocity Chinese: https://velocitychinese.com/\n"
+                "📖 Read our blog lessons: https://velocitychinese.com/blog/"
+            )
+            print("\n💬 Posting pinned comment to YouTube video...")
+            youtube.commentThreads().insert(
+                part="snippet",
+                body={
+                    "snippet": {
+                        "videoId": video_id,
+                        "topLevelComment": {
+                            "snippet": {
+                                "textOriginal": comment_text
+                            }
+                        }
+                    }
+                }
+            ).execute()
+            print("   ✅ Pinned comment posted successfully!")
+        except Exception as ce:
+            print(f"   ⚠️ Notice on comment post: {ce}")
+
         # Upload thumbnail
         if video_info.get("thumbnail") and video_info["thumbnail"].exists():
             print(f"\n🖼️  Uploading custom thumbnail...")

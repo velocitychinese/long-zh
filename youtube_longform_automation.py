@@ -1076,26 +1076,31 @@ def generate_title_description(category_english: str, category_foreign: str, phr
     count = len(phrases)
     est_mins = int(round(duration_minutes)) if duration_minutes > 0 else 20
     
-    # Generate viral title variations
+    # Generate viral title variations with high-converting search keywords
     titles = [
-        f"Learn Chinese in {est_mins} Minutes | {count} {category_english} Phrases Every Beginner NEEDS to Know! ({category_foreign})",
-        f"{count} Chinese Phrases for {category_english} | Speak Chinese Like a Native! ({category_foreign})",
-        f"Master Chinese {category_english} | {count} Essential Chinese Phrases with Pronunciation | VELOCITY CHINESE",
-        f"Chinese Learning Made Easy | {category_english} Vocabulary | {est_mins} Minute Lesson",
-        f"Speak Chinese Fluently | {category_english} Phrases | English + Chinese + Pronunciation",
+        f"Learn Chinese in {est_mins} Minutes: {count} Essential {category_english} Phrases ({category_foreign}) | Velocity Chinese",
+        f"{count} Chinese Phrases for {category_english} ({category_foreign}) | Speak Mandarin Like a Native! | Velocity Chinese",
+        f"Master Chinese {category_english}: {count} Essential Phrases with Pinyin & English | VELOCITY CHINESE",
+        f"Speak Chinese Fluently: {category_english} Vocabulary & Phrases for Beginners | Velocity Chinese",
+        f"Chinese Learning Made Easy: {count} {category_english} Phrases with Pronunciation ({category_foreign})",
     ]
 
-    # Generate comprehensive description
+    # Generate comprehensive description with high-converting SEO & backlinks
     description = f"""🇨🇳 Learn Chinese with VELOCITY CHINESE! 🇨🇳
+👉 Free Interactive Lessons & Vocabulary Guides: https://velocitychinese.com/
+📖 Read our latest Chinese Language Articles: https://velocitychinese.com/blog/
 
 In this video, you'll learn {count} essential Chinese phrases about {category_english} ({category_foreign}).
-Perfect for beginners and intermediate learners!
+Perfect for beginners, HSK 1-3 students, and intermediate learners wanting to master spoken Mandarin!
 
 📚 WHAT YOU'LL LEARN:
 • {count} practical {category_english} phrases in Chinese
-• Correct pronunciation with phonetics
+• Correct pronunciation with standard Pinyin
 • Natural pedagogical pauses for speaking practice
-• Common expressions used by native speakers
+• Common expressions used by native speakers in daily conversation
+
+🔍 POPULAR SEARCH TOPICS COVERED:
+learn chinese, chinese vocabulary for beginners, {category_english.lower()} in chinese, essential mandarin phrases, how to speak chinese, hsk vocabulary, daily chinese practice, velocity chinese
 
 ⏱️ VIDEO TIMESTAMPS:
 """
@@ -1142,8 +1147,10 @@ Perfect for beginners and intermediate learners!
 👍 LIKE this video if you found it helpful!
 💬 COMMENT which phrases you want to learn next!
 
-📱 FOLLOW VELOCITY CHINESE:
-[Add your social media links here]
+🌐 OFFICIAL WEBSITE & FREE LEARNING RESOURCES:
+• Official Website: https://velocitychinese.com/
+• Chinese Language Blog: https://velocitychinese.com/blog/
+• Free Vocabulary & Grammar Guides: https://velocitychinese.com/
 
 🎵 MUSIC:
 [Add music credits if applicable]
@@ -1154,7 +1161,7 @@ Perfect for beginners and intermediate learners!
 • Chinese Basics
 • Basic Chinese Greetings
 
-#Chinese #ChinesePhrases #ChineseLanguage #{category_english.replace(' ', '')} #VELOCITYCHINESE #ChineseForBeginners #SpeakChinese #ChineseVocabulary #LanguageLearning #Chinese101 #ChineseLesson
+#Chinese #ChinesePhrases #ChineseLanguage #{category_english.replace(' ', '')} #VELOCITYCHINESE #ChineseForBeginners #SpeakChinese #ChineseVocabulary #LanguageLearning #Chinese101 #ChineseLesson #LearnMandarin #Pinyin #HSK1
 
 ---
 © VELOCITY CHINESE - Making Chinese learning accessible to everyone!
