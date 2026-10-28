@@ -14735,7 +14735,727 @@
       "chinese": "放下怨恨。",
       "category": "Joy",
       "generated_at": "2026-10-27T05:58:01.733711"
+    },
+    {
+      "english": "I need to see a doctor, please.",
+      "chinese": "我想看医生，麻烦了。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645840"
+    },
+    {
+      "english": "Where is the nearest pharmacy?",
+      "chinese": "最近的药店在哪里？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645854"
+    },
+    {
+      "english": "I have a headache, a bad one.",
+      "chinese": "我头疼，很厉害。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645857"
+    },
+    {
+      "english": "My stomach hurts, a lot.",
+      "chinese": "我肚子疼，很不舒服。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645860"
+    },
+    {
+      "english": "I feel a bit sick, you know.",
+      "chinese": "我感觉有点不舒服，你知道。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645862"
+    },
+    {
+      "english": "Do you have this medicine?",
+      "chinese": "你们有这种药吗？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645864"
+    },
+    {
+      "english": "How much does this cost?",
+      "chinese": "这个多少钱？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645866"
+    },
+    {
+      "english": "I need some pain relief.",
+      "chinese": "我需要一些止痛药。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645871"
+    },
+    {
+      "english": "When will the doctor be free?",
+      "chinese": "医生什么时候有空？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645874"
+    },
+    {
+      "english": "I have a prescription, right here.",
+      "chinese": "我有处方，在这儿。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645876"
+    },
+    {
+      "english": "I need to buy some bandages.",
+      "chinese": "我要买点创可贴。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645880"
+    },
+    {
+      "english": "Is it serious, doctor?",
+      "chinese": "医生，严重吗？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645882"
+    },
+    {
+      "english": "I have a fever, I think.",
+      "chinese": "我好像发烧了。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645884"
+    },
+    {
+      "english": "Can I get some cough syrup?",
+      "chinese": "能给我拿点止咳糖浆吗？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645896"
+    },
+    {
+      "english": "I need to renew my prescription.",
+      "chinese": "我需要续我的药方。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645901"
+    },
+    {
+      "english": "My throat is sore, really.",
+      "chinese": "我嗓子疼，真的。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645905"
+    },
+    {
+      "english": "Do I need to take this daily?",
+      "chinese": "这个需要每天吃吗？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645922"
+    },
+    {
+      "english": "I have allergies, be careful.",
+      "chinese": "我有过敏，小心点。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645925"
+    },
+    {
+      "english": "What are the side effects?",
+      "chinese": "有什么副作用吗？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645927"
+    },
+    {
+      "english": "I need some medicine for cold.",
+      "chinese": "我需要感冒药。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645929"
+    },
+    {
+      "english": "Can you recommend something good?",
+      "chinese": "你有什么推荐的吗？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645931"
+    },
+    {
+      "english": "My nose is blocked, it's hard.",
+      "chinese": "我鼻子不通气，很难受。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645933"
+    },
+    {
+      "english": "I need an appointment, soon.",
+      "chinese": "我需要一个预约，尽快。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645935"
+    },
+    {
+      "english": "This is for daily use, right?",
+      "chinese": "这是每天用的，对吧？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645938"
+    },
+    {
+      "english": "I have a slight cough.",
+      "chinese": "我有点咳嗽。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645939"
+    },
+    {
+      "english": "Is there anything stronger?",
+      "chinese": "有更强的吗？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645941"
+    },
+    {
+      "english": "My ear hurts, a sharp pain.",
+      "chinese": "我耳朵疼，刺痛。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645943"
+    },
+    {
+      "english": "I need to get a shot.",
+      "chinese": "我需要打一针。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645946"
+    },
+    {
+      "english": "How should I take this?",
+      "chinese": "这个该怎么吃？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645948"
+    },
+    {
+      "english": "Just a quick check-up, thanks.",
+      "chinese": "只是简单检查一下，谢谢。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645950"
+    },
+    {
+      "english": "What seems to be the problem?",
+      "chinese": "有什么问题吗？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645953"
+    },
+    {
+      "english": "Can you describe the pain?",
+      "chinese": "能说说哪里不舒服吗？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645955"
+    },
+    {
+      "english": "How long have you felt this way?",
+      "chinese": "你感觉这样多久了？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645957"
+    },
+    {
+      "english": "Should I lie down here?",
+      "chinese": "我需要在这躺下吗？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645959"
+    },
+    {
+      "english": "Is there a specialist for this?",
+      "chinese": "有这方面的专家吗？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645961"
+    },
+    {
+      "english": "What's your medical history?",
+      "chinese": "你有什么病史吗？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645964"
+    },
+    {
+      "english": "Any allergies I should know about?",
+      "chinese": "有什么过敏史需要注意？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645966"
+    },
+    {
+      "english": "What did the previous doctor say?",
+      "chinese": "上次的医生怎么说的？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645970"
+    },
+    {
+      "english": "Can you explain the dosage?",
+      "chinese": "能解释一下用法用量吗？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645972"
+    },
+    {
+      "english": "Is this prescription still valid?",
+      "chinese": "这个处方还有效吗？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645974"
+    },
+    {
+      "english": "Are there any alternatives available?",
+      "chinese": "有别的替代的药吗？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645976"
+    },
+    {
+      "english": "What should I avoid eating?",
+      "chinese": "有什么东西不能吃？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645978"
+    },
+    {
+      "english": "How often should I take it?",
+      "chinese": "多久吃一次？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645980"
+    },
+    {
+      "english": "Will this make me drowsy?",
+      "chinese": "这个会让人犯困吗？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645982"
+    },
+    {
+      "english": "Can I take this with water?",
+      "chinese": "这个可以用水吃吗？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645983"
+    },
+    {
+      "english": "What's the expiry date?",
+      "chinese": "保质期到什么时候？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645986"
+    },
+    {
+      "english": "Is there a discount for cash?",
+      "chinese": "现金支付有优惠吗？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645988"
+    },
+    {
+      "english": "Can I pay with my card?",
+      "chinese": "可以用卡支付吗？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645990"
+    },
+    {
+      "english": "Where can I get a refund?",
+      "chinese": "哪里可以退货？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645992"
+    },
+    {
+      "english": "What's the procedure for this?",
+      "chinese": "这个流程是怎样的？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645994"
+    },
+    {
+      "english": "Do I need to book ahead?",
+      "chinese": "需要提前预约吗？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645996"
+    },
+    {
+      "english": "Can you check my insurance?",
+      "chinese": "能查一下我的保险吗？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645998"
+    },
+    {
+      "english": "Is there a waiting room nearby?",
+      "chinese": "附近有等候室吗？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.645999"
+    },
+    {
+      "english": "What are the opening hours?",
+      "chinese": "他们的营业时间是？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646001"
+    },
+    {
+      "english": "Can you repeat that please?",
+      "chinese": "能再说一遍吗？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646003"
+    },
+    {
+      "english": "Is this medicine habit-forming?",
+      "chinese": "这个药会成瘾吗？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646005"
+    },
+    {
+      "english": "When should I come back?",
+      "chinese": "我什么时候该回来？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646007"
+    },
+    {
+      "english": "Can I get a second opinion?",
+      "chinese": "我可以寻求第二意见吗？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646009"
+    },
+    {
+      "english": "Are there any specific instructions?",
+      "chinese": "有什么特别的嘱咐吗？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646011"
+    },
+    {
+      "english": "Focus on healing, don't worry.",
+      "chinese": "专注于康复，别担心。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646015"
+    },
+    {
+      "english": "Every day, a little better.",
+      "chinese": "每天进步一点点。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646017"
+    },
+    {
+      "english": "Positive thoughts, quick recovery.",
+      "chinese": "积极心态，快速恢复。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646019"
+    },
+    {
+      "english": "Trust the process, you'll be fine.",
+      "chinese": "相信这个过程，你会好起来。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646022"
+    },
+    {
+      "english": "Breathe deep, relax your mind.",
+      "chinese": "深呼吸，放松心情。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646024"
+    },
+    {
+      "english": "Take it one day at a time.",
+      "chinese": "一天一天来。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646027"
+    },
+    {
+      "english": "Good job following instructions!",
+      "chinese": "按指示做的很棒！",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646030"
+    },
+    {
+      "english": "Healing takes time, be patient.",
+      "chinese": "康复需要时间，要有耐心。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646032"
+    },
+    {
+      "english": "You're handling this really well.",
+      "chinese": "你处理得很好。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646034"
+    },
+    {
+      "english": "Your effort is paying off.",
+      "chinese": "你的努力正在见效。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646036"
+    },
+    {
+      "english": "Feel better soon, okay?",
+      "chinese": "快点好起来，好吗？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646038"
+    },
+    {
+      "english": "Don't give up, you're almost there.",
+      "chinese": "别放弃，你快好了。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646041"
+    },
+    {
+      "english": "This is a temporary setback.",
+      "chinese": "这只是暂时的挫折。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646043"
+    },
+    {
+      "english": "You're doing amazing work.",
+      "chinese": "你做得惊人。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646045"
+    },
+    {
+      "english": "Stay strong, stay healthy.",
+      "chinese": "保持坚强，保持健康。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646047"
+    },
+    {
+      "english": "Sending you healing vibes.",
+      "chinese": "送你治愈的能量。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646049"
+    },
+    {
+      "english": "Just keep breathing, you're okay.",
+      "chinese": "继续呼吸，你没事。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646051"
+    },
+    {
+      "english": "Your body knows how to heal.",
+      "chinese": "你的身体知道如何康复。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646053"
+    },
+    {
+      "english": "Small victories add up.",
+      "chinese": "小胜利累积成大胜利。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646055"
+    },
+    {
+      "english": "Hang in there, it gets better.",
+      "chinese": "坚持住，情况会好转。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646057"
+    },
+    {
+      "english": "Believe in your recovery.",
+      "chinese": "相信你的康复。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646059"
+    },
+    {
+      "english": "Take good care of yourself.",
+      "chinese": "好好照顾你自己。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646060"
+    },
+    {
+      "english": "We're here to help you.",
+      "chinese": "我们在这里帮助你。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646062"
+    },
+    {
+      "english": "This really made me think, doctor.",
+      "chinese": "医生，这件事让我深思。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646064"
+    },
+    {
+      "english": "I feel much calmer now, thank you.",
+      "chinese": "我现在感觉平静多了，谢谢您。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646067"
+    },
+    {
+      "english": "It's reassuring to know that.",
+      "chinese": "知道这一点，真让人安心。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646069"
+    },
+    {
+      "english": "I appreciate your patience with me.",
+      "chinese": "感谢您对我的耐心。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646070"
+    },
+    {
+      "english": "Your explanation helped a lot.",
+      "chinese": "您的解释很有帮助。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646072"
+    },
+    {
+      "english": "I’m honestly a bit worried.",
+      "chinese": "老实说，我有点担心。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646076"
+    },
+    {
+      "english": "Can we discuss my feelings more?",
+      "chinese": "我们可以多谈谈我的感受吗？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646078"
+    },
+    {
+      "english": "This feels like a turning point.",
+      "chinese": "这感觉像一个转折点。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646080"
+    },
+    {
+      "english": "I'm reflecting on what happened.",
+      "chinese": "我在反思发生的事情。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646082"
+    },
+    {
+      "english": "It's good to be upfront about it.",
+      "chinese": "坦诚地说出来，挺好的。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646087"
+    },
+    {
+      "english": "I need some time to process this.",
+      "chinese": "我需要点时间来消化这个。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646089"
+    },
+    {
+      "english": "Your empathy means a lot.",
+      "chinese": "您的同情心很重要。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646090"
+    },
+    {
+      "english": "This situation makes me hopeful.",
+      "chinese": "这个情况让我感到充满希望。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646093"
+    },
+    {
+      "english": "I feel a sense of relief.",
+      "chinese": "我感到一阵轻松。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646095"
+    },
+    {
+      "english": "Your kindness is very touching.",
+      "chinese": "您的善良非常感人。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646097"
+    },
+    {
+      "english": "What are your genuine thoughts?",
+      "chinese": "您真正的想法是什么？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646099"
+    },
+    {
+      "english": "I'm grateful for your honesty.",
+      "chinese": "我很感激您的诚实。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646101"
+    },
+    {
+      "english": "This advice is truly valuable.",
+      "chinese": "这个建议确实很有价值。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646103"
+    },
+    {
+      "english": "I feel a bit more secure.",
+      "chinese": "我感觉稍微安心一点了。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646105"
+    },
+    {
+      "english": "Thank you for listening so attentively.",
+      "chinese": "谢谢您如此专注地倾听。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646106"
+    },
+    {
+      "english": "It’s comforting to hear that.",
+      "chinese": "听到这样的话，真让人安慰。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646109"
+    },
+    {
+      "english": "I'm starting to feel more optimistic.",
+      "chinese": "我开始觉得更乐观了。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646111"
+    },
+    {
+      "english": "This perspective shift is helpful.",
+      "chinese": "这种看问题的角度很有帮助。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646113"
+    },
+    {
+      "english": "I truly appreciate the support.",
+      "chinese": "我真心感谢您的支持。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646117"
+    },
+    {
+      "english": "It's a relief to share this.",
+      "chinese": "能分享这些，真是一种解脱。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646119"
+    },
+    {
+      "english": "Your understanding means everything.",
+      "chinese": "您的理解意味着一切。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646121"
+    },
+    {
+      "english": "I feel heard and understood.",
+      "chinese": "我觉得被倾听和理解。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646122"
+    },
+    {
+      "english": "This journey requires deep reflection.",
+      "chinese": "这段旅程需要深刻反思。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646124"
+    },
+    {
+      "english": "Your calm demeanor is infectious.",
+      "chinese": "您沉稳的态度很有感染力。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646126"
+    },
+    {
+      "english": "Doctor, when should I take this medicine?",
+      "chinese": "医生，这个药什么时候吃？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646128"
+    },
+    {
+      "english": "How many pills a day?",
+      "chinese": "一天吃几粒？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646130"
+    },
+    {
+      "english": "Do I need a prescription?",
+      "chinese": "需要处方吗？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646132"
+    },
+    {
+      "english": "Can I buy this without a prescription?",
+      "chinese": "这个药能随便买吗？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646134"
+    },
+    {
+      "english": "Please recommend a painkiller.",
+      "chinese": "请推荐一个止痛药。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646136"
+    },
+    {
+      "english": "Does the insurance cover this?",
+      "chinese": "医保能报销吗？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646138"
+    },
+    {
+      "english": "I have a headache.",
+      "chinese": "我头疼。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646140"
+    },
+    {
+      "english": "Is there a generic option?",
+      "chinese": "有仿制药吗？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646142"
+    },
+    {
+      "english": "Take this after meals.",
+      "chinese": "饭后吃这个。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-28T06:36:28.646144"
     }
   ],
-  "last_updated": "2026-10-27T05:58:01.733713"
+  "last_updated": "2026-10-28T06:36:28.646145"
 }
