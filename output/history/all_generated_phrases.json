@@ -15455,7 +15455,727 @@
       "chinese": "饭后吃这个。",
       "category": "Doctor & Pharmacy",
       "generated_at": "2026-10-28T06:36:28.646144"
+    },
+    {
+      "english": "Good morning, everyone.",
+      "chinese": "大家早上好。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133622"
+    },
+    {
+      "english": "Let's get started, okay?",
+      "chinese": "我们开始吧，好吗？",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133636"
+    },
+    {
+      "english": "I'm a little busy now.",
+      "chinese": "我现在有点忙。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133639"
+    },
+    {
+      "english": "Can you help me, please?",
+      "chinese": "麻烦你帮我一下，可以吗？",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133641"
+    },
+    {
+      "english": "No problem at all.",
+      "chinese": "没问题。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133643"
+    },
+    {
+      "english": "What's this about?",
+      "chinese": "这是关于什么的？",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133645"
+    },
+    {
+      "english": "I need to finish this soon.",
+      "chinese": "我得赶紧做完这个。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133646"
+    },
+    {
+      "english": "Let me check that.",
+      "chinese": "我来查一下。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133650"
+    },
+    {
+      "english": "Did you get my email?",
+      "chinese": "你收到我的邮件了吗？",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133652"
+    },
+    {
+      "english": "I'm on my way.",
+      "chinese": "我正在路上。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133654"
+    },
+    {
+      "english": "This is urgent, act now.",
+      "chinese": "这个很紧急，马上办。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133656"
+    },
+    {
+      "english": "I understand completely.",
+      "chinese": "我完全明白。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133657"
+    },
+    {
+      "english": "That sounds great!",
+      "chinese": "听起来太棒了！",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133659"
+    },
+    {
+      "english": "What time is the meeting?",
+      "chinese": "会议是几点？",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133661"
+    },
+    {
+      "english": "I have a question.",
+      "chinese": "我有一个问题。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133662"
+    },
+    {
+      "english": "Please speak slower.",
+      "chinese": "请说慢一点。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133723"
+    },
+    {
+      "english": "Let me think about it.",
+      "chinese": "让我想想。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133726"
+    },
+    {
+      "english": "This is very important.",
+      "chinese": "这个非常重要。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133728"
+    },
+    {
+      "english": "I need more information.",
+      "chinese": "我需要更多信息。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133729"
+    },
+    {
+      "english": "Let's discuss this later.",
+      "chinese": "我们稍后讨论这个。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133731"
+    },
+    {
+      "english": "Is everything okay?",
+      "chinese": "一切都还好吗？",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133732"
+    },
+    {
+      "english": "I'll get back to you.",
+      "chinese": "我稍后回复你。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133734"
+    },
+    {
+      "english": "I'm looking forward to it.",
+      "chinese": "我很期待。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133736"
+    },
+    {
+      "english": "Let's confirm the details.",
+      "chinese": "我们确认一下细节。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133737"
+    },
+    {
+      "english": "This is quite challenging.",
+      "chinese": "这个很有挑战性。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133740"
+    },
+    {
+      "english": "We need to hurry up.",
+      "chinese": "我们得快点。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133742"
+    },
+    {
+      "english": "Mind if I join you?",
+      "chinese": "介意我加入吗？",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133744"
+    },
+    {
+      "english": "Any suggestions for me?",
+      "chinese": "您有什么建议吗？",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133745"
+    },
+    {
+      "english": "Could you explain that, please?",
+      "chinese": "能解释一下吗？",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133747"
+    },
+    {
+      "english": "What's the latest update?",
+      "chinese": "最新进展是什么？",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133751"
+    },
+    {
+      "english": "Have you seen this report?",
+      "chinese": "你看过这份报告吗？",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133752"
+    },
+    {
+      "english": "Can we brainstorm ideas?",
+      "chinese": "我们可以一起头脑风暴吗？",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133754"
+    },
+    {
+      "english": "Who is in charge of this?",
+      "chinese": "谁负责这个项目？",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133756"
+    },
+    {
+      "english": "What's the main concern?",
+      "chinese": "主要顾虑是什么？",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133757"
+    },
+    {
+      "english": "Are you free for a chat?",
+      "chinese": "你现在有空聊聊吗？",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133759"
+    },
+    {
+      "english": "What's the deadline for this?",
+      "chinese": "这个的截止日期是什么？",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133761"
+    },
+    {
+      "english": "How do you handle stress?",
+      "chinese": "您怎么应对压力？",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133762"
+    },
+    {
+      "english": "Is this task assigned yet?",
+      "chinese": "这个任务分配了吗？",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133764"
+    },
+    {
+      "english": "What's your preferred method?",
+      "chinese": "您偏好的方法是什么？",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133766"
+    },
+    {
+      "english": "Can I share my thoughts?",
+      "chinese": "我可以分享我的想法吗？",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133768"
+    },
+    {
+      "english": "What are your expectations?",
+      "chinese": "您有什么期望？",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133769"
+    },
+    {
+      "english": "How was your weekend?",
+      "chinese": "你周末过得怎么样？",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133771"
+    },
+    {
+      "english": "Did you hear the news?",
+      "chinese": "你听说了那个消息吗？",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133774"
+    },
+    {
+      "english": "What's the plan for today?",
+      "chinese": "今天的计划是什么？",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133775"
+    },
+    {
+      "english": "Can you confirm this, please?",
+      "chinese": "您能确认一下吗？",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133777"
+    },
+    {
+      "english": "What is this project about?",
+      "chinese": "这个项目是关于什么的？",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133779"
+    },
+    {
+      "english": "How do we collaborate effectively?",
+      "chinese": "我们如何有效协作？",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133780"
+    },
+    {
+      "english": "What's the priority item?",
+      "chinese": "优先事项是什么？",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133782"
+    },
+    {
+      "english": "Could you give me feedback?",
+      "chinese": "您能给我一些反馈吗？",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133783"
+    },
+    {
+      "english": "Are you available tomorrow?",
+      "chinese": "你明天有空吗？",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133785"
+    },
+    {
+      "english": "Your hard work, will pay off.",
+      "chinese": "你的努力，终有回报。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133787"
+    },
+    {
+      "english": "Every step forward, is progress.",
+      "chinese": "每前进一步，都是进步。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133788"
+    },
+    {
+      "english": "Teamwork, makes the dream work.",
+      "chinese": "团队合作，梦想成真。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133790"
+    },
+    {
+      "english": "You handled that, really well.",
+      "chinese": "你处理得，相当不错。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133792"
+    },
+    {
+      "english": "Great job, keep up the momentum.",
+      "chinese": "干得漂亮，保持势头。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133794"
+    },
+    {
+      "english": "This is a learning opportunity.",
+      "chinese": "这是一个学习机会。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133796"
+    },
+    {
+      "english": "Focus on solutions, not problems.",
+      "chinese": "专注于解决，而非问题。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133799"
+    },
+    {
+      "english": "Stay positive, think big.",
+      "chinese": "保持积极，大胆想象。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133800"
+    },
+    {
+      "english": "Every challenge, makes us stronger.",
+      "chinese": "每一次挑战，让我们更强。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133802"
+    },
+    {
+      "english": "Let's celebrate, small wins.",
+      "chinese": "让我们庆祝，小的胜利。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133804"
+    },
+    {
+      "english": "Innovation, is key to success.",
+      "chinese": "创新，是成功的关键。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133806"
+    },
+    {
+      "english": "Your attitude, makes a difference.",
+      "chinese": "你的态度，很重要。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133807"
+    },
+    {
+      "english": "We can overcome, any obstacle.",
+      "chinese": "我们能克服，任何困难。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133809"
+    },
+    {
+      "english": "Your contribution, is valued.",
+      "chinese": "你的贡献，很有价值。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133811"
+    },
+    {
+      "english": "Stay focused, on the goal.",
+      "chinese": "保持专注， على الهدف。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133813"
+    },
+    {
+      "english": "This is a great start.",
+      "chinese": "这是一个，很好的开始。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133815"
+    },
+    {
+      "english": "Let's aim higher, next time.",
+      "chinese": "下次，我们目标更高。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133817"
+    },
+    {
+      "english": "Your effort, is noticed.",
+      "chinese": "你的努力，被看到了。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133818"
+    },
+    {
+      "english": "Success requires, dedication.",
+      "chinese": "成功需要，全身心投入。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133820"
+    },
+    {
+      "english": "Give me a call, when you're free.",
+      "chinese": "你方便的时候, 打电话给我。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133824"
+    },
+    {
+      "english": "Let's get down to business.",
+      "chinese": "咱们开始干活吧。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133826"
+    },
+    {
+      "english": "Don't bite off more than you can chew.",
+      "chinese": "别贪多嚼不烂。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133827"
+    },
+    {
+      "english": "He's always looking for shortcuts.",
+      "chinese": "他老是想走捷径。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133829"
+    },
+    {
+      "english": "This meeting is going nowhere.",
+      "chinese": "这会开得没啥意思。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133831"
+    },
+    {
+      "english": "We need to put out fires daily.",
+      "chinese": "我们每天都要救火。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133832"
+    },
+    {
+      "english": "He's a real go-getter.",
+      "chinese": "他是个行动派。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133834"
+    },
+    {
+      "english": "Let's not reinvent the wheel.",
+      "chinese": "咱们别重复发明轮子了。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133836"
+    },
+    {
+      "english": "She's really burning the midnight oil.",
+      "chinese": "她最近真是熬夜加班。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133838"
+    },
+    {
+      "english": "It's a tough nut to crack.",
+      "chinese": "这真是个硬骨头。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133840"
+    },
+    {
+      "english": "Let's table this discussion.",
+      "chinese": "咱们把这个话题放一放。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133841"
+    },
+    {
+      "english": "He always plays it safe.",
+      "chinese": "他总是小心翼翼。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133843"
+    },
+    {
+      "english": "We're on the same page.",
+      "chinese": "我们想法一致。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133845"
+    },
+    {
+      "english": "Let's cross that bridge when we come to it.",
+      "chinese": "到时候再说吧。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133847"
+    },
+    {
+      "english": "This is a win-win situation.",
+      "chinese": "这是双赢的局面。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133848"
+    },
+    {
+      "english": "He's just spinning his wheels.",
+      "chinese": "他只是在原地打转。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133850"
+    },
+    {
+      "english": "Let's get on the same wavelength.",
+      "chinese": "咱们得同步一下。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133852"
+    },
+    {
+      "english": "She's really got her act together.",
+      "chinese": "她真是个能干的人。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133853"
+    },
+    {
+      "english": "Let's not beat around the bush.",
+      "chinese": "咱们有话直说。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133855"
+    },
+    {
+      "english": "This is a real uphill battle.",
+      "chinese": "这真是一场艰苦的斗争。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133858"
+    },
+    {
+      "english": "He's always got his nose to the grindstone.",
+      "chinese": "他一直在努力工作。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133860"
+    },
+    {
+      "english": "Let's touch base later.",
+      "chinese": "咱们之后再联系。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133861"
+    },
+    {
+      "english": "She's the brains of the operation.",
+      "chinese": "她是这个计划的策划者。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133863"
+    },
+    {
+      "english": "This is a drop in the bucket.",
+      "chinese": "这只是杯水车薪。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133865"
+    },
+    {
+      "english": "He's really good at making waves.",
+      "chinese": "他很擅长制造话题。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133868"
+    },
+    {
+      "english": "Let's keep our eyes on the prize.",
+      "chinese": "让我们盯着目标。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133869"
+    },
+    {
+      "english": "She always takes the bull by the horns.",
+      "chinese": "她总是勇往直前。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133871"
+    },
+    {
+      "english": "This is a shot in the dark.",
+      "chinese": "这纯粹是瞎猜。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133873"
+    },
+    {
+      "english": "He's really got his finger on the pulse.",
+      "chinese": "他真的很了解行情。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133875"
+    },
+    {
+      "english": "Let's put all our eggs in one basket.",
+      "chinese": "让我们孤注一掷。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133876"
+    },
+    {
+      "english": "I feel a bit overwhelmed, honestly.",
+      "chinese": "说实话，我有点压力太大。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133879"
+    },
+    {
+      "english": "This project, requires patience.",
+      "chinese": "这个项目，需要耐心。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133882"
+    },
+    {
+      "english": "Let's take a moment, to reflect.",
+      "chinese": "让我们花点时间，反思一下。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133884"
+    },
+    {
+      "english": "Sometimes, I question my choices.",
+      "chinese": "有时候，我会怀疑自己的选择。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133886"
+    },
+    {
+      "english": "True feelings, matter at work.",
+      "chinese": "真实的情感，在工作中很重要。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133887"
+    },
+    {
+      "english": "I need more time, to think.",
+      "chinese": "我需要更多时间，来思考。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133889"
+    },
+    {
+      "english": "Are you feeling this, too?",
+      "chinese": "你也有这种感觉吗？",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133891"
+    },
+    {
+      "english": "My gut feeling, is telling me no.",
+      "chinese": "我的直觉，告诉我不行。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133893"
+    },
+    {
+      "english": "This situation, makes me uneasy.",
+      "chinese": "这个情况，让我不安。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133895"
+    },
+    {
+      "english": "Deep down, I want it to work.",
+      "chinese": "内心深处，我希望它能成功。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133896"
+    },
+    {
+      "english": "I'm struggling, with this task.",
+      "chinese": "我在这项任务上，很吃力。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133899"
+    },
+    {
+      "english": "Let's consider, other options.",
+      "chinese": "让我们考虑，其他的选择。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133900"
+    },
+    {
+      "english": "It's important, to be authentic.",
+      "chinese": "保持真实，很重要。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133902"
+    },
+    {
+      "english": "This feels wrong, somehow.",
+      "chinese": "感觉有些不对劲。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133904"
+    },
+    {
+      "english": "I'm learning, a lot from this.",
+      "chinese": "我从中，学到了很多。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133906"
+    },
+    {
+      "english": "Let's check in, emotionally.",
+      "chinese": "让我们在情感上，互相沟通。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133908"
+    },
+    {
+      "english": "My intuition, is strong here.",
+      "chinese": "我的直觉，在这里很强烈。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133909"
+    },
+    {
+      "english": "We need more, empathy.",
+      "chinese": "我们需要更多，同理心。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133911"
+    },
+    {
+      "english": "I'm rethinking, my approach.",
+      "chinese": "我正在重新思考，我的方法。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133912"
+    },
+    {
+      "english": "This journey, has ups and downs.",
+      "chinese": "这段旅程，有起有落。",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133914"
+    },
+    {
+      "english": "Can we pause, and discuss?",
+      "chinese": "我们能暂停一下，讨论吗？",
+      "category": "Work & Office",
+      "generated_at": "2026-10-29T06:44:19.133916"
     }
   ],
-  "last_updated": "2026-10-28T06:36:28.646145"
+  "last_updated": "2026-10-29T06:44:19.133919"
 }
