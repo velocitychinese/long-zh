@@ -16175,7 +16175,727 @@
       "chinese": "我们能暂停一下，讨论吗？",
       "category": "Work & Office",
       "generated_at": "2026-10-29T06:44:19.133916"
+    },
+    {
+      "english": "One coffee, please.",
+      "chinese": "一杯咖啡，谢谢。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037842"
+    },
+    {
+      "english": "Anything else, sir?",
+      "chinese": "还有别的吗？",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037856"
+    },
+    {
+      "english": "Just this, thanks.",
+      "chinese": "就这个，谢谢。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037859"
+    },
+    {
+      "english": "Wow, smells amazing!",
+      "chinese": "哇，闻起来真香！",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037861"
+    },
+    {
+      "english": "Can I have a look?",
+      "chinese": "我可以看看吗？",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037862"
+    },
+    {
+      "english": "This looks delicious.",
+      "chinese": "这个看起来好好吃。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037864"
+    },
+    {
+      "english": "I'll take that one.",
+      "chinese": "我要那个。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037866"
+    },
+    {
+      "english": "It's a bit too sweet.",
+      "chinese": "有点太甜了。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037870"
+    },
+    {
+      "english": "Not bad, actually.",
+      "chinese": "味道还不错。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037874"
+    },
+    {
+      "english": "Could I get it to go?",
+      "chinese": "可以打包带走吗？",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037876"
+    },
+    {
+      "english": "Mind if I sit here?",
+      "chinese": "这里可以坐吗？",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037878"
+    },
+    {
+      "english": "Long time no see!",
+      "chinese": "好久不见！",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037879"
+    },
+    {
+      "english": "Is there Wi-Fi?",
+      "chinese": "有 Wi-Fi 吗？",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037881"
+    },
+    {
+      "english": "No problem, thanks!",
+      "chinese": "没问题，谢谢！",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037882"
+    },
+    {
+      "english": "This is my favorite.",
+      "chinese": "这是我的最爱。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037884"
+    },
+    {
+      "english": "Super yummy!",
+      "chinese": "太好吃了！",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037885"
+    },
+    {
+      "english": "Can I have a menu?",
+      "chinese": "可以给我一份菜单吗？",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037887"
+    },
+    {
+      "english": "Just a quick one.",
+      "chinese": "就要一个就好。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037888"
+    },
+    {
+      "english": "It’s on me today.",
+      "chinese": "今天我请客。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037890"
+    },
+    {
+      "english": "So good, I need more!",
+      "chinese": "太好吃了，我还要！",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037893"
+    },
+    {
+      "english": "That's a good deal.",
+      "chinese": "这挺划算的。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037895"
+    },
+    {
+      "english": "What’s the special?",
+      "chinese": "今天有什么特色？",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037897"
+    },
+    {
+      "english": "I'm in a hurry.",
+      "chinese": "我有点赶时间。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037898"
+    },
+    {
+      "english": "Can I have some water?",
+      "chinese": "可以给我点水吗？",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037900"
+    },
+    {
+      "english": "Absolutely delicious!",
+      "chinese": "简直太美味了！",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037901"
+    },
+    {
+      "english": "This hits the spot.",
+      "chinese": "这个正合我意。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037903"
+    },
+    {
+      "english": "Thanks for the treat!",
+      "chinese": "谢谢款待！",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037904"
+    },
+    {
+      "english": "What's popular here, today?",
+      "chinese": "今天, 这儿什么最受欢迎？",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037906"
+    },
+    {
+      "english": "Is this freshly baked?",
+      "chinese": "这个, 是刚烤出来的吗？",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037908"
+    },
+    {
+      "english": "What kind of tea do you have?",
+      "chinese": "你们有, 哪些种类的茶？",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037910"
+    },
+    {
+      "english": "How much is this pastry?",
+      "chinese": "这个点心, 多少钱？",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037912"
+    },
+    {
+      "english": "Could I have a small size?",
+      "chinese": "能, 要小杯的吗？",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037914"
+    },
+    {
+      "english": "Do you have any sugar-free options?",
+      "chinese": "有, 无糖的选择吗？",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037916"
+    },
+    {
+      "english": "What's in this drink?",
+      "chinese": "这个饮料, 有什么？",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037918"
+    },
+    {
+      "english": "Is it possible to add milk?",
+      "chinese": "可以, 加点牛奶吗？",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037920"
+    },
+    {
+      "english": "What time do you close?",
+      "chinese": "你们, 几点关门？",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037922"
+    },
+    {
+      "english": "Where is the restroom?",
+      "chinese": "洗手间, 在哪里？",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037925"
+    },
+    {
+      "english": "This smells wonderful!",
+      "chinese": "这味道, 太棒了！",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037927"
+    },
+    {
+      "english": "Can I try a sample?",
+      "chinese": "可以, 尝一小份吗？",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037929"
+    },
+    {
+      "english": "I'm looking for something light.",
+      "chinese": "我想找, 清淡点的。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037932"
+    },
+    {
+      "english": "How is the coffee brewed?",
+      "chinese": "咖啡, 是怎么冲泡的？",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037934"
+    },
+    {
+      "english": "Do you have oat milk?",
+      "chinese": "有, 燕麦奶吗？",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037935"
+    },
+    {
+      "english": "Is this nut-free?",
+      "chinese": "这个, 没有坚果成分吗？",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037937"
+    },
+    {
+      "english": "Can I have it heated up?",
+      "chinese": "能, 帮我热一下吗？",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037939"
+    },
+    {
+      "english": "What's your recommendation?",
+      "chinese": "你推荐, 哪个？",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037941"
+    },
+    {
+      "english": "This looks so good!",
+      "chinese": "这个看起来, 好诱人！",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037942"
+    },
+    {
+      "english": "How long will it take?",
+      "chinese": "这个, 会要多久？",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037945"
+    },
+    {
+      "english": "Could I get a refill?",
+      "chinese": "能, 再续杯吗？",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037947"
+    },
+    {
+      "english": "Is there a loyalty program?",
+      "chinese": "有, 积分计划吗？",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037949"
+    },
+    {
+      "english": "Can I sit over there?",
+      "chinese": "那边, 可以坐吗？",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037951"
+    },
+    {
+      "english": "Is the Wi-Fi free?",
+      "chinese": "网络, 是免费的吗？",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037952"
+    },
+    {
+      "english": "Can I pay with my phone?",
+      "chinese": "能, 手机支付吗？",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037954"
+    },
+    {
+      "english": "I'll have what they're having.",
+      "chinese": "我要, 和他们一样的。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037956"
+    },
+    {
+      "english": "You've got this, push forward!",
+      "chinese": "你能搞定，继续前进！",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037958"
+    },
+    {
+      "english": "Your effort is worth it.",
+      "chinese": "你的努力是值得的。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037960"
+    },
+    {
+      "english": "Stay positive, embrace the day.",
+      "chinese": "保持积极，拥抱今天。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037962"
+    },
+    {
+      "english": "Focus on your goal, don't waver.",
+      "chinese": "专注于你的目标，别动摇。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037964"
+    },
+    {
+      "english": "This achievement is yours.",
+      "chinese": "这个成就是你的。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037966"
+    },
+    {
+      "english": "You can overcome challenges.",
+      "chinese": "你能克服挑战。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037967"
+    },
+    {
+      "english": "Your hard work pays off.",
+      "chinese": "你的辛勤工作得到了回报。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037969"
+    },
+    {
+      "english": "Today is a new beginning.",
+      "chinese": "今天是个新的开始。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037971"
+    },
+    {
+      "english": "Keep shining, bright star.",
+      "chinese": "继续闪耀吧，闪亮的星星。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037973"
+    },
+    {
+      "english": "You inspire others, really.",
+      "chinese": "你鼓舞了他人，真的。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037975"
+    },
+    {
+      "english": "Make today count, you can.",
+      "chinese": "让今天有意义，你能做到。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037976"
+    },
+    {
+      "english": "Don't forget to smile today.",
+      "chinese": "今天别忘了微笑。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037978"
+    },
+    {
+      "english": "Keep that great energy going!",
+      "chinese": "保持那股很棒的能量！",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037980"
+    },
+    {
+      "english": "Never stop learning, grow always.",
+      "chinese": "永不停止学习，不断成长。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037982"
+    },
+    {
+      "english": "Fantastic work, bravo!",
+      "chinese": "工作太棒了，好样的！",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037984"
+    },
+    {
+      "english": "You're building something special.",
+      "chinese": "你在创造一些特别的东西。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037986"
+    },
+    {
+      "english": "It's a real treat, you deserve it.",
+      "chinese": "这是真享受，你值得。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037988"
+    },
+    {
+      "english": "A little indulgence, now and then.",
+      "chinese": "偶尔，小小放纵一下。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037990"
+    },
+    {
+      "english": "This taste, lingers on the tongue.",
+      "chinese": "这味道，留在舌尖。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037993"
+    },
+    {
+      "english": "Like a warm hug, in a cup.",
+      "chinese": "像个温暖拥抱，在杯里。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037995"
+    },
+    {
+      "english": "This aroma, fills the whole room.",
+      "chinese": "这香气，满屋飘。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.037998"
+    },
+    {
+      "english": "A moment of peace, sweet relief.",
+      "chinese": "片刻宁静，甜蜜慰藉。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038000"
+    },
+    {
+      "english": "It's the little things, that matter.",
+      "chinese": "正是小事，才重要。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038002"
+    },
+    {
+      "english": "Taste of home, warm and cozy.",
+      "chinese": "家的味道，暖暖的。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038004"
+    },
+    {
+      "english": "Life's too short, eat dessert first.",
+      "chinese": "人生苦短，先吃甜点。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038006"
+    },
+    {
+      "english": "Every bite, a little joy.",
+      "chinese": "每一口，一点快乐。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038007"
+    },
+    {
+      "english": "This is pure bliss, truly.",
+      "chinese": "这是纯粹幸福，真的。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038009"
+    },
+    {
+      "english": "Fueling up, for the day ahead.",
+      "chinese": "补充能量，迎接白天。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038011"
+    },
+    {
+      "english": "A simple pleasure, yet so rich.",
+      "chinese": "简单享受，却很丰富。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038013"
+    },
+    {
+      "english": "This is my happy place.",
+      "chinese": "这是我的快乐地。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038015"
+    },
+    {
+      "english": "A small comfort, makes a big difference.",
+      "chinese": "小小慰藉，大不同。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038016"
+    },
+    {
+      "english": "The perfect pick-me-up, anytime.",
+      "chinese": "完美提神，随时。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038019"
+    },
+    {
+      "english": "This cake, is a work of art.",
+      "chinese": "这蛋糕，是艺术品。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038020"
+    },
+    {
+      "english": "A little sweetness, brightens the mood.",
+      "chinese": "一点甜，亮心情。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038022"
+    },
+    {
+      "english": "This coffee, wakes up the soul.",
+      "chinese": "这咖啡，唤醒灵魂。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038024"
+    },
+    {
+      "english": "So fresh, made with love.",
+      "chinese": "这么新鲜，用心做。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038025"
+    },
+    {
+      "english": "A moment to savor, slowly.",
+      "chinese": "慢慢品味，这一刻。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038027"
+    },
+    {
+      "english": "This pastry, is heavenly light.",
+      "chinese": "这糕点，轻如羽。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038029"
+    },
+    {
+      "english": "A taste of sunshine, in every sip.",
+      "chinese": "一口阳光，在杯里。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038030"
+    },
+    {
+      "english": "It's pure comfort food, really.",
+      "chinese": "真是抚慰食物，真的。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038032"
+    },
+    {
+      "english": "This croissant, is perfectly flaky.",
+      "chinese": "这可颂，酥脆极了。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038035"
+    },
+    {
+      "english": "A warm drink, on a cold day.",
+      "chinese": "冷天里，一杯热饮。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038037"
+    },
+    {
+      "english": "This biscuit, melts in your mouth.",
+      "chinese": "这饼干，入口即化。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038039"
+    },
+    {
+      "english": "Sweet memories, baked right in.",
+      "chinese": "甜美回忆，烤进里面。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038040"
+    },
+    {
+      "english": "A little break, well deserved.",
+      "chinese": "小小休息，值得。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038044"
+    },
+    {
+      "english": "This muffin, is moist and flavorful.",
+      "chinese": "这玛芬，湿润香甜。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038045"
+    },
+    {
+      "english": "Patience, yields sweet rewards.",
+      "chinese": "耐心，会带来甜蜜的回报。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038047"
+    },
+    {
+      "english": "Reflecting, on this quiet moment.",
+      "chinese": "静思，此刻的宁静。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038049"
+    },
+    {
+      "english": "Honest feelings, served with care.",
+      "chinese": "真挚的情感，用心呈递。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038051"
+    },
+    {
+      "english": "Savoring the quiet, within the buzz.",
+      "chinese": "品味着喧嚣中的宁静。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038052"
+    },
+    {
+      "english": "This feeling, is truly genuine.",
+      "chinese": "这份感觉，真的无比真诚。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038057"
+    },
+    {
+      "english": "Deep thoughts, with every sip.",
+      "chinese": "每一口，都伴随着深刻的思考。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038059"
+    },
+    {
+      "english": "Taking time, to truly appreciate.",
+      "chinese": "花时间，去真正地感受。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038061"
+    },
+    {
+      "english": "My heart, feels truly content.",
+      "chinese": "我的心，感到无比满足。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038062"
+    },
+    {
+      "english": "This calm, is much needed.",
+      "chinese": "这份平静，是多么需要。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038065"
+    },
+    {
+      "english": "Just being here, feels right.",
+      "chinese": "仅仅是待在这里，感觉很对。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038066"
+    },
+    {
+      "english": "A sincere moment, shared softly.",
+      "chinese": "一个真诚的时刻，轻轻分享。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038068"
+    },
+    {
+      "english": "Letting go, of daily worries.",
+      "chinese": "放下，日常的烦恼。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038070"
+    },
+    {
+      "english": "Finding truth, in simple things.",
+      "chinese": "在简单的事物中，寻找真实。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038072"
+    },
+    {
+      "english": "This warmth, touches my spirit.",
+      "chinese": "这份温暖，触及我的心灵。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038074"
+    },
+    {
+      "english": "My inner peace, is cultivated here.",
+      "chinese": "我的内心平静，在这里培养。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038075"
+    },
+    {
+      "english": "Grateful, for this quiet space.",
+      "chinese": "感恩，这片宁静的空间。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038077"
+    },
+    {
+      "english": "A gentle reminder, to just breathe.",
+      "chinese": "一个温柔的提醒，只是呼吸。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038079"
+    },
+    {
+      "english": "Thinking clearly, after this.",
+      "chinese": "在这之后，头脑会清晰。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038081"
+    },
+    {
+      "english": "Embracing the calm, within myself.",
+      "chinese": "拥抱自己内心的平静。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038082"
+    },
+    {
+      "english": "This quiet joy, is profound.",
+      "chinese": "这份宁静的喜悦，是深刻的。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038084"
+    },
+    {
+      "english": "My true self, feels at home.",
+      "chinese": "我真正的自我，感觉像在家里。",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T06:45:43.038086"
     }
   ],
-  "last_updated": "2026-10-29T06:44:19.133919"
+  "last_updated": "2026-10-30T06:45:43.038087"
 }
