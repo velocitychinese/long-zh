@@ -17615,7 +17615,727 @@
       "chinese": "别担心，用翻译App就行。",
       "category": "Inspiration",
       "generated_at": "2026-10-31T06:36:33.014093"
+    },
+    {
+      "english": "What's up?, man?",
+      "chinese": "咋了，哥们儿？",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655009"
+    },
+    {
+      "english": "No way!, really?",
+      "chinese": "不会吧？真的？",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655026"
+    },
+    {
+      "english": "Got it!, understood.",
+      "chinese": "知道了，没问题。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655029"
+    },
+    {
+      "english": "So cool!, awesome!",
+      "chinese": "太牛了！真棒！",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655031"
+    },
+    {
+      "english": "My bad!, my mistake.",
+      "chinese": "我的错！抱歉。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655033"
+    },
+    {
+      "english": "Just kidding!, joking.",
+      "chinese": "开玩笑呢！别当真。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655036"
+    },
+    {
+      "english": "Seriously?, for real?",
+      "chinese": "真的假的？你说真的？",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655039"
+    },
+    {
+      "english": "I'm starving!, so hungry.",
+      "chinese": "我饿死了！肚子咕咕叫。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655044"
+    },
+    {
+      "english": "So tired!, exhausted.",
+      "chinese": "累死了！不想动了。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655047"
+    },
+    {
+      "english": "What a mess!, so messy.",
+      "chinese": "真乱啊！太乱了。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655049"
+    },
+    {
+      "english": "No worries!, it's okay.",
+      "chinese": "没事儿！小意思。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655051"
+    },
+    {
+      "english": "Hold on!, wait a sec.",
+      "chinese": "等等！稍等一下。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655053"
+    },
+    {
+      "english": "What's going on?, what happened?",
+      "chinese": "怎么回事？发生啥了？",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655055"
+    },
+    {
+      "english": "I'm speechless!, wow.",
+      "chinese": "我无语了！厉害。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655058"
+    },
+    {
+      "english": "Totally!, exactly!",
+      "chinese": "没错！就是这样！",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655059"
+    },
+    {
+      "english": "What a pain!, annoying.",
+      "chinese": "真麻烦！烦死了。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655061"
+    },
+    {
+      "english": "Forget it!, never mind.",
+      "chinese": "算了！别提了。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655063"
+    },
+    {
+      "english": "Are you serious?, you're kidding.",
+      "chinese": "你开玩笑吧？认真的？",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655066"
+    },
+    {
+      "english": "I'm beat!, so tired.",
+      "chinese": "我累垮了！快不行了。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655068"
+    },
+    {
+      "english": "What a shame!, too bad.",
+      "chinese": "真可惜！太遗憾了。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655069"
+    },
+    {
+      "english": "So embarrassing!, awkward.",
+      "chinese": "太尴尬了！丢死人了。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655071"
+    },
+    {
+      "english": "You got this!, you can do it.",
+      "chinese": "你行的！加油！",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655073"
+    },
+    {
+      "english": "Let me see!, show me.",
+      "chinese": "让我看看！给我瞅瞅。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655075"
+    },
+    {
+      "english": "How come?, why is that?",
+      "chinese": "怎么会？怎么回事？",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655077"
+    },
+    {
+      "english": "No idea!, I don't know.",
+      "chinese": "不知道！一点头绪没有。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655079"
+    },
+    {
+      "english": "What a relief!, thank goodness.",
+      "chinese": "谢天谢地！松了一口气。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655082"
+    },
+    {
+      "english": "It's a trap!, be careful.",
+      "chinese": "有诈！小心点。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655085"
+    },
+    {
+      "english": "I'm broke!, no money.",
+      "chinese": "我没钱了！穷光蛋。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655086"
+    },
+    {
+      "english": "So cheap!, great deal.",
+      "chinese": "太便宜了！值了。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655088"
+    },
+    {
+      "english": "Any suggestions, boss?",
+      "chinese": "有啥建议吗，老板？",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655091"
+    },
+    {
+      "english": "Can you clarify this, please?",
+      "chinese": "能帮我解释一下吗？",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655093"
+    },
+    {
+      "english": "Where should we go next?",
+      "chinese": "咱们下一步去哪儿？",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655095"
+    },
+    {
+      "english": "What's the best way, you know?",
+      "chinese": "最好的办法是啥，你知道吧？",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655098"
+    },
+    {
+      "english": "Is this route okay, right?",
+      "chinese": "这条路行不行，对吧？",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655100"
+    },
+    {
+      "english": "What's the situation like there?",
+      "chinese": "那边情况怎么样？",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655102"
+    },
+    {
+      "english": "Could you show me around, please?",
+      "chinese": "能带我转转吗？",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655104"
+    },
+    {
+      "english": "Should I try this, huh?",
+      "chinese": "我要不要试试这个，嗯？",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655106"
+    },
+    {
+      "english": "How do I get there, tell me?",
+      "chinese": "怎么去那儿，跟我说说？",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655109"
+    },
+    {
+      "english": "What's this called, buddy?",
+      "chinese": "这叫什么，哥们儿？",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655111"
+    },
+    {
+      "english": "Are you free to chat, later?",
+      "chinese": "你一会儿有空聊聊吗？",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655113"
+    },
+    {
+      "english": "What's the plan for tonight?",
+      "chinese": "今晚有什么计划？",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655115"
+    },
+    {
+      "english": "What's the catch here, really?",
+      "chinese": "这儿有什么门道，真的？",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655117"
+    },
+    {
+      "english": "Do you know this place, well?",
+      "chinese": "你熟这地方吗？",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655119"
+    },
+    {
+      "english": "What's the price like, for real?",
+      "chinese": "价格怎么样，说实话？",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655121"
+    },
+    {
+      "english": "Can I ask you a question?",
+      "chinese": "我能问你个问题吗？",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655123"
+    },
+    {
+      "english": "What's your favorite thing here?",
+      "chinese": "你最喜欢这儿什么？",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655125"
+    },
+    {
+      "english": "How much should I pay, roughly?",
+      "chinese": "大概要付多少钱？",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655127"
+    },
+    {
+      "english": "What do you recommend to eat?",
+      "chinese": "你推荐吃点啥？",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655129"
+    },
+    {
+      "english": "What's the deal with this, huh?",
+      "chinese": "这到底怎么回事，嗯？",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655131"
+    },
+    {
+      "english": "Can we talk about this later?",
+      "chinese": "我们能晚点再谈这个吗？",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655132"
+    },
+    {
+      "english": "What's your plan, going forward?",
+      "chinese": "你接下来的计划是什么？",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655135"
+    },
+    {
+      "english": "Any good spots nearby, maybe?",
+      "chinese": "附近有好玩儿的地方吗？",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655137"
+    },
+    {
+      "english": "What's the local specialty, you think?",
+      "chinese": "你觉得本地特色是什么？",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655139"
+    },
+    {
+      "english": "Can you tell me about this, please?",
+      "chinese": "能给我讲讲这个吗？",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655141"
+    },
+    {
+      "english": "Your effort, really shows.",
+      "chinese": "你的努力, 真的看得到。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655144"
+    },
+    {
+      "english": "Just go for it, don't hesitate.",
+      "chinese": "放手去干, 别犹豫。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655146"
+    },
+    {
+      "english": "You've got such potential, amazing.",
+      "chinese": "你潜力真大, 厉害。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655148"
+    },
+    {
+      "english": "Don't give up, okay?",
+      "chinese": "别放弃啊, 好不好？",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655151"
+    },
+    {
+      "english": "It's going well, keep it up.",
+      "chinese": "进展不错, 继续保持。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655153"
+    },
+    {
+      "english": "That's a smart move, indeed.",
+      "chinese": "这招真够聪明。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655155"
+    },
+    {
+      "english": "You're doing awesome, seriously.",
+      "chinese": "你做得真棒, 讲真。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655157"
+    },
+    {
+      "english": "Today is a good day, for sure.",
+      "chinese": "今天是个好日子, 没跑了。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655159"
+    },
+    {
+      "english": "Just try your best, that's enough.",
+      "chinese": "尽力就好, 够了。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655161"
+    },
+    {
+      "english": "Every little bit helps, right?",
+      "chinese": "积少成多嘛, 对吧？",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655163"
+    },
+    {
+      "english": "That's a great attitude, honestly.",
+      "chinese": "这心态真好, 说实话。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655165"
+    },
+    {
+      "english": "You're so capable, wow.",
+      "chinese": "你太能干了, 哇。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655168"
+    },
+    {
+      "english": "This is way better, much better.",
+      "chinese": "这样好多了, 好太多。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655170"
+    },
+    {
+      "english": "You're a natural, at this.",
+      "chinese": "你在这方面是天才。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655172"
+    },
+    {
+      "english": "Think positive, always a good idea.",
+      "chinese": "往好处想, 总是对的。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655175"
+    },
+    {
+      "english": "That's a fantastic idea, really.",
+      "chinese": "这主意太棒了, 真心。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655177"
+    },
+    {
+      "english": "You've made great progress, see?",
+      "chinese": "你进步很大了, 看到没？",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655179"
+    },
+    {
+      "english": "Never too late, to start.",
+      "chinese": "开始永远不晚。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655181"
+    },
+    {
+      "english": "That's the spirit, keep it up.",
+      "chinese": "这才对嘛, 加油。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655183"
+    },
+    {
+      "english": "You're doing a great job, honestly.",
+      "chinese": "你做得很好, 真的。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655185"
+    },
+    {
+      "english": "This is going to work out.",
+      "chinese": "这肯定会成的。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655187"
+    },
+    {
+      "english": "You've got this under control.",
+      "chinese": "你把这事儿稳住了。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655188"
+    },
+    {
+      "english": "Stay focused, you're doing great.",
+      "chinese": "保持专注, 你做得很好。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655191"
+    },
+    {
+      "english": "It's like, the tip of the iceberg.",
+      "chinese": "这只是冰山一角。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655193"
+    },
+    {
+      "english": "You know, adding insult to injury.",
+      "chinese": "这简直是雪上加霜。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655195"
+    },
+    {
+      "english": "It’s just, beating around the bush.",
+      "chinese": "你这是在绕圈子。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655199"
+    },
+    {
+      "english": "This is, really a piece of cake.",
+      "chinese": "这真是小菜一碟。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655201"
+    },
+    {
+      "english": "It’s like, fish out of water, right?",
+      "chinese": "感觉像如鱼离水，对吧？",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655204"
+    },
+    {
+      "english": "It’s like, killing two birds with one stone.",
+      "chinese": "这简直是一举两得。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655207"
+    },
+    {
+      "english": "It’s like, biting off more than you can chew.",
+      "chinese": "这真是贪多嚼不烂。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655210"
+    },
+    {
+      "english": "That’s, history repeating itself.",
+      "chinese": "这就是历史重演。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655212"
+    },
+    {
+      "english": "It’s like, a blessing in disguise.",
+      "chinese": "这真是因祸得福。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655215"
+    },
+    {
+      "english": "We’re, in the same boat, aren't we?",
+      "chinese": "我们是同一条船上的，不是吗？",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655218"
+    },
+    {
+      "english": "This is, like, a needle in a haystack.",
+      "chinese": "这简直是大海捞针。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655220"
+    },
+    {
+      "english": "It’s like, once in a blue moon, really.",
+      "chinese": "这真是千载难逢，说真的。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655223"
+    },
+    {
+      "english": "That’s, like, water under the bridge, now.",
+      "chinese": "那已经是过眼云烟了，现在。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655226"
+    },
+    {
+      "english": "It's like, playing with fire, be careful.",
+      "chinese": "这就像玩火，小心点。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655228"
+    },
+    {
+      "english": "We need to, hit the nail on the head.",
+      "chinese": "我们需要说到点子上。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655231"
+    },
+    {
+      "english": "This is, like, a storm in a teacup.",
+      "chinese": "这真是小题大做。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655233"
+    },
+    {
+      "english": "It’s like, the calm before the storm.",
+      "chinese": "这是暴风雨前的宁静。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655236"
+    },
+    {
+      "english": "That's, like, taking candy from a baby.",
+      "chinese": "那就像小孩手里抢糖吃。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655238"
+    },
+    {
+      "english": "We're, on thin ice, here, aren't we?",
+      "chinese": "我们现在处境很危险，不是吗？",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655241"
+    },
+    {
+      "english": "This is, like, a wild goose chase.",
+      "chinese": "这真是白费力气。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655243"
+    },
+    {
+      "english": "It’s like, a tough pill to swallow.",
+      "chinese": "这是个难以接受的事实。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655246"
+    },
+    {
+      "english": "That’s, like, a bad apple, spoiling the bunch.",
+      "chinese": "那就是一颗老鼠屎，坏了一锅粥。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655249"
+    },
+    {
+      "english": "We need to, cut corners, sometimes.",
+      "chinese": "我们有时需要走捷径。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655251"
+    },
+    {
+      "english": "This is, like, a new lease on life.",
+      "chinese": "这真是获得了新生。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655256"
+    },
+    {
+      "english": "That's, like, the straw that broke the camel's back.",
+      "chinese": "那是压死骆驼的最后一根稻草。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655259"
+    },
+    {
+      "english": "We need to, go the extra mile, for this.",
+      "chinese": "我们必须为此付出更多努力。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655261"
+    },
+    {
+      "english": "Go ahead, give it a try, okay?",
+      "chinese": "来吧，试试看，好不好？",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655263"
+    },
+    {
+      "english": "Just chill, don't stress out.",
+      "chinese": "放轻松点，别那么紧张。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655265"
+    },
+    {
+      "english": "Seriously, no joke, it's good.",
+      "chinese": "说真的，不是开玩笑，这很好。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655267"
+    },
+    {
+      "english": "You got it, easy peasy.",
+      "chinese": "没问题，小菜一碟。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655269"
+    },
+    {
+      "english": "Don't be shy, just ask.",
+      "chinese": "别客气，直接问。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655271"
+    },
+    {
+      "english": "Wow, that's pretty cool, huh?",
+      "chinese": "哇，这挺酷的，是吧？",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655274"
+    },
+    {
+      "english": "Let's grab a bite, later?",
+      "chinese": "咱们找个地方吃点东西，一会儿？",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655276"
+    },
+    {
+      "english": "Mind your own business, okay?",
+      "chinese": "管好你自己的事，行吗？",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655278"
+    },
+    {
+      "english": "You're totally right, I agree.",
+      "chinese": "你说得太对了，我赞成。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655280"
+    },
+    {
+      "english": "Let's keep it simple, yeah?",
+      "chinese": "咱们简单点，好不好？",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655282"
+    },
+    {
+      "english": "This is the best, for real.",
+      "chinese": "这真是最好的，说真的。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655285"
+    },
+    {
+      "english": "Don't overthink it, relax.",
+      "chinese": "别想太多了，放轻松。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655287"
+    },
+    {
+      "english": "You need to hurry up, now.",
+      "chinese": "你得快点，现在。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655289"
+    },
+    {
+      "english": "This feels weird, doesn't it?",
+      "chinese": "这感觉有点奇怪，不是吗？",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655291"
+    },
+    {
+      "english": "Just go with the flow, man.",
+      "chinese": "顺其自然吧，哥们。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655293"
+    },
+    {
+      "english": "It's not a big deal, relax.",
+      "chinese": "没什么大不了的，别急。",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655295"
+    },
+    {
+      "english": "Can I have a word, please?",
+      "chinese": "能跟你说句话吗，拜托？",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-01T07:06:59.655297"
     }
   ],
-  "last_updated": "2026-10-31T06:36:33.014095"
+  "last_updated": "2026-11-01T07:06:59.655299"
 }
