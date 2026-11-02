@@ -18335,7 +18335,727 @@
       "chinese": "能跟你说句话吗，拜托？",
       "category": "Common Native Slang",
       "generated_at": "2026-11-01T07:06:59.655297"
+    },
+    {
+      "english": "Help, please, I need help!",
+      "chinese": "救命啊，请帮帮我！",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082751"
+    },
+    {
+      "english": "Is there a doctor nearby?",
+      "chinese": "附近有医生吗？",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082765"
+    },
+    {
+      "english": "I feel unwell, suddenly.",
+      "chinese": "我突然感觉不舒服。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082768"
+    },
+    {
+      "english": "Call an ambulance, quickly!",
+      "chinese": "快叫救护车！",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082771"
+    },
+    {
+      "english": "I think I'm sick.",
+      "chinese": "我好像生病了。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082773"
+    },
+    {
+      "english": "Do you have any medicine?",
+      "chinese": "你有什么药吗？",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082775"
+    },
+    {
+      "english": "My head really hurts.",
+      "chinese": "我头疼得很厉害。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082777"
+    },
+    {
+      "english": "What happened, are you okay?",
+      "chinese": "怎么了，你没事吧？",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082784"
+    },
+    {
+      "english": "Please take me there.",
+      "chinese": "请带我去那里。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082787"
+    },
+    {
+      "english": "Is this an emergency?",
+      "chinese": "这是紧急情况吗？",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082789"
+    },
+    {
+      "english": "I feel dizzy, a lot.",
+      "chinese": "我头晕得很。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082792"
+    },
+    {
+      "english": "Where can I find a pharmacy?",
+      "chinese": "药店在哪儿？",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082795"
+    },
+    {
+      "english": "I'm having trouble breathing.",
+      "chinese": "我呼吸困难。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082799"
+    },
+    {
+      "english": "Don't move, stay still.",
+      "chinese": "别动，保持不动。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082802"
+    },
+    {
+      "english": "Is anyone injured?",
+      "chinese": "有人受伤吗？",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082804"
+    },
+    {
+      "english": "I need medical attention.",
+      "chinese": "我需要医疗救助。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082806"
+    },
+    {
+      "english": "Be careful, watch out!",
+      "chinese": "小心点，注意！",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082809"
+    },
+    {
+      "english": "My stomach hurts badly.",
+      "chinese": "我肚子很疼。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082811"
+    },
+    {
+      "english": "I need to lie down.",
+      "chinese": "我需要躺一下。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082813"
+    },
+    {
+      "english": "I have an allergy.",
+      "chinese": "我有过敏史。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082815"
+    },
+    {
+      "english": "Please slow down.",
+      "chinese": "请慢一点。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082817"
+    },
+    {
+      "english": "I need some water.",
+      "chinese": "我需要点水。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082819"
+    },
+    {
+      "english": "Don't panic, stay calm.",
+      "chinese": "别慌，冷静点。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082821"
+    },
+    {
+      "english": "I feel very weak.",
+      "chinese": "我感觉很虚弱。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082823"
+    },
+    {
+      "english": "Are you hurt badly?",
+      "chinese": "你伤得很重吗？",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082825"
+    },
+    {
+      "english": "I need to rest now.",
+      "chinese": "我现在需要休息。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082827"
+    },
+    {
+      "english": "Can you tell me, what's wrong?",
+      "chinese": "你能不能告诉我，怎么了？",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082830"
+    },
+    {
+      "english": "Where is the nearest, hospital?",
+      "chinese": "最近的医院，在哪里？",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082833"
+    },
+    {
+      "english": "Is this serious, do you think?",
+      "chinese": "这严重吗，你觉得？",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082835"
+    },
+    {
+      "english": "What should I do, now?",
+      "chinese": "我现在，该怎么办？",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082838"
+    },
+    {
+      "english": "Can you describe, the symptoms?",
+      "chinese": "你能描述一下，症状吗？",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082840"
+    },
+    {
+      "english": "Is there a clinic, around here?",
+      "chinese": "这附近，有诊所吗？",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082842"
+    },
+    {
+      "english": "Have you seen a doctor, before?",
+      "chinese": "你之前，看过医生吗？",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082845"
+    },
+    {
+      "english": "Should I take this, medicine?",
+      "chinese": "我应该，吃这个药吗？",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082847"
+    },
+    {
+      "english": "Are there any side effects, I should know?",
+      "chinese": "有什么副作用，我需要知道？",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082850"
+    },
+    {
+      "english": "When will the pain, stop?",
+      "chinese": "什么时候，会好点？",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082852"
+    },
+    {
+      "english": "Can you call, someone for me?",
+      "chinese": "你能帮我，叫个人吗？",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082854"
+    },
+    {
+      "english": "Is it safe, to move?",
+      "chinese": "现在能，动吗？",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082856"
+    },
+    {
+      "english": "What is this, feeling?",
+      "chinese": "这是什么，感觉？",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082860"
+    },
+    {
+      "english": "Do you need, anything else?",
+      "chinese": "你还需要，别的吗？",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082862"
+    },
+    {
+      "english": "Can you help me, understand?",
+      "chinese": "你能帮我，解释一下吗？",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082864"
+    },
+    {
+      "english": "How do I get, there?",
+      "chinese": "我怎么去，那里？",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082867"
+    },
+    {
+      "english": "Is this normal, for you?",
+      "chinese": "你这样，是常有的吗？",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082869"
+    },
+    {
+      "english": "When did it start, exactly?",
+      "chinese": "具体是，什么时候开始的？",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082871"
+    },
+    {
+      "english": "What kind of pain, is it?",
+      "chinese": "是什么样的，疼痛？",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082874"
+    },
+    {
+      "english": "Should I wait, here?",
+      "chinese": "我应该，在这里等吗？",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082876"
+    },
+    {
+      "english": "Can you show me, where?",
+      "chinese": "你能指给我，看吗？",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082879"
+    },
+    {
+      "english": "Is there someone, I can talk to?",
+      "chinese": "有没有人，我能问问？",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082881"
+    },
+    {
+      "english": "What is the procedure, here?",
+      "chinese": "这里的流程，是什么？",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082883"
+    },
+    {
+      "english": "Did you eat, anything unusual?",
+      "chinese": "你吃东西，有什么特别的吗？",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082886"
+    },
+    {
+      "english": "Are you feeling, any better?",
+      "chinese": "你感觉，好点了吗？",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082888"
+    },
+    {
+      "english": "Please tell me, honestly.",
+      "chinese": "请如实，告诉我。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082890"
+    },
+    {
+      "english": "You are so brave, keep going.",
+      "chinese": "你真勇敢，继续加油。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082892"
+    },
+    {
+      "english": "Take a deep breath, you can do it.",
+      "chinese": "深呼吸，你能行的。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082895"
+    },
+    {
+      "english": "Just focus on getting better.",
+      "chinese": "只管专心养好身体。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082897"
+    },
+    {
+      "english": "Let's face this together.",
+      "chinese": "我们一起面对。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082900"
+    },
+    {
+      "english": "Positive thoughts, heal faster.",
+      "chinese": "积极想法，好得更快。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082902"
+    },
+    {
+      "english": "We are here for you.",
+      "chinese": "我们支持你。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082904"
+    },
+    {
+      "english": "One day at a time.",
+      "chinese": "一天一天来。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082907"
+    },
+    {
+      "english": "Your effort is amazing.",
+      "chinese": "你的努力很棒。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082909"
+    },
+    {
+      "english": "This will pass, stay strong.",
+      "chinese": "这会过去的，坚强点。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082911"
+    },
+    {
+      "english": "You have my full support.",
+      "chinese": "我全力支持你。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082913"
+    },
+    {
+      "english": "Sending you healing energy.",
+      "chinese": "送你疗愈能量。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082915"
+    },
+    {
+      "english": "You are not alone.",
+      "chinese": "你不是一个人。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082919"
+    },
+    {
+      "english": "Take it easy, okay?",
+      "chinese": "放松点，好吗？",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082921"
+    },
+    {
+      "english": "You are resilient.",
+      "chinese": "你很有韧性。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082923"
+    },
+    {
+      "english": "Keep fighting the good fight.",
+      "chinese": "继续这场斗争。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082925"
+    },
+    {
+      "english": "Rest is also progress.",
+      "chinese": "休息也是进步。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082927"
+    },
+    {
+      "english": "You are doing your best.",
+      "chinese": "你已经尽力了。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082929"
+    },
+    {
+      "english": "Sending you strength.",
+      "chinese": "送你力量。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082931"
+    },
+    {
+      "english": "My head is spinning, I feel faint.",
+      "chinese": "我头晕目眩, 感觉要晕倒。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082934"
+    },
+    {
+      "english": "It's like a sharp pain, here.",
+      "chinese": "像是这里, 有锐利的疼痛。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082937"
+    },
+    {
+      "english": "I have a terrible cough, all night.",
+      "chinese": "我整晚都在剧烈咳嗽。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082939"
+    },
+    {
+      "english": "I feel so weak, can barely stand.",
+      "chinese": "我感觉好虚弱, 站不住。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082941"
+    },
+    {
+      "english": "Is there an emergency room, nearby?",
+      "chinese": "附近有急诊室吗？",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082944"
+    },
+    {
+      "english": "I think I broke, my arm.",
+      "chinese": "我觉得我, 摔断了胳膊。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082947"
+    },
+    {
+      "english": "My breathing, is very shallow.",
+      "chinese": "我的呼吸, 非常浅。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082950"
+    },
+    {
+      "english": "I have a high fever, can't cool down.",
+      "chinese": "我发高烧, 降不下来。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082954"
+    },
+    {
+      "english": "I feel nauseous, I might throw up.",
+      "chinese": "我感到恶心, 可能会吐。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082956"
+    },
+    {
+      "english": "I have a sudden allergy, reaction.",
+      "chinese": "我突然过敏, 了。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082958"
+    },
+    {
+      "english": "It feels like, my heart is racing.",
+      "chinese": "感觉像是, 心脏在狂跳。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082960"
+    },
+    {
+      "english": "I've lost, a lot of blood.",
+      "chinese": "我流了, 很多血。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082963"
+    },
+    {
+      "english": "Can you find, a blood pressure cuff?",
+      "chinese": "你能找到, 血压计吗？",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082965"
+    },
+    {
+      "english": "My vision, is blurry.",
+      "chinese": "我的视力, 模糊了。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082967"
+    },
+    {
+      "english": "I'm having trouble, speaking clearly.",
+      "chinese": "我说话, 不清楚了。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082970"
+    },
+    {
+      "english": "Is this a sprain, or a break?",
+      "chinese": "这是扭伤, 还是骨折？",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082972"
+    },
+    {
+      "english": "I feel dizzy, when I stand up.",
+      "chinese": "我站起来, 就头晕。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082974"
+    },
+    {
+      "english": "My chest feels, really tight.",
+      "chinese": "我的胸口, 感觉好紧。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082977"
+    },
+    {
+      "english": "I need help, urgently.",
+      "chinese": "我急需, 帮助。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082979"
+    },
+    {
+      "english": "This medicine, tastes awful.",
+      "chinese": "这个药, 味道太差了。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082981"
+    },
+    {
+      "english": "My skin, is very itchy.",
+      "chinese": "我的皮肤, 非常痒。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082983"
+    },
+    {
+      "english": "I feel like, I can't breathe.",
+      "chinese": "我觉得, 无法呼吸。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082986"
+    },
+    {
+      "english": "Is there a pharmacy, open late?",
+      "chinese": "有开到很晚, 的药店吗？",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082988"
+    },
+    {
+      "english": "My temperature, is very high.",
+      "chinese": "我的体温, 非常高。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082990"
+    },
+    {
+      "english": "I feel faint, need to sit.",
+      "chinese": "我感觉要晕, 需坐下。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082994"
+    },
+    {
+      "english": "I have a terrible headache, non-stop.",
+      "chinese": "我头痛欲裂, 没停过。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082997"
+    },
+    {
+      "english": "My leg is numb, can't feel it.",
+      "chinese": "我的腿麻了, 没感觉。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.082999"
+    },
+    {
+      "english": "I need an ambulance, please.",
+      "chinese": "请叫救护车, 谢谢。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.083001"
+    },
+    {
+      "english": "Feeling this, is hard, but important.",
+      "chinese": "感受到这些，很难，但很重要。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.083004"
+    },
+    {
+      "english": "Sometimes, just listening helps, a lot.",
+      "chinese": "有时候，仅仅倾听，就能帮很多。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.083007"
+    },
+    {
+      "english": "Letting go, is also healing.",
+      "chinese": "放下，也是一种治愈。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.083009"
+    },
+    {
+      "english": "What are you really feeling, inside?",
+      "chinese": "你内心真正感受是什么？",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.083012"
+    },
+    {
+      "english": "Patience, with the process, matters.",
+      "chinese": "耐心，等待过程，很重要。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.083014"
+    },
+    {
+      "english": "This journey, changes perspective.",
+      "chinese": "这段旅程，改变了看法。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.083016"
+    },
+    {
+      "english": "Honesty about pain, builds trust.",
+      "chinese": "关于痛苦的诚实，建立信任。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.083019"
+    },
+    {
+      "english": "Seeking help, shows inner strength.",
+      "chinese": "寻求帮助，展现内在力量。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.083021"
+    },
+    {
+      "english": "We learn, from difficult times.",
+      "chinese": "我们从艰难时刻学习。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.083023"
+    },
+    {
+      "english": "Your vulnerability, is not weakness.",
+      "chinese": "你的脆弱，并非软弱。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.083027"
+    },
+    {
+      "english": "Allow yourself, to feel, fully.",
+      "chinese": "允许自己，全然感受。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.083029"
+    },
+    {
+      "english": "Gratitude, can shift, the mood.",
+      "chinese": "感恩，能转变心情。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.083031"
+    },
+    {
+      "english": "What if, this teaches us something?",
+      "chinese": "万一，这教会我们什么呢？",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.083034"
+    },
+    {
+      "english": "Holding on, too tightly, hurts.",
+      "chinese": "抓得太紧，会受伤。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.083036"
+    },
+    {
+      "english": "Finding peace, within the chaos.",
+      "chinese": "在混乱中，寻找平静。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.083038"
+    },
+    {
+      "english": "This experience, shapes who we are.",
+      "chinese": "这次经历，塑造了我们。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.083040"
+    },
+    {
+      "english": "Acceptance, brings a sense of calm.",
+      "chinese": "接受，带来平静感。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.083042"
+    },
+    {
+      "english": "What truly matters, now?",
+      "chinese": "现在，什么最重要？",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.083045"
+    },
+    {
+      "english": "Let's talk, about what's bothering you.",
+      "chinese": "我们谈谈，让你烦恼的事。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.083048"
+    },
+    {
+      "english": "Finding meaning, in the struggle.",
+      "chinese": "在挣扎中，寻找意义。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.083050"
+    },
+    {
+      "english": "My heart feels, heavy today.",
+      "chinese": "我今天，心很沉重。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.083052"
+    },
+    {
+      "english": "I'm scared, but I'll manage.",
+      "chinese": "我害怕，但我会应付。",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-02T07:11:15.083055"
     }
   ],
-  "last_updated": "2026-11-01T07:06:59.655299"
+  "last_updated": "2026-11-02T07:11:15.083056"
 }
