@@ -19055,7 +19055,727 @@
       "chinese": "我害怕，但我会应付。",
       "category": "Emergency & Health",
       "generated_at": "2026-11-02T07:11:15.083055"
+    },
+    {
+      "english": "Thanks for your help, I really mean it.",
+      "chinese": "谢谢你帮忙, 我真的很感激。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887699"
+    },
+    {
+      "english": "I appreciate it, that helps a lot.",
+      "chinese": "我很感谢, 这真的帮了不少。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887715"
+    },
+    {
+      "english": "Got it, thanks, I’m set now.",
+      "chinese": "明白了, 谢谢, 我现在搞定了。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887719"
+    },
+    {
+      "english": "Really, thank you, that was quick.",
+      "chinese": "真的吗, 谢谢你, 这么快。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887721"
+    },
+    {
+      "english": "Thank you, I’ll remember this.",
+      "chinese": "谢谢你, 我会记在心里的。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887724"
+    },
+    {
+      "english": "Thanks a bunch, you saved me today.",
+      "chinese": "谢谢你, 今天真是救了我。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887725"
+    },
+    {
+      "english": "Thanks for checking, I feel relieved.",
+      "chinese": "谢谢你确认一下, 我安心多了。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887727"
+    },
+    {
+      "english": "Thank you, you didn’t have to.",
+      "chinese": "谢谢你, 你本来不用这么做。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887732"
+    },
+    {
+      "english": "Thanks, I owe you one, seriously.",
+      "chinese": "谢谢你, 我欠你个人情, 真的。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887735"
+    },
+    {
+      "english": "Thanks for the reminder, I forgot.",
+      "chinese": "谢谢你提醒我, 我差点忘了。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887737"
+    },
+    {
+      "english": "Appreciate it, I’ll handle it now.",
+      "chinese": "谢谢啦, 我现在就去弄。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887739"
+    },
+    {
+      "english": "Thank you for always being there.",
+      "chinese": "谢谢你一直在身边。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887740"
+    },
+    {
+      "english": "Thanks for today’s help, really.",
+      "chinese": "今天谢谢你的帮忙, 真的。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887742"
+    },
+    {
+      "english": "That works, thank you so much.",
+      "chinese": "这样就行了, 谢谢你。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887746"
+    },
+    {
+      "english": "Thanks, I’m grateful for your time.",
+      "chinese": "谢谢你, 我很感谢你的时间。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887748"
+    },
+    {
+      "english": "Thank you, I won’t take it for granted.",
+      "chinese": "谢谢你, 我不会把它当理所当然。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887750"
+    },
+    {
+      "english": "Thanks, that’s super kind of you.",
+      "chinese": "谢谢你, 你太贴心了。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887752"
+    },
+    {
+      "english": "Appreciate you, I really needed that.",
+      "chinese": "谢谢你, 我确实需要这个。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887754"
+    },
+    {
+      "english": "Thank you, I’ll repay you later.",
+      "chinese": "谢谢你, 我改天请你。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887755"
+    },
+    {
+      "english": "Thanks for being patient with me.",
+      "chinese": "谢谢你对我这么有耐心。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887757"
+    },
+    {
+      "english": "Thank you, that made things easier.",
+      "chinese": "谢谢你, 这样轻松多了。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887759"
+    },
+    {
+      "english": "Thanks, I’m really touched by this.",
+      "chinese": "谢谢你, 我被你感动了。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887761"
+    },
+    {
+      "english": "Thanks for the support, I’m pushing on.",
+      "chinese": "谢谢你的支持, 我会继续努力。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887763"
+    },
+    {
+      "english": "Thank you, I feel better now.",
+      "chinese": "谢谢你, 我现在好多了。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887765"
+    },
+    {
+      "english": "Thanks, that was thoughtful and helpful.",
+      "chinese": "谢谢你, 想得很周到。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887766"
+    },
+    {
+      "english": "Thank you, I needed a hand today.",
+      "chinese": "谢谢你, 今天我真的需要帮忙。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887768"
+    },
+    {
+      "english": "Thanks, I’ll keep working, promise.",
+      "chinese": "谢谢你, 我会继续努力, 说到做到。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887770"
+    },
+    {
+      "english": "Thank you, this means a lot to me.",
+      "chinese": "谢谢你, 这对我来说很重要。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887772"
+    },
+    {
+      "english": "Thanks, you really came through.",
+      "chinese": "谢谢你, 关键时刻你帮上忙了。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887773"
+    },
+    {
+      "english": "Thanks, what should I do next?",
+      "chinese": "谢谢你, 我接下来该怎么做?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887775"
+    },
+    {
+      "english": "Thank you, could you advise me?",
+      "chinese": "谢谢你, 你能给我点建议吗?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887777"
+    },
+    {
+      "english": "Thanks, can you show me the way?",
+      "chinese": "谢谢, 你可以带我一下吗?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887780"
+    },
+    {
+      "english": "Thank you, I have a quick question.",
+      "chinese": "谢谢你, 我有个小问题。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887782"
+    },
+    {
+      "english": "Thanks, do you have time to help?",
+      "chinese": "谢谢你, 你现在有空吗, 能帮我吗?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887784"
+    },
+    {
+      "english": "Thanks, what did you do differently?",
+      "chinese": "谢谢, 你当时怎么做的?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887785"
+    },
+    {
+      "english": "Thank you, I’ll follow your advice.",
+      "chinese": "谢谢, 我会按你说的做。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887788"
+    },
+    {
+      "english": "Thanks, could you check this for me?",
+      "chinese": "谢谢你, 你能帮我看一下吗?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887789"
+    },
+    {
+      "english": "Thank you, where should I start?",
+      "chinese": "谢谢, 我从哪儿开始学呢?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887791"
+    },
+    {
+      "english": "Thanks, what’s the best option here?",
+      "chinese": "谢谢, 这里你觉得选什么最好?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887793"
+    },
+    {
+      "english": "Thank you, can I ask one more thing?",
+      "chinese": "谢谢你, 我还能再问一个问题吗?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887794"
+    },
+    {
+      "english": "Thanks, how did you learn Chinese so fast?",
+      "chinese": "谢谢, 你怎么学中文这么快?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887796"
+    },
+    {
+      "english": "Thank you, could we talk for a moment?",
+      "chinese": "谢谢, 我们能聊一会儿吗?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887797"
+    },
+    {
+      "english": "Thanks, what’s your honest suggestion?",
+      "chinese": "谢谢, 你觉得我该怎么做?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887800"
+    },
+    {
+      "english": "Thank you, are you okay with this?",
+      "chinese": "谢谢你, 你这样可以吗?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887802"
+    },
+    {
+      "english": "Thanks, do you mind if I ask?",
+      "chinese": "谢谢, 我可以问一下吗?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887803"
+    },
+    {
+      "english": "Thank you, what should I prepare?",
+      "chinese": "谢谢你, 我需要准备什么?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887806"
+    },
+    {
+      "english": "Thanks, can I get your opinion?",
+      "chinese": "谢谢你, 你怎么看?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887808"
+    },
+    {
+      "english": "Thanks, what’s the meaning of this?",
+      "chinese": "谢谢, 这个是什么意思?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887810"
+    },
+    {
+      "english": "Thank you, is this the correct way?",
+      "chinese": "谢谢, 这样说对吗?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887812"
+    },
+    {
+      "english": "Thanks, when would be best for you?",
+      "chinese": "谢谢你, 你什么时候最方便?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887813"
+    },
+    {
+      "english": "Thank you, could we confirm the plan?",
+      "chinese": "谢谢你, 我们把计划确认一下吧?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887815"
+    },
+    {
+      "english": "Thanks, how can I improve quickly?",
+      "chinese": "谢谢, 我怎么才能进步更快?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887817"
+    },
+    {
+      "english": "Thank you, what’s your schedule like?",
+      "chinese": "谢谢, 你最近时间怎么安排?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887819"
+    },
+    {
+      "english": "Thanks, may I know your reason?",
+      "chinese": "谢谢你, 我想知道原因可以吗?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887820"
+    },
+    {
+      "english": "Thank you, what’s the next step after this?",
+      "chinese": "谢谢, 这之后下一步做什么?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887823"
+    },
+    {
+      "english": "Thanks, do you want me to try first?",
+      "chinese": "谢谢, 你想让我先试试吗?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887824"
+    },
+    {
+      "english": "Thank you, can you help me phrase it?",
+      "chinese": "谢谢你, 你能帮我把话说顺吗?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887826"
+    },
+    {
+      "english": "Thanks, would you like to join us?",
+      "chinese": "谢谢, 你愿意跟我们一起吗?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887829"
+    },
+    {
+      "english": "I’m grateful, today I’m showing up fully.",
+      "chinese": "我很感恩，今天我会全力以赴。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887831"
+    },
+    {
+      "english": "Gratitude, keeps my mind calm and steady.",
+      "chinese": "感恩，让我心里更安稳。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887833"
+    },
+    {
+      "english": "I notice the good, even in small moments.",
+      "chinese": "我会发现好事，哪怕是小小的时刻。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887835"
+    },
+    {
+      "english": "Because I’m thankful, I move forward.",
+      "chinese": "我心存感激，所以我继续往前走。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887838"
+    },
+    {
+      "english": "Keep going, I’m grateful for progress.",
+      "chinese": "别停，感谢每一点进步。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887840"
+    },
+    {
+      "english": "I’m proud, of how far I’ve come.",
+      "chinese": "我很骄傲，我走到了这一步。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887842"
+    },
+    {
+      "english": "Gratitude makes me braver, and kinder.",
+      "chinese": "感恩让我更勇敢，也更温柔。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887844"
+    },
+    {
+      "english": "I’ve got this, thanks to my effort.",
+      "chinese": "我行的，靠的是我自己的努力。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887847"
+    },
+    {
+      "english": "Today, I’ll count blessings, not problems.",
+      "chinese": "今天我数的是福气，不是麻烦。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887849"
+    },
+    {
+      "english": "I’m lucky, and I appreciate the lesson.",
+      "chinese": "我很幸运，也珍惜这个教训。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887851"
+    },
+    {
+      "english": "Slow down, gratitude will show you more.",
+      "chinese": "慢一点，感恩会让你看见更多。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887853"
+    },
+    {
+      "english": "I’m grateful, my efforts are paying off.",
+      "chinese": "我很感恩，我的付出开始回报了。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887855"
+    },
+    {
+      "english": "Good things find me, because I stay open.",
+      "chinese": "因为我保持开放，好事就会找上我。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887857"
+    },
+    {
+      "english": "I’ll keep a positive heart, always.",
+      "chinese": "我会一直保持一颗正能量的心。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887859"
+    },
+    {
+      "english": "I thank myself, for not giving up.",
+      "chinese": "我也要谢谢自己，没有放弃。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887861"
+    },
+    {
+      "english": "Gratitude is my superpower, for sure.",
+      "chinese": "感恩就是我的超能力，没错。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887863"
+    },
+    {
+      "english": "I’m learning fast, because I’m thankful.",
+      "chinese": "我进步很快，因为我懂得感恩。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887865"
+    },
+    {
+      "english": "Even setbacks, I can be grateful.",
+      "chinese": "就算遇到挫折，我也能感恩。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887868"
+    },
+    {
+      "english": "I choose to see the silver lining.",
+      "chinese": "我选择看到好的一面。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887870"
+    },
+    {
+      "english": "My mindset is: say it, mean it.",
+      "chinese": "我的心态是：说出来，也要真心。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887873"
+    },
+    {
+      "english": "Let gratitude do the heavy lifting.",
+      "chinese": "让感恩把力量带到我这里。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887875"
+    },
+    {
+      "english": "I appreciate calm days, they matter.",
+      "chinese": "我珍惜平静的日子，它们很重要。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887876"
+    },
+    {
+      "english": "Thankful thoughts, turn stress into fuel.",
+      "chinese": "感恩的想法，会把压力变成动力。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887878"
+    },
+    {
+      "english": "I’ll keep praising effort, not just results.",
+      "chinese": "我会夸努力，别只看结果。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887880"
+    },
+    {
+      "english": "Grateful hearts grow, step by step.",
+      "chinese": "有感恩的心，会一步步变得更好。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887882"
+    },
+    {
+      "english": "I’m inspired, by people who try.",
+      "chinese": "我被那些愿意尝试的人点燃了。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887884"
+    },
+    {
+      "english": "Today I’m grateful, for one small win.",
+      "chinese": "今天我很感恩，收获一个小小的胜利。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887886"
+    },
+    {
+      "english": "My aim: make progress, stay grateful.",
+      "chinese": "我的目标是进步，心里要有感恩。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887888"
+    },
+    {
+      "english": "I trust the process, and I’m grateful.",
+      "chinese": "我相信过程，也心怀感恩。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887890"
+    },
+    {
+      "english": "Be grateful, then you’ll find your next move.",
+      "chinese": "先感恩，然后你就会找到下一步。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887892"
+    },
+    {
+      "english": "I’m really grateful for your patience today.",
+      "chinese": "今天, 我真的很感谢你的耐心。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887894"
+    },
+    {
+      "english": "I notice how much your care means to me.",
+      "chinese": "我看见了, 你的关心对我有多重要。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887896"
+    },
+    {
+      "english": "I’m thankful, but I also feel vulnerable.",
+      "chinese": "我很感激, 但我也有点脆弱。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887898"
+    },
+    {
+      "english": "Some days, I’m grateful even when I’m tired.",
+      "chinese": "有些日子, 我累了也依然会感激。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887900"
+    },
+    {
+      "english": "I’m grateful for honesty, even when it hurts.",
+      "chinese": "我感谢坦诚, 哪怕心里会疼。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887902"
+    },
+    {
+      "english": "I want to say, I’m proud and grateful.",
+      "chinese": "我想说, 我既骄傲又感恩。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887904"
+    },
+    {
+      "english": "Your effort quietly keeps pulling me forward.",
+      "chinese": "你的付出很安静, 却一直推着我往前。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887907"
+    },
+    {
+      "english": "I’m learning gratitude, one honest feeling at a time.",
+      "chinese": "我在练习感恩, 一次说清一个真实感受。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887910"
+    },
+    {
+      "english": "When I pause, I realize I’m supported.",
+      "chinese": "我一停下来, 就发现我一直被托住了。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887912"
+    },
+    {
+      "english": "Thank you isn’t the whole story, for me.",
+      "chinese": "对我来说, “谢谢”不是全部。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887915"
+    },
+    {
+      "english": "I’m grateful, because it makes me kinder.",
+      "chinese": "我感激, 因为这让我更愿意善待别人。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887916"
+    },
+    {
+      "english": "I reflect, then I let gratitude breathe.",
+      "chinese": "我会反思, 然后让感恩慢慢呼吸。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887918"
+    },
+    {
+      "english": "I’m thankful, even for the lessons I resisted.",
+      "chinese": "我感恩, 也感谢那些我曾经抗拒过的课。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887921"
+    },
+    {
+      "english": "I can be honest, I miss what helped me.",
+      "chinese": "我也坦白, 我会想念那些托住我的人。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887923"
+    },
+    {
+      "english": "Your words landed softly, and I felt safe.",
+      "chinese": "你说的话很轻, 我就觉得很安心。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887925"
+    },
+    {
+      "english": "I’m grateful for small wins, they stack up.",
+      "chinese": "我感恩小小的胜利, 它们会越积越多。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887927"
+    },
+    {
+      "english": "I trust myself more, because you guided me.",
+      "chinese": "因为你带过我, 我更相信自己了。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887929"
+    },
+    {
+      "english": "I don’t rush feelings, I’m grateful in my time.",
+      "chinese": "我不急着回应, 我会在自己的节奏里感恩。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887932"
+    },
+    {
+      "english": "I’m thankful for boundaries, they protect my peace.",
+      "chinese": "我感恩界限, 它们保护我的平静。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887935"
+    },
+    {
+      "english": "When I get quiet, gratitude shows its shape.",
+      "chinese": "我安静下来时, 感恩的样子就出来了。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887936"
+    },
+    {
+      "english": "I’m grateful, because I learned to wait.",
+      "chinese": "我感恩, 因为我学会了等待。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887938"
+    },
+    {
+      "english": "Your support feels steady, like good lighting.",
+      "chinese": "你的支持很稳, 像温柔的光。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887941"
+    },
+    {
+      "english": "I’ll keep it real, I appreciate you.",
+      "chinese": "我讲真话, 我很感谢你。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887943"
+    },
+    {
+      "english": "Gratitude helps me name what I’m afraid of.",
+      "chinese": "感恩让我学会说出我害怕的东西。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887945"
+    },
+    {
+      "english": "I’m thankful, and I still want more growth.",
+      "chinese": "我感恩着, 但我也想继续成长。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887947"
+    },
+    {
+      "english": "I choose reflection, so gratitude stays clear.",
+      "chinese": "我选择反思, 让感恩保持清醒。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887949"
+    },
+    {
+      "english": "Even late help still counts, I’m grateful.",
+      "chinese": "就算来得晚也算, 我很感激。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887951"
+    },
+    {
+      "english": "I’m grateful for the courage it took.",
+      "chinese": "我感恩, 因为你付出了勇气。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887953"
+    },
+    {
+      "english": "I respect the timing, and I feel grateful.",
+      "chinese": "我尊重时机, 也因此更感恩。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887954"
+    },
+    {
+      "english": "I hold gratitude quietly, then I act.",
+      "chinese": "我把感恩放在心里, 然后付诸行动。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887956"
+    },
+    {
+      "english": "Before replying, say thanks first, really.",
+      "chinese": "回复前先说谢谢，真的。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887958"
+    },
+    {
+      "english": "After a favor, text, I really appreciate it.",
+      "chinese": "人家帮完忙，发消息说我很感谢。",
+      "category": "Gratitude",
+      "generated_at": "2026-11-03T07:33:07.887961"
     }
   ],
-  "last_updated": "2026-11-02T07:11:15.083056"
+  "last_updated": "2026-11-03T07:33:07.887963"
 }
