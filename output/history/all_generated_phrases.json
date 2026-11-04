@@ -19775,7 +19775,727 @@
       "chinese": "人家帮完忙，发消息说我很感谢。",
       "category": "Gratitude",
       "generated_at": "2026-11-03T07:33:07.887961"
+    },
+    {
+      "english": "Wait, I’ll be right there.",
+      "chinese": "等一下, 我马上到。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514223"
+    },
+    {
+      "english": "Hold on, let me check first.",
+      "chinese": "稍等一下, 我先确认。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514236"
+    },
+    {
+      "english": "No worries, keep it simple.",
+      "chinese": "没事的, 简单点。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514239"
+    },
+    {
+      "english": "Are you okay, seriously?",
+      "chinese": "你还好吗, 真的？",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514242"
+    },
+    {
+      "english": "I’m good, thanks for asking.",
+      "chinese": "我很好, 谢谢关心。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514244"
+    },
+    {
+      "english": "That makes sense, I get it.",
+      "chinese": "有道理, 我懂了。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514246"
+    },
+    {
+      "english": "Let’s keep things balanced, okay?",
+      "chinese": "我们把节奏调平衡, 行吗？",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514248"
+    },
+    {
+      "english": "It’s okay to pause, breathe.",
+      "chinese": "停一停也行, 呼吸一下。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514252"
+    },
+    {
+      "english": "Easy, take your time, really.",
+      "chinese": "慢慢来, 别急。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514254"
+    },
+    {
+      "english": "Good timing, this helps a lot.",
+      "chinese": "正好, 这太有用了。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514256"
+    },
+    {
+      "english": "Quick check, does this work?",
+      "chinese": "先确认一下, 这样行吗？",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514258"
+    },
+    {
+      "english": "If it’s too much, stop.",
+      "chinese": "太累了就停下来。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514260"
+    },
+    {
+      "english": "I’ll handle it, you relax.",
+      "chinese": "交给我吧, 你放松点。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514263"
+    },
+    {
+      "english": "Speak up, don’t keep it inside.",
+      "chinese": "说出来, 别憋着。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514265"
+    },
+    {
+      "english": "Calm down, we’ll figure it out.",
+      "chinese": "冷静点, 我们再想办法。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514267"
+    },
+    {
+      "english": "That’s fair, we can compromise.",
+      "chinese": "说得过去, 我们可以协商。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514269"
+    },
+    {
+      "english": "I’ll start small, then build.",
+      "chinese": "我先从小做起, 再慢慢来。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514270"
+    },
+    {
+      "english": "Take one step, then decide.",
+      "chinese": "先走一步, 再看情况。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514272"
+    },
+    {
+      "english": "You’re doing fine, just adjust.",
+      "chinese": "你做得不错, 调整一下就好。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514273"
+    },
+    {
+      "english": "Wait, let me speak first.",
+      "chinese": "等下, 我先说。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514275"
+    },
+    {
+      "english": "Okay, let’s call it a day.",
+      "chinese": "好吧, 今天就到这儿。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514277"
+    },
+    {
+      "english": "Good question, give me a sec.",
+      "chinese": "好问题, 我想想。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514278"
+    },
+    {
+      "english": "Nope, that won’t work today.",
+      "chinese": "不行, 今天不太合适。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514280"
+    },
+    {
+      "english": "I hear you, but let’s balance it.",
+      "chinese": "我懂你的意思, 但要平衡一下。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514282"
+    },
+    {
+      "english": "That’s enough for now, thanks.",
+      "chinese": "先到这儿就行, 谢了。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514283"
+    },
+    {
+      "english": "Let’s reset, start fresh.",
+      "chinese": "我们重来吧, 从头开始。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514285"
+    },
+    {
+      "english": "Mind your pace, don’t rush.",
+      "chinese": "注意节奏, 别着急。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514287"
+    },
+    {
+      "english": "I’m late, but I’ll catch up.",
+      "chinese": "我来晚了, 但我会补上。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514289"
+    },
+    {
+      "english": "All set, we can move on.",
+      "chinese": "都弄好了, 我们继续。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514292"
+    },
+    {
+      "english": "Stay open-minded, it helps a lot.",
+      "chinese": "保持开放, 会更顺。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514293"
+    },
+    {
+      "english": "Quick question, where should we start?",
+      "chinese": "快问一句, 我们从哪开始?",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514295"
+    },
+    {
+      "english": "What’s your rule for taking breaks?",
+      "chinese": "你休息的时候有什么规则?",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514297"
+    },
+    {
+      "english": "Can you give me an easy tip?",
+      "chinese": "你能给我一个简单建议吗?",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514299"
+    },
+    {
+      "english": "Which option feels more balanced to you?",
+      "chinese": "你觉得哪个更平衡?",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514301"
+    },
+    {
+      "english": "Should I slow down, or push through?",
+      "chinese": "我该慢一点, 还是硬撑着?",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514304"
+    },
+    {
+      "english": "When you get stuck, what helps most?",
+      "chinese": "你卡住的时候, 最管用的是什么?",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514305"
+    },
+    {
+      "english": "Can we adjust the plan a bit?",
+      "chinese": "我们可以稍微调整计划吗?",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514307"
+    },
+    {
+      "english": "What do you do first, then decide?",
+      "chinese": "你先做什么, 再决定?",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514310"
+    },
+    {
+      "english": "Is this the right pace for you?",
+      "chinese": "这个节奏对你来说合适吗?",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514311"
+    },
+    {
+      "english": "Can you help me sort this out?",
+      "chinese": "你能帮我理清楚吗?",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514313"
+    },
+    {
+      "english": "How often should we switch tasks?",
+      "chinese": "我们多久换一次任务比较好?",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514314"
+    },
+    {
+      "english": "Are you okay with a quick change?",
+      "chinese": "你介意我们临时改一下吗?",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514316"
+    },
+    {
+      "english": "What’s the best way to stay steady?",
+      "chinese": "怎么做才能保持稳定?",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514318"
+    },
+    {
+      "english": "Do you prefer planning, or improvising?",
+      "chinese": "你更喜欢计划, 还是随机应变?",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514319"
+    },
+    {
+      "english": "I’m torn, what would you suggest?",
+      "chinese": "我有点纠结, 你建议我选哪个?",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514321"
+    },
+    {
+      "english": "Can you explain that, step by step?",
+      "chinese": "你能一步一步解释吗?",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514324"
+    },
+    {
+      "english": "What’s your go-to question for clarity?",
+      "chinese": "你最常用的确认问题是什么?",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514325"
+    },
+    {
+      "english": "Before we rush, can we check priorities?",
+      "chinese": "在着急之前, 我们先确认优先级好吗?",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514327"
+    },
+    {
+      "english": "How do you keep emotions in balance?",
+      "chinese": "你怎么让情绪保持平衡?",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514328"
+    },
+    {
+      "english": "Do we have time, or should we plan later?",
+      "chinese": "我们现在有时间, 还是晚点再说?",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514330"
+    },
+    {
+      "english": "What’s a fair split for everyone?",
+      "chinese": "怎么分才算对大家都公平?",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514332"
+    },
+    {
+      "english": "Can you tell me your next move?",
+      "chinese": "你下一步打算怎么做?",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514333"
+    },
+    {
+      "english": "If it feels off, what should I do?",
+      "chinese": "如果感觉不对, 我该怎么办?",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514335"
+    },
+    {
+      "english": "Would you rather talk now, or later?",
+      "chinese": "你想现在聊, 还是等一下?",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514337"
+    },
+    {
+      "english": "What’s the simplest solution you’d try?",
+      "chinese": "你会先试哪种最简单的办法?",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514339"
+    },
+    {
+      "english": "How can we make this smoother?",
+      "chinese": "我们怎么把流程做得更顺一点?",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514340"
+    },
+    {
+      "english": "Before deciding, what concerns you most?",
+      "chinese": "在决定前, 你最担心什么?",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514342"
+    },
+    {
+      "english": "Let’s compare options, what’s your pick?",
+      "chinese": "我们对比一下选择, 你选哪个?",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514344"
+    },
+    {
+      "english": "You’ve got this, just stay steady.",
+      "chinese": "你可以的, 先稳住就行。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514345"
+    },
+    {
+      "english": "Small steps now, big progress later.",
+      "chinese": "现在先小步, 以后就会大进步。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514347"
+    },
+    {
+      "english": "Breathe first, then answer calmly.",
+      "chinese": "先深呼吸, 再平静地回答。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514349"
+    },
+    {
+      "english": "Good effort counts, keep going.",
+      "chinese": "努力有用, 接着来。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514351"
+    },
+    {
+      "english": "Don’t overthink, balance it and move.",
+      "chinese": "别想太多, 找平衡再往前走。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514353"
+    },
+    {
+      "english": "I’m proud of you, keep the rhythm.",
+      "chinese": "我为你骄傲, 继续保持节奏。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514354"
+    },
+    {
+      "english": "Say it to yourself, you’re improving.",
+      "chinese": "对自己说, 你在进步。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514356"
+    },
+    {
+      "english": "Even if it’s messy, it’s progress.",
+      "chinese": "就算乱一点, 也是进步。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514359"
+    },
+    {
+      "english": "Give yourself credit, you’re learning fast.",
+      "chinese": "先给自己点肯定, 你学得很快。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514362"
+    },
+    {
+      "english": "Try again, keep that positive energy.",
+      "chinese": "再试一次, 保持正能量。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514363"
+    },
+    {
+      "english": "Focus on what works, ignore the rest.",
+      "chinese": "专注有用的, 其他先放一边。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514365"
+    },
+    {
+      "english": "It’s okay to pause, balance matters.",
+      "chinese": "停一下也没关系, 平衡很重要。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514367"
+    },
+    {
+      "english": "You’re not behind, you’re recalibrating.",
+      "chinese": "你不算落后, 你是在重新校准。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514369"
+    },
+    {
+      "english": "Make it simple, stay balanced and consistent.",
+      "chinese": "把它做简单, 稳住平衡, 保持一致。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514370"
+    },
+    {
+      "english": "Your mindset sets the tempo, go steady.",
+      "chinese": "你的心态决定节奏, 慢慢来。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514372"
+    },
+    {
+      "english": "Praise the effort, not just the result.",
+      "chinese": "夸努力, 不只看结果。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514373"
+    },
+    {
+      "english": "If you slip, reset your thinking.",
+      "chinese": "要是走偏了, 就把想法拉回正轨。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514375"
+    },
+    {
+      "english": "Keep showing up, that’s real progress.",
+      "chinese": "持续出现, 这才是真进步。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514377"
+    },
+    {
+      "english": "Today, choose calm over chaos.",
+      "chinese": "今天选冷静, 别选混乱。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514378"
+    },
+    {
+      "english": "You’re building balance, not perfection.",
+      "chinese": "你在练平衡, 不是追求完美。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514381"
+    },
+    {
+      "english": "Lock in one goal, keep it light.",
+      "chinese": "先抓住一个目标, 别把压力拉太满。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514383"
+    },
+    {
+      "english": "Listen to your body, adjust as needed.",
+      "chinese": "听听身体的感受, 该调整就调整。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514384"
+    },
+    {
+      "english": "Be kind to yourself, you’re learning.",
+      "chinese": "对自己温柔点, 你在学习。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514386"
+    },
+    {
+      "english": "Don’t fight the moment, work with it.",
+      "chinese": "别硬扛这一刻, 跟着节奏来。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514388"
+    },
+    {
+      "english": "Keep your goals, relax your grip.",
+      "chinese": "目标要有, 手别抓太紧。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514390"
+    },
+    {
+      "english": "Switch focus, not your belief in yourself.",
+      "chinese": "换一下重点, 别换对自己的信心。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514391"
+    },
+    {
+      "english": "You can do both, take it stepwise.",
+      "chinese": "两边都能兼顾, 一步一步来。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514392"
+    },
+    {
+      "english": "Stay positive, but be realistic too.",
+      "chinese": "保持乐观, 同时也要看实际。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514394"
+    },
+    {
+      "english": "You’re on track, just refine your plan.",
+      "chinese": "你在正确路上, 只是优化一下计划。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514396"
+    },
+    {
+      "english": "Reward yourself, then get back to practice.",
+      "chinese": "给自己一点奖励, 然后回去练习。",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514397"
+    },
+    {
+      "english": "I notice my feelings, then I slow down,",
+      "chinese": "我先觉察情绪,再慢下来,",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514399"
+    },
+    {
+      "english": "I want honesty, even when it’s uncomfortable,",
+      "chinese": "我想要真诚,就算有点不舒服,",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514401"
+    },
+    {
+      "english": "Some days, calm is a choice, not luck,",
+      "chinese": "有些日子,平静是选择,不是运气,",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514402"
+    },
+    {
+      "english": "I let the worry pass, without chasing it,",
+      "chinese": "我让担心过去,不去追着它,",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514404"
+    },
+    {
+      "english": "It’s okay to feel two things at once,",
+      "chinese": "同时有两种感受,也没关系,",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514406"
+    },
+    {
+      "english": "When I’m overwhelmed, I choose one small thing,",
+      "chinese": "我压力太大时,就先选一件小事,",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514408"
+    },
+    {
+      "english": "I reflect quietly, then I speak more gently,",
+      "chinese": "我安静反思,然后说得更温柔,",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514409"
+    },
+    {
+      "english": "Patience pays off, even if it’s slow,",
+      "chinese": "耐心有回报,就算进展慢,",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514412"
+    },
+    {
+      "english": "I don’t need perfect, I need steady,",
+      "chinese": "我不追求完美,我只要稳定,",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514414"
+    },
+    {
+      "english": "Sometimes, I reset my mood, just for myself,",
+      "chinese": "有时候,我给情绪按下重置键,只为自己,",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514416"
+    },
+    {
+      "english": "I’d rather pause than pretend I’m fine,",
+      "chinese": "我宁愿停一下,也不装没事,",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514418"
+    },
+    {
+      "english": "My heart needs space, before I rush decisions,",
+      "chinese": "我心里需要空间,再去急着做决定,",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514419"
+    },
+    {
+      "english": "I’m learning to balance, not just endure,",
+      "chinese": "我在学着平衡,不是只会硬撑,",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514421"
+    },
+    {
+      "english": "If I’m honest, I’ll feel lighter,",
+      "chinese": "我一诚实,心就会轻一点,",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514424"
+    },
+    {
+      "english": "I notice patterns, and I choose differently next time,",
+      "chinese": "我观察模式,然后下次选不一样的做法,",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514426"
+    },
+    {
+      "english": "I can be sad, and still move forward,",
+      "chinese": "我可以难过,也能继续往前走,",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514428"
+    },
+    {
+      "english": "I talk to myself kindly, then I get clearer,",
+      "chinese": "我用温柔的方式跟自己说,然后就更清楚,",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514429"
+    },
+    {
+      "english": "My feelings are data, not my enemy,",
+      "chinese": "我的感受是信息,不是我的敌人,",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514431"
+    },
+    {
+      "english": "I stop arguing with my own emotions,",
+      "chinese": "我不跟自己的情绪较劲,",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514432"
+    },
+    {
+      "english": "Small wins calm my mind, faster than I expect,",
+      "chinese": "小小的胜利,比我想得更快让心安静,",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514434"
+    },
+    {
+      "english": "I don’t chase every thought, I just observe,",
+      "chinese": "我不追每一个念头,我只是观察,",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514436"
+    },
+    {
+      "english": "The balance comes from honesty, not control,",
+      "chinese": "真正的平衡,来自诚实,不是控制,",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514437"
+    },
+    {
+      "english": "I let the moment cool down, then respond,",
+      "chinese": "我让情绪冷一冷,再回应,",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514439"
+    },
+    {
+      "english": "I’m not broken, I’m recalibrating quietly,",
+      "chinese": "我不是坏掉了,我只是安静地调整,",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514441"
+    },
+    {
+      "english": "When I’m patient, I see better choices,",
+      "chinese": "我一耐心,就看见更好的选择,",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514442"
+    },
+    {
+      "english": "I forgive my pace, without lowering my standards,",
+      "chinese": "我允许自己的节奏,也不降低标准,",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514445"
+    },
+    {
+      "english": "My boundaries are kind, not cold,",
+      "chinese": "我的边界是善意,不是冷漠,",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514447"
+    },
+    {
+      "english": "I slow my speech, so I stay respectful,",
+      "chinese": "我放慢语速,让自己更尊重,",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514449"
+    },
+    {
+      "english": "I learned to say, “I need a minute,”",
+      "chinese": "我学会说,我需要一分钟,",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514451"
+    },
+    {
+      "english": "Balance feels like breathing, not forcing,",
+      "chinese": "平衡像呼吸,不是硬撑出来的,",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514452"
+    },
+    {
+      "english": "Before meetings, take one slow breath",
+      "chinese": "开会前，先做一次慢呼吸",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514454"
+    },
+    {
+      "english": "At lunch, choose half sweet, half savory",
+      "chinese": "午饭时，甜的吃一半，咸的吃一半",
+      "category": "Balance",
+      "generated_at": "2026-11-04T07:14:35.514456"
     }
   ],
-  "last_updated": "2026-11-03T07:33:07.887963"
+  "last_updated": "2026-11-04T07:14:35.514457"
 }
