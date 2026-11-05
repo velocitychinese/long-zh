@@ -20495,7 +20495,727 @@
       "chinese": "午饭时，甜的吃一半，咸的吃一半",
       "category": "Balance",
       "generated_at": "2026-11-04T07:14:35.514456"
+    },
+    {
+      "english": "How much is this, please?",
+      "chinese": "这个多少钱，麻烦问一下。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339040"
+    },
+    {
+      "english": "Is there a cheaper option, right?",
+      "chinese": "有没有便宜点的，能不能看下？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339057"
+    },
+    {
+      "english": "Do you have this in black?",
+      "chinese": "这个有黑色的吗？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339061"
+    },
+    {
+      "english": "That price seems a bit high.",
+      "chinese": "这个价格有点高。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339064"
+    },
+    {
+      "english": "Let me compare prices first, okay?",
+      "chinese": "我先对比一下价格，行吗？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339066"
+    },
+    {
+      "english": "Is it on sale today?",
+      "chinese": "今天有活动吗？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339070"
+    },
+    {
+      "english": "Do you take mobile payment here?",
+      "chinese": "你们支持手机支付吗？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339073"
+    },
+    {
+      "english": "Can I try it on, please?",
+      "chinese": "我可以试穿一下吗？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339080"
+    },
+    {
+      "english": "How long is the warranty?",
+      "chinese": "质保多久？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339083"
+    },
+    {
+      "english": "Is this original or a copy?",
+      "chinese": "这是正品，还是仿的？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339085"
+    },
+    {
+      "english": "I’ll take it, if it fits.",
+      "chinese": "如果合适，我就买了。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339089"
+    },
+    {
+      "english": "I just want the cheapest one.",
+      "chinese": "我就想要最便宜的。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339091"
+    },
+    {
+      "english": "This is nice, but too expensive.",
+      "chinese": "挺好的, 但有点贵。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339093"
+    },
+    {
+      "english": "Is the price fixed, or negotiable?",
+      "chinese": "价格能不能商量？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339096"
+    },
+    {
+      "english": "Do you have it in my size?",
+      "chinese": "有我的尺码吗？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339098"
+    },
+    {
+      "english": "Could I see more options?",
+      "chinese": "能再给我看看别的款吗？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339100"
+    },
+    {
+      "english": "Wait, what’s included in the price?",
+      "chinese": "等下, 这个价里包含什么？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339103"
+    },
+    {
+      "english": "Is there free shipping?",
+      "chinese": "包邮吗？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339105"
+    },
+    {
+      "english": "Is there a return policy?",
+      "chinese": "可以退货吗？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339108"
+    },
+    {
+      "english": "I need this today, is it available?",
+      "chinese": "我今天要用, 有货吗？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339110"
+    },
+    {
+      "english": "Let me think for a second.",
+      "chinese": "我再想想，行吗？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339112"
+    },
+    {
+      "english": "That one looks better on me.",
+      "chinese": "这个穿起来更适合我。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339114"
+    },
+    {
+      "english": "Do you accept coupons here?",
+      "chinese": "你们能用优惠券吗？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339116"
+    },
+    {
+      "english": "The total comes to how much?",
+      "chinese": "一共多少钱？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339118"
+    },
+    {
+      "english": "This price feels reasonable.",
+      "chinese": "这个价格还可以。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339120"
+    },
+    {
+      "english": "Do I get points when I buy?",
+      "chinese": "买了有积分吗？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339122"
+    },
+    {
+      "english": "Okay, I’ll choose this one.",
+      "chinese": "好吧，我就选这个。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339125"
+    },
+    {
+      "english": "Sorry, I’ll come back later.",
+      "chinese": "不好意思, 我晚点再来。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339129"
+    },
+    {
+      "english": "Excuse me, where is the fitting room?",
+      "chinese": "不好意思, 试衣间在那边吗？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339131"
+    },
+    {
+      "english": "Do you have a smaller size, please?",
+      "chinese": "请问, 有更小的码吗？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339134"
+    },
+    {
+      "english": "What’s the price for this, right now?",
+      "chinese": "这个现在多少钱？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339137"
+    },
+    {
+      "english": "Is this fabric good, or just okay?",
+      "chinese": "这料子好吗, 还是一般？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339139"
+    },
+    {
+      "english": "Does it come in different colors?",
+      "chinese": "这个有别的颜色吗？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339142"
+    },
+    {
+      "english": "Which one is best for daily use?",
+      "chinese": "日常用, 你推荐哪一个？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339144"
+    },
+    {
+      "english": "Is this model newer, or last season?",
+      "chinese": "这个是新款吗, 还是上季的？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339147"
+    },
+    {
+      "english": "How much is it, with tax included?",
+      "chinese": "含税多少钱？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339149"
+    },
+    {
+      "english": "Do you have it in stock today?",
+      "chinese": "今天有现货吗？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339153"
+    },
+    {
+      "english": "If I order now, when will it arrive?",
+      "chinese": "我现在下单, 什么时候到？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339155"
+    },
+    {
+      "english": "Is there a discount for members?",
+      "chinese": "会员有优惠吗？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339159"
+    },
+    {
+      "english": "What payment methods do you accept here?",
+      "chinese": "你们这边支持哪些付款方式？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339161"
+    },
+    {
+      "english": "Can I check the size chart?",
+      "chinese": "我可以看尺码表吗？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339164"
+    },
+    {
+      "english": "Does this run small, or true to size?",
+      "chinese": "这个偏小吗, 还是标准码？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339166"
+    },
+    {
+      "english": "Do you offer student discounts?",
+      "chinese": "学生能打折吗？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339168"
+    },
+    {
+      "english": "What’s the return window, in days?",
+      "chinese": "退货期限是几天？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339171"
+    },
+    {
+      "english": "If it doesn’t fit, what happens?",
+      "chinese": "不合适的话, 可以换吗？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339174"
+    },
+    {
+      "english": "Is there a bundle deal for two?",
+      "chinese": "买两件, 有套装优惠吗？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339176"
+    },
+    {
+      "english": "Is the price per piece, or set?",
+      "chinese": "这价格是一件的, 还是一套的？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339179"
+    },
+    {
+      "english": "Can you show me the best seller?",
+      "chinese": "你能推荐一下热卖款吗？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339181"
+    },
+    {
+      "english": "Between these two, which is more durable?",
+      "chinese": "这两款里, 哪个更耐用？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339183"
+    },
+    {
+      "english": "I’m looking for something casual, any suggestions?",
+      "chinese": "我想买休闲的, 有推荐吗？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339187"
+    },
+    {
+      "english": "Is this item easy to maintain?",
+      "chinese": "这个好打理吗？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339189"
+    },
+    {
+      "english": "Does it have pockets, by the way?",
+      "chinese": "顺便问下, 有口袋吗？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339191"
+    },
+    {
+      "english": "What’s the material percentage, roughly?",
+      "chinese": "成分比例大概是多少？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339194"
+    },
+    {
+      "english": "Is the color close to the picture?",
+      "chinese": "实物颜色和图片差不多吗？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339197"
+    },
+    {
+      "english": "If I buy now, do I get extras?",
+      "chinese": "我现在买, 会送东西吗？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339199"
+    },
+    {
+      "english": "Should I size up, based on your experience?",
+      "chinese": "你经验里, 要不要买大一号？",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339210"
+    },
+    {
+      "english": "Great, I’ll decide after this comparison.",
+      "chinese": "好吧, 我对比一下再决定。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339215"
+    },
+    {
+      "english": "You’ve got this, shop smart today.",
+      "chinese": "你可以的，今天聪明买。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339218"
+    },
+    {
+      "english": "Set a budget, feel more confident.",
+      "chinese": "先定预算，心里更踏实。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339221"
+    },
+    {
+      "english": "Small wins, great finds, enjoy the moment.",
+      "chinese": "小小胜利，找到好货，享受当下。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339224"
+    },
+    {
+      "english": "Trust your taste, you’ll pick right.",
+      "chinese": "相信你的眼光，你会选对。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339227"
+    },
+    {
+      "english": "Check value first, prices will make sense.",
+      "chinese": "先看性价比，价格就清楚了。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339229"
+    },
+    {
+      "english": "It’s okay to take your time.",
+      "chinese": "慢一点也没关系。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339232"
+    },
+    {
+      "english": "Good choices start with a calm mind.",
+      "chinese": "好选择从平静开始。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339236"
+    },
+    {
+      "english": "Ask questions kindly, you’ll get answers.",
+      "chinese": "礼貌问一问，答案自然来。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339239"
+    },
+    {
+      "english": "You’re learning, every look counts.",
+      "chinese": "你在进步，每次看都算。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339242"
+    },
+    {
+      "english": "Be picky, only keep what fits.",
+      "chinese": "挑一点，留下真正适合的。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339244"
+    },
+    {
+      "english": "Focus on needs, not just hype.",
+      "chinese": "只盯需要，别被热度带走。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339247"
+    },
+    {
+      "english": "You deserve a better deal, go!",
+      "chinese": "你值得更划算，加油！",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339249"
+    },
+    {
+      "english": "Quick checks, smart buying, done.",
+      "chinese": "快速确认，聪明下单，就这么简单。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339252"
+    },
+    {
+      "english": "Stay positive, bargains come your way.",
+      "chinese": "保持积极，优惠总会找到你。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339256"
+    },
+    {
+      "english": "You don’t rush, you choose well.",
+      "chinese": "不着急，你会选得更好。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339259"
+    },
+    {
+      "english": "Great find, don’t doubt yourself.",
+      "chinese": "找到好东西了，别怀疑自己。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339262"
+    },
+    {
+      "english": "Compare, then reward yourself confidently.",
+      "chinese": "多对比，再自信地奖励自己。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339265"
+    },
+    {
+      "english": "Your budget is your power.",
+      "chinese": "预算就是你的底气。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339267"
+    },
+    {
+      "english": "Choose what makes your day better.",
+      "chinese": "选能让你心情变好的东西。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339269"
+    },
+    {
+      "english": "Every step is progress, keep going.",
+      "chinese": "每一步都是进步，继续加油。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339272"
+    },
+    {
+      "english": "You’re in control, shop with ease.",
+      "chinese": "你掌控全局，买得轻松。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339275"
+    },
+    {
+      "english": "It’s okay if it’s not for you.",
+      "chinese": "不是你的，也没关系。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339278"
+    },
+    {
+      "english": "Good deals feel calm, not stressful.",
+      "chinese": "好划算带来的是安心，不是紧张。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339280"
+    },
+    {
+      "english": "Let your logic lead, then your heart.",
+      "chinese": "先用理性，再听心动。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339282"
+    },
+    {
+      "english": "You can spot value, keep practicing.",
+      "chinese": "你看得出性价比，继续练。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339285"
+    },
+    {
+      "english": "Say yes to the right price.",
+      "chinese": "遇到合适价格，就果断点头。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339287"
+    },
+    {
+      "english": "Your future self will thank you.",
+      "chinese": "为未来的自己省心点赞。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339289"
+    },
+    {
+      "english": "You’re building better habits, one buy.",
+      "chinese": "你在养成好习惯，每一次购买。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339292"
+    },
+    {
+      "english": "If it feels off, step back.",
+      "chinese": "感觉不对，就先退一步。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339295"
+    },
+    {
+      "english": "Celebrate, you made a smart choice.",
+      "chinese": "恭喜你，做了个聪明选择。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339297"
+    },
+    {
+      "english": "I want to feel good buying this.",
+      "chinese": "我想买得让我心里踏实。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339299"
+    },
+    {
+      "english": "Price is fine, but I care about value.",
+      "chinese": "价格可以, 但我更看重值不值。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339302"
+    },
+    {
+      "english": "I’ll wait, I don’t want regrets.",
+      "chinese": "我再等等, 不想以后后悔。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339305"
+    },
+    {
+      "english": "Some deals feel right, some don’t.",
+      "chinese": "有些便宜是开心的, 有些不对劲。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339308"
+    },
+    {
+      "english": "Let’s compare, my gut wants clarity.",
+      "chinese": "我们对比一下, 我心里得有数。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339311"
+    },
+    {
+      "english": "I’m patient, good stuff won’t跑。",
+      "chinese": "我不急, 好东西不会跑。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339314"
+    },
+    {
+      "english": "I buy better, when I slow down.",
+      "chinese": "我越放慢, 越买得更对。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339317"
+    },
+    {
+      "english": "If it’s too cheap, I’ll think twice.",
+      "chinese": "太便宜的, 我得多想一层。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339320"
+    },
+    {
+      "english": "I want it to last, not just look good.",
+      "chinese": "我想要的是耐用, 不只是好看。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339322"
+    },
+    {
+      "english": "I don’t chase hype, I chase comfort.",
+      "chinese": "我不追风, 我追的是舒服。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339325"
+    },
+    {
+      "english": "Sincerely, I just want the right price.",
+      "chinese": "说实话, 我就想买对价位。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339328"
+    },
+    {
+      "english": "My budget can be flexible, my taste can’t.",
+      "chinese": "预算可以弹, 眼光不能将就。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339331"
+    },
+    {
+      "english": "I’d rather pay more for peace of mind.",
+      "chinese": "我宁愿多花点, 换安心。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339333"
+    },
+    {
+      "english": "Before buying, I breathe and think.",
+      "chinese": "下单前, 我先稳一稳再想。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339336"
+    },
+    {
+      "english": "I’m okay with waiting for the deal.",
+      "chinese": "等到合适的价, 我也愿意慢一点。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339338"
+    },
+    {
+      "english": "I want the price to match the effort.",
+      "chinese": "我希望价格配得上用心。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339342"
+    },
+    {
+      "english": "If it feels wrong, I step back gently.",
+      "chinese": "要是让我别扭, 我就先缓一缓。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339345"
+    },
+    {
+      "english": "I don’t mind reviews, I mind outcomes.",
+      "chinese": "我看评论, 但更看结果怎么样。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339348"
+    },
+    {
+      "english": "I can’t decide fast, I decide honestly.",
+      "chinese": "我不急着选, 我是认真想清楚。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339350"
+    },
+    {
+      "english": "The best bargain is the one I keep.",
+      "chinese": "最划算的, 是我买了会用的。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339353"
+    },
+    {
+      "english": "I prefer calm prices over loud discounts.",
+      "chinese": "我更喜欢稳稳的价格, 不爱大吆喝。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339355"
+    },
+    {
+      "english": "Today I buy less, but buy smarter.",
+      "chinese": "今天我少买点, 但买得更有感。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339359"
+    },
+    {
+      "english": "I want to like it, not just afford it.",
+      "chinese": "我想的是喜欢, 不是只看得起。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339362"
+    },
+    {
+      "english": "Sometimes the higher price is worth it.",
+      "chinese": "有时候贵一点更划算。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339364"
+    },
+    {
+      "english": "I’ll check one more time, for my心安。",
+      "chinese": "我再确认一遍, 让自己更安心。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339368"
+    },
+    {
+      "english": "I’m learning my own shopping rhythm.",
+      "chinese": "我在慢慢学会自己的购物节奏。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339370"
+    },
+    {
+      "english": "The right choice feels steady, not rushed.",
+      "chinese": "好的决定是稳的, 不是赶的。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339373"
+    },
+    {
+      "english": "I won’t force it, it has to fit me.",
+      "chinese": "我不会硬买, 得适合我才行。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339376"
+    },
+    {
+      "english": "Let the numbers settle, I’ll feel it.",
+      "chinese": "数据想明白了, 我就放心了。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339378"
+    },
+    {
+      "english": "I’m honest with myself, that’s enough.",
+      "chinese": "我跟自己坦诚, 就够了。",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339381"
+    },
+    {
+      "english": "Before paying, check the total again",
+      "chinese": "付款前, 再把总价确认一遍",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339384"
+    },
+    {
+      "english": "Ask, is there any coupon today",
+      "chinese": "问问, 今天有优惠券吗",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339386"
+    },
+    {
+      "english": "Compare unit price, it saves money",
+      "chinese": "按单价比一比, 更省钱",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-05T07:41:09.339388"
     }
   ],
-  "last_updated": "2026-11-04T07:14:35.514457"
+  "last_updated": "2026-11-05T07:41:09.339390"
 }
