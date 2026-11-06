@@ -21215,7 +21215,727 @@
       "chinese": "按单价比一比, 更省钱",
       "category": "Shopping & Prices",
       "generated_at": "2026-11-05T07:41:09.339388"
+    },
+    {
+      "english": "Good news, I feel great, right now",
+      "chinese": "好消息, 我现在感觉很棒",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414258"
+    },
+    {
+      "english": "Nice, that makes me so happy",
+      "chinese": "太好了, 这让我特别开心",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414274"
+    },
+    {
+      "english": "Wow, I’m really relieved, finally",
+      "chinese": "哇, 我终于松了一口气",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414277"
+    },
+    {
+      "english": "I’m in a good mood today",
+      "chinese": "我今天心情很好",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414279"
+    },
+    {
+      "english": "Just so you know, I’m happy",
+      "chinese": "跟你说一声, 我很开心",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414281"
+    },
+    {
+      "english": "Don’t worry, things will work out",
+      "chinese": "别担心, 会慢慢变好的",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414284"
+    },
+    {
+      "english": "That’s perfect, I feel energized",
+      "chinese": "太完美了, 我感觉更有劲了",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414286"
+    },
+    {
+      "english": "I’m proud of you, keep going",
+      "chinese": "我为你骄傲, 一直加油",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414290"
+    },
+    {
+      "english": "Perfect timing, this made my day",
+      "chinese": "刚刚好, 这直接让我开心",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414292"
+    },
+    {
+      "english": "I’m smiling, because it’s working",
+      "chinese": "我在笑, 因为真的有用",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414295"
+    },
+    {
+      "english": "Let’s talk, I want to feel better",
+      "chinese": "聊聊吧, 我想让自己好一点",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414297"
+    },
+    {
+      "english": "I got what I needed, thank you",
+      "chinese": "我终于得到了, 谢谢你",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414298"
+    },
+    {
+      "english": "That’s okay, we can try again",
+      "chinese": "没关系, 我们再试一次",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414300"
+    },
+    {
+      "english": "I love this vibe, it feels warm",
+      "chinese": "我喜欢这个氛围, 很温暖",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414301"
+    },
+    {
+      "english": "You made me happy, seriously",
+      "chinese": "你让我很开心, 真的",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414303"
+    },
+    {
+      "english": "No stress, just enjoy the moment",
+      "chinese": "别有压力, 就享受这一刻",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414306"
+    },
+    {
+      "english": "Good work, you did it!",
+      "chinese": "干得不错, 你成功了",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414307"
+    },
+    {
+      "english": "I’m thankful, this helps a lot",
+      "chinese": "我很感激, 这真的帮到我了",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414309"
+    },
+    {
+      "english": "Hey, nice surprise, I’m happy",
+      "chinese": "嘿, 这个惊喜不错, 我很开心",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414311"
+    },
+    {
+      "english": "Today’s small win, I’m counting it",
+      "chinese": "今天的小胜利, 我算上了",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414313"
+    },
+    {
+      "english": "It’s okay, I’m finding the good",
+      "chinese": "没事的, 我在找好的",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414315"
+    },
+    {
+      "english": "I feel lighter now, honestly",
+      "chinese": "我现在轻松多了, 说真的",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414316"
+    },
+    {
+      "english": "This is great, let’s celebrate",
+      "chinese": "太好了, 我们庆祝一下",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414318"
+    },
+    {
+      "english": "Thanks for checking, I appreciate it",
+      "chinese": "谢谢你关心, 我很感动",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414320"
+    },
+    {
+      "english": "I’ll stay positive, no matter what",
+      "chinese": "我会保持乐观, 不管怎样",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414322"
+    },
+    {
+      "english": "Good vibes only, keep it up",
+      "chinese": "只要好心情, 一直这样下去",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414323"
+    },
+    {
+      "english": "I’m excited, this might be it",
+      "chinese": "我好期待, 也许就是现在",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414325"
+    },
+    {
+      "english": "I feel safe, that’s my happiness",
+      "chinese": "我觉得很安心, 这就是幸福",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414327"
+    },
+    {
+      "english": "Cheer up, you’re doing great",
+      "chinese": "振作一点, 你已经做得很好了",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414328"
+    },
+    {
+      "english": "I’m ready, let’s make it a fun day",
+      "chinese": "我准备好了, 让今天变得更有趣",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414330"
+    },
+    {
+      "english": "What makes you feel calm, today?",
+      "chinese": "今天, 你觉得什么最让你平静？",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414333"
+    },
+    {
+      "english": "Can I ask, what’s your happiness recipe?",
+      "chinese": "我可以问下, 你幸福的秘诀是什么？",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414336"
+    },
+    {
+      "english": "Where do you usually find joy, after work?",
+      "chinese": "下班后, 你通常在哪儿找快乐？",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414338"
+    },
+    {
+      "english": "How do you keep things sweet, despite stress?",
+      "chinese": "压力来了, 你怎么让日子更甜？",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414340"
+    },
+    {
+      "english": "Tell me, what’s your favorite comfort habit?",
+      "chinese": "跟我说说, 你最爱的舒心习惯是什么？",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414343"
+    },
+    {
+      "english": "Do you prefer quiet joy, or loud fun?",
+      "chinese": "你更喜欢安静的快乐, 还是热闹的开心？",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414345"
+    },
+    {
+      "english": "What’s one small thing that boosts you?",
+      "chinese": "有什么小事, 能立刻让你变好？",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414347"
+    },
+    {
+      "english": "When you feel low, what do you do first?",
+      "chinese": "你心情低落时, 最先做什么？",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414348"
+    },
+    {
+      "english": "Can you give me one real-life tip?",
+      "chinese": "你能给我一个实用的建议吗？",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414350"
+    },
+    {
+      "english": "What do you do to stay motivated?",
+      "chinese": "你靠什么方法, 保持动力？",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414352"
+    },
+    {
+      "english": "Do you think happiness is a choice?",
+      "chinese": "你觉得幸福是选择吗？",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414353"
+    },
+    {
+      "english": "I’m curious, how do you recharge?",
+      "chinese": "我有点好奇, 你怎么充电？",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414355"
+    },
+    {
+      "english": "Want to trade happiness tips with me?",
+      "chinese": "要不要跟我交换幸福小技巧？",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414357"
+    },
+    {
+      "english": "What’s your go-to thing when you’re stressed?",
+      "chinese": "压力大时, 你最常做什么？",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414359"
+    },
+    {
+      "english": "Can we plan something fun this weekend?",
+      "chinese": "这个周末, 我们一起安排点开心的吧？",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414360"
+    },
+    {
+      "english": "What kind of talk makes you feel loved?",
+      "chinese": "什么样的聊天, 会让你觉得被爱？",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414362"
+    },
+    {
+      "english": "How’s your day going, really?",
+      "chinese": "你今天过得怎么样, 说真的？",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414364"
+    },
+    {
+      "english": "What’s one goal that feels meaningful to you?",
+      "chinese": "你最在意的一个目标是什么？",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414366"
+    },
+    {
+      "english": "If I listen, will you feel better?",
+      "chinese": "如果我认真听, 你会轻松点吗？",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414367"
+    },
+    {
+      "english": "Tell me your favorite kind of company.",
+      "chinese": "告诉我, 你喜欢哪种相处方式？",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414369"
+    },
+    {
+      "english": "Do you find comfort in routines?",
+      "chinese": "你是不是靠固定的节奏找安稳？",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414372"
+    },
+    {
+      "english": "What’s your favorite thing to do at night?",
+      "chinese": "你晚上最喜欢做什么？",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414374"
+    },
+    {
+      "english": "How do you handle bad days, gracefully?",
+      "chinese": "遇到糟糕的日子, 你怎么应对？",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414376"
+    },
+    {
+      "english": "What makes you feel safe with someone?",
+      "chinese": "和一个人在一起, 你觉得什么最安心？",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414377"
+    },
+    {
+      "english": "Can you recommend a calm mindset practice?",
+      "chinese": "你能推荐一个放松心态的练习吗？",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414379"
+    },
+    {
+      "english": "Let’s check in, what do you need now?",
+      "chinese": "我们聊聊, 你现在需要什么？",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414381"
+    },
+    {
+      "english": "Do you feel happier when you share?",
+      "chinese": "你觉得分享之后, 会更快乐吗？",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414382"
+    },
+    {
+      "english": "What’s your best way to celebrate yourself?",
+      "chinese": "你怎么庆祝自己最有效？",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414384"
+    },
+    {
+      "english": "If I ask, will you open up?",
+      "chinese": "如果我问你, 你愿意说说吗？",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414386"
+    },
+    {
+      "english": "Small steps count, feel proud of it",
+      "chinese": "小步也算，值得你自豪",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414388"
+    },
+    {
+      "english": "Breathe slow, happiness will catch up",
+      "chinese": "慢慢呼吸，幸福就会跟上",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414390"
+    },
+    {
+      "english": "Say it, I can do this",
+      "chinese": "说出来，我做得到",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414392"
+    },
+    {
+      "english": "Your effort deserves real applause",
+      "chinese": "你的努力，值得热烈掌声",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414395"
+    },
+    {
+      "english": "Today, choose one thing to enjoy",
+      "chinese": "今天，挑一件值得开心的事",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414397"
+    },
+    {
+      "english": "No pressure, just move forward gently",
+      "chinese": "别给自己太大压力，慢慢往前走",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414398"
+    },
+    {
+      "english": "Give yourself credit, you earned it",
+      "chinese": "夸夸自己，你配得上",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414400"
+    },
+    {
+      "english": "Let the good thoughts lead you",
+      "chinese": "让好想法带着你走",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414402"
+    },
+    {
+      "english": "When in doubt, be kind to you",
+      "chinese": "不确定的时候，先对自己温柔点",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414403"
+    },
+    {
+      "english": "You’re building a better day, bit by bit",
+      "chinese": "你正在一点点把日子变好",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414405"
+    },
+    {
+      "english": "Trust your rhythm, don’t rush",
+      "chinese": "相信自己的节奏，别着急",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414408"
+    },
+    {
+      "english": "Keep it simple, happiness starts there",
+      "chinese": "越简单越好，幸福从这儿开始",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414409"
+    },
+    {
+      "english": "Say yes to joy, even small ones",
+      "chinese": "对快乐说“好”，哪怕很小",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414411"
+    },
+    {
+      "english": "Be proud of surviving, then thriving",
+      "chinese": "先学会熬过，再慢慢变好",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414413"
+    },
+    {
+      "english": "Your mind is stronger than your mood",
+      "chinese": "你的心智，比情绪更强",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414414"
+    },
+    {
+      "english": "Let yourself rest, happiness needs fuel",
+      "chinese": "允许休息，幸福也要充电",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414416"
+    },
+    {
+      "english": "Kind words, warm heart, instant boost",
+      "chinese": "一句好话，暖到心里，立刻加分",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414418"
+    },
+    {
+      "english": "Keep your chin up, sunshine follows",
+      "chinese": "抬起头，阳光会来",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414420"
+    },
+    {
+      "english": "Happiness is built, not found",
+      "chinese": "幸福是慢慢做出来的",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414421"
+    },
+    {
+      "english": "Give thanks, even for the small stuff",
+      "chinese": "学会感恩，哪怕是小事也算",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414423"
+    },
+    {
+      "english": "Today, protect your peace",
+      "chinese": "今天，守住你的安宁",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414424"
+    },
+    {
+      "english": "Stop comparing, start appreciating yourself",
+      "chinese": "别再比了，先学会欣赏自己",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414427"
+    },
+    {
+      "english": "Make space for laughter, it heals",
+      "chinese": "给笑声留位置，它会治愈",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414428"
+    },
+    {
+      "english": "One good thought changes the whole day",
+      "chinese": "一个好念头，能改写一天",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414430"
+    },
+    {
+      "english": "Be patient, your season will arrive",
+      "chinese": "慢一点，属于你的时机会来",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414431"
+    },
+    {
+      "english": "You’ve got this, keep choosing hope",
+      "chinese": "你可以的，继续选择希望",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414433"
+    },
+    {
+      "english": "I name my feelings, then breathe.",
+      "chinese": "我说出我的感受，然后慢慢呼吸。",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414435"
+    },
+    {
+      "english": "I’m honest, happiness follows my truth.",
+      "chinese": "我很诚实，快乐就会跟上。",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414437"
+    },
+    {
+      "english": "Some days, calm is the win.",
+      "chinese": "有些日子，平静就是胜利。",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414439"
+    },
+    {
+      "english": "I slow down, my heart feels safer.",
+      "chinese": "我放慢节奏，心里更安心。",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414440"
+    },
+    {
+      "english": "I keep it real, joy still shows up.",
+      "chinese": "我保持真实，喜悦也会出现。",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414442"
+    },
+    {
+      "english": "I notice the good, even quietly.",
+      "chinese": "我留意好的部分，即使很安静。",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414445"
+    },
+    {
+      "english": "Reflection helps me choose, not escape.",
+      "chinese": "反思让我会选择，而不是逃避。",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414446"
+    },
+    {
+      "english": "I let happiness be simple, today.",
+      "chinese": "我让快乐变简单，就在今天。",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414448"
+    },
+    {
+      "english": "I talk to myself kindly, daily.",
+      "chinese": "我每天用善意对自己说话。",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414450"
+    },
+    {
+      "english": "I don’t force joy, I invite it.",
+      "chinese": "我不硬撑快乐，我去邀请它。",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414453"
+    },
+    {
+      "english": "When I pause, I hear myself.",
+      "chinese": "我一停下来，就听见自己。",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414455"
+    },
+    {
+      "english": "Gratitude comes first, then I feel lighter.",
+      "chinese": "先有感恩，我就会更轻松。",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414456"
+    },
+    {
+      "english": "I accept my pace, happiness grows.",
+      "chinese": "我接受自己的节奏，快乐在生长。",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414458"
+    },
+    {
+      "english": "I stop spiraling, one breath at a time.",
+      "chinese": "我不再往下钻，先从一口气开始。",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414459"
+    },
+    {
+      "english": "I look inward, then take one step.",
+      "chinese": "我向内看，然后再走一步。",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414462"
+    },
+    {
+      "english": "My feelings aren’t problems, they’re signals.",
+      "chinese": "我的感受不是麻烦，它们是信号。",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414464"
+    },
+    {
+      "english": "I choose patience, even with myself.",
+      "chinese": "我选择耐心，连对自己也一样。",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414466"
+    },
+    {
+      "english": "I honor my limits, and stay okay.",
+      "chinese": "我尊重我的极限，就能保持还好。",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414467"
+    },
+    {
+      "english": "I say what I need, softly.",
+      "chinese": "我把需要说出来，语气轻一点。",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414469"
+    },
+    {
+      "english": "I let go of control, and smile.",
+      "chinese": "我放下掌控，心里就能微笑。",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414471"
+    },
+    {
+      "english": "Happiness is practice, not a mood.",
+      "chinese": "快乐是练出来的，不只是情绪。",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414472"
+    },
+    {
+      "english": "I journal a bit, then unclench.",
+      "chinese": "我写一点日记，然后放松下来。",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414473"
+    },
+    {
+      "english": "I’m allowed to want more peace.",
+      "chinese": "我当然可以更想要平静。",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414475"
+    },
+    {
+      "english": "I trust reflection, it gives me direction.",
+      "chinese": "我相信反思，它会给我方向。",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414477"
+    },
+    {
+      "english": "I keep my hopes gentle, not loud.",
+      "chinese": "我把希望放得轻一点，不必吵闹。",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414478"
+    },
+    {
+      "english": "Even setbacks, I learn and soften.",
+      "chinese": "就算受挫，我也会学会放软自己。",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414480"
+    },
+    {
+      "english": "I let love start with my mindset.",
+      "chinese": "我让爱先从我的心态开始。",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414482"
+    },
+    {
+      "english": "I’m not stuck, I’m just recharging.",
+      "chinese": "我不是被卡住了，我在充电。",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414483"
+    },
+    {
+      "english": "I notice joy in small, everyday moments.",
+      "chinese": "我在日常的小瞬间里发现快乐。",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414485"
+    },
+    {
+      "english": "I choose honesty, happiness feels more real.",
+      "chinese": "我选择坦诚，快乐就更真实。",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414487"
+    },
+    {
+      "english": "Start small, finish strong, feel proud.",
+      "chinese": "先从小事开始, 做完再说, 你会更骄傲。",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414489"
+    },
+    {
+      "english": "Before replying, breathe once, stay kind.",
+      "chinese": "回消息前先停一下, 吸一口气, 记得温柔。",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414490"
+    },
+    {
+      "english": "If it’s tense, change the topic gently.",
+      "chinese": "气氛紧了, 你就轻轻换个话题。",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414492"
+    },
+    {
+      "english": "After work, walk a bit, clear your mind.",
+      "chinese": "下班以后, 去走一走, 把心放松。",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414494"
+    },
+    {
+      "english": "Say “no” clearly, then release the guilt.",
+      "chinese": "把“不”说清楚, 然后把内疚放下。",
+      "category": "Happiness",
+      "generated_at": "2026-11-06T07:39:37.414496"
     }
   ],
-  "last_updated": "2026-11-05T07:41:09.339390"
+  "last_updated": "2026-11-06T07:39:37.414497"
 }
