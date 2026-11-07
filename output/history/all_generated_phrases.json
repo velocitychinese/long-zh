@@ -21935,7 +21935,727 @@
       "chinese": "把“不”说清楚, 然后把内疚放下。",
       "category": "Happiness",
       "generated_at": "2026-11-06T07:39:37.414496"
+    },
+    {
+      "english": "Hi, you’re here, finally!",
+      "chinese": "嗨, 你来了, 终于!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888387"
+    },
+    {
+      "english": "Hey, what’s up, I’m glad to meet you.",
+      "chinese": "嘿, 怎么样, 很高兴认识你。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888401"
+    },
+    {
+      "english": "Hi hi, long time no see, you look great.",
+      "chinese": "嗨嗨, 好久不见, 你看起来真棒。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888405"
+    },
+    {
+      "english": "Nice to meet you, I’m really excited.",
+      "chinese": "很高兴认识你, 我真是很期待。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888409"
+    },
+    {
+      "english": "Hi, I’m new here, where should we start?",
+      "chinese": "你好, 我是第一次来, 我们从哪开始?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888413"
+    },
+    {
+      "english": "Good to see you, you’re even better in person.",
+      "chinese": "见到你真好, 你本人更好看。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888417"
+    },
+    {
+      "english": "Wow, you look amazing, what’s your plan?",
+      "chinese": "哇, 你看起来太棒了, 你打算做什么?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888420"
+    },
+    {
+      "english": "Hey, I’m [your name], nice meeting you.",
+      "chinese": "嘿, 我是[你的名字], 很高兴见到你。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888429"
+    },
+    {
+      "english": "You’re early, nice surprise!",
+      "chinese": "你来得真早, 太意外了!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888433"
+    },
+    {
+      "english": "No worries, we can catch up later, okay?",
+      "chinese": "没关系, 我们晚点聊, 行吗?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888436"
+    },
+    {
+      "english": "Sorry, I’m late, you waiting long?",
+      "chinese": "不好意思, 我迟到了, 你等多久了?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888440"
+    },
+    {
+      "english": "Let’s go meet, I’ll introduce you.",
+      "chinese": "走吧, 我带你去见他们。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888443"
+    },
+    {
+      "english": "First time here, I’m a bit nervous.",
+      "chinese": "第一次来这儿, 我有点紧张。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888446"
+    },
+    {
+      "english": "Don’t worry, you’ll be fine, trust me.",
+      "chinese": "别紧张, 你会没事的, 相信我。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888449"
+    },
+    {
+      "english": "Come in, let’s talk for a minute.",
+      "chinese": "进来吧, 我们聊一分钟。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888452"
+    },
+    {
+      "english": "Excuse me, can I say hi to you?",
+      "chinese": "不好意思, 我可以跟你打个招呼吗?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888455"
+    },
+    {
+      "english": "Nice outfit, where did you get it?",
+      "chinese": "你这套真好看, 从哪买的?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888458"
+    },
+    {
+      "english": "Your smile is contagious, seriously!",
+      "chinese": "你笑起来太感染人了, 真的!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888461"
+    },
+    {
+      "english": "Hey, are we friends now, right?",
+      "chinese": "嘿, 我们算朋友了吗, 对吧?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888464"
+    },
+    {
+      "english": "What’s your name, I’m terrible at guessing!",
+      "chinese": "你叫什么名字, 我总猜不准!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888467"
+    },
+    {
+      "english": "So good meeting you, let’s keep in touch.",
+      "chinese": "很高兴认识你, 我们保持联系。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888470"
+    },
+    {
+      "english": "You seem cool, want to grab coffee?",
+      "chinese": "你看起来挺酷的, 要不要去喝咖啡?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888473"
+    },
+    {
+      "english": "How’s it going, did you have fun?",
+      "chinese": "最近怎么样, 你玩得开心吗?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888476"
+    },
+    {
+      "english": "Wait, I know you, from where?",
+      "chinese": "等等, 我好像认识你, 你在哪儿见过我?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888480"
+    },
+    {
+      "english": "That’s you, right, I recognized you!",
+      "chinese": "是你吧, 我认出来了!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888495"
+    },
+    {
+      "english": "Thanks for coming, you made it!",
+      "chinese": "谢谢你来, 你真的来了!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888497"
+    },
+    {
+      "english": "Hello, what brings you here today?",
+      "chinese": "你好, 你今天来这儿做什么?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888500"
+    },
+    {
+      "english": "Quick hi, I’ve been waiting to meet you.",
+      "chinese": "先打个招呼, 我一直想见你。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888503"
+    },
+    {
+      "english": "Okay, let me introduce myself first.",
+      "chinese": "好, 我先自我介绍一下。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888506"
+    },
+    {
+      "english": "So, how do we usually greet here?",
+      "chinese": "那我们这儿一般怎么打招呼？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888509"
+    },
+    {
+      "english": "Do you prefer formal, or just casual?",
+      "chinese": "你更喜欢正式，还是随便点？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888511"
+    },
+    {
+      "english": "What should I call you, by name?",
+      "chinese": "我该怎么称呼你，叫名字就行吗？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888514"
+    },
+    {
+      "english": "Are you new to this kind of event?",
+      "chinese": "你是第一次参加这种活动吗？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888517"
+    },
+    {
+      "english": "How’s your day going, are you busy?",
+      "chinese": "你今天忙吗，过得怎么样？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888520"
+    },
+    {
+      "english": "If I’m awkward, you’ll tell me, right?",
+      "chinese": "我有点尴尬的话，你会提醒我，对吧？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888524"
+    },
+    {
+      "english": "Can I ask one quick question?",
+      "chinese": "我能问你一个小问题吗？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888527"
+    },
+    {
+      "english": "Do you have time to chat after this?",
+      "chinese": "等会儿你有时间聊聊吗？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888531"
+    },
+    {
+      "english": "What’s the best way to get around?",
+      "chinese": "这儿去哪儿玩，怎么走最好？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888534"
+    },
+    {
+      "english": "Is there a schedule I should follow?",
+      "chinese": "我需要按流程来吗，有安排吗？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888539"
+    },
+    {
+      "english": "Where are you from, if you don’t mind?",
+      "chinese": "不介意的话，你从哪里来？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888544"
+    },
+    {
+      "english": "What do you usually do for fun?",
+      "chinese": "你平时都怎么放松？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888546"
+    },
+    {
+      "english": "How did you end up here today?",
+      "chinese": "你今天怎么想到来这儿？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888549"
+    },
+    {
+      "english": "Would you like to exchange WeChat?",
+      "chinese": "要不要互加一下微信？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888551"
+    },
+    {
+      "english": "Which topic are you most into?",
+      "chinese": "你最感兴趣的是哪块？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888554"
+    },
+    {
+      "english": "Are you okay with me practicing Chinese?",
+      "chinese": "你介意我练练中文吗？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888557"
+    },
+    {
+      "english": "What does this mean in everyday talk?",
+      "chinese": "这个在日常聊天里怎么说？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888559"
+    },
+    {
+      "english": "Do you have recommendations for beginners?",
+      "chinese": "新手你有什么建议吗？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888562"
+    },
+    {
+      "english": "Where can I find the program details?",
+      "chinese": "活动信息在哪儿看？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888565"
+    },
+    {
+      "english": "Can I get your opinion on this?",
+      "chinese": "我想听听你的看法，可以吗？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888567"
+    },
+    {
+      "english": "Are we supposed to introduce ourselves first?",
+      "chinese": "我们是先自我介绍吗？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888569"
+    },
+    {
+      "english": "What time do you usually start?",
+      "chinese": "你一般几点开始？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888572"
+    },
+    {
+      "english": "Is there anything I should avoid saying?",
+      "chinese": "有没有什么话我最好别说？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888574"
+    },
+    {
+      "english": "How long have you been in this field?",
+      "chinese": "你做这一行多久了？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888577"
+    },
+    {
+      "english": "Do you mind if I take notes?",
+      "chinese": "我记点笔记可以吗？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888579"
+    },
+    {
+      "english": "What’s one thing you love about it?",
+      "chinese": "你最喜欢这里的哪一点？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888582"
+    },
+    {
+      "english": "Can we meet again, say next week?",
+      "chinese": "下周我们再约一下可以吗？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888585"
+    },
+    {
+      "english": "Before we go, can we exchange contacts?",
+      "chinese": "走之前方便换个联系方式吗？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888587"
+    },
+    {
+      "english": "If I get it wrong, please correct me.",
+      "chinese": "我说错了的话，你帮我纠正一下。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888590"
+    },
+    {
+      "english": "Relax, you’re doing great, keep smiling.",
+      "chinese": "放轻松, 你做得很好, 继续微笑.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888593"
+    },
+    {
+      "english": "Take a breath, say it slowly, you’ve got this.",
+      "chinese": "先深呼吸, 慢慢说, 你可以的.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888597"
+    },
+    {
+      "english": "Be curious, ask one simple question.",
+      "chinese": "保持好奇心, 问一个简单问题.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888600"
+    },
+    {
+      "english": "Start with a compliment, it breaks the ice.",
+      "chinese": "先夸一句, 更容易破冰.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888603"
+    },
+    {
+      "english": "You’re here to meet people, not to be perfect.",
+      "chinese": "你来是为了认识人, 不是为了完美.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888608"
+    },
+    {
+      "english": "Small talk counts, you’re building connection.",
+      "chinese": "闲聊也算, 你在建立连接.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888611"
+    },
+    {
+      "english": "Keep it positive, energy matters in greetings.",
+      "chinese": "保持正向, 打招呼看状态.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888614"
+    },
+    {
+      "english": "Say “hi,” then let the conversation flow.",
+      "chinese": "先打个招呼, 再让聊天自然走.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888618"
+    },
+    {
+      "english": "If you stumble, laugh it off, move on.",
+      "chinese": "说错了也别慌, 笑一下就过去.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888621"
+    },
+    {
+      "english": "Your effort shows, people appreciate that.",
+      "chinese": "你很用心, 大家都会看在眼里.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888623"
+    },
+    {
+      "english": "Confidence is quiet, just be yourself.",
+      "chinese": "自信很安静, 做真实的你就好.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888626"
+    },
+    {
+      "english": "Listening is powerful, it makes you memorable.",
+      "chinese": "认真听, 才会让人记住你.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888629"
+    },
+    {
+      "english": "Give credit, praise the other person first.",
+      "chinese": "先肯定, 夸对方一句更好.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888633"
+    },
+    {
+      "english": "Don’t rush, good greetings take seconds.",
+      "chinese": "别着急, 好的打招呼只要几秒.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888636"
+    },
+    {
+      "english": "You’re building skills, every meet is practice.",
+      "chinese": "你在练能力, 每次见面都是训练.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888640"
+    },
+    {
+      "english": "Say thanks, warmth makes people relax.",
+      "chinese": "说声谢谢, 温暖会让人放松.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888643"
+    },
+    {
+      "english": "Be kind, one smile can change the mood.",
+      "chinese": "多善良, 一个微笑就能改气氛.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888645"
+    },
+    {
+      "english": "Try again, your second sentence will be better.",
+      "chinese": "再来一次, 第二句会更顺.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888648"
+    },
+    {
+      "english": "Keep your tone friendly, speak with calm.",
+      "chinese": "语气友好一点, 说话要稳.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888651"
+    },
+    {
+      "english": "Make eye contact, it shows respect.",
+      "chinese": "看着对方的眼睛, 这是尊重.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888654"
+    },
+    {
+      "english": "Compliment their effort, not just their results.",
+      "chinese": "夸对方的努力, 不只是结果.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888656"
+    },
+    {
+      "english": "You can do this, one greeting at a time.",
+      "chinese": "你行的, 一次打一声招呼就好.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888659"
+    },
+    {
+      "english": "Be open-minded, people love positive vibes.",
+      "chinese": "保持开放, 大家都喜欢正能量.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888662"
+    },
+    {
+      "english": "Ask for small details, you’ll connect faster.",
+      "chinese": "问点小细节, 你会更快有连接.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888666"
+    },
+    {
+      "english": "Your questions show interest, that’s a win.",
+      "chinese": "你问的问题, 就是你的兴趣, 很加分.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888669"
+    },
+    {
+      "english": "Don’t fear mistakes, they’re part of learning.",
+      "chinese": "别怕犯错, 那是学习的一部分.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888672"
+    },
+    {
+      "english": "Stay present, let the moment guide you.",
+      "chinese": "把注意力放在当下, 让当下带路.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888675"
+    },
+    {
+      "english": "Keep it simple, simple is smooth for everyone.",
+      "chinese": "简单点就好, 简单更顺.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888679"
+    },
+    {
+      "english": "Be brave, say what you can, even imperfect.",
+      "chinese": "勇敢一点, 说你会的, 不完美也行.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888682"
+    },
+    {
+      "english": "Celebrate progress, you’re moving in the right direction.",
+      "chinese": "为进步庆祝, 你在往正确方向走.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888686"
+    },
+    {
+      "english": "End with warmth, “nice meeting you” matters.",
+      "chinese": "用温暖收尾, “很高兴认识你”很重要.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888689"
+    },
+    {
+      "english": "I’m a bit nervous, but I’m trying.",
+      "chinese": "我有点紧张，但我在努力。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888693"
+    },
+    {
+      "english": "Honestly, I really want to connect.",
+      "chinese": "说实话，我真想多认识你们。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888696"
+    },
+    {
+      "english": "Meeting you feels unexpectedly comfortable.",
+      "chinese": "认识你之后，我感觉特别自在。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888698"
+    },
+    {
+      "english": "I’m still learning, please go easy on me.",
+      "chinese": "我还在学，麻烦你多担待。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888702"
+    },
+    {
+      "english": "I appreciate your calm, it helps a lot.",
+      "chinese": "我挺欣赏你的沉着，真的很有用。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888704"
+    },
+    {
+      "english": "I didn’t plan to talk much, sorry.",
+      "chinese": "我本来不太打算多聊，抱歉。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888707"
+    },
+    {
+      "english": "I’m glad we’re having this moment.",
+      "chinese": "我很开心，我们能聊聊。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888711"
+    },
+    {
+      "english": "If my words are off, tell me gently.",
+      "chinese": "如果我说得不对，麻烦你委婉一点。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888713"
+    },
+    {
+      "english": "I feel better when we start simple.",
+      "chinese": "我们一开始简单点，我就安心了。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888716"
+    },
+    {
+      "english": "I’m trying to be more honest today.",
+      "chinese": "我今天想更真诚一点。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888719"
+    },
+    {
+      "english": "I’ll take it slow, thanks for understanding.",
+      "chinese": "我会慢慢来，谢谢你的理解。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888722"
+    },
+    {
+      "english": "Your vibe feels warm, that matters to me.",
+      "chinese": "你给我的感觉很温暖，这很重要。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888725"
+    },
+    {
+      "english": "I’m grateful for the chance to meet.",
+      "chinese": "能遇见你，我很感激。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888728"
+    },
+    {
+      "english": "I’m not perfect, but I show up.",
+      "chinese": "我不完美，但我愿意认真来。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888734"
+    },
+    {
+      "english": "I’m nervous because I respect you.",
+      "chinese": "我有点紧张，因为我很尊重你。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888738"
+    },
+    {
+      "english": "Let’s keep it real, I’ll be myself.",
+      "chinese": "我们就说真话吧，我会做我自己。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888741"
+    },
+    {
+      "english": "Honestly, I needed a friendly start.",
+      "chinese": "说真的，我需要一个友好的开头。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888744"
+    },
+    {
+      "english": "Your encouragement makes me feel safe.",
+      "chinese": "你的鼓励让我觉得很安心。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888746"
+    },
+    {
+      "english": "I’m choosing patience over rushing today.",
+      "chinese": "今天我会选耐心，不急着开口。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888749"
+    },
+    {
+      "english": "I’m glad you’re here, that helps.",
+      "chinese": "你在这儿真好，感觉更踏实。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888754"
+    },
+    {
+      "english": "I didn’t know what to say, sorry.",
+      "chinese": "我一开始不知道该说什么，抱歉。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888758"
+    },
+    {
+      "english": "I’ll remember this kindness, really.",
+      "chinese": "你这份善意，我会记在心里。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888761"
+    },
+    {
+      "english": "I’m watching your cues, and learning fast.",
+      "chinese": "我在看你的反应，也在快速学。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888764"
+    },
+    {
+      "english": "I feel calmer when you speak slowly.",
+      "chinese": "你说得慢一点，我就更放松。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888766"
+    },
+    {
+      "english": "I want to be respectful, always.",
+      "chinese": "我想一直保持尊重，这很重要。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888769"
+    },
+    {
+      "english": "Today, I’m here to listen first.",
+      "chinese": "今天我先不抢话，先听听你。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888772"
+    },
+    {
+      "english": "I’m thankful for your honest feedback.",
+      "chinese": "谢谢你给我这么真诚的建议。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888775"
+    },
+    {
+      "english": "It’s okay to pause, we can think.",
+      "chinese": "停一下也没关系，我们可以慢慢想。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888778"
+    },
+    {
+      "english": "I’m proud of myself for showing up.",
+      "chinese": "我为自己愿意来这里而骄傲。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888781"
+    },
+    {
+      "english": "Nice to see you, how’s your day going?",
+      "chinese": "见到你真好, 你今天过得怎么样?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888784"
+    },
+    {
+      "english": "Hi, what brings you to this place?",
+      "chinese": "嗨, 你来这里是做什么的?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-07T06:49:48.888787"
     }
   ],
-  "last_updated": "2026-11-06T07:39:37.414497"
+  "last_updated": "2026-11-07T06:49:48.888789"
 }
