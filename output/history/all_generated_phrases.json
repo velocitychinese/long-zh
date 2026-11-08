@@ -22655,7 +22655,727 @@
       "chinese": "嗨, 你来这里是做什么的?",
       "category": "Meeting People & Greetings",
       "generated_at": "2026-11-07T06:49:48.888787"
+    },
+    {
+      "english": "Hey, we cool, right?",
+      "chinese": "嘿，我们没事吧？",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137656"
+    },
+    {
+      "english": "Thanks for checking in, seriously.",
+      "chinese": "谢谢你还惦记着我。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137672"
+    },
+    {
+      "english": "No worries, I got you.",
+      "chinese": "没事的，我懂你。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137676"
+    },
+    {
+      "english": "You can talk to me anytime.",
+      "chinese": "你随时都可以跟我聊。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137678"
+    },
+    {
+      "english": "Let’s hang out this weekend.",
+      "chinese": "这个周末一起出来玩吧？",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137682"
+    },
+    {
+      "english": "I’m here, just say it.",
+      "chinese": "我在呢，你说就行。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137686"
+    },
+    {
+      "english": "That’s so you, honestly.",
+      "chinese": "这就很像你，真的。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137689"
+    },
+    {
+      "english": "I saved you a spot.",
+      "chinese": "我给你留了位置。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137695"
+    },
+    {
+      "english": "Tell me the whole story.",
+      "chinese": "来吧，跟我说全了。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137698"
+    },
+    {
+      "english": "That was wild, I swear.",
+      "chinese": "太离谱了，我真服。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137701"
+    },
+    {
+      "english": "I’m proud of you, for real.",
+      "chinese": "我真为你骄傲。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137705"
+    },
+    {
+      "english": "Want to grab food, soon?",
+      "chinese": "要不要马上去吃点？",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137708"
+    },
+    {
+      "english": "Wait, let’s talk about it.",
+      "chinese": "等等，我们聊聊。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137711"
+    },
+    {
+      "english": "I’m listening, go on.",
+      "chinese": "我在听，你继续。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137716"
+    },
+    {
+      "english": "We good, don’t overthink.",
+      "chinese": "没事啦，别想太多。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137719"
+    },
+    {
+      "english": "I’ll back you up, promise.",
+      "chinese": "我会站你这边，保证。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137722"
+    },
+    {
+      "english": "Your message made my day.",
+      "chinese": "你一发消息，我就开心了。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137737"
+    },
+    {
+      "english": "I feel you, for sure.",
+      "chinese": "我懂你，真的。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137740"
+    },
+    {
+      "english": "Next time, invite me too.",
+      "chinese": "下次记得也叫上我。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137742"
+    },
+    {
+      "english": "We can reset, no drama.",
+      "chinese": "我们可以重新来，别闹。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137745"
+    },
+    {
+      "english": "You’re not alone, I’m here.",
+      "chinese": "你不是一个人，我在。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137748"
+    },
+    {
+      "english": "That’s a bad vibe, wow.",
+      "chinese": "这气氛不对，离谱。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137751"
+    },
+    {
+      "english": "Let’s keep it real, okay?",
+      "chinese": "我们说实话，好吗？",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137754"
+    },
+    {
+      "english": "I got your back, right now.",
+      "chinese": "我现在就帮你。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137757"
+    },
+    {
+      "english": "Besties, don’t disappear on me.",
+      "chinese": "别突然消失啊，我们是朋友。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137760"
+    },
+    {
+      "english": "You’re my favorite person.",
+      "chinese": "你是我最喜欢的人。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137763"
+    },
+    {
+      "english": "I’ll remember this moment.",
+      "chinese": "这一下我会记很久。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137766"
+    },
+    {
+      "english": "Deal, we do it together.",
+      "chinese": "成交，我们一起搞定。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137768"
+    },
+    {
+      "english": "Say less, I understand you.",
+      "chinese": "不用多说，我懂。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137771"
+    },
+    {
+      "english": "What do you need from me?",
+      "chinese": "你现在最需要我什么?",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137774"
+    },
+    {
+      "english": "Do you want advice, or just listen?",
+      "chinese": "你想听建议, 还是我先听你说?",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137777"
+    },
+    {
+      "english": "What’s been on your mind lately?",
+      "chinese": "最近你心里在想什么?",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137780"
+    },
+    {
+      "english": "Where should we go to hang out?",
+      "chinese": "我们去哪儿玩, 你说了算?",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137783"
+    },
+    {
+      "english": "How can I make it easier for you?",
+      "chinese": "我怎么做, 会让你轻松点?",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137786"
+    },
+    {
+      "english": "Have you eaten yet, friend?",
+      "chinese": "你吃饭了吗, 朋友?",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137788"
+    },
+    {
+      "english": "What happened, tell me step by step.",
+      "chinese": "发生什么了, 你慢慢说。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137791"
+    },
+    {
+      "english": "Do you want to vent, or fix it?",
+      "chinese": "你想吐槽一下, 还是想解决?",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137794"
+    },
+    {
+      "english": "Can I ask you something personal?",
+      "chinese": "我可以问你个私事吗?",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137796"
+    },
+    {
+      "english": "What’s your plan for tonight?",
+      "chinese": "你今晚打算做什么?",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137799"
+    },
+    {
+      "english": "Want to compare notes, later?",
+      "chinese": "等会儿我们交换一下想法?",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137802"
+    },
+    {
+      "english": "What would you do in my place?",
+      "chinese": "如果是你, 你会怎么做?",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137804"
+    },
+    {
+      "english": "Are we still good, no awkwardness?",
+      "chinese": "我们还好吗, 不尴尬吧?",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137807"
+    },
+    {
+      "english": "I’m curious, what made you decide?",
+      "chinese": "我挺好奇, 你怎么想的?",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137811"
+    },
+    {
+      "english": "Can you help me think this through?",
+      "chinese": "你能帮我理一理吗?",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137813"
+    },
+    {
+      "english": "What do you want to change next?",
+      "chinese": "你接下来想改什么?",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137818"
+    },
+    {
+      "english": "Do you feel better now?",
+      "chinese": "你现在好点了吗?",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137820"
+    },
+    {
+      "english": "Should we talk in person?",
+      "chinese": "要不我们当面聊聊?",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137825"
+    },
+    {
+      "english": "Can I check on you tomorrow?",
+      "chinese": "我明天再问问你可以吗?",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137827"
+    },
+    {
+      "english": "How did you learn that, by the way?",
+      "chinese": "顺便问下, 你怎么学会的?",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137830"
+    },
+    {
+      "english": "What support do you need right now?",
+      "chinese": "你现在最需要什么支持?",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137832"
+    },
+    {
+      "english": "If you want, I can join.",
+      "chinese": "如果你想, 我也可以去。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137834"
+    },
+    {
+      "english": "What should I remember for you?",
+      "chinese": "我该记住什么对你重要?",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137837"
+    },
+    {
+      "english": "Can we settle this calmly, together?",
+      "chinese": "我们能不能好好说清楚?",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137839"
+    },
+    {
+      "english": "Thanks for telling me, I appreciate it.",
+      "chinese": "谢谢你跟我说, 我很珍惜。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137842"
+    },
+    {
+      "english": "You’re doing great, keep going, okay?",
+      "chinese": "你已经很棒了,继续加油,好吗?",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137846"
+    },
+    {
+      "english": "Today’s small wins count, seriously.",
+      "chinese": "今天的小小进步,真的很重要。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137849"
+    },
+    {
+      "english": "Breathe, we’ve got this, friend.",
+      "chinese": "深呼吸,我们一定行,朋友。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137853"
+    },
+    {
+      "english": "Don’t shrink, you belong here.",
+      "chinese": "别退缩,你值得在这儿。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137856"
+    },
+    {
+      "english": "Your courage is showing, I notice.",
+      "chinese": "你的勇气在发光,我看得出来。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137859"
+    },
+    {
+      "english": "Trust yourself, your timing is real.",
+      "chinese": "相信自己,你的节奏很准。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137862"
+    },
+    {
+      "english": "We’re stronger than this moment.",
+      "chinese": "这一刻再难,我们也更强。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137865"
+    },
+    {
+      "english": "Say it, you’ve earned that confidence.",
+      "chinese": "说出来,你配得上这份自信。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137868"
+    },
+    {
+      "english": "No pressure, just keep your pace.",
+      "chinese": "别有压力,就按你的节奏来。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137871"
+    },
+    {
+      "english": "Your effort matters, every day.",
+      "chinese": "你的努力很有用,每天都算数。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137874"
+    },
+    {
+      "english": "Go easy on yourself, okay?",
+      "chinese": "对自己温柔点,好吗?",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137877"
+    },
+    {
+      "english": "You’ve got taste, keep choosing well.",
+      "chinese": "你眼光很棒,继续好好选。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137880"
+    },
+    {
+      "english": "When it’s hard, we grow.",
+      "chinese": "越难的时候,我们越成长。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137885"
+    },
+    {
+      "english": "Your vibe is lifting me, honestly.",
+      "chinese": "你的气场在带动我,说真的。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137888"
+    },
+    {
+      "english": "Small steps, big results, you’ll see.",
+      "chinese": "一步一步来,结果会很大,你会看到。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137891"
+    },
+    {
+      "english": "You’re not behind, you’re on time.",
+      "chinese": "你不是落后,你只是还在路上。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137895"
+    },
+    {
+      "english": "Keep your head up, I’m here.",
+      "chinese": "抬起头来,我在这儿。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137898"
+    },
+    {
+      "english": "You inspire me, don’t ever doubt.",
+      "chinese": "你一直在激励我,别怀疑自己。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137901"
+    },
+    {
+      "english": "Let’s turn worry into action, now.",
+      "chinese": "把担心变成行动,现在就做。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137904"
+    },
+    {
+      "english": "You handled it, that’s real growth.",
+      "chinese": "你已经处理好了,这就是成长。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137907"
+    },
+    {
+      "english": "Stay kind, it suits you so well.",
+      "chinese": "保持善良,真的很适合你。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137909"
+    },
+    {
+      "english": "Tonight, rest your mind, friend.",
+      "chinese": "今晚放松你的脑子,朋友。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137912"
+    },
+    {
+      "english": "Your progress is louder than your fear.",
+      "chinese": "你的进步,比你的害怕更响。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137915"
+    },
+    {
+      "english": "You can do it, one step at a time.",
+      "chinese": "你一定可以,一步一步来就行。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137920"
+    },
+    {
+      "english": "I love your honesty, it’s brave.",
+      "chinese": "我喜欢你的坦诚,那很勇敢。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137924"
+    },
+    {
+      "english": "Keep building, I’m cheering you on.",
+      "chinese": "继续努力建设,我在为你加油。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137927"
+    },
+    {
+      "english": "Don’t lose heart, you’re closer than you think.",
+      "chinese": "别灰心,你比想象中更接近了。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137931"
+    },
+    {
+      "english": "I believe in you, like, a lot.",
+      "chinese": "我相信你,真的很信。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137934"
+    },
+    {
+      "english": "I feel safer with you around, really.",
+      "chinese": "有你在身边，我真的更安心。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137937"
+    },
+    {
+      "english": "I trust you, because you’re consistent.",
+      "chinese": "我信你，因为你很稳定。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137940"
+    },
+    {
+      "english": "Some days I miss our easy talks.",
+      "chinese": "有些日子，我会很想念我们聊得轻松。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137944"
+    },
+    {
+      "english": "I don’t always show it, but I care.",
+      "chinese": "我不总是表现出来，但我在意。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137947"
+    },
+    {
+      "english": "Thanks for listening, no rush, just you.",
+      "chinese": "谢谢你听我说，不赶时间，就这样陪着。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137951"
+    },
+    {
+      "english": "When I’m low, you don’t judge me.",
+      "chinese": "我状态差的时候，你不会评判我。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137954"
+    },
+    {
+      "english": "I respect your boundaries, truly.",
+      "chinese": "我真的很尊重你的边界。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137957"
+    },
+    {
+      "english": "Honestly, you make me want to be better.",
+      "chinese": "说真的，你让我更想变好。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137960"
+    },
+    {
+      "english": "I’m learning patience, because friendship takes time.",
+      "chinese": "我在练习耐心，因为友情需要时间。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137963"
+    },
+    {
+      "english": "I might be quiet, but I’m still here.",
+      "chinese": "我可能会安静点，但我一直在。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137966"
+    },
+    {
+      "english": "We can be honest, even when it’s messy.",
+      "chinese": "我们可以坦诚，就算有点乱。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137970"
+    },
+    {
+      "english": "I feel proud, because you don’t give up.",
+      "chinese": "我替你感到骄傲，因为你不放弃。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137973"
+    },
+    {
+      "english": "Your calm helps me breathe slower.",
+      "chinese": "你那份冷静，让我慢慢呼吸。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137976"
+    },
+    {
+      "english": "I’m not perfect, but I keep showing up.",
+      "chinese": "我不完美，但我一直在出现。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137979"
+    },
+    {
+      "english": "It’s okay to feel hurt, I get it.",
+      "chinese": "难过也没关系，我懂。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137982"
+    },
+    {
+      "english": "Sometimes I need space, not distance.",
+      "chinese": "有时我需要空间, 不是疏远。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137985"
+    },
+    {
+      "english": "I appreciate your timing, it’s so gentle.",
+      "chinese": "我很感激你的时机，特别温柔。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137988"
+    },
+    {
+      "english": "I don’t have answers, but I stay.",
+      "chinese": "我可能给不了答案，但我会陪着。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137991"
+    },
+    {
+      "english": "Your support feels like a warm light.",
+      "chinese": "你的支持像一束温暖的光。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137994"
+    },
+    {
+      "english": "I’m learning to say “I need you.”",
+      "chinese": "我在学着说“我需要你”。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.137997"
+    },
+    {
+      "english": "Even silence between friends feels safe.",
+      "chinese": "朋友之间的沉默，也很安心。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.138000"
+    },
+    {
+      "english": "I notice your effort, and I’m grateful.",
+      "chinese": "我看得见你的用心，我很感谢。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.138004"
+    },
+    {
+      "english": "I forgive fast, because you’re worth it.",
+      "chinese": "我原谅得快，因为你值得。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.138007"
+    },
+    {
+      "english": "I’m not asking you to fix me.",
+      "chinese": "我不是想让你把我弄好。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.138010"
+    },
+    {
+      "english": "I’m scared sometimes, but I’ll speak.",
+      "chinese": "我有时候会害怕，但我还是会说。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.138013"
+    },
+    {
+      "english": "You make space for my real feelings.",
+      "chinese": "你给我的是真实情绪的位置。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.138016"
+    },
+    {
+      "english": "I won’t disappear, even when it’s hard.",
+      "chinese": "不管多难，我都不会消失。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.138019"
+    },
+    {
+      "english": "Our friendship grows, when we stay gentle.",
+      "chinese": "我们的友情会成长，因为我们都温柔。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.138022"
+    },
+    {
+      "english": "I’m glad you’re in my life, quietly.",
+      "chinese": "我很庆幸你在我生命里, 但很安静。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.138027"
+    },
+    {
+      "english": "Text me when you’re free, okay?",
+      "chinese": "你有空就给我发消息，好吗？",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.138031"
+    },
+    {
+      "english": "Let’s grab snacks, quick decision.",
+      "chinese": "我们去买点零食吧, 快决定！",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.138034"
+    },
+    {
+      "english": "If you’re stressed, tell me first.",
+      "chinese": "你要是压力大, 先跟我说。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.138037"
+    },
+    {
+      "english": "I’ll wait, you don’t have to rush.",
+      "chinese": "我会等你, 不用着急。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.138040"
+    },
+    {
+      "english": "We can talk, no judgment, promise.",
+      "chinese": "我们可以聊, 不评判, 说好了。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.138045"
+    },
+    {
+      "english": "I’ll double-check, so you feel safe.",
+      "chinese": "我帮你再确认一下, 你就安心了。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.138049"
+    },
+    {
+      "english": "Next time, we plan earlier, deal?",
+      "chinese": "下次我们早点计划, 行不行？",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.138051"
+    },
+    {
+      "english": "Sorry, I missed your message.",
+      "chinese": "对不起, 我刚才没看到你的消息。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.138054"
+    },
+    {
+      "english": "Bring your complaint, I’ll listen.",
+      "chinese": "把你的吐槽带过来, 我听着。",
+      "category": "Friendship",
+      "generated_at": "2026-11-08T06:55:50.138057"
     }
   ],
-  "last_updated": "2026-11-07T06:49:48.888789"
+  "last_updated": "2026-11-08T06:55:50.138059"
 }
