@@ -23375,7 +23375,727 @@
       "chinese": "把你的吐槽带过来, 我听着。",
       "category": "Friendship",
       "generated_at": "2026-11-08T06:55:50.138057"
+    },
+    {
+      "english": "It’s okay, we can talk again.",
+      "chinese": "没关系, 我们可以再聊聊。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513022"
+    },
+    {
+      "english": "Pause, breathe, then forgive.",
+      "chinese": "先停一下, 深呼吸, 再原谅。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513037"
+    },
+    {
+      "english": "I hear you, let’s move on.",
+      "chinese": "我听懂了, 我们就往前走。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513041"
+    },
+    {
+      "english": "Don’t hold it, we both tried.",
+      "chinese": "别再抓着不放, 我们都努力过。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513045"
+    },
+    {
+      "english": "Let’s reset, no hard feelings.",
+      "chinese": "我们重新开始, 别太介意。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513050"
+    },
+    {
+      "english": "I’m choosing peace, not revenge.",
+      "chinese": "我选平和, 不选报复。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513053"
+    },
+    {
+      "english": "Mistakes happen, we forgive together.",
+      "chinese": "犯错很正常, 我们一起原谅。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513056"
+    },
+    {
+      "english": "If you apologize, I accept.",
+      "chinese": "你道歉了, 我就接受。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513061"
+    },
+    {
+      "english": "I’ll give you another chance, okay?",
+      "chinese": "我再给你一次机会, 好吗？",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513066"
+    },
+    {
+      "english": "What’s done, is done, okay?",
+      "chinese": "过去的就过去了, 好吗？",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513070"
+    },
+    {
+      "english": "Please explain, I can still forgive.",
+      "chinese": "你说清楚, 我还是能原谅。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513072"
+    },
+    {
+      "english": "I don’t want drama, just peace.",
+      "chinese": "我不想闹, 只想和平。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513076"
+    },
+    {
+      "english": "Let’s talk it out, calmly.",
+      "chinese": "我们好好聊聊, 别着急。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513079"
+    },
+    {
+      "english": "I’ll be the bigger person today.",
+      "chinese": "今天我来先让一步。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513082"
+    },
+    {
+      "english": "It’s fine, we’ll handle it.",
+      "chinese": "没事, 我们会处理好的。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513087"
+    },
+    {
+      "english": "No grudges, we keep it friendly.",
+      "chinese": "不记仇, 我们继续做朋友。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513090"
+    },
+    {
+      "english": "Thanks for apologizing, that helps.",
+      "chinese": "谢谢你道歉, 这很重要。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513092"
+    },
+    {
+      "english": "I forgive you, but I’ll set boundaries.",
+      "chinese": "我原谅你, 但我会立规矩。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513095"
+    },
+    {
+      "english": "Give me a moment, then we talk.",
+      "chinese": "给我一点时间, 然后我们聊。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513098"
+    },
+    {
+      "english": "We can be honest, without blaming.",
+      "chinese": "我们可以坦诚, 不用互相怪。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513101"
+    },
+    {
+      "english": "Your apology lands, I’m listening.",
+      "chinese": "你的道歉我收到了, 我在听。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513104"
+    },
+    {
+      "english": "Let’s focus on solutions, not past.",
+      "chinese": "我们先解决问题, 别总想过去。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513107"
+    },
+    {
+      "english": "I’ll try to understand, not judge.",
+      "chinese": "我会尽量理解, 不去评判。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513110"
+    },
+    {
+      "english": "Stop stressing, I forgive you.",
+      "chinese": "别那么紧张, 我原谅你了。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513114"
+    },
+    {
+      "english": "We’ll agree on a new rule.",
+      "chinese": "我们定个新规矩, 好不好？",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513117"
+    },
+    {
+      "english": "Today, I choose calm over resentment.",
+      "chinese": "今天我选冷静, 不选怨气。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513120"
+    },
+    {
+      "english": "You made it right, I’m okay.",
+      "chinese": "你把事情处理好了, 我没事。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513123"
+    },
+    {
+      "english": "We can start over, step by step.",
+      "chinese": "我们可以重新来, 一步一步。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513126"
+    },
+    {
+      "english": "I won’t bring it up again.",
+      "chinese": "这事我就不再提了。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513128"
+    },
+    {
+      "english": "Thanks, I feel better already.",
+      "chinese": "谢谢你, 我已经感觉好多了。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513131"
+    },
+    {
+      "english": "How do I forgive, without losing myself?",
+      "chinese": "我该怎么原谅，才不失去自己？",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513134"
+    },
+    {
+      "english": "What should I say first, to reset?",
+      "chinese": "我先说什么，才能把气氛重置？",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513136"
+    },
+    {
+      "english": "Do you really mean it, or just sorry?",
+      "chinese": "你是真心的，还是只是说对不起？",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513139"
+    },
+    {
+      "english": "Can we talk about what hurt me?",
+      "chinese": "我们能聊聊，到底哪里让我受伤吗？",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513142"
+    },
+    {
+      "english": "Do we need rules, for next time?",
+      "chinese": "我们还得定规矩吗？",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513144"
+    },
+    {
+      "english": "What’s your plan, to make it right?",
+      "chinese": "你打算怎么把它做对？",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513149"
+    },
+    {
+      "english": "When you apologize, what changes after?",
+      "chinese": "你道歉之后，接下来会变什么？",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513152"
+    },
+    {
+      "english": "Can I ask, what went wrong exactly?",
+      "chinese": "我能问一句，具体哪里出错了吗？",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513154"
+    },
+    {
+      "english": "Do you want my forgiveness, or my trust?",
+      "chinese": "你想要我的原谅，还是我的信任？",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513157"
+    },
+    {
+      "english": "How fast can you change, honestly?",
+      "chinese": "说实话，你打算多快改？",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513159"
+    },
+    {
+      "english": "Should I be direct, or gentle?",
+      "chinese": "我该直接点，还是温柔点？",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513162"
+    },
+    {
+      "english": "What if I still feel hurt, sometimes?",
+      "chinese": "要是我有时候还是会难过呢？",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513165"
+    },
+    {
+      "english": "Can we agree on boundaries, not silence?",
+      "chinese": "我们能约定边界吗？别用沉默解决。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513167"
+    },
+    {
+      "english": "Do you understand why I’m upset?",
+      "chinese": "你知道我为什么生气吗？",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513170"
+    },
+    {
+      "english": "What’s the fastest way to rebuild?",
+      "chinese": "最快怎么重建信任？",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513173"
+    },
+    {
+      "english": "Can you promise, and follow through?",
+      "chinese": "你能保证吗？还能做到吗？",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513176"
+    },
+    {
+      "english": "Should we cool down, then chat?",
+      "chinese": "要不要先冷静，再聊？",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513179"
+    },
+    {
+      "english": "How do I forgive, but not repeat?",
+      "chinese": "怎么原谅，又不让事再发生？",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513181"
+    },
+    {
+      "english": "What helps you take accountability?",
+      "chinese": "你觉得怎么做更像负责？",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513184"
+    },
+    {
+      "english": "Can we ask for clarity, not excuses?",
+      "chinese": "我们能求清楚吗？别找借口。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513186"
+    },
+    {
+      "english": "If I forgive, will you change for real?",
+      "chinese": "如果我原谅，你会真的变吗？",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513189"
+    },
+    {
+      "english": "Do you want feedback, or just comfort?",
+      "chinese": "你想听建议，还是只想被安慰？",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513191"
+    },
+    {
+      "english": "Can we rewrite how we communicate?",
+      "chinese": "我们能重新学怎么沟通吗？",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513194"
+    },
+    {
+      "english": "What’s one thing you’ll do differently?",
+      "chinese": "你能做一件不一样的事吗？",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513197"
+    },
+    {
+      "english": "Are we fixing this together, today?",
+      "chinese": "我们今天一起把它解决掉，好吗？",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513200"
+    },
+    {
+      "english": "How can I trust you again, slowly?",
+      "chinese": "我怎么才能慢慢重新信任你？",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513202"
+    },
+    {
+      "english": "Do you want to apologize properly, this time?",
+      "chinese": "这次你想好好道歉吗？",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513204"
+    },
+    {
+      "english": "What if forgiveness takes time for me?",
+      "chinese": "要是我需要时间才能原谅呢？",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513207"
+    },
+    {
+      "english": "Can we agree, no more repeats?",
+      "chinese": "我们能约定不再重复吗？",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513209"
+    },
+    {
+      "english": "Breathe first, then choose forgiveness.",
+      "chinese": "先深呼吸，再选择原谅。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513212"
+    },
+    {
+      "english": "Let go, your peace matters most.",
+      "chinese": "放下吧，你的平静最重要。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513217"
+    },
+    {
+      "english": "I’m choosing light, not grudges.",
+      "chinese": "我在选择光明，不是怨恨。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513220"
+    },
+    {
+      "english": "Forgiveness is strength, not weakness.",
+      "chinese": "原谅是力量，不是软弱。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513222"
+    },
+    {
+      "english": "You can grow, even after messes.",
+      "chinese": "你也能成长，哪怕事情很糟。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513225"
+    },
+    {
+      "english": "I’ll be kind, without losing my mind.",
+      "chinese": "我会善良，但不会把自己弄丢。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513228"
+    },
+    {
+      "english": "Small steps count, even in forgiveness.",
+      "chinese": "小步也算数，原谅也是。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513231"
+    },
+    {
+      "english": "I can forgive, and still feel real.",
+      "chinese": "我能原谅，也能保留真实的感受。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513233"
+    },
+    {
+      "english": "Today, I cut the chain of anger.",
+      "chinese": "今天，我把愤怒的锁链剪断。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513238"
+    },
+    {
+      "english": "My heart deserves calm, not noise.",
+      "chinese": "我的心值得安静，不要吵闹。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513240"
+    },
+    {
+      "english": "I won’t hate, I’ll heal instead.",
+      "chinese": "我不恨，我要去疗愈。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513244"
+    },
+    {
+      "english": "Say sorry, then show change—slowly.",
+      "chinese": "道歉之后，慢慢把改变做出来。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513247"
+    },
+    {
+      "english": "I’m proud of choosing peace, again.",
+      "chinese": "我也为再次选择平静感到骄傲。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513250"
+    },
+    {
+      "english": "Forgive, and let the lesson stay.",
+      "chinese": "原谅吧，让教训留下。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513253"
+    },
+    {
+      "english": "I’m learning, not punishing anyone.",
+      "chinese": "我在学习，不是在惩罚谁。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513256"
+    },
+    {
+      "english": "Your effort counts, even if imperfect.",
+      "chinese": "你的努力有用，就算还不完美。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513258"
+    },
+    {
+      "english": "I can be gentle, and still firm.",
+      "chinese": "我可以温柔，但也会有底线。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513261"
+    },
+    {
+      "english": "I’ll reset my mood, not my values.",
+      "chinese": "我会调整心情，不会改变价值观。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513264"
+    },
+    {
+      "english": "Give it time, my forgiveness grows.",
+      "chinese": "再给点时间，我的原谅会慢慢长出来。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513266"
+    },
+    {
+      "english": "I choose empathy, not mind-reading.",
+      "chinese": "我选同理心，不是猜心术。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513269"
+    },
+    {
+      "english": "Let’s be brave, and restart kindly.",
+      "chinese": "我们要勇敢，然后用善意重新开始。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513272"
+    },
+    {
+      "english": "I’m not stuck, I’m moving on.",
+      "chinese": "我不是被困住，我是在往前走。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513284"
+    },
+    {
+      "english": "Keep showing up, I’ll feel safer.",
+      "chinese": "你继续出现，我会更安心一点。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513287"
+    },
+    {
+      "english": "Forgiveness is my gift, not your debt.",
+      "chinese": "原谅是我的礼物，不是你的负担。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513292"
+    },
+    {
+      "english": "I’m letting go, one thought at a time.",
+      "chinese": "我在放下，一次一个念头。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513295"
+    },
+    {
+      "english": "You can make it better, little by little.",
+      "chinese": "你可以慢慢把事情做得更好。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513298"
+    },
+    {
+      "english": "My boundaries protect my heart, calmly.",
+      "chinese": "我的界限会保护我的心，安静地。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513301"
+    },
+    {
+      "english": "I forgive, and I keep my eyes open.",
+      "chinese": "我原谅，但我会保持清醒。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513304"
+    },
+    {
+      "english": "No drama, just respect and repair.",
+      "chinese": "别演戏了，先尊重，再修复。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513306"
+    },
+    {
+      "english": "We’re growing, not forgetting what happened.",
+      "chinese": "我们是在成长，不是装作忘了。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513310"
+    },
+    {
+      "english": "I’m processing feelings, not pretending it’s fine.",
+      "chinese": "我在消化情绪，不是假装没事。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513313"
+    },
+    {
+      "english": "Forgiveness comes after honesty, for me.",
+      "chinese": "对我来说，原谅要先讲真话。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513316"
+    },
+    {
+      "english": "I need time to cool down first.",
+      "chinese": "我得先冷静一下，再谈原谅。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513318"
+    },
+    {
+      "english": "I’ll forgive, but I won’t forget details.",
+      "chinese": "我可以原谅，但不会忘掉细节。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513321"
+    },
+    {
+      "english": "Sometimes my heart is slow, and that’s okay.",
+      "chinese": "有时候我心里慢一点，也没关系。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513325"
+    },
+    {
+      "english": "I’m not excusing it, I’m choosing peace.",
+      "chinese": "我不是在找借口，我是在选平静。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513328"
+    },
+    {
+      "english": "I can admit I’m hurt, and still forgive.",
+      "chinese": "我承认我受伤了，也可以原谅。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513331"
+    },
+    {
+      "english": "Let’s be real, I’m still processing.",
+      "chinese": "说真的，我还在消化呢。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513334"
+    },
+    {
+      "english": "I’ll lower the anger, not erase the lesson.",
+      "chinese": "我会把怒气放低，但不抹掉教训。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513337"
+    },
+    {
+      "english": "When I’m calm, my words get clearer.",
+      "chinese": "等我冷静了，话就更清楚了。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513340"
+    },
+    {
+      "english": "I forgive, and I check my own feelings too.",
+      "chinese": "我会原谅，也会照顾我自己的感受。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513345"
+    },
+    {
+      "english": "I’m reflecting, so I don’t repeat the same hurt.",
+      "chinese": "我在反思，所以不再把伤再来一次。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513348"
+    },
+    {
+      "english": "My forgiveness isn’t fast, it’s steady.",
+      "chinese": "我的原谅不算快，但很稳定。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513353"
+    },
+    {
+      "english": "I’m letting go, but keeping my boundaries.",
+      "chinese": "我在放下，但也守住我的边界。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513357"
+    },
+    {
+      "english": "I don’t want drama, I want clarity.",
+      "chinese": "我不想要闹剧，我想要清楚一点。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513360"
+    },
+    {
+      "english": "I can be patient, but I need respect.",
+      "chinese": "我可以有耐心，但我需要尊重。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513362"
+    },
+    {
+      "english": "I’m learning to respond, not react.",
+      "chinese": "我在学着回应，不是冲动反应。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513365"
+    },
+    {
+      "english": "Forgiveness for me means less bitterness.",
+      "chinese": "对我来说，原谅就是少一点苦涩。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513368"
+    },
+    {
+      "english": "I’ll own my feelings, no blame games.",
+      "chinese": "我会承担我的感受，不玩甩锅游戏。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513371"
+    },
+    {
+      "english": "I’m not skipping the tough parts, okay?",
+      "chinese": "我不是绕过那些难的部分，行吗？",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513373"
+    },
+    {
+      "english": "I forgive, then I ask for better habits.",
+      "chinese": "我原谅之后，会再要求更好的习惯。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513376"
+    },
+    {
+      "english": "My heart needs space, not pressure.",
+      "chinese": "我的心需要空间，不需要催促。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513379"
+    },
+    {
+      "english": "I’m choosing empathy, even when it’s awkward.",
+      "chinese": "就算有点尴尬，我也选同理心。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513382"
+    },
+    {
+      "english": "I can forgive, and still be cautious.",
+      "chinese": "我可以原谅，但我会保持谨慎。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513385"
+    },
+    {
+      "english": "I’m checking in with myself, day by day.",
+      "chinese": "我会每天和自己确认一下状态。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513388"
+    },
+    {
+      "english": "I won’t pretend it didn’t hurt, ever.",
+      "chinese": "我不会装作从没受过伤。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513391"
+    },
+    {
+      "english": "Let’s talk softly, my feelings matter.",
+      "chinese": "我们慢一点说，我的感受很重要。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513394"
+    },
+    {
+      "english": "I forgive because I want growth, not drama.",
+      "chinese": "我原谅是为了成长，不是为了闹。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513397"
+    },
+    {
+      "english": "I’ll be honest, I still feel a bit tense.",
+      "chinese": "我会坦诚，我现在还是有点紧绷。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513399"
+    },
+    {
+      "english": "Forgiveness is my direction, not my instant mood.",
+      "chinese": "原谅是我的方向，不是立刻的心情。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513402"
+    },
+    {
+      "english": "Reply later, don’t argue in the moment.",
+      "chinese": "先回头再说, 别在当下吵架。",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:36:49.513405"
     }
   ],
-  "last_updated": "2026-11-08T06:55:50.138059"
+  "last_updated": "2026-11-09T07:36:49.513407"
 }
