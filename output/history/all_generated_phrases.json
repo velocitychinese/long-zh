@@ -24095,7 +24095,727 @@
       "chinese": "先回头再说, 别在当下吵架。",
       "category": "Forgiveness",
       "generated_at": "2026-11-09T07:36:49.513405"
+    },
+    {
+      "english": "Hi, are you free right now?",
+      "chinese": "嗨, 你现在方便吗？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621445"
+    },
+    {
+      "english": "Hey, I’m calling because it’s urgent.",
+      "chinese": "嘿, 我打电话, 因为有点急。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621464"
+    },
+    {
+      "english": "Sorry, I missed your call.",
+      "chinese": "对不起, 我错过你的来电了。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621468"
+    },
+    {
+      "english": "What’s up, did you send a message?",
+      "chinese": "怎么了, 你发消息了吗？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621472"
+    },
+    {
+      "english": "I saw it, give me a minute.",
+      "chinese": "我看到了, 等我一分钟。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621475"
+    },
+    {
+      "english": "Can you call me back, please?",
+      "chinese": "你能给我回个电话吗？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621477"
+    },
+    {
+      "english": "Don’t worry, I’ll reply soon.",
+      "chinese": "别担心, 我马上回你。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621481"
+    },
+    {
+      "english": "Thanks, I received it.",
+      "chinese": "谢谢, 我收到了。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621487"
+    },
+    {
+      "english": "Where are you, I can’t reach you.",
+      "chinese": "你在哪儿, 我联系不上。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621491"
+    },
+    {
+      "english": "One more thing, can you confirm?",
+      "chinese": "还有一件事, 你能确认吗？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621494"
+    },
+    {
+      "english": "I’m stuck in traffic, be patient.",
+      "chinese": "我在路上堵着呢, 等一下。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621498"
+    },
+    {
+      "english": "Let me check, one moment please.",
+      "chinese": "我查一下, 稍等一下。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621500"
+    },
+    {
+      "english": "Sorry, I can’t talk right now.",
+      "chinese": "不好意思, 我现在不方便接听。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621504"
+    },
+    {
+      "english": "Just text me, that’s easier.",
+      "chinese": "你直接发消息吧, 更方便。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621507"
+    },
+    {
+      "english": "Got it, I’ll handle it.",
+      "chinese": "明白了, 我来处理。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621513"
+    },
+    {
+      "english": "I’m on my way, I’ll be there soon.",
+      "chinese": "我在路上, 很快就到。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621516"
+    },
+    {
+      "english": "Did you get my message?",
+      "chinese": "你看到我发的消息了吗？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621519"
+    },
+    {
+      "english": "I’m busy, can we talk later?",
+      "chinese": "我有点忙, 我们晚点再聊？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621522"
+    },
+    {
+      "english": "That’s weird, it says delivered.",
+      "chinese": "好奇怪, 它显示已送达。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621525"
+    },
+    {
+      "english": "Okay, I’ll send it now.",
+      "chinese": "好, 我现在就发。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621528"
+    },
+    {
+      "english": "No problem, take your time.",
+      "chinese": "没关系, 慢慢来。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621531"
+    },
+    {
+      "english": "Wait, I didn’t see your reply.",
+      "chinese": "等一下, 我没看到你的回复。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621534"
+    },
+    {
+      "english": "Can you speak a bit louder?",
+      "chinese": "你能说大声点吗？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621537"
+    },
+    {
+      "english": "Sorry, the signal is bad here.",
+      "chinese": "对不起, 这边信号不好。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621539"
+    },
+    {
+      "english": "I’ll share the details in a text.",
+      "chinese": "我把细节发消息给你。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621542"
+    },
+    {
+      "english": "Great, thanks for the update!",
+      "chinese": "太好了, 谢谢你更新消息！",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621545"
+    },
+    {
+      "english": "Are you free tonight, by the way?",
+      "chinese": "对了, 你今晚有空吗？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621548"
+    },
+    {
+      "english": "I’ll call you after work.",
+      "chinese": "下班后我给你打电话。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621553"
+    },
+    {
+      "english": "Which time works best for you?",
+      "chinese": "你什么时候最方便？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621555"
+    },
+    {
+      "english": "Do you have a moment to talk?",
+      "chinese": "你现在方便聊聊吗？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621558"
+    },
+    {
+      "english": "Could you explain that a bit more?",
+      "chinese": "你能再说清楚一点吗？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621561"
+    },
+    {
+      "english": "Should I call you, or text?",
+      "chinese": "我打电话还是发消息比较好？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621563"
+    },
+    {
+      "english": "What’s the best way to reach you?",
+      "chinese": "联系你最方便的方式是什么？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621567"
+    },
+    {
+      "english": "Do you remember our last conversation?",
+      "chinese": "你还记得上次我们聊什么吗？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621569"
+    },
+    {
+      "english": "Are we still on for today?",
+      "chinese": "我们今天还约得上吗？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621571"
+    },
+    {
+      "english": "How soon can you check it for me?",
+      "chinese": "你多久能帮我查一下？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621574"
+    },
+    {
+      "english": "What should I do next, exactly?",
+      "chinese": "我下一步具体该做什么？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621576"
+    },
+    {
+      "english": "Do you prefer phone calls or texts?",
+      "chinese": "你更喜欢打电话还是发信息？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621579"
+    },
+    {
+      "english": "Can you confirm the address, please?",
+      "chinese": "你能确认一下地址吗？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621583"
+    },
+    {
+      "english": "Is that price final, or negotiable?",
+      "chinese": "这个价格是最终的吗, 还是能谈？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621586"
+    },
+    {
+      "english": "What did you mean by that message?",
+      "chinese": "你那条消息是什么意思？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621588"
+    },
+    {
+      "english": "How are you doing these days?",
+      "chinese": "最近你怎么样？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621591"
+    },
+    {
+      "english": "Would you mind repeating that, please?",
+      "chinese": "你能再重复一遍吗, 麻烦你。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621594"
+    },
+    {
+      "english": "Do you have time to review it?",
+      "chinese": "你有时间看一下吗？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621598"
+    },
+    {
+      "english": "What’s your plan for later today?",
+      "chinese": "你今天晚点有什么安排？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621601"
+    },
+    {
+      "english": "I have a quick question, okay?",
+      "chinese": "我有个小问题, 可以吗？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621603"
+    },
+    {
+      "english": "Did you get a chance to reply?",
+      "chinese": "你有空回我一下吗？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621606"
+    },
+    {
+      "english": "Can we reschedule, if needed?",
+      "chinese": "如果不行, 我们能改时间吗？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621608"
+    },
+    {
+      "english": "Are you able to start now?",
+      "chinese": "你现在可以开始了吗？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621611"
+    },
+    {
+      "english": "What’s the latest update on this?",
+      "chinese": "这边最新进展怎么样？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621613"
+    },
+    {
+      "english": "Should I wait for your reply?",
+      "chinese": "我需要先等你的回复吗？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621616"
+    },
+    {
+      "english": "Can you send a screenshot, please?",
+      "chinese": "你能发个截图给我吗？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621620"
+    },
+    {
+      "english": "Do you know why it didn’t go through?",
+      "chinese": "你知道为什么发不过去吗？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621624"
+    },
+    {
+      "english": "If possible, I’d like your opinion.",
+      "chinese": "如果可以, 我想听听你的看法。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621627"
+    },
+    {
+      "english": "Can we keep it simple, this time?",
+      "chinese": "这次我们简单点, 行吗？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621629"
+    },
+    {
+      "english": "Slow down, breathe, then send the message",
+      "chinese": "放慢点, 深呼吸, 再发消息",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621632"
+    },
+    {
+      "english": "Nice work, your effort really shows",
+      "chinese": "干得不错, 你的努力看得见",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621635"
+    },
+    {
+      "english": "Keep it positive, people will feel it",
+      "chinese": "保持积极, 大家都会感受到",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621637"
+    },
+    {
+      "english": "You’re doing great, don’t second-guess",
+      "chinese": "你做得很好, 别再怀疑自己",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621643"
+    },
+    {
+      "english": "Reply when you’re ready, no rush",
+      "chinese": "你准备好了再回, 不着急",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621647"
+    },
+    {
+      "english": "Trust the process, it’ll work out",
+      "chinese": "相信过程, 一定会好起来",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621650"
+    },
+    {
+      "english": "I believe in you, you can handle it",
+      "chinese": "我相信你, 这事你能搞定",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621653"
+    },
+    {
+      "english": "Good timing, this is a perfect moment",
+      "chinese": "时机刚刚好, 这会儿最合适",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621655"
+    },
+    {
+      "english": "Stay focused, we’ll fix it together",
+      "chinese": "保持专注, 我们一起解决",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621658"
+    },
+    {
+      "english": "Your message was clear, thanks for that",
+      "chinese": "你的消息很清楚, 谢谢",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621661"
+    },
+    {
+      "english": "Keep going, progress is showing",
+      "chinese": "继续努力, 进步已经看到了",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621663"
+    },
+    {
+      "english": "You’ve got momentum, ride it forward",
+      "chinese": "你已经有势头, 继续往前冲",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621667"
+    },
+    {
+      "english": "Nice reminder, you’re on top of it",
+      "chinese": "提醒得很好, 你很在状态",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621670"
+    },
+    {
+      "english": "Don’t overthink, just start typing",
+      "chinese": "别想太多, 直接开始打字",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621673"
+    },
+    {
+      "english": "Good job staying calm under pressure",
+      "chinese": "压力再大也能冷静, 你很棒",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621675"
+    },
+    {
+      "english": "Let’s make it simple, you’ll be fine",
+      "chinese": "我们把它简化, 你会没事的",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621678"
+    },
+    {
+      "english": "Thanks for stepping up, really appreciated",
+      "chinese": "谢谢你站出来, 特别感谢",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621681"
+    },
+    {
+      "english": "You’re making progress, stay confident",
+      "chinese": "你在进步, 保持自信",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621684"
+    },
+    {
+      "english": "Quick win first, then we’ll optimize",
+      "chinese": "先拿个小胜利, 再优化",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621687"
+    },
+    {
+      "english": "Your tone is great, that helps a lot",
+      "chinese": "你的语气很好, 很加分",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621689"
+    },
+    {
+      "english": "Keep your eyes on the goal, breathe",
+      "chinese": "盯住目标, 深呼吸",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621692"
+    },
+    {
+      "english": "I’ve got you, we’ll handle the rest",
+      "chinese": "我会照顾好你, 剩下的我们来",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621695"
+    },
+    {
+      "english": "Every try counts, you’re improving",
+      "chinese": "每一次都算数, 你在变好",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621698"
+    },
+    {
+      "english": "Great mindset, we’ll get it done",
+      "chinese": "心态很好, 我们一定能搞定",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621701"
+    },
+    {
+      "english": "Focus on the next message, not the past",
+      "chinese": "专注下一条消息, 别纠结过去",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621704"
+    },
+    {
+      "english": "Keep showing up, good things follow",
+      "chinese": "继续坚持, 好事会接着来",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621706"
+    },
+    {
+      "english": "I miss you, but I’ll be patient.",
+      "chinese": "我想你, 也会慢慢等你.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621711"
+    },
+    {
+      "english": "Honestly, I’m nervous, but I’m trying.",
+      "chinese": "说实话, 我有点紧张, 但我会努力.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621715"
+    },
+    {
+      "english": "I like your vibe, it feels calm.",
+      "chinese": "我喜欢你的气质, 很踏实.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621718"
+    },
+    {
+      "english": "If I seem distant, it’s just thinking.",
+      "chinese": "如果我看起来有点冷, 我是在想事.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621721"
+    },
+    {
+      "english": "I don’t need perfection, just your realness.",
+      "chinese": "我不追求完美, 只要你真诚.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621724"
+    },
+    {
+      "english": "I’m proud of us, for sticking together.",
+      "chinese": "我为我们骄傲, 因为我们一直在一起.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621727"
+    },
+    {
+      "english": "I’ll say it, you’re on my mind.",
+      "chinese": "我就直说, 你一直在我心上.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621731"
+    },
+    {
+      "english": "Take your time, I won’t pressure you.",
+      "chinese": "你慢慢来, 我不会催你.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621734"
+    },
+    {
+      "english": "I keep replaying our last conversation.",
+      "chinese": "我一直在回放我们上次聊天.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621736"
+    },
+    {
+      "english": "I’m listening, and I really mean it.",
+      "chinese": "我在认真听, 不是敷衍.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621739"
+    },
+    {
+      "english": "I want to be honest with you, truly.",
+      "chinese": "我想跟你坦白, 说真的.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621744"
+    },
+    {
+      "english": "Your words felt warm, like real care.",
+      "chinese": "你说的话很暖, 很有真心.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621747"
+    },
+    {
+      "english": "I’m trying to calm down, for you.",
+      "chinese": "我在努力冷静下来, 为了你.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621750"
+    },
+    {
+      "english": "I don’t want to rush this feeling.",
+      "chinese": "我不想把这种感觉搞得太快.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621753"
+    },
+    {
+      "english": "I’m thankful, and I want you to know.",
+      "chinese": "我很感激, 也想让你知道.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621756"
+    },
+    {
+      "english": "Sometimes I overthink, then I reach out.",
+      "chinese": "有时候我会想太多, 就会找你.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621758"
+    },
+    {
+      "english": "I’m proud of your patience, seriously.",
+      "chinese": "我真的佩服你的耐心.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621761"
+    },
+    {
+      "english": "I feel safer when you’re around.",
+      "chinese": "你在身边时, 我更安心.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621764"
+    },
+    {
+      "english": "Let’s talk slowly, feelings first, okay?",
+      "chinese": "我们慢慢聊, 先说感受, 好吗?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621769"
+    },
+    {
+      "english": "I’m rooting for you, in my quiet way.",
+      "chinese": "我会默默支持你, 用我的方式.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621772"
+    },
+    {
+      "english": "I don’t know what to say, yet.",
+      "chinese": "我一时不知道怎么说, 但我想你.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621775"
+    },
+    {
+      "english": "I’m learning, and you’re part of it.",
+      "chinese": "我在成长, 你也是其中一部分.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621779"
+    },
+    {
+      "english": "I’ll protect our vibe, no drama.",
+      "chinese": "我会好好守住我们的氛围, 不闹.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621782"
+    },
+    {
+      "english": "I miss the version of us that clicked.",
+      "chinese": "我想念我们特别合拍的那段时光.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621784"
+    },
+    {
+      "english": "I’m not perfect, but my heart is real.",
+      "chinese": "我不完美, 但我的心是真的.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621787"
+    },
+    {
+      "english": "Give me a minute, I’ll gather thoughts.",
+      "chinese": "给我一分钟, 我整理一下思路.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621790"
+    },
+    {
+      "english": "I won’t pretend, I’m feeling everything.",
+      "chinese": "我不会装, 我都在认真感受.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621795"
+    },
+    {
+      "english": "Your silence makes me wonder, quietly.",
+      "chinese": "你不说话, 我会在心里偷偷想.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621798"
+    },
+    {
+      "english": "I’m choosing trust, even when it’s hard.",
+      "chinese": "我在选择相信, 就算有点难.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621816"
+    },
+    {
+      "english": "I’ll be here, no matter how slow.",
+      "chinese": "你慢慢来, 我都会在这等你.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621819"
+    },
+    {
+      "english": "Hi, are you free for a quick call?",
+      "chinese": "嗨，你现在方便接个电话吗？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621822"
+    },
+    {
+      "english": "I’m on my way, I’ll text soon.",
+      "chinese": "我在路上了，我等下给你发消息。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621826"
+    },
+    {
+      "english": "Sorry, signal’s bad, can you call again?",
+      "chinese": "抱歉，信号有点差，你能再打过来吗？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621829"
+    },
+    {
+      "english": "I saw your message, I’ll reply after work.",
+      "chinese": "我看到了你的消息，下班后我再回你。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621832"
+    },
+    {
+      "english": "Can we meet today, around six?",
+      "chinese": "我们今天见面吧，六点左右可以吗？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621835"
+    },
+    {
+      "english": "I’ll be there early, don’t wait too long.",
+      "chinese": "我会早点到，你别等太久。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621838"
+    },
+    {
+      "english": "Where are you now, I can pick you up.",
+      "chinese": "你现在在哪儿？我可以去接你。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621841"
+    },
+    {
+      "english": "Let me confirm the address, please.",
+      "chinese": "我再确认一下地址，可以吗？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621843"
+    },
+    {
+      "english": "I can’t talk long, what’s up?",
+      "chinese": "我现在不方便聊太久，怎么了？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-10T08:17:47.621847"
     }
   ],
-  "last_updated": "2026-11-09T07:36:49.513407"
+  "last_updated": "2026-11-10T08:17:47.621848"
 }
