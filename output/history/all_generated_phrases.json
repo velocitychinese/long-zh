@@ -24815,7 +24815,727 @@
       "chinese": "我现在不方便聊太久，怎么了？",
       "category": "Phone Calls & Messages",
       "generated_at": "2026-11-10T08:17:47.621847"
+    },
+    {
+      "english": "Excuse me, where’s the nearest subway?",
+      "chinese": "不好意思, 最近的地铁在哪儿？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496610"
+    },
+    {
+      "english": "Sorry, how do I get to the museum?",
+      "chinese": "对不起, 去博物馆怎么走？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496624"
+    },
+    {
+      "english": "Can you tell me the station name?",
+      "chinese": "你能告诉我车站名字吗？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496627"
+    },
+    {
+      "english": "Which way to the train exit?",
+      "chinese": "去出站口, 往哪边？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496630"
+    },
+    {
+      "english": "I’m lost, could you help me?",
+      "chinese": "我迷路了, 你能帮帮我吗？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496634"
+    },
+    {
+      "english": "Quick question, where’s the pharmacy?",
+      "chinese": "问一下, 药店在哪？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496637"
+    },
+    {
+      "english": "Is it far from here, roughly?",
+      "chinese": "离这儿远不远, 大概？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496640"
+    },
+    {
+      "english": "Do I need to transfer, or direct?",
+      "chinese": "要换乘吗, 还是直达？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496645"
+    },
+    {
+      "english": "Which bus goes there, please?",
+      "chinese": "请问, 哪路公交到？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496649"
+    },
+    {
+      "english": "What’s the closest landmark here?",
+      "chinese": "这附近最近的地标是啥？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496652"
+    },
+    {
+      "english": "Thanks, I’ll head there now.",
+      "chinese": "谢谢, 我这就过去。",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496658"
+    },
+    {
+      "english": "Sorry, I don’t understand, can you repeat?",
+      "chinese": "不好意思, 我听不懂, 你再说一遍？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496662"
+    },
+    {
+      "english": "Is it on this street, right?",
+      "chinese": "是在这条街上吗, 对吧？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496665"
+    },
+    {
+      "english": "How long does it take, by foot?",
+      "chinese": "走路要多久？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496667"
+    },
+    {
+      "english": "Can I walk there, or take a taxi?",
+      "chinese": "我能走过去吗, 还是打车？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496670"
+    },
+    {
+      "english": "Wait, which exit number is it?",
+      "chinese": "等一下, 是几号出口？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496672"
+    },
+    {
+      "english": "Near which intersection is it?",
+      "chinese": "在什么路口附近？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496675"
+    },
+    {
+      "english": "Is there a shortcut this way?",
+      "chinese": "这边有没有捷径？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496677"
+    },
+    {
+      "english": "Got it, I’ll follow your directions.",
+      "chinese": "明白了, 我照你说的走。",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496680"
+    },
+    {
+      "english": "Do you know the way to the bank?",
+      "chinese": "你知道去银行怎么走吗？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496683"
+    },
+    {
+      "english": "Where can I buy a metro card?",
+      "chinese": "地铁卡在哪里买？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496685"
+    },
+    {
+      "english": "What time does it open, roughly?",
+      "chinese": "它大概几点开门？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496688"
+    },
+    {
+      "english": "Is there a restroom nearby?",
+      "chinese": "附近有洗手间吗？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496690"
+    },
+    {
+      "english": "That’s great, thanks for your help!",
+      "chinese": "太好了, 多谢你帮忙！",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496693"
+    },
+    {
+      "english": "I’m trying to find Gate B, please.",
+      "chinese": "我在找B口, 麻烦你了。",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496696"
+    },
+    {
+      "english": "Can you point it out for me?",
+      "chinese": "你可以指给我看吗？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496699"
+    },
+    {
+      "english": "I thought it was here, sorry!",
+      "chinese": "我以为在这儿, 不好意思。",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496701"
+    },
+    {
+      "english": "Is this the right stop for downtown?",
+      "chinese": "这是去市中心的站吗？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496704"
+    },
+    {
+      "english": "If I go straight, will I reach it?",
+      "chinese": "我一直走, 会到吗？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496706"
+    },
+    {
+      "english": "One more thing, where do I turn?",
+      "chinese": "还有个问题, 我往哪转？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496709"
+    },
+    {
+      "english": "Hi, what’s the best way to get there?",
+      "chinese": "你好，去那儿最方便怎么走？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496712"
+    },
+    {
+      "english": "Could you recommend a route, please?",
+      "chinese": "你能推荐一条路线吗？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496715"
+    },
+    {
+      "english": "Is it easier by bus or by bike?",
+      "chinese": "坐公交更方便，还是骑车？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496719"
+    },
+    {
+      "english": "How do I get there from here?",
+      "chinese": "从这儿过去怎么走？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496722"
+    },
+    {
+      "english": "Which road should I head to next?",
+      "chinese": "我接下来该往哪条路走？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496724"
+    },
+    {
+      "english": "Do I stay on this street the whole way?",
+      "chinese": "我一路都在这条街上吗？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496727"
+    },
+    {
+      "english": "Is there a landmark I should watch?",
+      "chinese": "附近有什么明显的地标吗？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496729"
+    },
+    {
+      "english": "When I arrive, where should I look?",
+      "chinese": "到了之后我该看哪里？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496732"
+    },
+    {
+      "english": "What should I do if I miss the stop?",
+      "chinese": "万一坐过站了怎么办？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496734"
+    },
+    {
+      "english": "Do taxis usually drop off there?",
+      "chinese": "出租车一般会把我放那里吗？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496736"
+    },
+    {
+      "english": "Is it better to go now or later?",
+      "chinese": "现在去更方便，还是等会儿？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496739"
+    },
+    {
+      "english": "Are there lots of buses around there?",
+      "chinese": "那边公交车多吗？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496743"
+    },
+    {
+      "english": "Is there a major stop near the entrance?",
+      "chinese": "入口附近有大站吗？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496745"
+    },
+    {
+      "english": "Could you tell me the vibe of the area?",
+      "chinese": "那一带好找吗？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496749"
+    },
+    {
+      "english": "What’s the simplest transfer option?",
+      "chinese": "换乘有没有最简单的走法？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496753"
+    },
+    {
+      "english": "Do I need to use the escalator?",
+      "chinese": "需要坐扶梯过去吗？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496755"
+    },
+    {
+      "english": "Is the entrance on the left side?",
+      "chinese": "入口在左边吗？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496757"
+    },
+    {
+      "english": "After this, do I turn or go straight?",
+      "chinese": "接下来是转弯还是直走？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496760"
+    },
+    {
+      "english": "How do locals usually get there?",
+      "chinese": "当地人一般怎么去？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496762"
+    },
+    {
+      "english": "Is there parking near the building?",
+      "chinese": "楼附近好停车吗？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496765"
+    },
+    {
+      "english": "What time are the buses most frequent?",
+      "chinese": "公交高峰大概什么时候？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496767"
+    },
+    {
+      "english": "Could I walk partway, then ride?",
+      "chinese": "我能走一段，再坐车吗？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496769"
+    },
+    {
+      "english": "If it rains, what’s your suggestion?",
+      "chinese": "要是下雨，你建议怎么走？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496773"
+    },
+    {
+      "english": "Is it crowded right now on that route?",
+      "chinese": "那条路现在人多吗？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496775"
+    },
+    {
+      "english": "Do I pass a supermarket on the way?",
+      "chinese": "路上会经过超市吗？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496778"
+    },
+    {
+      "english": "What’s the quick check to confirm I’m right?",
+      "chinese": "怎么确认我没走错？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496781"
+    },
+    {
+      "english": "Can you help me choose the faster option?",
+      "chinese": "你帮我选快一点的路线，好吗？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496783"
+    },
+    {
+      "english": "Is there a quieter side route nearby?",
+      "chinese": "附近有没有更安静的绕路？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496786"
+    },
+    {
+      "english": "Which stop should I get off at?",
+      "chinese": "我在哪一站下车？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496788"
+    },
+    {
+      "english": "Thanks, one last question, is it walkable?",
+      "chinese": "谢谢，再问一句，走过去方便吗？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496791"
+    },
+    {
+      "english": "Just follow the signs, then turn.",
+      "chinese": "就跟着路牌走, 然后拐弯。",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496794"
+    },
+    {
+      "english": "Walk a bit, it’s not far.",
+      "chinese": "走一小段, 没多远。",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496797"
+    },
+    {
+      "english": "Keep going, don’t take side roads.",
+      "chinese": "一直往前走, 别走岔路。",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496800"
+    },
+    {
+      "english": "Is it the stop right ahead?",
+      "chinese": "是不是前面那一站？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496802"
+    },
+    {
+      "english": "From here, it’s a straight shot.",
+      "chinese": "从这儿过去, 算直达。",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496807"
+    },
+    {
+      "english": "You’ll get there pretty quickly.",
+      "chinese": "过去很快就到了。",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496810"
+    },
+    {
+      "english": "Take the same way, no worries.",
+      "chinese": "走原路就行, 没问题。",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496813"
+    },
+    {
+      "english": "When in doubt, ask someone nearby.",
+      "chinese": "不确定的话, 就问问旁边的人。",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496816"
+    },
+    {
+      "english": "Go there first, then follow the crowd.",
+      "chinese": "先去那边, 再跟着人流走。",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496820"
+    },
+    {
+      "english": "Don’t panic, you can adjust on the way.",
+      "chinese": "别慌, 路上还能改。",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496824"
+    },
+    {
+      "english": "It’s close by, just around the corner.",
+      "chinese": "离得近, 就在拐角那儿。",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496827"
+    },
+    {
+      "english": "Try to line up with the main road.",
+      "chinese": "尽量靠着主路走。",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496829"
+    },
+    {
+      "english": "If you miss it, it’s still fixable.",
+      "chinese": "坐过了也行, 还能补回来。",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496833"
+    },
+    {
+      "english": "A little detour helps avoid traffic.",
+      "chinese": "绕一下会更顺, 少堵。",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496835"
+    },
+    {
+      "english": "It’s better to go early, less hassle.",
+      "chinese": "早点去更好, 省事。",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496838"
+    },
+    {
+      "english": "Use the walkway, it’s safer.",
+      "chinese": "走人行通道, 会更安全。",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496841"
+    },
+    {
+      "english": "You’ll know it when you see it.",
+      "chinese": "看见就知道了。",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496844"
+    },
+    {
+      "english": "Follow the flow, it’s easy there.",
+      "chinese": "跟着人流走, 那边好找。",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496847"
+    },
+    {
+      "english": "Don’t overthink, just keep walking.",
+      "chinese": "别想太多, 一直走就行。",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496852"
+    },
+    {
+      "english": "Between these two, pick the easier one.",
+      "chinese": "这两个里选个好走的。",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496855"
+    },
+    {
+      "english": "Go by landmark, not by memory.",
+      "chinese": "按地标走, 别靠感觉。",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496858"
+    },
+    {
+      "english": "We’re talking a few minutes away.",
+      "chinese": "就几分钟的路程。",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496860"
+    },
+    {
+      "english": "Should I walk first, or take a ride?",
+      "chinese": "先走一段, 还是直接坐？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496863"
+    },
+    {
+      "english": "If it looks wrong, double-check quickly.",
+      "chinese": "要是感觉不对, 马上再确认。",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496866"
+    },
+    {
+      "english": "This way is the shortest route.",
+      "chinese": "这条路最近, 走这边。",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496869"
+    },
+    {
+      "english": "Take it slow, junctions can confuse.",
+      "chinese": "慢点走, 路口容易绕。",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496871"
+    },
+    {
+      "english": "After you pass, you’ll see the turn.",
+      "chinese": "等你过去, 转弯口就到了。",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496874"
+    },
+    {
+      "english": "Is there a faster way, by chance?",
+      "chinese": "有没有更快的办法, 方便吗？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496877"
+    },
+    {
+      "english": "Thanks, I’ll try this first.",
+      "chinese": "谢谢, 我先按你说的试试。",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496880"
+    },
+    {
+      "english": "I’m a bit unsure, can you guide me?",
+      "chinese": "我有点不确定, 你能带我吗？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496883"
+    },
+    {
+      "english": "Honestly, I forget streets fast, please help.",
+      "chinese": "说实话, 我很容易忘路, 麻烦你了。",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496885"
+    },
+    {
+      "english": "I want to do it step by step.",
+      "chinese": "我想一步一步来, 你看可以吗？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496888"
+    },
+    {
+      "english": "If you have time, could you explain slowly?",
+      "chinese": "要是你方便, 能慢点说吗？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496891"
+    },
+    {
+      "english": "I’m trying to stay calm, where do I go?",
+      "chinese": "我想保持冷静, 我该往哪走？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496894"
+    },
+    {
+      "english": "I’m not rushed, what’s the safest way?",
+      "chinese": "我不赶时间, 哪条路更安全？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496907"
+    },
+    {
+      "english": "I’d feel better with clear directions.",
+      "chinese": "有更清楚的指路, 我会安心点。",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496911"
+    },
+    {
+      "english": "I keep second-guessing, what’s the next move?",
+      "chinese": "我总是想太多, 下一步我该怎么做？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496916"
+    },
+    {
+      "english": "Please bear with me, my Chinese is still rough.",
+      "chinese": "麻烦你多担待, 我中文还不太熟。",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496919"
+    },
+    {
+      "english": "To be honest, I get turned around easily here.",
+      "chinese": "说真的, 我在这儿很容易迷路。",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496922"
+    },
+    {
+      "english": "I’m listening carefully, what do I do first?",
+      "chinese": "我在认真听, 我先做什么？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496925"
+    },
+    {
+      "english": "Could you point it out for me, just once?",
+      "chinese": "你能帮我指一下吗, 就一下？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496928"
+    },
+    {
+      "english": "I don’t want to bother you, but can you help?",
+      "chinese": "我不想打扰你, 但你能帮我吗？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496931"
+    },
+    {
+      "english": "I’m learning the area, what’s the typical route?",
+      "chinese": "我在熟悉这片, 一般怎么走？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496934"
+    },
+    {
+      "english": "I keep checking my phone, is this right?",
+      "chinese": "我一直看手机, 这样对吗？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496937"
+    },
+    {
+      "english": "I’m trying to be patient, can we slow down?",
+      "chinese": "我想慢慢来, 我们能慢一点吗？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496940"
+    },
+    {
+      "english": "My nerves are up, tell me the simplest way.",
+      "chinese": "我有点紧张, 你告诉我最简单的走法。",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496943"
+    },
+    {
+      "english": "I prefer landmarks, what should I look for?",
+      "chinese": "我更看地标, 我该找什么？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496945"
+    },
+    {
+      "english": "I’m taking notes, where do I turn next?",
+      "chinese": "我在记笔记, 下一处我往哪转？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496950"
+    },
+    {
+      "english": "I want to get it right, can you confirm?",
+      "chinese": "我想走对, 你能帮我确认下吗？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496953"
+    },
+    {
+      "english": "I’m not sure, but I’ll follow your lead.",
+      "chinese": "我不太确定, 但我会按你说的走。",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496956"
+    },
+    {
+      "english": "I’m stressed, can you give one clear instruction?",
+      "chinese": "我有点慌, 你能给我一个明确的指示吗？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496960"
+    },
+    {
+      "english": "Thanks for being patient, where should I stand?",
+      "chinese": "谢谢你这么有耐心, 我该站哪？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496962"
+    },
+    {
+      "english": "I’m trying to learn, what’s your best tip?",
+      "chinese": "我想学会, 你觉得最好的建议是什么？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496966"
+    },
+    {
+      "english": "I’m keeping expectations low, just tell me the route.",
+      "chinese": "我先把期待放低点, 你直接说路线吧。",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496969"
+    },
+    {
+      "english": "I really appreciate it, how do we start?",
+      "chinese": "真的谢谢你, 我们从哪开始？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496971"
+    },
+    {
+      "english": "I’m looking for the calmer option, where to go?",
+      "chinese": "我想走更省心的路, 往哪走比较好？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496975"
+    },
+    {
+      "english": "I’m trying not to overthink, what’s next?",
+      "chinese": "我尽量不想太多, 下一步是什么？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496978"
+    },
+    {
+      "english": "I’m a little lost, can you help me reset?",
+      "chinese": "我有点迷路了, 你能帮我重新确认吗？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496981"
+    },
+    {
+      "english": "Please, I just want the simplest, most honest answer.",
+      "chinese": "拜托, 我只想要最简单, 最实在的答案。",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496984"
+    },
+    {
+      "english": "Excuse me, where’s the nearest metro entrance?",
+      "chinese": "不好意思, 最近的地铁口在哪儿？",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T07:29:50.496987"
     }
   ],
-  "last_updated": "2026-11-10T08:17:47.621848"
+  "last_updated": "2026-11-11T07:29:50.496989"
 }
