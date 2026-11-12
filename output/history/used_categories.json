@@ -1,1 +1,17 @@
-{"categories": []}
+{
+  "categories": [
+    {
+      "category": "Dating & Romance",
+      "date": "2020-01-01"
+    },
+    {
+      "category": "Success",
+      "date": "2020-01-02"
+    },
+    {
+      "category": "Family & Home",
+      "date": "2020-01-03"
+    }
+  ],
+  "last_updated": "2026-11-12T11:15:14.311332"
+}
