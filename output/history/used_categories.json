@@ -239,7 +239,39 @@
     {
       "category": "Hotel & Accommodation",
       "date": "2026-11-16"
+    },
+    {
+      "category": "Growth",
+      "date": "2026-11-17"
+    },
+    {
+      "category": "Wisdom",
+      "date": "2026-11-17"
+    },
+    {
+      "category": "Joy",
+      "date": "2026-11-17"
+    },
+    {
+      "category": "Doctor & Pharmacy",
+      "date": "2026-11-17"
+    },
+    {
+      "category": "Work & Office",
+      "date": "2026-11-17"
+    },
+    {
+      "category": "Coffee Shop & Bakery",
+      "date": "2026-11-17"
+    },
+    {
+      "category": "Inspiration",
+      "date": "2026-11-17"
+    },
+    {
+      "category": "Common Native Slang",
+      "date": "2026-11-17"
     }
   ],
-  "last_updated": "2026-11-16T08:37:24.587554"
+  "last_updated": "2026-11-17T09:47:32.292546"
 }
