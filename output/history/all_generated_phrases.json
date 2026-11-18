@@ -27495,7 +27495,399 @@
       "transliteration": "Nǐ zhè shì xiǎng zuān kòngzi ba?",
       "category": "Common Native Slang",
       "generated_at": "2026-11-17T09:47:32.275597"
+    },
+    {
+      "english": "I think I'm having an allergic reaction",
+      "chinese": "我觉得我可能过敏了，",
+      "transliteration": "wo juede wo ke neng GUO MIN le,",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "My lips are swelling, I need help",
+      "chinese": "我的嘴唇在肿，快帮帮我，",
+      "transliteration": "wo de zui chun zai zhong, kuai bang bang wo,",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "I swallowed something and it's stuck",
+      "chinese": "我吞下去了，但卡住了，",
+      "transliteration": "wo tun xia qu le, dan ka zhu le,",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "I can't stop vomiting, please advise",
+      "chinese": "我一直在吐，能不能告诉我怎么办，",
+      "transliteration": "wo yi zhi zai tu, neng bu neng gao su wo zen me ban,",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "Severe stomach pain, I feel worse",
+      "chinese": "我肚子疼得很厉害，越来越难受，",
+      "transliteration": "wo du zi teng de hen li hai, yue lai yue nan shou,",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "I just cut myself, it won't stop",
+      "chinese": "我刚割伤了，止不住血，",
+      "transliteration": "wo gang ge shang le, zhi bu zhu xue,",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "Can you help me apply pressure",
+      "chinese": "你能帮我按住伤口吗，",
+      "transliteration": "ni neng bang wo an zhu shang kou ma,",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "Thank you for hearing me today.",
+      "chinese": "谢谢你今天听见我。",
+      "transliteration": "Xièxie nǐ jīntiān tīngjiàn wǒ.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "I appreciate your steady reassurance.",
+      "chinese": "我感谢你给的踏实安慰。",
+      "transliteration": "Wǒ gǎnxiè nǐ gěi de tàshí ānwèi.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "Your kindness changed my mood.",
+      "chinese": "你的善意改变了我的心情。",
+      "transliteration": "Nǐ de shànyì gǎibiàn le wǒ de xīnqíng.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "I’m grateful for your follow-through.",
+      "chinese": "我感恩你说到做到。",
+      "transliteration": "Wǒ gǎn'ēn nǐ shuōdào zuòdào.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "Thanks for the honest check-in.",
+      "chinese": "谢谢你来认真关心我。",
+      "transliteration": "Xièxie nǐ lái rènzhēn guānxīn wǒ.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "Your help made things lighter.",
+      "chinese": "你的帮助让我轻松了很多。",
+      "transliteration": "Nǐ de bāngzhù ràng wǒ qīngsōng le hěn duō.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "I owe you a heartfelt thank-you.",
+      "chinese": "我想认真跟你说声谢谢。",
+      "transliteration": "Wǒ xiǎng rènzhēn gēn nǐ shuō shēng xièxie.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "I choose calm on purpose, not out of fear.",
+      "chinese": "我有意选择平静，不是因为害怕。",
+      "transliteration": "Wo yǒu yì xuǎnzé píngjìng, bù shì yīnwèi hàipà.",
+      "category": "Balance",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "I pause, then pick the kindest next step.",
+      "chinese": "我先停一停，再选最温柔的下一步。",
+      "transliteration": "Wo xiān tíng yí tíng, zài xuǎn zuì wēnróu de xià yí bù.",
+      "category": "Balance",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "Balance means giving myself rest, guilt-free.",
+      "chinese": "平衡就是让自己休息，问心无愧。",
+      "transliteration": "Pínghéng jiùshì ràng zìjǐ xiūxi, wènxīn wúkuì.",
+      "category": "Balance",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "I keep plans realistic, and my body heard.",
+      "chinese": "我把计划做得更现实，也把身体放在心上。",
+      "transliteration": "Wo bǎ jìhuà zuò de gèng xiànshí, yě bǎ shēntǐ fàng zài xīnxìng shàng.",
+      "category": "Balance",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "Too much today, so I scale down.",
+      "chinese": "今天太多了，我就把节奏降下来。",
+      "transliteration": "Jīntiān tài duō le, wo jiù bǎ jiézòu jiàng xiàlái.",
+      "category": "Balance",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "I set one boundary, then stop overexplaining.",
+      "chinese": "我立一个界限，然后不再过度解释。",
+      "transliteration": "Wo lì yí gè jièxiàn, ránhòu bù zài guòdù jiǎnshì.",
+      "category": "Balance",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "I give myself permission to be flexible.",
+      "chinese": "我允许自己灵活调整，不必死撑。",
+      "transliteration": "Wo yǔnxǔ zìjǐ línghuó tiáozhěng, bùbì sǐ chēng.",
+      "category": "Balance",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "I need the total, not the tag",
+      "chinese": "我要看总价，不是看标价。",
+      "transliteration": "wǒ yào kàn zǒngjià, bú shì kàn biāojià.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "Any hidden fees before I pay?",
+      "chinese": "付款前会不会有隐形费用？",
+      "transliteration": "fùkuǎn qián huì bú huì yǒu yǐnxíng fèiyòng?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "Show me the best size value",
+      "chinese": "给我看看最划算的尺码。",
+      "transliteration": "gěi wǒ kàn kàn zuì huásuàn de chǐmǎ.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "Does it include tax and shipping?",
+      "chinese": "价格里包含税和运费吗？",
+      "transliteration": "jiàgé lǐ bāohán shuì hé yùnfèi ma?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "I’ll ask for a price match",
+      "chinese": "我可以要价保吗？",
+      "transliteration": "wǒ kěyǐ yào jiàbǎo ma?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "Can I see it in the light?",
+      "chinese": "能给我在灯下看看实物吗？",
+      "transliteration": "néng gěi wǒ zài dēng xià kàn kàn shíwù ma?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "Is there a warranty or return?",
+      "chinese": "有保修和退换政策吗？",
+      "transliteration": "yǒu bǎoxiū hé tuìhuàn zhèngcè ma?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "I check in, then I reset.",
+      "chinese": "我先确认自己，再把节奏调回去。",
+      "transliteration": "Wo xian queren zi ji, zai ba jie zou diao hui qu.",
+      "category": "Happiness",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "Joy can be quiet, still real.",
+      "chinese": "快乐可以很安静，但依然真实。",
+      "transliteration": "Kuai le ke yi hen an jing, dan yi ran zhen shi.",
+      "category": "Happiness",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "I let my breath choose my calm.",
+      "chinese": "我让呼吸带我回到平静。",
+      "transliteration": "Wo rang hu xi dai wo hui dao ping jing.",
+      "category": "Happiness",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "I do one tiny thing right now.",
+      "chinese": "我现在就做一件小事，做对就好。",
+      "transliteration": "Wo xian zai jiu zuo yi jian xiao shi, zuo dui jiu hao.",
+      "category": "Happiness",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "I make space for rest today.",
+      "chinese": "我给休息留出位置，今天也可以。",
+      "transliteration": "Wo gei xiu xi liu chu wei zhi, jin tian ye ke yi.",
+      "category": "Happiness",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "My happiness starts with what I notice.",
+      "chinese": "幸福从我愿意看见的东西开始。",
+      "transliteration": "Xing fu cong wo yuan yi kan jian de dong xi kai shi.",
+      "category": "Happiness",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "I text one kind thing to a friend.",
+      "chinese": "我发个温柔的消息给朋友。",
+      "transliteration": "Wo fa ge wen rou de xiao xi gei peng you.",
+      "category": "Happiness",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "Hi, I’m happy to meet you.",
+      "chinese": "你好，很高兴认识你。",
+      "transliteration": "Nǐ hǎo, hěn gāoxìng rènshi nǐ.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "What’s your name, may I ask?",
+      "chinese": "你叫什么名字呀，我可以问吗？",
+      "transliteration": "Nǐ jiào shénme míngzì ya, wǒ kěyǐ wèn ma?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "I’m glad we can talk today.",
+      "chinese": "我很高兴今天能聊聊。",
+      "transliteration": "Wǒ hěn gāoxìng jīntiān néng liáo liáo.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "Where are you from originally?",
+      "chinese": "你最开始是从哪里来的？",
+      "transliteration": "Nǐ zuì kāishǐ shì cóng nǎlǐ lái de?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "How do you like this place?",
+      "chinese": "你觉得这里怎么样？",
+      "transliteration": "Nǐ juéde zhè lǐ zěnmeyàng?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "Do you have time for a chat?",
+      "chinese": "你现在方便聊一会儿吗？",
+      "transliteration": "Nǐ xiànzài fāngbiàn liáo yíhuìr ma?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "Let’s be friends, if you want.",
+      "chinese": "如果你愿意，我们可以做朋友。",
+      "transliteration": "Rúguǒ nǐ yuànyì, wǒmen kěyǐ zuò péngyou.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "Your friendship steadies me.",
+      "chinese": "你 的 友谊 让我 稳下来。",
+      "transliteration": "nǐ de yǒuyì ràng wǒ wěn xiàlái",
+      "category": "Friendship",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "We celebrate your wins together.",
+      "chinese": "你 的 胜利 我们 一起 庆祝。",
+      "transliteration": "nǐ de shènglì wǒmen yìqǐ qìngzhù",
+      "category": "Friendship",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "I trust you, always.",
+      "chinese": "我 信任 你，永远。",
+      "transliteration": "wǒ xìnrèn nǐ, yǒngyuǎn",
+      "category": "Friendship",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "Thanks for choosing me again.",
+      "chinese": "谢谢 你 又 一次 选择 我。",
+      "transliteration": "xièxie nǐ yòu yí cì xuǎnzé wǒ",
+      "category": "Friendship",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "I show up, no big speech.",
+      "chinese": "我 会 出现，不用 说 很多。",
+      "transliteration": "wǒ huì chūxiàn, búyòng shuō hěn duō",
+      "category": "Friendship",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "You get me without explanation.",
+      "chinese": "你 懂 我，不用 解释。",
+      "transliteration": "nǐ dǒng wǒ, búyòng jiěshì",
+      "category": "Friendship",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "Let’s keep each other close.",
+      "chinese": "我们 互相 靠近 一点。",
+      "transliteration": "wǒmen hùxiāng kào jìn yìdiǎn",
+      "category": "Friendship",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "I forgive, and I move forward.",
+      "chinese": "我宽恕了，然后继续往前走。",
+      "transliteration": "Wǒ kuānshù le, ránhòu jìxù wǎng qián zǒu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "No excuses, just repair.",
+      "chinese": "不找借口，只做修复。",
+      "transliteration": "Bù zhǎo jièkǒu, zhǐ zuò xiūfù.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "I hear you, and I forgive.",
+      "chinese": "我听见了你的话，我也宽恕你。",
+      "transliteration": "Wǒ tīngjiàn le nǐ de huà, wǒ yě kuānshù nǐ.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "I let it go, gently.",
+      "chinese": "我轻轻放下。",
+      "transliteration": "Wǒ qīngqīng fàngxià.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "Forgiveness starts with understanding.",
+      "chinese": "宽恕从理解开始。",
+      "transliteration": "Kuānshù cóng lǐjiě kāishǐ.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "I forgive, but I trust slowly.",
+      "chinese": "我宽恕了，但信任会慢慢来。",
+      "transliteration": "Wǒ kuānshù le, dàn xìnrèn huì mànman lái.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-18T09:09:10.424436"
+    },
+    {
+      "english": "I unlearn the anger cycle.",
+      "chinese": "我在学着脱离愤怒的循环。",
+      "transliteration": "Wǒ zài xué zhe tuōlí fènù de xúnhuán.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-18T09:09:10.424436"
     }
   ],
-  "last_updated": "2026-11-17T09:47:32.275597"
+  "last_updated": "2026-11-18T09:09:10.424436"
 }
