@@ -28671,7 +28671,399 @@
       "transliteration": "wúliáo de rìzi yě zhàoyàng jiānchí, cái jiàn zhēn gōngfu",
       "category": "Perseverance",
       "generated_at": "2026-11-20T09:13:46.325339"
+    },
+    {
+      "english": "Let’s pick a start date.",
+      "chinese": "我们选个开始日期吧。",
+      "transliteration": "Wǒmen xuǎn ge kāishǐ rìqī ba.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "I’ll send you the draft plan.",
+      "chinese": "我把计划草案发你。",
+      "transliteration": "Wǒ bǎ jìhuà cǎoàn fā nǐ.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "What’s your preferred pace?",
+      "chinese": "你想按什么节奏来？",
+      "transliteration": "Nǐ xiǎng àn shénme jiézòu lái?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "We’ll decide priorities first.",
+      "chinese": "我们先排个优先级。",
+      "transliteration": "Wǒmen xiān pái gè yōuxiān jí.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "Let’s reserve time for buffer.",
+      "chinese": "我们留点弹性时间。",
+      "transliteration": "Wǒmen liú diǎn dànxìng shíjiān.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "Can we plan around your busy days?",
+      "chinese": "我们能不能避开你最忙的日子？",
+      "transliteration": "Wǒmen néng bù néng bìkāi nǐ zuì máng de rìzi?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "I’ll check what we already have.",
+      "chinese": "我先确认一下我们有什么资源。",
+      "transliteration": "Wǒ xiān quèrèn yíxià wǒmen yǒu shénme zīyuán.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "Where can I check in",
+      "chinese": "请问哪里可以值机，",
+      "transliteration": "Qǐng wèn nǎlǐ kěyǐ zhí jī, PLEASE",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "I need a paper boarding pass",
+      "chinese": "我可以拿纸质登机牌吗，",
+      "transliteration": "Wǒ kěyǐ ná zhǐzhì dēng jī pái ma,",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "Is there a baggage cart nearby",
+      "chinese": "附近有手推行李车吗，",
+      "transliteration": "Fùjìn yǒu shǒutuī xínglǐ chē ma,",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "Can I pay by card here",
+      "chinese": "这里可以刷卡吗，",
+      "transliteration": "Zhèlǐ kěyǐ shuā kǎ ma,",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "What time does boarding start",
+      "chinese": "登机大概几点开始，",
+      "transliteration": "Dēng jī dàgài jǐdiǎn kāishǐ,",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "My seat is next to the aisle",
+      "chinese": "我选的是靠走道的座位，",
+      "transliteration": "Wǒ xuǎn de shì kào zǒudào de zuòwèi,",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "Is there a restroom near this gate",
+      "chinese": "这个登机口附近有洗手间吗，",
+      "transliteration": "Zhège dēng jī kǒu fùjìn yǒu xǐshǒujiān ma,",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "You’ve got this, calmly.",
+      "chinese": "你会做到的，心里稳一点。",
+      "transliteration": "Nǐ huì zuò dào de, Xīn lǐ wěn yìdiǎn.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "Start now, not someday.",
+      "chinese": "从现在开始，不等到以后。",
+      "transliteration": "Cóng xiànzài kāishǐ, bù děng dào yǐhòu.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "Move your body, lift your mood.",
+      "chinese": "动一动，心情就会更亮。",
+      "transliteration": "Dòng yì dòng, xīnqíng jiù huì gèng liàng.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "Let your gratitude lead.",
+      "chinese": "把感恩放在前面。",
+      "transliteration": "Bǎ gǎn'ēn fàng zài qiánmiàn.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "Protect your focus, gently.",
+      "chinese": "温柔守住你的注意力。",
+      "transliteration": "Wēnróu shǒu zhù nǐ de zhùyì lì.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "Speak to yourself with respect.",
+      "chinese": "对自己说话要有分寸。",
+      "transliteration": "Duì zìjǐ shuōhuà yào yǒu fēnchùn.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "Make peace with imperfect days.",
+      "chinese": "不完美的日子也算日子。",
+      "transliteration": "Bù wánměi de rìzi yě suàn rìzi.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "Cheers to our team tonight!",
+      "chinese": "今晚为我们的团队干杯！",
+      "transliteration": "Jin WAN wei wo MEN de tuan DUI GAN BEI!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "I brought a cake, for you.",
+      "chinese": "我给你带了蛋糕。",
+      "transliteration": "Wo gei ni dai le DAN GAO.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "Can I help set up?",
+      "chinese": "我可以帮忙布置吗？",
+      "transliteration": "Wo ke yi bang MANG bu ZHI ma?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "Where do we put gifts?",
+      "chinese": "礼物放哪里呀？",
+      "transliteration": "Li wu fang na li ya?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "Let’s take photos together now.",
+      "chinese": "我们现在一起拍照吧。",
+      "transliteration": "Wo MEN xian zai yi qi pai ZHAO ba.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "Play whatever music you like!",
+      "chinese": "你想放什么歌就放什么。",
+      "transliteration": "Ni xiang fang shen me ge jiu fang shen me.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "I’m on my way, five minutes.",
+      "chinese": "我马上到了，五分钟后见。",
+      "transliteration": "Wo ma shang dao le, wu fen zhong hou jian.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "I’ll take this set meal, please.",
+      "chinese": "我要这个套餐，谢谢。",
+      "transliteration": "Wo YAO zhe GE TAO CAN, XIE XIE.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "Can we get takeaway boxes?",
+      "chinese": "可以打包吗？",
+      "transliteration": "KE yi DA BAO ma?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "Do you have table service?",
+      "chinese": "你们是送到桌上吗？",
+      "transliteration": "NI men shi SOng dao ZHUO shang ma?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "Can I pay with WeChat?",
+      "chinese": "我可以用微信付款吗？",
+      "transliteration": "Wo ke yi YONG WEI xin FU KUAN ma?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "Do you accept cards?",
+      "chinese": "可以刷卡吗？",
+      "transliteration": "KE yi SHUA ka ma?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "I’d like the chef’s special.",
+      "chinese": "我要点主厨推荐。",
+      "transliteration": "Wo YAO dian ZHU CHU TUI JIAN.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "Any seasonal dishes today?",
+      "chinese": "今天有什么时令菜吗？",
+      "transliteration": "Jin tian you SHEN me SHI ling cai ma?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "Absolutely, I back that idea.",
+      "chinese": "我完全同意你的想法。",
+      "transliteration": "Wǒ quán bù tóng yì nǐ de xiǎngfǎ.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "I’m on board, no problem.",
+      "chinese": "我赞成，没问题。",
+      "transliteration": "Wǒ zàn chéng, méi wèn tí.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "That works for me, sure.",
+      "chinese": "这个我可以接受。",
+      "transliteration": "Zhè ge wǒ kě yǐ jiē shòu.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "You make a strong case.",
+      "chinese": "你说得很有道理。",
+      "transliteration": "Nǐ shuō de hěn yǒu dào lǐ.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "Let’s do it that way.",
+      "chinese": "我们就按这个来吧。",
+      "transliteration": "Wǒ men jiù àn zhè ge lái ba.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "I agree, but we should adjust.",
+      "chinese": "我同意，不过我们得做点调整。",
+      "transliteration": "Wǒ tóng yì, bú guò wǒ men děi zuò diǎn tiáo zhěng.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "I can’t agree with that.",
+      "chinese": "我不同意你的说法。",
+      "transliteration": "Wǒ bù tóng yì nǐ de shuō fǎ.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "Motivation, even on tired days",
+      "chinese": "动力也要带上疲惫的日子",
+      "transliteration": "dòng LÌ yě yào dài shàng pÍ bèi de rì zi",
+      "category": "Motivation",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "Make it fun, then make it work",
+      "chinese": "先让它好玩，再让它变成习惯",
+      "transliteration": "xiān ràng tā hǎo wán, zài ràng tā biàn chéng xí guàn",
+      "category": "Motivation",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "Choose one win for today",
+      "chinese": "今天就定一个小胜利",
+      "transliteration": "jīn tiān jiù dìng yí gè xiǎo shèng lì",
+      "category": "Motivation",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "Turn boring practice into momentum",
+      "chinese": "把无聊练习变成连续的动力",
+      "transliteration": "bǎ wú liáo liàn xí biàn chéng lián xù de dòng lì",
+      "category": "Motivation",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "Do one conversation, get energized",
+      "chinese": "跟人聊两句, 你的动力就回来了",
+      "transliteration": "gēn rén liáo liǎng jù, nǐ de dòng lì jiù huí lái le",
+      "category": "Motivation",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "Let progress motivate your next step",
+      "chinese": "你看到一点进步, 就更想继续",
+      "transliteration": "nǐ kàn dào yì diǎn jìn bù, jiù gèng xiǎng jì xù",
+      "category": "Motivation",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "Borrow energy from a deadline",
+      "chinese": "把学习和截止时间绑在一起",
+      "transliteration": "bǎ xué xí hé jié zhǐ shí jiān bǎng zài yì qǐ",
+      "category": "Motivation",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "I can learn this in public",
+      "chinese": "我可以当着大家学",
+      "transliteration": "Wǒ kěyǐ dāngzhe dàjiā xué",
+      "category": "Confidence",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "My voice is steady, not perfect",
+      "chinese": "我的声音稳住了, 不必完美",
+      "transliteration": "Wǒ de shēngyīn wěn zhù le, bù bì wánměi",
+      "category": "Confidence",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "I won’t shrink, I’ll speak up",
+      "chinese": "我不退缩, 我就开口",
+      "transliteration": "Wǒ bù tuīsuō, wǒ jiù kāikǒu",
+      "category": "Confidence",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "Confidence comes from showing up",
+      "chinese": "自信来自我愿意出现",
+      "transliteration": "Zìxìn láizì wǒ yuànyì chūxiàn",
+      "category": "Confidence",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "I’m allowed to take up space",
+      "chinese": "我被允许占有空间",
+      "transliteration": "Wǒ bèi yǔnxǔ zhàn yǒu kōngjiān",
+      "category": "Confidence",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "I can handle tough questions",
+      "chinese": "我能应对那些刁钻的问题",
+      "transliteration": "Wǒ néng yìngduì nàxiē diāozhuān de wèntí",
+      "category": "Confidence",
+      "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "Pause, then answer with calm",
+      "chinese": "先停一下, 再用平静回答",
+      "transliteration": "Xiān tíng yíxià, zài yòng píngjìng huídá",
+      "category": "Confidence",
+      "generated_at": "2026-11-21T08:47:48.615323"
     }
   ],
-  "last_updated": "2026-11-20T09:13:46.325339"
+  "last_updated": "2026-11-21T08:47:48.615323"
 }
