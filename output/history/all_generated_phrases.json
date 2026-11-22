@@ -29063,7 +29063,399 @@
       "transliteration": "Xiān tíng yíxià, zài yòng píngjìng huídá",
       "category": "Confidence",
       "generated_at": "2026-11-21T08:47:48.615323"
+    },
+    {
+      "english": "I brought your favorite snacks.",
+      "chinese": "我带了你最爱吃的零食。",
+      "transliteration": "Wo dai le ni zui ai chi de ling shi.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "Want to see a comedy tonight?",
+      "chinese": "今晚去看喜剧吗？",
+      "transliteration": "Jin wan qu kan xi ju ma?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "Your smile totally got me.",
+      "chinese": "你一笑我就心动了。",
+      "transliteration": "Ni yi xiao wo jiu xin dong le.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "Let’s try something new this weekend.",
+      "chinese": "这个周末我们去尝点新鲜的吧。",
+      "transliteration": "Zhe ge zhou mo wo men qu chang dian xin xian de ba.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "Should we grab dumplings after?",
+      "chinese": "吃完再去吃饺子怎么样？",
+      "transliteration": "Chi wan zai qu chi jiao zi zen me yang?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "I’m free at seven, maybe?",
+      "chinese": "我七点有空，你看行吗？",
+      "transliteration": "Wo qi dian you kong, ni kan xing ma?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "Take your time, I enjoy this.",
+      "chinese": "慢慢来，我喜欢这个节奏。",
+      "transliteration": "Man man lai, wo xi huan zhe ge jie zou.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "Your effort is paying off right now.",
+      "chinese": "你 的 努力 正在 见效。",
+      "transliteration": "Nǐ de nǔlì zhèngzài jiànxioU.",
+      "category": "Success",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "Stay flexible, success follows confidence.",
+      "chinese": "保持灵活，成功会靠近 自信。",
+      "transliteration": "Bǎochí línghuó, chénggōng huì kào jìn zìxìn.",
+      "category": "Success",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "Celebrate small wins, then go again.",
+      "chinese": "把 小胜 记在心里，再出发。",
+      "transliteration": "Bǎ xiǎo shèng jì zài xīnlǐ, zài chūfā.",
+      "category": "Success",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "Take one bold step today.",
+      "chinese": "今天 迈 出 一个 坚定 的 大步。",
+      "transliteration": "Jīntiān mài chū yí ge jiāndìng de dàbù.",
+      "category": "Success",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "Risk a little, learn fast.",
+      "chinese": "稍微冒险，学得更快。",
+      "transliteration": "Shāowēi màoxiǎn, xué de gèng kuài.",
+      "category": "Success",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "Turn setbacks into useful lessons.",
+      "chinese": "把 挫折 变成 有用 的 教训。",
+      "transliteration": "Bǎ cuòzhé biàn chéng yǒuyòng de jiàoxùn.",
+      "category": "Success",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "Keep your promises, earn trust.",
+      "chinese": "言出必行，你就更值得信任。",
+      "transliteration": "Yán chū bì xíng, nǐ jiù gèng zhídé xìnrèn.",
+      "category": "Success",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "Time to move, even gently",
+      "chinese": "该动起来了 就算很轻也行",
+      "transliteration": "Gāi dòng qǐlái le, jiù suàn hěn qīng yě xíng",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "I practice breathing before every set",
+      "chinese": "每一组之前我都先练呼吸",
+      "transliteration": "Měi yí zǔ zhī qián wǒ dōu xiān liàn hūxī",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "Pick a target, then go steady",
+      "chinese": "先定个目标 然后稳稳地练",
+      "transliteration": "Xiān dìng gè mùbiāo, ránhòu wěn wěn de liàn",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "My warm muscles feel ready now",
+      "chinese": "热身后的肌肉现在真的很到位",
+      "transliteration": "Rèshēn hòu de jīròu xiànzài zhēn de hěn dào wèi",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "Focus on my posture, not ego",
+      "chinese": "姿势先到位 以后我才不逞强",
+      "transliteration": "Zīshì xiān dào wèi, yǐhòu wǒ cái bù chěng qiáng",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "I’m earning sweat, one rep at a time",
+      "chinese": "我一下一下练着 挣到满身汗",
+      "transliteration": "Wǒ yì xià yì xià liàn zhe, zhèng dào mǎn shēn hàn",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "Walk it out, then decide",
+      "chinese": "先走一走 再决定接下来",
+      "transliteration": "Xiān zǒu yì zǒu, zài juédìng jiēxiàlái",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "Thanks for including me, seriously.",
+      "chinese": "谢谢你愿意带上我，真的很暖。",
+      "transliteration": "Xièxie nǐ yuànyì dài shàng wǒ, zhēn de hěn nuǎn.",
+      "category": "Kindness",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "You can have the last word.",
+      "chinese": "你先说完也没关系。",
+      "transliteration": "Nǐ xiān shuō wán yě méi guānxi.",
+      "category": "Kindness",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "I won’t interrupt, I promise.",
+      "chinese": "我不打断你说话，我答应。",
+      "transliteration": "Wǒ bú dǎduàn nǐ shuōhuà, wǒ dāyìng.",
+      "category": "Kindness",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "Let me carry that for you.",
+      "chinese": "我来帮你拿着吧。",
+      "transliteration": "Wǒ lái bāng nǐ názhe ba.",
+      "category": "Kindness",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "It’s okay, I’ll go at your pace.",
+      "chinese": "没事的，我们慢慢来。",
+      "transliteration": "Méi shì de, wǒmen màn man lái.",
+      "category": "Kindness",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "Your effort matters, I see it.",
+      "chinese": "你的努力我看见了，也记在心里。",
+      "transliteration": "Nǐ de nǔlì wǒ kànjiàn le, yě jì zài xīn lǐ.",
+      "category": "Kindness",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "I’ll help, even in small ways.",
+      "chinese": "我愿意为你做点小事。",
+      "transliteration": "Wǒ yuànyì wèi nǐ zuò diǎn xiǎo shì.",
+      "category": "Kindness",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "I can do this, even slowly",
+      "chinese": "我能做到, 就算慢一点",
+      "transliteration": "Wo NENG zuo dao, jiu suan MAN yi dian",
+      "category": "Strength",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "My body rests, then I return",
+      "chinese": "我先让身体休息, 然后回来",
+      "transliteration": "Wo xian rang shenti xiuxi, ranhou huilai",
+      "category": "Strength",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "I move forward despite the noise",
+      "chinese": "我不管噪音, 继续往前走",
+      "transliteration": "Wo buguan zao yin, jixu wang qian zou",
+      "category": "Strength",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "I set one small goal today",
+      "chinese": "我今天先定一个小目标",
+      "transliteration": "Wo jintian xian ding yi ge xiao mubiao",
+      "category": "Strength",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "Break it down, then begin",
+      "chinese": "把它拆开, 然后开始",
+      "transliteration": "Ba ta chai kai, ranhou kaishi",
+      "category": "Strength",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "I ask what matters most",
+      "chinese": "我先问清楚, 什么最重要",
+      "transliteration": "Wo xian wen qingchu, shenme zui zhongyao",
+      "category": "Strength",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "I protect my energy, gently",
+      "chinese": "我会温柔地保护我的能量",
+      "transliteration": "Wo hui wenrou de baohu wo de nengliang",
+      "category": "Strength",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "How do I check in, please?",
+      "chinese": "我怎么办理入住？",
+      "transliteration": "Wo zenme banli ruzhu?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "Is there a quiet room available?",
+      "chinese": "有安静的房间可以安排吗？",
+      "transliteration": "You anjing de fangjian ke yi anpai ma?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "Can I get an extra blanket?",
+      "chinese": "我能再要一条毯子吗？",
+      "transliteration": "Wo neng zai yao yi tiao tanzi ma?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "Where is the luggage storage?",
+      "chinese": "行李寄存在哪里？",
+      "transliteration": "Xingli jicun zai nali?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "Do you offer a hairdryer here?",
+      "chinese": "你们这里有吹风机吗？",
+      "transliteration": "Nimen zheli you chuifengji ma?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "Can I print my boarding pass?",
+      "chinese": "我可以打印登机牌吗？",
+      "transliteration": "Wo keyi dayin dengji pai ma?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "I’d like a late breakfast, please.",
+      "chinese": "我想要晚一点的早餐，可以吗？",
+      "transliteration": "Wo xiang yao wan yidian de zaocan, keyi ma?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "I can hope, even today",
+      "chinese": "今天我也能抱有希望",
+      "transliteration": "JINtiān wǒ yě néng bào yǒu XIWÀNG",
+      "category": "Hope",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "Hope gives me a steadier pace",
+      "chinese": "希望让我步子更稳了",
+      "transliteration": "XIwàng ràng wǒ bùzi gēng wěn le",
+      "category": "Hope",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "I choose hope over panic",
+      "chinese": "我选择希望，不选慌张",
+      "transliteration": "wǒ xuǎnzé XIWÀNG, bú xuǎn huāngzhāng",
+      "category": "Hope",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "Hope, take the lead inside me",
+      "chinese": "希望在我心里先走一步",
+      "transliteration": "XIwàng zài wǒ xīn lǐ xiān zǒu yí bù",
+      "category": "Hope",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "I’m allowed to want better",
+      "chinese": "我可以想要更好的生活",
+      "transliteration": "wǒ kěyǐ xiǎng yào gèng hǎo de shēnghuó",
+      "category": "Hope",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "Tomorrow feels less scary now",
+      "chinese": "现在我对明天没那么害怕",
+      "transliteration": "xiànzài wǒ duì MÍngtiān méi nàme hàipà",
+      "category": "Hope",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "Hope is my quiet plan",
+      "chinese": "希望是我心里的小计划",
+      "transliteration": "XIwàng shì wǒ xīn lǐ de xiǎo jìhuà",
+      "category": "Hope",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "Want to come over for tea?",
+      "chinese": "你要来家里喝点茶吗？",
+      "transliteration": "ni YAO lai jia li he dian CHA ma",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "Let me make your bed.",
+      "chinese": "我来帮你把床铺好。",
+      "transliteration": "wo LAI bang ni ba chuang pu hao",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "Can we fix this together?",
+      "chinese": "我们一起把这事弄明白吧。",
+      "transliteration": "women YI qi ba zhe shi nong ming bai ba",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "I’ll handle bedtime tonight.",
+      "chinese": "今晚我哄你睡觉。",
+      "transliteration": "jin wan wo hong ni shui jiao",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "The fridge is nearly empty.",
+      "chinese": "冰箱快没东西了。",
+      "transliteration": "bing xiang kuai mei dong xi le",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "Did you put the keys back?",
+      "chinese": "你把钥匙放回去了吗？",
+      "transliteration": "ni ba yao shi fang hui qu le ma",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "Let’s do a quick home check.",
+      "chinese": "我们简单检查一下房子吧。",
+      "transliteration": "women jian dan jian cha yi xia fang zi ba",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T08:51:49.756108"
     }
   ],
-  "last_updated": "2026-11-21T08:47:48.615323"
+  "last_updated": "2026-11-22T08:51:49.756108"
 }
