@@ -29455,7 +29455,399 @@
       "transliteration": "women jian dan jian cha yi xia fang zi ba",
       "category": "Family & Home",
       "generated_at": "2026-11-22T08:51:49.756108"
+    },
+    {
+      "english": "What documents do you need?",
+      "chinese": "你们需要哪些材料？",
+      "transliteration": "Ni men xu yao na xie cai liao?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "I want to withdraw cash now.",
+      "chinese": "我想现在取现。",
+      "transliteration": "Wo xiang xian zai qu xian.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "Is there a foreign ATM fee?",
+      "chinese": "境外取款有手续费吗？",
+      "transliteration": "Jing wai qu kuan you shou xu fei ma?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "How long will the wire take?",
+      "chinese": "汇款要多久才能到账？",
+      "transliteration": "Hui kuan yao duo jiu cai neng da zhang?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "Do you offer student account?",
+      "chinese": "你们有学生账户吗？",
+      "transliteration": "Ni men you xue sheng zhang hu ma?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "Can I set a weekly budget?",
+      "chinese": "我能设周预算吗？",
+      "transliteration": "Wo neng she zhou yu suan ma?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "Where can I cash this check?",
+      "chinese": "这张支票要去哪里兑现？",
+      "transliteration": "Zhe zhang zhi piao yao qu na li xian duen?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "I want clarity, not chaos.",
+      "chinese": "我想要清晰，不要混乱。",
+      "transliteration": "Wǒ xiǎngyào qīngxī, bú yào hùanluàn.",
+      "category": "Purpose",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "Tell me the next right step.",
+      "chinese": "告诉我下一步该做什么。",
+      "transliteration": "Gàosu wǒ xiàyí bù gāi zuò shénme.",
+      "category": "Purpose",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "Set a goal, then protect it.",
+      "chinese": "先定目标，再守住它。",
+      "transliteration": "Xiān dìng mùbiāo, zài shǒuzhù tā.",
+      "category": "Purpose",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "My goal is growth this month.",
+      "chinese": "这个月我的目标是成长。",
+      "transliteration": "Zhège yuè wǒ de mùbiāo shì chéngzhǎng.",
+      "category": "Purpose",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "I aim high, but stay realistic.",
+      "chinese": "我定高目标，但保持现实。",
+      "transliteration": "Wǒ dìng gāo mùbiāo, dàn bǎochí xiànshí.",
+      "category": "Purpose",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "Make it measurable, then act.",
+      "chinese": "把目标量化，然后去做。",
+      "transliteration": "Bǎ mùbiāo liànghuà, ránhòu qù zuò.",
+      "category": "Purpose",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "What can I finish today?",
+      "chinese": "我今天能完成什么？",
+      "transliteration": "Wǒ jīntiān néng wánchéng shénme?",
+      "category": "Purpose",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "Turn setbacks into fresh practice",
+      "chinese": "把挫折变成新的练习",
+      "transliteration": "bǎ CUÒzhé biàn chéng xīn de LIANxí",
+      "category": "Growth",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "Learn to like the process",
+      "chinese": "学会享受过程",
+      "transliteration": "xuéhuì XIANGshòu guòchéng",
+      "category": "Growth",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "Grow by doing one thing daily",
+      "chinese": "每天做一件小事就会成长",
+      "transliteration": "měi tiān zuò yí jiàn xiǎo shì jiù huì chéngzhǎng",
+      "category": "Growth",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "Make room for slow improvement",
+      "chinese": "为慢慢进步留出空间",
+      "transliteration": "wèi MÀNman jìnbù liú chū kōngjiān",
+      "category": "Growth",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "Be brave enough to start messy",
+      "chinese": "别怕把事情先做得很乱",
+      "transliteration": "bié pà bǎ shìqíng xiān zuò de hěn luàn",
+      "category": "Growth",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "Ask why, then try a new method",
+      "chinese": "先问原因，再换个方法试试",
+      "transliteration": "xiān wèn yuányīn, zài huàn gè fāngfǎ shì shì",
+      "category": "Growth",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "Keep a journal for real reflections",
+      "chinese": "用日记认真记录你的想法",
+      "transliteration": "yòng rìjì rènzhēn jìlù nǐ de xiǎngfǎ",
+      "category": "Growth",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "No way, that s hilarious",
+      "chinese": "不可能吧，太好笑了",
+      "transliteration": "bu KE neng ba, tai hao xiao le",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "You re low-key flexing, huh",
+      "chinese": "你这是在暗暗炫耀吧",
+      "transliteration": "ni zhe shi zai an an xuan yao ba",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "I m down, let s do it",
+      "chinese": "行啊，我可以，咱们就去",
+      "transliteration": "xing a, wo ke yi, zan men jiu qu",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "Give me a sec, okay?",
+      "chinese": "等一下，马上就来",
+      "transliteration": "deng yi xia, ma shang jiu lai",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "That s not gonna fly",
+      "chinese": "这事儿不行，别想了",
+      "transliteration": "zhe shi er bu xing, bie xiang le",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "I m exhausted, for real",
+      "chinese": "我累死了，真的",
+      "transliteration": "wo lei si le, zhen de",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "Stop messing around, please",
+      "chinese": "别闹了，认真点",
+      "transliteration": "bie nao le, ren zhen dian",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "I’ll send it after the meeting.",
+      "chinese": "会后我就把它发过去。",
+      "transliteration": "HUI HOU wo JIU ba ta fa GUO QU",
+      "category": "Work & Office",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "Can you share the latest draft?",
+      "chinese": "你能把最新的草稿发我吗？",
+      "transliteration": "NI neng ba ZUI XIN de CAO GAO fa wo ma",
+      "category": "Work & Office",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "Let’s align on next steps.",
+      "chinese": "我们先把下一步对齐吧。",
+      "transliteration": "Women XIAN ba xia yi bu dui QI ba",
+      "category": "Work & Office",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "Who should approve this decision?",
+      "chinese": "这项决定谁来审批？",
+      "transliteration": "Zhe xiang JUE DING shui lai shen PI",
+      "category": "Work & Office",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "I need this by end of day.",
+      "chinese": "我需要今天下班前拿到。",
+      "transliteration": "Wo xu yao jin tian xia ban qian na dao",
+      "category": "Work & Office",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "We’re behind schedule, right?",
+      "chinese": "我们进度有点落后，对吧？",
+      "transliteration": "Wo men jin du you dian luo hou, dui ba",
+      "category": "Work & Office",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "Could we move this to tomorrow?",
+      "chinese": "我们能不能挪到明天？",
+      "transliteration": "Ke yi meng neng nuo dao ming tian",
+      "category": "Work & Office",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "Joy is in the ordinary",
+      "chinese": "快乐藏在日常的小细节里",
+      "transliteration": "kuài lè zàng zài rì cháng de xiǎo xì jié lǐ",
+      "category": "Joy",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "I feel calm, and glad",
+      "chinese": "我又安心又开心",
+      "transliteration": "wǒ yòu ān xīn yòu kāi xīn",
+      "category": "Joy",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "Sunlight makes everything better",
+      "chinese": "阳光一照，心里就亮了",
+      "transliteration": "yáng guāng yì zhào, xīn lǐ jiù liàng le",
+      "category": "Joy",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "A fresh start feels great",
+      "chinese": "重新开始也太舒服了",
+      "transliteration": "chóng xīn kāi shǐ yě tài shū fu le",
+      "category": "Joy",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "I did it, I’m proud",
+      "chinese": "我做到了，我很自豪",
+      "transliteration": "wǒ zuò dào le, wǒ hěn zì háo",
+      "category": "Joy",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "My heart feels steady",
+      "chinese": "我的心稳稳的",
+      "transliteration": "wǒ de xīn wěn wěn de",
+      "category": "Joy",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "I’m enjoying this morning",
+      "chinese": "我很享受这个早晨",
+      "transliteration": "wǒ hěn xiǎng shòu zhè ge zǎo chén",
+      "category": "Joy",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "Notice patterns before they repeat",
+      "chinese": "先看清规律，再等爆发点",
+      "transliteration": "Xiān kàn qīng guīlǜ, zài děng bào fā diǎn.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "Let curiosity lead, not fear",
+      "chinese": "把好奇心放在前面，别让恐惧掌舵",
+      "transliteration": "Bǎ hǎoqíxīn fàng zài qiánmiàn, bié ràng kǒngjù zhǎngduò.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "Smart questions change the whole day",
+      "chinese": "问得好，整天都会不一样",
+      "transliteration": "Wèn de hǎo, zhěng tiān dōu huì bù yíyàng.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "Small habits shape your destiny",
+      "chinese": "细小的习惯，决定大的方向",
+      "transliteration": "Xìxiǎo de xíguàn, juédìng dà de fāngxiàng.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "Choose respect over being right",
+      "chinese": "别急着赢，先学会尊重",
+      "transliteration": "Bié jí zhe yíng, xiān xuéhuì zūnzhòng.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "Pause, then pick the kind option",
+      "chinese": "先停一秒, 再选更善良的那条路",
+      "transliteration": "Xiān tíng yī miǎo, zài xuǎn gèng shànliáng de nà tiáo lù.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "Turn blame into useful learning",
+      "chinese": "别把责任推来推去，要把教训用起来",
+      "transliteration": "Bié bǎ zérèn tuī lái tuī qù, yào bǎ jiàoxùn yòng qǐlái.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "Where should I pick up meds?",
+      "chinese": "我去哪里取药？",
+      "transliteration": "Wo qu na li qu yao?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "Do I have refills left?",
+      "chinese": "我还能续开几次吗？",
+      "transliteration": "Wo huan neng xu kai ji ci ma?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "Is this medicine refrigerated?",
+      "chinese": "这个药需要冷藏吗？",
+      "transliteration": "Zhe ge yao xu yao leng cang ma?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "Can I switch to a cheaper one?",
+      "chinese": "能不能换成更便宜的？",
+      "transliteration": "Neng bu neng huan cheng geng pian yi de?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "How long will the prescription be valid?",
+      "chinese": "这个处方有效期多久？",
+      "transliteration": "Zhe ge chu fang you xiao qi duo jiu?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "What’s the correct dosage today?",
+      "chinese": "今天剂量怎么吃？",
+      "transliteration": "Jin tian ji liang zen me chi?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-23T10:38:44.244623"
+    },
+    {
+      "english": "Do I take it with water only?",
+      "chinese": "我只用水送服可以吗？",
+      "transliteration": "Wo zhi yong shui song fu ke yi ma?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-23T10:38:44.244623"
     }
   ],
-  "last_updated": "2026-11-22T08:51:49.756108"
+  "last_updated": "2026-11-23T10:38:44.244623"
 }
