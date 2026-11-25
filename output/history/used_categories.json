@@ -495,7 +495,39 @@
     {
       "category": "Emergency & Health",
       "date": "2026-11-24"
+    },
+    {
+      "category": "Meeting People & Greetings",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "Balance",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "Public Transportation",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "Patience",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "Phone Calls & Messages",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "Courage",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "Weather & Small Talk",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "Love",
+      "date": "2026-11-25"
     }
   ],
-  "last_updated": "2026-11-24T11:39:04.176767"
+  "last_updated": "2026-11-25T10:31:39.245899"
 }

@@ -30239,7 +30239,399 @@
       "transliteration": "Wǒ shǒubì tūrán méi lìqì le.",
       "category": "Emergency & Health",
       "generated_at": "2026-11-24T11:39:04.162310"
+    },
+    {
+      "english": "Hi, I’m glad to meet you.",
+      "chinese": "你好，我很高兴认识你。",
+      "transliteration": "Nǐ hǎo, wǒ hěn gāo xìng rènshi nǐ.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "Nice meeting you, how’s it going?",
+      "chinese": "认识你真高兴，你最近怎么样？",
+      "transliteration": "Rènshi nǐ zhēn gāo xìng, nǐ zuìjìn zěnme yàng?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "I’m new here, what do you suggest?",
+      "chinese": "我第一次来，你建议我去哪儿玩？",
+      "transliteration": "Wǒ dì yī cì lái, nǐ jiànyì wǒ qù nǎr wán?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "What’s your name, if you don’t mind?",
+      "chinese": "你叫什么名字？如果不介意的话。",
+      "transliteration": "Nǐ jiào shénme míngzì? Rúguǒ bù jièyì de huà.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "Please forgive me, I forgot your name.",
+      "chinese": "不好意思，我刚才忘了你的名字。",
+      "transliteration": "Bù hǎoyìsi, wǒ gāngcái wàng le nǐ de míngzi.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "Do you prefer Chinese names or English?",
+      "chinese": "你更喜欢中文名字还是英文名字？",
+      "transliteration": "Nǐ gèng xǐhuan zhōngwén míngzì háishì yīngwén míngzì?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "How long have you lived here?",
+      "chinese": "你来这儿多久了？",
+      "transliteration": "Nǐ lái zhèr duōjiǔ le?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "I ask, what matters most right now?",
+      "chinese": "我问自己，现在最重要的是什么？",
+      "transliteration": "Wo WEN zi ji, XIAN zai Zui zhong yao de shi shen me?",
+      "category": "Balance",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "I set limits, then I relax.",
+      "chinese": "我先设好界限，然后放松。",
+      "transliteration": "Wo XIAN she hao jiè xiàn, RAN hou fang song.",
+      "category": "Balance",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "Work mode, then reset to calm.",
+      "chinese": "工作模式用一会儿，接着回到平静。",
+      "transliteration": "Gong zuo MO shi yong yi hui er, JIE zhe hui dao PING jing.",
+      "category": "Balance",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "I breathe, then choose the kinder action.",
+      "chinese": "我先呼吸，再选更温和的做法。",
+      "transliteration": "Wo XIAN hu xi, ZAI xuan geng wen he de zuo fa.",
+      "category": "Balance",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "I don’t rush the ending I need.",
+      "chinese": "我不急着把结尾做完。",
+      "transliteration": "Wo bu ji zhe ba jie wei zuo wan.",
+      "category": "Balance",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "I drink water, my body thanks me.",
+      "chinese": "我喝点水，身体就会回应我。",
+      "transliteration": "Wo he dian shui, shen ti jiu hui hui ying wo.",
+      "category": "Balance",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "I zoom in, then zoom out.",
+      "chinese": "我先放大关注点，再退一步看全局。",
+      "transliteration": "Wo XIAN fang da guan zhu dian, ZAI tui yi bu kan quan ju.",
+      "category": "Balance",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "How long is the ride?",
+      "chinese": "到那里要多久？",
+      "transliteration": "Dào nàli yào DUOJIU?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "Is there a direct route?",
+      "chinese": "有没有直达的车？",
+      "transliteration": "Yǒu méiyǒu zhídá de chē?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "Is this the right platform?",
+      "chinese": "这是正确的站台吗？",
+      "transliteration": "Zhè shì zhèngquè de zhàntái ma?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "Does it get crowded later?",
+      "chinese": "后面会很挤吗？",
+      "transliteration": "Hòumiàn huì hěn jǐ ma?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "Can I bring a suitcase?",
+      "chinese": "我可以带行李吗？",
+      "transliteration": "Wǒ kěyǐ dài XÍnglǐ ma?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "Is Wi-Fi available on the train?",
+      "chinese": "地铁上有Wi-Fi吗？",
+      "transliteration": "Dìtiě shàng yǒu Wi-Fi ma?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "Where do I line up?",
+      "chinese": "我该在哪里排队？",
+      "transliteration": "Wǒ gāi zài nǎlǐ pái duì?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "I can take my time",
+      "chinese": "我可以慢慢来，没关系",
+      "transliteration": "Wǒ kěyǐ màn man lái, méi guānxi",
+      "category": "Patience",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "Let silence do its work",
+      "chinese": "先安静一下，别急着回应",
+      "transliteration": "Xiān ānjìng yíxià, bié jí zhe huíyìng",
+      "category": "Patience",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "Keep your pace, not your pressure",
+      "chinese": "稳住节奏，别把自己逼太紧",
+      "transliteration": "Wěnzhù jiézòu, bié bǎ zìjǐ bī tài jǐn",
+      "category": "Patience",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "Good answers come after practice",
+      "chinese": "多练几次，自然就会更好",
+      "transliteration": "Duō liàn jǐ cì, zìrán jiù huì gèng hǎo",
+      "category": "Patience",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "When it drags, breathe and reset",
+      "chinese": "拖一会儿也没事，先调整再继续",
+      "transliteration": "Tuō yí huìr yě méi shì, xiān tiáozhěng zài jìxù",
+      "category": "Patience",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "I’ll handle this step by step",
+      "chinese": "一步一步来，我不需要全都一次做好",
+      "transliteration": "Yí bù yì bù lái, wǒ bù xūyào quán dōu yí cì zuò hǎo",
+      "category": "Patience",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "Pause, then answer more calmly",
+      "chinese": "我先停一下，再用更平静的语气说",
+      "transliteration": "Wǒ xiān tíng yíxià, zài yòng gèng píngjìng de yǔqì shuō",
+      "category": "Patience",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "Are you still awake right now?",
+      "chinese": "你现在还醒着吗？",
+      "transliteration": "Ni XIANZAI hai xingzhe ma?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "Call me when you have a sec.",
+      "chinese": "你有空的话给我打个电话。",
+      "transliteration": "Ni youkòng de hua gei wo da ge dianhua.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "Your message made me pause.",
+      "chinese": "你那条消息让我停了一下。",
+      "transliteration": "Ni na tiao xiaoxi rang wo ting le yixia.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "I can’t talk yet, texting.",
+      "chinese": "我现在还不能打电话，我先发短信。",
+      "transliteration": "Wo xianzai hai bu neng da dianhua, wo xian fa duanxin.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "Did you see my last text?",
+      "chinese": "你看到我上条短信了吗？",
+      "transliteration": "Ni kan dao wo shang tiao duanxin le ma?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "I’m stepping out, I’ll reply later.",
+      "chinese": "我马上要出去啦，晚点再回你。",
+      "transliteration": "Wo mashang yao chuqu la, wandian zai hui ni.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "I’ll send the details after dinner.",
+      "chinese": "晚饭后我把细节发给你。",
+      "transliteration": "Wan fan hou wo ba xijie fa gei ni.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "Courage, I can handle this.",
+      "chinese": "勇气在这儿，我能应付。",
+      "transliteration": "Yǒngqì zài zhèr, wǒ néng yìngfù.",
+      "category": "Courage",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "Ask now, not when it hurts.",
+      "chinese": "现在就问，别等到更痛。",
+      "transliteration": "Xiànzài jiù wèn, bié děng dào gèng tòng.",
+      "category": "Courage",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "Stay kind, even when you push.",
+      "chinese": "你可以坚持，也要保持善意。",
+      "transliteration": "Nǐ kěyǐ jiānchí, yě yào bǎochí shànyì.",
+      "category": "Courage",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "Make the awkward call anyway.",
+      "chinese": "再尴尬也打出去吧。",
+      "transliteration": "Zài gān'gà yě dǎ chūqù ba.",
+      "category": "Courage",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "Say what you mean, clearly.",
+      "chinese": "把话说清楚，说到点上。",
+      "transliteration": "Bǎ huà shuō qīngchǔ, shuō dào diǎnshang.",
+      "category": "Courage",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "Let your yes sound like yes.",
+      "chinese": "你的答应就要像答应。",
+      "transliteration": "Nǐ de dāyìng jiù yào xiàng dāyìng.",
+      "category": "Courage",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "You can pause, then try again.",
+      "chinese": "先停一下，再继续。",
+      "transliteration": "Xiān tíng yíxià, zài jìxù.",
+      "category": "Courage",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "Is it windy outside right now?",
+      "chinese": "现在外面风大吗？",
+      "transliteration": "Xiànzài wàimian fēng dà ma?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "The sun is strong today, huh?",
+      "chinese": "今天太阳有点猛啊。",
+      "transliteration": "Jīntiān tàiyáng yǒudiǎn měng a.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "I might need a light jacket.",
+      "chinese": "我可能得穿件薄外套。",
+      "transliteration": "Wǒ kěnéng děi chuān jiàn báo wàitào.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "Does it feel colder than yesterday?",
+      "chinese": "今天比昨天更冷吗？",
+      "transliteration": "Jīntiān bǐ zuótiān gèng lěng ma?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "Are you feeling the sunburn heat?",
+      "chinese": "你觉得晒得有点热吗？",
+      "transliteration": "Nǐ juéde shài de yǒudiǎn rè ma?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "My phone says the UV is high.",
+      "chinese": "我手机上显示紫外线很高。",
+      "transliteration": "Wǒ shǒujī shàng xiǎnshì zǐwàixiàn hěn gāo.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "Is the rain coming in waves?",
+      "chinese": "这雨是断断续续的吗？",
+      "transliteration": "Zhè yǔ shì duànduànxùxù de ma?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "I’m proud to love you",
+      "chinese": "我很骄傲能爱你",
+      "transliteration": "Wo HEN JIAO'AO NENG ai NI",
+      "category": "Love",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "Let me spoil you a little",
+      "chinese": "让我宠宠你",
+      "transliteration": "Rang Wo CHONG CHONG NI",
+      "category": "Love",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "I want your dreams to win",
+      "chinese": "我希望你所有的梦想都赢",
+      "transliteration": "Wo Xi Wang NI SUO YOU DE MENGXIANG dou YING",
+      "category": "Love",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "You feel like my best choice",
+      "chinese": "你让我觉得选对了人",
+      "transliteration": "Ni Rang Wo JUEDE xuan DUI LE REN",
+      "category": "Love",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "Thank you for choosing me",
+      "chinese": "谢谢你愿意爱我",
+      "transliteration": "Xie Xie NI Yuan Yi ai Wo",
+      "category": "Love",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "I’ll be your quiet strength",
+      "chinese": "我会做你安静的力量",
+      "transliteration": "Wo Hui Zuo NI ANJING de LIliang",
+      "category": "Love",
+      "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "Your patience calms my storms",
+      "chinese": "你的耐心会安抚我的风暴",
+      "transliteration": "Ni De NAIXIN HUI anfu Wo De FENGBAO",
+      "category": "Love",
+      "generated_at": "2026-11-25T10:31:39.226770"
     }
   ],
-  "last_updated": "2026-11-24T11:39:04.162310"
+  "last_updated": "2026-11-25T10:31:39.226770"
 }
