@@ -30631,7 +30631,399 @@
       "transliteration": "Ni De NAIXIN HUI anfu Wo De FENGBAO",
       "category": "Love",
       "generated_at": "2026-11-25T10:31:39.226770"
+    },
+    {
+      "english": "I feel stressed in my chest.",
+      "chinese": "我胸口有点堵，压力很大。",
+      "transliteration": "Wǒ xiōngkǒu yǒudiǎn dǔ, YN DÀLǐi HĔN DÀ.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "I’m quietly excited about tonight.",
+      "chinese": "今晚我有点偷偷期待，心里暖暖的。",
+      "transliteration": "Jīnwǎn wǒ yǒudiǎn tōutōu qīdài, xīnli nuǎn nuǎn de.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "That made my mood lift.",
+      "chinese": "你一说，我的心情就好多了。",
+      "transliteration": "Nǐ yì shuō, wǒ de xīnqíng jiù hǎo duō le.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "I can’t shake this worry.",
+      "chinese": "这份担心挥之不去。",
+      "transliteration": "Zhè fèn dānxīn huī zhī bù qù.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "I’m feeling lonely right now.",
+      "chinese": "我现在有点孤单，想找个人聊聊。",
+      "transliteration": "Wǒ xiànzài yǒudiǎn gūdān, xiǎng zhǎo gèrén liáo liáo.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "I feel grateful for your patience.",
+      "chinese": "谢谢你这么有耐心，我真的很感激。",
+      "transliteration": "Xièxie nǐ zhème yǒu nàixīn, wǒ zhēn de hěn gǎnjī.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "I’m touched by your kindness.",
+      "chinese": "你这么体贴，我真的很感动。",
+      "transliteration": "Nǐ zhème tǐtiē, wǒ zhēn de hěn gǎndòng.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "Sorry, I missed that turn.",
+      "chinese": "不好意思，我刚才没听清转弯。",
+      "transliteration": "bù hǎo yì si, wǒ gāng cái méi tīng qīng zhuǎn wān",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "Where’s the entrance, exactly?",
+      "chinese": "入口在哪里，具体点。",
+      "transliteration": "rù kǒu zài nǎ lǐ, jù tǐ diǎn",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "Can I go straight for now?",
+      "chinese": "我现在可以先一直走吗？",
+      "transliteration": "wǒ xiàn zài kě yǐ xiān yì zhí zǒu ma",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "Is it better to take stairs?",
+      "chinese": "上楼走楼梯更方便吗？",
+      "transliteration": "shàng lóu zǒu lóu tī qìng gèng fāng biàn ma",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "Do I cross the street now?",
+      "chinese": "我现在要过马路吗？",
+      "transliteration": "wǒ xiàn zài yào guò mǎ lù ma",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "What’s the landmark after this?",
+      "chinese": "接下来经过什么地标？",
+      "transliteration": "jiē xià lái jīng guò shén me dì biāo",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "Is there a bus stop nearby?",
+      "chinese": "附近有公交站吗？",
+      "transliteration": "fù jìn yǒu gōng jiāo zhàn ma",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "Hard day, keep training.",
+      "chinese": "再难也继续练。",
+      "transliteration": "zài nán yě jìxù liàn",
+      "category": "Perseverance",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "Make it through, one minute at a time.",
+      "chinese": "先熬过去, 再说后面的。",
+      "transliteration": "xiān áo guò qù, zài shuō hòu miàn de",
+      "category": "Perseverance",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "Set a timer, then don’t quit.",
+      "chinese": "定个闹钟, 时间到了再停。",
+      "transliteration": "dìng gè nào zhōng, shí jiān dào le zài tíng",
+      "category": "Perseverance",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "When doubt hits, breathe and continue.",
+      "chinese": "怀疑来了, 深呼吸继续。",
+      "transliteration": "huái yí lái le, shēn hū xī jìxù",
+      "category": "Perseverance",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "You can slow down, not stop.",
+      "chinese": "可以慢一点, 但不能停。",
+      "transliteration": "kě yǐ màn yì diǎn, dàn bù néng tíng",
+      "category": "Perseverance",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "Do the next small task now.",
+      "chinese": "把下一件小事做完。",
+      "transliteration": "bǎ xià yì jiàn xiǎo shì zuò wán",
+      "category": "Perseverance",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "Turn resistance into a warm-up.",
+      "chinese": "把抗拒当作热身。",
+      "transliteration": "bǎ kàng jù dāng zuò rè shēn",
+      "category": "Perseverance",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "Breathe in, soften your focus",
+      "chinese": "呼气时放松注意力",
+      "transliteration": "hū qì shí fàng sōng zhù yì lì",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "Feel your hands, right where they are",
+      "chinese": "感受双手就在这里",
+      "transliteration": "gǎn shòu shuāng shǒu jiù zài zhè lǐ",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "Let your eyes rest, quietly",
+      "chinese": "让眼睛安静地休息",
+      "transliteration": "ràng yǎn jīng ān jìng de xiū xī",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "Hear your room, not your worries",
+      "chinese": "听见房间的声音，别被烦恼牵走",
+      "transliteration": "tīng jiàn fáng jiān de shēng yīn, bié bèi fán nǎo qiān zǒu",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "Notice warmth where you sit",
+      "chinese": "觉察你坐着的温度",
+      "transliteration": "jué chá nǐ zuò zhe de wēn dù",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "Count slow steps, one by one",
+      "chinese": "慢慢数步子，一步一步",
+      "transliteration": "màn man shù bù zi, yī bù yī bù",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "Inhale, feel expansion across the chest",
+      "chinese": "吸气时胸口慢慢舒展",
+      "transliteration": "xī qì shí xiōng kǒu màn man shū zhǎn",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "I hit the climbing gym twice a month.",
+      "chinese": "我每个月去两次攀岩馆。",
+      "transliteration": "wo meI ge yue qu liang ci pan yan guan",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "I journal at night, just for me.",
+      "chinese": "我晚上写日记，只写给自己。",
+      "transliteration": "wo wan shang xie ri ji, zhi xie gei zi ji",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "I try new street foods on weekends.",
+      "chinese": "周末我会去尝尝街头小吃。",
+      "transliteration": "zhou mo wo hui qu chang chang jie tou xiao chi",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "I play soft piano to calm down.",
+      "chinese": "我弹点柔和的钢琴，放松一下。",
+      "transliteration": "wo dan dian rou he de gang qin, fang song yi xia",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "I collect vintage teacups from markets.",
+      "chinese": "我从集市淘旧茶杯来收藏。",
+      "transliteration": "wo cong ji shi tao jiu cha bei lai shou cang",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "I watch sunrise from a quiet spot.",
+      "chinese": "我会找个安静的地方看日出。",
+      "transliteration": "wo hui zhao ge an jing de di fang kan ri chu",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "I do calligraphy on Sundays, slow and steady.",
+      "chinese": "周日我写书法，慢慢来也挺舒服。",
+      "transliteration": "zhou ri wo xie shu fa, man man lai ye ting shu fu",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "I breathe, then let it pass.",
+      "chinese": "我呼气，然后让它过去。",
+      "transliteration": "wǒ hū qì, rán hòu ràng tā guò qù.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "My worries don't get the steering wheel.",
+      "chinese": "烦恼不再掌舵我。",
+      "transliteration": "fán nǎo bù zài zhǎng duò wǒ.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "I choose one kind thought right now.",
+      "chinese": "我现在选一个善念。",
+      "transliteration": "wǒ xiàn zài xuǎn yí gè shàn niàn.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "I soften my grip on outcomes.",
+      "chinese": "我放松对结果的执着。",
+      "transliteration": "wǒ fàng sōng duì jié guǒ de zhí zhuó.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "Let your chest feel open and steady.",
+      "chinese": "让胸口更开阔、更踏实。",
+      "transliteration": "ràng xiōng kǒu gèng kāi kuò, gèng tà shí.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "I talk to myself with warmth.",
+      "chinese": "我用温柔的语气对自己说话。",
+      "transliteration": "wǒ yòng wēn róu de yǔ qì duì zì jǐ shuō huà.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "Today, I meet myself gently.",
+      "chinese": "今天我温柔地与自己相处。",
+      "transliteration": "jīn tiān wǒ wēn róu de yǔ zì jǐ xiāng chǔ.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "Get comfortable being uncomfortable",
+      "chinese": "舒服一点点，挑战再多一点",
+      "transliteration": "SHU FU YI DIAN DIAN, TIAO ZHAN ZAI DUO YI DIAN",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "Mindset first, then action",
+      "chinese": "先换想法，再动手做",
+      "transliteration": "XIAN HUAN XIANG FA, ZAI DONG SHOU ZUO",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "Make room for focus",
+      "chinese": "给自己腾出安静的空间",
+      "transliteration": "GEI ZI JI TENG CHU AN JING DE KONG JIAN",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "One sentence, then breathe",
+      "chinese": "先讲一句，停一下再继续",
+      "transliteration": "XIAN JIANG YI JU, TING YI XIA ZAI JI XU",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "Stop chasing perfection, start clarity",
+      "chinese": "把问题说清楚，比猜更重要",
+      "transliteration": "BA WEN TI SHUO QING CHU, BI CAI GENG ZHONG YAO",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "Turn feedback into fuel",
+      "chinese": "把别人的建议当成燃料",
+      "transliteration": "BA BIE REN DE JIAN YI DANG CHENG RAN LIAO",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "Practice with real conversations",
+      "chinese": "拿生活里的话去练习",
+      "transliteration": "NA SHENG HUO LI DE HUA QU LIAN XI",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "I drink water before coffee.",
+      "chinese": "我在咖啡之前先喝点水。",
+      "transliteration": "Wo ZAI ka_fei ZHI_QIAN xian HE dian shui.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "I set my alarm for 7.",
+      "chinese": "我把闹钟设到七点。",
+      "transliteration": "Wo ba NAO_ZHONG she DAO qi dian.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "I eat breakfast with my partner.",
+      "chinese": "我和伴侣一起吃早饭。",
+      "transliteration": "Wo he ban_lv yi_qi chi zao_fan.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "I water my plants in the morning.",
+      "chinese": "早上我给植物浇浇水。",
+      "transliteration": "Zao_shang wo gei zhi_wu jiao jiao shui.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "I take the elevator, not stairs.",
+      "chinese": "我坐电梯不走楼梯。",
+      "transliteration": "Wo zuo dian_ti bu zou lou_ti.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "I listen to music on my way.",
+      "chinese": "我路上听音乐。",
+      "transliteration": "Wo lu_shang ting yin_yue.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-26T10:20:08.162605"
+    },
+    {
+      "english": "I grab a quick tea instead.",
+      "chinese": "我改喝杯茶，省点时间。",
+      "transliteration": "Wo gai he bei cha, sheng dian shi_jian.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-26T10:20:08.162605"
     }
   ],
-  "last_updated": "2026-11-25T10:31:39.226770"
+  "last_updated": "2026-11-26T10:20:08.162605"
 }
