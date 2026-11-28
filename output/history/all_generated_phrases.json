@@ -31415,7 +31415,399 @@
       "transliteration": "Jià qī hé jié rì yào bu yào yě nà jìn jì huà lǐ?",
       "category": "Making Plans",
       "generated_at": "2026-11-27T10:09:53.245472"
+    },
+    {
+      "english": "What comes with this dish?",
+      "chinese": "这道菜配什么？",
+      "transliteration": "Zhè dào cài pèi shénme?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "Can I get extra rice?",
+      "chinese": "我可以多要点米饭吗？",
+      "transliteration": "Wǒ kěyǐ duō yào diǎn mǐfàn ma?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "Do you have gluten-free?",
+      "chinese": "你们有无麸质的吗？",
+      "transliteration": "Nǐmen yǒu wú fū zhì de ma?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "May I have it vegetarian-style?",
+      "chinese": "可以做成素食的做法吗？",
+      "transliteration": "Kěyǐ zuò chéng sùshí de zuòfǎ ma?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "Is this sauce soy-based?",
+      "chinese": "这酱是用的酱油吗？",
+      "transliteration": "Zhè jiàng shì yòng de jiàngyóu ma?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "I want it less salty, please.",
+      "chinese": "我想要少盐一点。",
+      "transliteration": "Wǒ xiǎng yào shǎo yán yìdiǎn.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "Can I get steamed, not fried?",
+      "chinese": "可以蒸的，不要油炸吗？",
+      "transliteration": "Kěyǐ zhēng de, bú yào yóuzhá ma?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "I saved you a seat",
+      "chinese": "我给你留了个座位",
+      "transliteration": "Wo gei ni liu le ge zuowei",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "Let’s make a toast together",
+      "chinese": "我们一起举杯吧",
+      "transliteration": "Women yiqi ju bei ba",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "Tonight’s theme is coming alive",
+      "chinese": "今晚的主题要嗨起来了",
+      "transliteration": "Jin wan de zhu ti yao hai qi lai le",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "Thanks for hosting, I’m excited",
+      "chinese": "谢谢你当东道主，我很期待",
+      "transliteration": "Xie xie ni dang dong dao zhu, wo hen qi dai",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "Where’s the dance floor?",
+      "chinese": "舞池在哪儿？",
+      "transliteration": "Wu chi zai nar",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "Can we do a quick cheers?",
+      "chinese": "我们先碰个杯可以吗",
+      "transliteration": "Women xian peng ge bei ke yi ma",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "Do we need RSVPs?",
+      "chinese": "还需要回信确认人数吗",
+      "transliteration": "Huan xu yao hui xin que ren ren shu ma",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "Make room for people’s feelings",
+      "chinese": "给别人的感受留点空间",
+      "transliteration": "Gěi Biérén De Gǎnshòu Lǜ Diǎn Kōngjiān",
+      "category": "Kindness",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "Kindness starts with your tone",
+      "chinese": "善意先从你的语气开始",
+      "transliteration": "Shànyì Xiān Cóng Nǐ De Yǔqì Kāishǐ",
+      "category": "Kindness",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "Offer help before they ask",
+      "chinese": "在他们开口前先帮一把",
+      "transliteration": "Zài Tāmen Kāikǒu Qián Xiān Bāng Yì Bǎ",
+      "category": "Kindness",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "Slow down, be gentle today",
+      "chinese": "今天慢一点, 温柔一点",
+      "transliteration": "Jīntiān Màn Yì Diǎn, Wēnróu Yì Diǎn",
+      "category": "Kindness",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "Let them save face in public",
+      "chinese": "当众也给他留点面子",
+      "transliteration": "Dāngzhòng Yě Gěi Tā Liú Diǎn Miànzi",
+      "category": "Kindness",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "I’ll speak up, but kindly",
+      "chinese": "我可以说出来, 但会很温和",
+      "transliteration": "Wǒ Kěyǐ Shuō Chūlái, Dàn Huì Hěn Wēnhé",
+      "category": "Kindness",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "Bring calm, not more stress",
+      "chinese": "少添点焦虑, 多一点安稳",
+      "transliteration": "Shǎo Tiān Diǎn Jiāolǜ, Duō Yì Diǎn Ānwěn",
+      "category": "Kindness",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "Hope is showing up, little by little.",
+      "chinese": "希望在慢慢靠近我。",
+      "transliteration": "Xīwàng zài mànmàn kàojìn wǒ.",
+      "category": "Hope",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "I can start again with kindness.",
+      "chinese": "我可以带着温柔重新开始。",
+      "transliteration": "Wǒ kěyǐ dàizhe wēnróu chóngxīn kāishǐ.",
+      "category": "Hope",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "There’s room for better, even now.",
+      "chinese": "就算现在也还有更好的空间。",
+      "transliteration": "Jiù suàn xiànzài yě hái yǒu gèng hǎo de kōngjiān.",
+      "category": "Hope",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "My heart learns to trust tomorrow.",
+      "chinese": "我的心会学会相信明天。",
+      "transliteration": "Wǒ de xīn huì xuéhuì xiāngxìn míngtiān.",
+      "category": "Hope",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "I breathe, then choose hope again.",
+      "chinese": "我先呼吸，再选择希望。",
+      "transliteration": "Wǒ xiān hūxī, zài xuǎnzé xīwàng.",
+      "category": "Hope",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "Even hard days can move forward.",
+      "chinese": "再难的日子也能往前走。",
+      "transliteration": "Zài nán de rìzi yě néng wǎngqián zǒu.",
+      "category": "Hope",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "Hope helps me stop spiraling.",
+      "chinese": "希望让我不再陷入乱想。",
+      "transliteration": "Xīwàng ràng wǒ bù zài xiànrù luàn xiǎng.",
+      "category": "Hope",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "I can take one more step.",
+      "chinese": "我还能再迈一步，",
+      "transliteration": "Wǒ hái néng zài mài yì bù,.",
+      "category": "Strength",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "I stand back up after setbacks.",
+      "chinese": "我会在挫折后站起来，",
+      "transliteration": "Wǒ huì zài cuòzhé hòu zhàn qǐlái,.",
+      "category": "Strength",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "My voice is steadier now.",
+      "chinese": "我现在的声音更稳了，",
+      "transliteration": "Wǒ xiànzài de shēngyīn gèng wěn le,.",
+      "category": "Strength",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "I keep promises to myself.",
+      "chinese": "我会对自己守信用，",
+      "transliteration": "Wǒ huì duì zìjǐ shǒu xìnyòng,.",
+      "category": "Strength",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "I face the day, not the worst.",
+      "chinese": "我面对今天，而不是最坏的情况，",
+      "transliteration": "Wǒ miànduì jīntiān, ér búshì zuì huài de qíngkuàng,.",
+      "category": "Strength",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "I set boundaries and breathe.",
+      "chinese": "我立下界限，然后深呼吸，",
+      "transliteration": "Wǒ lìxià jièxiàn, ránhòu shēn hūxī,.",
+      "category": "Strength",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "I ask, then I try again.",
+      "chinese": "我先问清楚，再继续尝试，",
+      "transliteration": "Wǒ xiān wèn qīngchu, zài jìxù chángshì,.",
+      "category": "Strength",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "Meet me by the bookstore, okay?",
+      "chinese": "我们在书店那边见，好吗？",
+      "transliteration": "Wo MEN zai SHU dian na bian jian, hao ma?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "Pick your favorite dessert tonight.",
+      "chinese": "今晚你选你最喜欢的甜点吧。",
+      "transliteration": "Jin WAN ni xuan ni zui xi huan de tian dian ba",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "Want to dance, no experience needed.",
+      "chinese": "想跳舞吗, 不用会也行。",
+      "transliteration": "Xiang tiao wu ma, bu yong hui ye xing",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "Let’s do a cute couple photo.",
+      "chinese": "我们来拍一组像情侣一样的照片吧。",
+      "transliteration": "Wo MEN lai pai yi zu xiang qing lv yi yang de zhao pian ba",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "Your hand fits mine perfectly.",
+      "chinese": "你牵着我的手，刚刚好。",
+      "transliteration": "Ni qian zhe wo de shou, gang gang hao",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "Movie first, then we stroll.",
+      "chinese": "先看电影, 然后我们散散步。",
+      "transliteration": "Xian kan dian ying, ran hou wo MEN san san bu",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "I saved you a cozy booth.",
+      "chinese": "我给你留了个舒服的小包位。",
+      "transliteration": "Wo gei ni liu le ge shu fu de xiao bao wei",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "Success comes from showing up early.",
+      "chinese": "成功来自你早到一步的投入。",
+      "transliteration": "Chénggōng láizì nǐ zǎodào yībù de tóurù.",
+      "category": "Success",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "I choose focus over worry today.",
+      "chinese": "今天我选择专注，别让担心占上风。",
+      "transliteration": "Jīntiān wǒ xuǎnzé zhuānzhù, bié ràng dānxīn zhàn shàngfēng.",
+      "category": "Success",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "One goal, then I move.",
+      "chinese": "一个目标，接着就行动。",
+      "transliteration": "Yí gè mùbiāo, jiēzhe jiù xíngdòng.",
+      "category": "Success",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "Keep it simple, do it anyway.",
+      "chinese": "别想太复杂，先把该做的做了。",
+      "transliteration": "Bié xiǎng tài fùzá, xiān bǎ gāi zuò de zuò le.",
+      "category": "Success",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "Today I earn confidence with effort.",
+      "chinese": "今天我用努力换来更稳的自信。",
+      "transliteration": "Jīntiān wǒ yòng nǔlì huànlái gèng wěn de zìxìn.",
+      "category": "Success",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "I learn fast when I try, not freeze.",
+      "chinese": "我一尝试就学得快，别再僵着不动。",
+      "transliteration": "Wǒ yì chángshì jiù xué de kuài, bié zài jiāngzhe bù dòng.",
+      "category": "Success",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "My wins taste better after patience.",
+      "chinese": "等一等，赢的滋味更香。",
+      "transliteration": "Děng yī děng, yíng de zīwèi gèng xiāng.",
+      "category": "Success",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "Home feels warmer when you're here",
+      "chinese": "你在的时候，家里更温暖",
+      "transliteration": "Nǐ zài de shíhou, jiālǐ gèng wēnnuǎn",
+      "category": "Family & Home",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "Can we cook dinner together tonight?",
+      "chinese": "今晚一起做饭吧",
+      "transliteration": "Jīnwǎn yìqǐ zuò fàn ba",
+      "category": "Family & Home",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "Kitchen is my happy place",
+      "chinese": "厨房是我最开心的地方",
+      "transliteration": "Chúfáng shì wǒ zuì kāixīn de dìfang",
+      "category": "Family & Home",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "I found your mug, it's back",
+      "chinese": "我把你的杯子找回来了",
+      "transliteration": "Wǒ bǎ nǐ de bēizi zhǎohuílái le",
+      "category": "Family & Home",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "Let's swap chores for an hour",
+      "chinese": "我们轮流做一小时吧",
+      "transliteration": "Wǒmen lúnliú zuò yì xiǎoshí ba",
+      "category": "Family & Home",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "Where do we keep the extra towels?",
+      "chinese": "备用毛巾放在哪里呀",
+      "transliteration": "Bèiyòng máojīn fàng zài nǎlǐ ya",
+      "category": "Family & Home",
+      "generated_at": "2026-11-28T09:28:31.060385"
+    },
+    {
+      "english": "The living room is so cozy now",
+      "chinese": "客厅现在可舒服了",
+      "transliteration": "Kètīng xiànzài kě shūfu le",
+      "category": "Family & Home",
+      "generated_at": "2026-11-28T09:28:31.060385"
     }
   ],
-  "last_updated": "2026-11-27T10:09:53.245472"
+  "last_updated": "2026-11-28T09:28:31.060385"
 }
